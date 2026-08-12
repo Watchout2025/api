@@ -1,5 +1,14 @@
 [
   {
+    "id": "284432",
+    "title": "Scum of the Brave",
+    "type": "tv",
+    "season": 1,
+    "episode": 24,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/teHlVrodifmU6eLLDGvJxT8zPQr.jpg",
+    "updatedAt": "2026-08-12T04:48:37.462Z"
+  },
+  {
     "id": "66465",
     "title": "The Kapil Sharma Show",
     "type": "tv",
@@ -165,13 +174,5 @@
     "episode": 16,
     "backdrop": "",
     "updatedAt": "2026-08-11T13:40:32.431Z"
-  },
-  {
-    "id": "1714993",
-    "title": "Aryabhatt Ka Zero",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "",
-    "updatedAt": "2026-08-11T13:09:33.637Z"
   }
 ]
