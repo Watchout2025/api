@@ -1,5 +1,14 @@
 [
   {
+    "id": "274243",
+    "title": "The Queen of Attack",
+    "type": "tv",
+    "season": 1,
+    "episode": 22,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6K9RAquOsBP6a61w55BANPP1n9o.jpg",
+    "updatedAt": "2026-08-12T22:36:22.827Z"
+  },
+  {
     "id": "303091",
     "title": "Keeping Up with Beauty",
     "type": "tv",
@@ -168,13 +177,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w1280/nYdMBuW1QtiCv0I1a3yvlbjCC8L.jpg",
     "updatedAt": "2026-08-12T06:53:16.546Z"
-  },
-  {
-    "id": "1217931",
-    "title": "Vampires of the Velvet Lounge",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/ePidDkPftGCxtN7RcnVu5XxpXak.jpg",
-    "updatedAt": "2026-08-12T06:53:01.336Z"
   }
 ]
