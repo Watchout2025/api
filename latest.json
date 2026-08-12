@@ -1,5 +1,14 @@
 [
   {
+    "id": "319077",
+    "title": "The Vacation Principle",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/laZKQVzGS2quLi1iEAbuA6IxYk8.jpg",
+    "updatedAt": "2026-08-12T16:54:01.290Z"
+  },
+  {
     "id": "322072",
     "title": "My Summer of You",
     "type": "tv",
@@ -167,14 +176,5 @@
     "episode": 5,
     "backdrop": "https://image.tmdb.org/t/p/w1280/3A3qhj0ghaXoVrIHoiJHqyxe9HL.jpg",
     "updatedAt": "2026-08-12T06:51:55.024Z"
-  },
-  {
-    "id": "303493",
-    "title": "Knot",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/iF5ZArBMkIengBgFaW4waiBWrBi.jpg",
-    "updatedAt": "2026-08-12T06:51:36.139Z"
   }
 ]
