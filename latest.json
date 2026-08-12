@@ -1,5 +1,23 @@
 [
   {
+    "id": "311914",
+    "title": "Love Destiny",
+    "type": "tv",
+    "season": 1,
+    "episode": 5,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3A3qhj0ghaXoVrIHoiJHqyxe9HL.jpg",
+    "updatedAt": "2026-08-12T04:05:15.270Z"
+  },
+  {
+    "id": "303493",
+    "title": "Knot",
+    "type": "tv",
+    "season": 1,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iF5ZArBMkIengBgFaW4waiBWrBi.jpg",
+    "updatedAt": "2026-08-12T04:04:34.444Z"
+  },
+  {
     "id": "306953",
     "title": "Mr.Kill",
     "type": "tv",
@@ -156,23 +174,5 @@
     "episode": 7,
     "backdrop": "",
     "updatedAt": "2026-08-11T10:51:24.817Z"
-  },
-  {
-    "id": "289116",
-    "title": "Genius Girlfriend",
-    "type": "tv",
-    "season": 1,
-    "episode": 22,
-    "backdrop": "",
-    "updatedAt": "2026-08-11T10:50:45.055Z"
-  },
-  {
-    "id": "271016",
-    "title": "Mystic Nine",
-    "type": "tv",
-    "season": 1,
-    "episode": 23,
-    "backdrop": "",
-    "updatedAt": "2026-08-11T10:50:19.642Z"
   }
 ]
