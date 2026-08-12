@@ -1,5 +1,14 @@
 [
   {
+    "id": "303091",
+    "title": "Keeping Up with Beauty",
+    "type": "tv",
+    "season": 1,
+    "episode": 24,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5AEpHeqWYXTdaPuxJrGiQqIUPaK.jpg",
+    "updatedAt": "2026-08-12T22:32:12.421Z"
+  },
+  {
     "id": "303944",
     "title": "Her Phoenix Majesty",
     "type": "tv",
@@ -167,14 +176,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w1280/ePidDkPftGCxtN7RcnVu5XxpXak.jpg",
     "updatedAt": "2026-08-12T06:53:01.336Z"
-  },
-  {
-    "id": "305830",
-    "title": "Someone, Someday",
-    "type": "tv",
-    "season": 1,
-    "episode": 15,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/6xVKvVhzCSfJzdxzUIgaw86vLjU.jpg",
-    "updatedAt": "2026-08-12T06:52:41.115Z"
   }
 ]
