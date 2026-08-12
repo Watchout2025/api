@@ -1,5 +1,13 @@
 [
   {
+    "id": "1208271",
+    "title": "Wrangler",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nYdMBuW1QtiCv0I1a3yvlbjCC8L.jpg",
+    "updatedAt": "2026-08-12T06:53:16.546Z"
+  },
+  {
     "id": "1217931",
     "title": "Vampires of the Velvet Lounge",
     "type": "movie",
