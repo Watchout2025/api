@@ -1,5 +1,14 @@
 [
   {
+    "id": "284432",
+    "title": "Scum of the Brave",
+    "type": "tv",
+    "season": 1,
+    "episode": 24,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/teHlVrodifmU6eLLDGvJxT8zPQr.jpg",
+    "updatedAt": "2026-08-12T06:53:42.178Z"
+  },
+  {
     "id": "1208271",
     "title": "Wrangler",
     "type": "movie",
@@ -77,14 +86,5 @@
     "episode": 8,
     "backdrop": "https://image.tmdb.org/t/p/w1280/yKu9pFvJOb6VaWZZFLOUKTMb7bl.jpg",
     "updatedAt": "2026-08-12T06:51:00.305Z"
-  },
-  {
-    "id": "284432",
-    "title": "Scum of the Brave",
-    "type": "tv",
-    "season": 1,
-    "episode": 24,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/teHlVrodifmU6eLLDGvJxT8zPQr.jpg",
-    "updatedAt": "2026-08-12T05:31:14.125Z"
   }
 ]
