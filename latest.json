@@ -1,5 +1,14 @@
 [
   {
+    "id": "224263",
+    "title": "Stranger Things: Tales from '85",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7PoEyK2EFMDRvJg15Ld9Qbtbhe4.jpg",
+    "updatedAt": "2026-08-12T22:59:30.629Z"
+  },
+  {
     "id": "138502",
     "title": "X-Men '97",
     "type": "tv",
@@ -169,14 +178,5 @@
     "episode": 3,
     "backdrop": "https://image.tmdb.org/t/p/w1280/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
     "updatedAt": "2026-08-12T08:43:02.243Z"
-  },
-  {
-    "id": "295509",
-    "title": "The Legend of Kitchen Soldier",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/lBLNtVsPRjnRj8c1VWOrrEB6s5d.jpg",
-    "updatedAt": "2026-08-12T07:09:47.845Z"
   }
 ]
