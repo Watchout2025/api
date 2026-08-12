@@ -1,5 +1,13 @@
 [
   {
+    "id": "1217931",
+    "title": "Vampires of the Velvet Lounge",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ePidDkPftGCxtN7RcnVu5XxpXak.jpg",
+    "updatedAt": "2026-08-12T04:18:40.670Z"
+  },
+  {
     "id": "305830",
     "title": "Someone, Someday",
     "type": "tv",
@@ -165,14 +173,5 @@
     "episode": 16,
     "backdrop": "",
     "updatedAt": "2026-08-11T13:06:42.988Z"
-  },
-  {
-    "id": "287976",
-    "title": "Summer '36",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "",
-    "updatedAt": "2026-08-11T12:56:26.695Z"
   }
 ]
