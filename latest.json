@@ -1,5 +1,14 @@
 [
   {
+    "id": "108978",
+    "title": "Reacher",
+    "type": "tv",
+    "season": 4,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
+    "updatedAt": "2026-08-12T23:09:46.315Z"
+  },
+  {
     "id": "224263",
     "title": "Stranger Things: Tales from '85",
     "type": "tv",
@@ -169,14 +178,5 @@
     "episode": 8,
     "backdrop": "https://image.tmdb.org/t/p/w1280/vU8d6PU0tauitQeyUJHUvK05g8T.jpg",
     "updatedAt": "2026-08-12T16:44:32.894Z"
-  },
-  {
-    "id": "108978",
-    "title": "Reacher",
-    "type": "tv",
-    "season": 4,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
-    "updatedAt": "2026-08-12T08:43:02.243Z"
   }
 ]
