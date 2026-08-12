@@ -1,5 +1,14 @@
 [
   {
+    "id": "287496",
+    "title": "The Road to Splendor",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sVZNXtwIwGUlAKWkoGoDBszEGpx.jpg",
+    "updatedAt": "2026-08-12T16:54:34.286Z"
+  },
+  {
     "id": "319077",
     "title": "The Vacation Principle",
     "type": "tv",
@@ -158,15 +167,6 @@
     "episode": 26,
     "backdrop": "https://image.tmdb.org/t/p/w1280/wtWphAa3wnm7wwH7LFZ1Vz3DzoP.jpg",
     "updatedAt": "2026-08-12T06:52:28.948Z"
-  },
-  {
-    "id": "287496",
-    "title": "The Road to Splendor",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/sVZNXtwIwGUlAKWkoGoDBszEGpx.jpg",
-    "updatedAt": "2026-08-12T06:52:13.145Z"
   },
   {
     "id": "311914",
