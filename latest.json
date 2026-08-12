@@ -1,5 +1,14 @@
 [
   {
+    "id": "322072",
+    "title": "My Summer of You",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uUUwl3SETfKDdHtZCtM3nZFhPFP.jpg",
+    "updatedAt": "2026-08-12T16:52:26.575Z"
+  },
+  {
     "id": "320676",
     "title": "Blue Lips",
     "type": "tv",
@@ -167,14 +176,5 @@
     "episode": 7,
     "backdrop": "https://image.tmdb.org/t/p/w1280/iF5ZArBMkIengBgFaW4waiBWrBi.jpg",
     "updatedAt": "2026-08-12T06:51:36.139Z"
-  },
-  {
-    "id": "306953",
-    "title": "Mr.Kill",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/zDLbi3i23b55zpCwxPqv2Zu7h5G.jpg",
-    "updatedAt": "2026-08-12T06:51:22.373Z"
   }
 ]
