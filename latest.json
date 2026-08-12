@@ -1,5 +1,14 @@
 [
   {
+    "id": "207197",
+    "title": "Story of Kunning Palace",
+    "type": "tv",
+    "season": 1,
+    "episode": 39,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sHI2SeSmK4HO5jKI4NR2GqUMVHH.jpg",
+    "updatedAt": "2026-08-12T22:43:23.892Z"
+  },
+  {
     "id": "274243",
     "title": "The Queen of Attack",
     "type": "tv",
@@ -169,13 +178,5 @@
     "episode": 24,
     "backdrop": "https://image.tmdb.org/t/p/w1280/teHlVrodifmU6eLLDGvJxT8zPQr.jpg",
     "updatedAt": "2026-08-12T06:53:58.488Z"
-  },
-  {
-    "id": "1208271",
-    "title": "Wrangler",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/nYdMBuW1QtiCv0I1a3yvlbjCC8L.jpg",
-    "updatedAt": "2026-08-12T06:53:16.546Z"
   }
 ]
