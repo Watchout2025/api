@@ -1,5 +1,13 @@
 [
   {
+    "id": "1208271",
+    "title": "Wrangler",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nYdMBuW1QtiCv0I1a3yvlbjCC8L.jpg",
+    "updatedAt": "2026-08-12T04:49:08.300Z"
+  },
+  {
     "id": "284432",
     "title": "Scum of the Brave",
     "type": "tv",
@@ -16,14 +24,6 @@
     "episode": 85,
     "backdrop": "https://image.tmdb.org/t/p/w1280/oOl2v17GpwEpALP8KMyImErJcH6.jpg",
     "updatedAt": "2026-08-12T04:45:06.806Z"
-  },
-  {
-    "id": "1208271",
-    "title": "Wrangler",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/nYdMBuW1QtiCv0I1a3yvlbjCC8L.jpg",
-    "updatedAt": "2026-08-12T04:19:34.645Z"
   },
   {
     "id": "1217931",
