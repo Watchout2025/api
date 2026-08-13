@@ -1,5 +1,13 @@
 [
   {
+    "id": "1065834",
+    "title": "Kattalan",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nTimAHDG7PoycFF2afMZVPyOokg.jpg",
+    "updatedAt": "2026-08-13T12:32:00.004Z"
+  },
+  {
     "id": "1688935",
     "title": "Oye Bhole Oye 2",
     "type": "movie",
@@ -165,14 +173,5 @@
     "episode": 29,
     "backdrop": "https://image.tmdb.org/t/p/w1280/y8to5dxGElD7r7Fp7VSczpKOHR7.jpg",
     "updatedAt": "2026-08-13T05:38:45.848Z"
-  },
-  {
-    "id": "223876",
-    "title": "The Sentinels",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/pdyLy7u0mD2ujXL8gaVnCZ0sFCH.jpg",
-    "updatedAt": "2026-08-13T02:25:56.615Z"
   }
 ]
