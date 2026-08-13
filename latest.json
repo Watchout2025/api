@@ -1,5 +1,14 @@
 [
   {
+    "id": "258348",
+    "title": "Clevatess",
+    "type": "tv",
+    "season": 2,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7BWn0XKkmB8Ngj6Jb8QzLhscFIG.jpg",
+    "updatedAt": "2026-08-13T08:23:31.207Z"
+  },
+  {
     "id": "139512",
     "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
     "type": "tv",
@@ -168,14 +177,5 @@
     "episode": 10,
     "backdrop": "https://image.tmdb.org/t/p/w1280/sVZNXtwIwGUlAKWkoGoDBszEGpx.jpg",
     "updatedAt": "2026-08-12T16:54:34.286Z"
-  },
-  {
-    "id": "319077",
-    "title": "The Vacation Principle",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/laZKQVzGS2quLi1iEAbuA6IxYk8.jpg",
-    "updatedAt": "2026-08-12T16:54:01.290Z"
   }
 ]
