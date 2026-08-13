@@ -1,5 +1,14 @@
 [
   {
+    "id": "61613",
+    "title": "Modern Farmer",
+    "type": "tv",
+    "season": 1,
+    "episode": 20,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uH4HaYhGoZ3pBZxwTeGwGJ6Lc8M.jpg",
+    "updatedAt": "2026-08-13T17:32:08.267Z"
+  },
+  {
     "id": "1122573",
     "title": "In the Grey",
     "type": "movie",
@@ -163,14 +172,5 @@
     "episode": 3,
     "backdrop": "https://image.tmdb.org/t/p/w1280/efo2pV1xzSIyd35jXixoB2WJM3u.jpg",
     "updatedAt": "2026-08-13T08:19:28.112Z"
-  },
-  {
-    "id": "65942",
-    "title": "Re:ZERO -Starting Life in Another World-",
-    "type": "tv",
-    "season": 1,
-    "episode": 76,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/9yrr6ubLv7uaOeHv890mVe1HNGn.jpg",
-    "updatedAt": "2026-08-13T08:16:40.578Z"
   }
 ]
