@@ -1,5 +1,14 @@
 [
   {
+    "id": "297826",
+    "title": "Tomb Raider King",
+    "type": "tv",
+    "season": 1,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/efo2pV1xzSIyd35jXixoB2WJM3u.jpg",
+    "updatedAt": "2026-08-13T08:19:28.112Z"
+  },
+  {
     "id": "65942",
     "title": "Re:ZERO -Starting Life in Another World-",
     "type": "tv",
@@ -168,14 +177,5 @@
     "episode": 13,
     "backdrop": "https://image.tmdb.org/t/p/w1280/zmagxGZHowVcSIiCPooafX76gRM.jpg",
     "updatedAt": "2026-08-12T16:52:01.830Z"
-  },
-  {
-    "id": "310708",
-    "title": "AI Girl",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/f1WsBq0ATIsKkWQVlnhTXVAl4zA.jpg",
-    "updatedAt": "2026-08-12T16:51:31.702Z"
   }
 ]
