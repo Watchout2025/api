@@ -1,5 +1,13 @@
 [
   {
+    "id": "1688935",
+    "title": "Oye Bhole Oye 2",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hX6jtlcsyGR5LMOP4Q26LREiUlf.jpg",
+    "updatedAt": "2026-08-13T12:30:19.609Z"
+  },
+  {
     "id": "1489543",
     "title": "G.D.N",
     "type": "movie",
@@ -166,14 +174,5 @@
     "episode": 7,
     "backdrop": "https://image.tmdb.org/t/p/w1280/pdyLy7u0mD2ujXL8gaVnCZ0sFCH.jpg",
     "updatedAt": "2026-08-13T02:25:56.615Z"
-  },
-  {
-    "id": "241882",
-    "title": "Ride or Die",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/foCghy8VgobIKo2KUNQ1DHytTFD.jpg",
-    "updatedAt": "2026-08-13T00:48:18.650Z"
   }
 ]
