@@ -1,5 +1,14 @@
 [
   {
+    "id": "299167",
+    "title": "Dutton Ranch",
+    "type": "tv",
+    "season": 1,
+    "episode": 9,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3ep9KMoFFMLr0eA1KGat0svAXaR.jpg",
+    "updatedAt": "2026-08-13T08:27:14.521Z"
+  },
+  {
     "id": "258348",
     "title": "Clevatess",
     "type": "tv",
@@ -168,14 +177,5 @@
     "episode": 2,
     "backdrop": "https://image.tmdb.org/t/p/w1280/fumShOynK1G0eztPDop6VXDZMJq.jpg",
     "updatedAt": "2026-08-12T22:24:18.605Z"
-  },
-  {
-    "id": "287496",
-    "title": "The Road to Splendor",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/sVZNXtwIwGUlAKWkoGoDBszEGpx.jpg",
-    "updatedAt": "2026-08-12T16:54:34.286Z"
   }
 ]
