@@ -1,5 +1,14 @@
 [
   {
+    "id": "247402",
+    "title": "The Great Queen",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uxxdP5VhemUHUKkh8A5lhsp9TmR.jpg",
+    "updatedAt": "2026-08-13T12:02:48.325Z"
+  },
+  {
     "id": "287496",
     "title": "The Road to Splendor",
     "type": "tv",
@@ -168,14 +177,5 @@
     "episode": 24,
     "backdrop": "https://image.tmdb.org/t/p/w1280/5AEpHeqWYXTdaPuxJrGiQqIUPaK.jpg",
     "updatedAt": "2026-08-12T22:32:12.421Z"
-  },
-  {
-    "id": "303944",
-    "title": "Her Phoenix Majesty",
-    "type": "tv",
-    "season": 1,
-    "episode": 21,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/iGrgAVKbiXmkdQKRr6OjhFNjCFC.jpg",
-    "updatedAt": "2026-08-12T22:28:26.148Z"
   }
 ]
