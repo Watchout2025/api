@@ -1,5 +1,14 @@
 [
   {
+    "id": "326119",
+    "title": "Thunder 3",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7HTP5m1BTMMHhBpLqkjfGvHbVZJ.jpg",
+    "updatedAt": "2026-08-13T08:21:34.541Z"
+  },
+  {
     "id": "297826",
     "title": "Tomb Raider King",
     "type": "tv",
@@ -168,14 +177,5 @@
     "episode": 8,
     "backdrop": "https://image.tmdb.org/t/p/w1280/uUUwl3SETfKDdHtZCtM3nZFhPFP.jpg",
     "updatedAt": "2026-08-12T16:52:26.575Z"
-  },
-  {
-    "id": "320676",
-    "title": "Blue Lips",
-    "type": "tv",
-    "season": 1,
-    "episode": 13,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/zmagxGZHowVcSIiCPooafX76gRM.jpg",
-    "updatedAt": "2026-08-12T16:52:01.830Z"
   }
 ]
