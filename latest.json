@@ -1,5 +1,14 @@
 [
   {
+    "id": "289116",
+    "title": "Genius Girlfriend",
+    "type": "tv",
+    "season": 1,
+    "episode": 28,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tjdrCxIkCemllkS5xewoG4QtNd1.jpg",
+    "updatedAt": "2026-08-13T12:05:33.655Z"
+  },
+  {
     "id": "330440",
     "title": "Night Tales",
     "type": "tv",
@@ -168,14 +177,5 @@
     "episode": 9,
     "backdrop": "https://image.tmdb.org/t/p/w1280/5R812JOQbX9RPHYbG61V7WQfarp.jpg",
     "updatedAt": "2026-08-12T22:46:07.134Z"
-  },
-  {
-    "id": "207197",
-    "title": "Story of Kunning Palace",
-    "type": "tv",
-    "season": 1,
-    "episode": 39,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/sHI2SeSmK4HO5jKI4NR2GqUMVHH.jpg",
-    "updatedAt": "2026-08-12T22:43:23.892Z"
   }
 ]
