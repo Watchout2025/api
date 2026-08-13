@@ -1,5 +1,13 @@
 [
   {
+    "id": "1122573",
+    "title": "In the Grey",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/flnL4bbRwinTp6gDr7M29oWHWXg.jpg",
+    "updatedAt": "2026-08-13T17:13:08.631Z"
+  },
+  {
     "id": "300074",
     "title": "When Light Fades",
     "type": "tv",
@@ -164,14 +172,5 @@
     "episode": 76,
     "backdrop": "https://image.tmdb.org/t/p/w1280/9yrr6ubLv7uaOeHv890mVe1HNGn.jpg",
     "updatedAt": "2026-08-13T08:16:40.578Z"
-  },
-  {
-    "id": "61374",
-    "title": "Tokyo Ghoul",
-    "type": "tv",
-    "season": 4,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/b9JLwU8KPshCD5OhY2stwWl8c7c.jpg",
-    "updatedAt": "2026-08-13T08:11:38.864Z"
   }
 ]
