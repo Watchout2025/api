@@ -1,5 +1,14 @@
 [
   {
+    "id": "304871",
+    "title": "Be My Player Two",
+    "type": "tv",
+    "season": 1,
+    "episode": 5,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cW0b2avFjFHpOAPDdWlpRSkugrk.jpg",
+    "updatedAt": "2026-08-13T14:55:06.489Z"
+  },
+  {
     "id": "1246507",
     "title": "Oye Bhole Oye",
     "type": "movie",
@@ -163,14 +172,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w1280/akZ9jTTzvBOx3CeTVCo9WyhxL5q.jpg",
     "updatedAt": "2026-08-13T07:55:43.134Z"
-  },
-  {
-    "id": "271489",
-    "title": "The Traitors",
-    "type": "tv",
-    "season": 2,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/tcZmDatkBcqbCt6pWLcCA1K0pWZ.jpg",
-    "updatedAt": "2026-08-13T07:54:37.687Z"
   }
 ]
