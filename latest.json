@@ -1,5 +1,14 @@
 [
   {
+    "id": "139512",
+    "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
+    "type": "tv",
+    "season": 2,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gnoMv9Y2kzt74albwVT1FhewVVC.jpg",
+    "updatedAt": "2026-08-13T08:22:38.702Z"
+  },
+  {
     "id": "326119",
     "title": "Thunder 3",
     "type": "tv",
@@ -168,14 +177,5 @@
     "episode": 6,
     "backdrop": "https://image.tmdb.org/t/p/w1280/laZKQVzGS2quLi1iEAbuA6IxYk8.jpg",
     "updatedAt": "2026-08-12T16:54:01.290Z"
-  },
-  {
-    "id": "322072",
-    "title": "My Summer of You",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/uUUwl3SETfKDdHtZCtM3nZFhPFP.jpg",
-    "updatedAt": "2026-08-12T16:52:26.575Z"
   }
 ]
