@@ -1,5 +1,13 @@
 [
   {
+    "id": "1465557",
+    "title": "Our Hero, Balthazar",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xvfsNQsD4bXBXXJDE6fzIMjhxlm.jpg",
+    "updatedAt": "2026-08-13T12:25:45.039Z"
+  },
+  {
     "id": "273119",
     "title": "Ren Yu",
     "type": "tv",
@@ -168,14 +176,5 @@
     "episode": 3,
     "backdrop": "https://image.tmdb.org/t/p/w1280/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
     "updatedAt": "2026-08-12T23:28:21.519Z"
-  },
-  {
-    "id": "224263",
-    "title": "Stranger Things: Tales from '85",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/7PoEyK2EFMDRvJg15Ld9Qbtbhe4.jpg",
-    "updatedAt": "2026-08-12T22:59:30.629Z"
   }
 ]
