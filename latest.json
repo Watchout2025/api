@@ -1,5 +1,14 @@
 [
   {
+    "id": "61374",
+    "title": "Tokyo Ghoul",
+    "type": "tv",
+    "season": 4,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/b9JLwU8KPshCD5OhY2stwWl8c7c.jpg",
+    "updatedAt": "2026-08-13T08:11:38.864Z"
+  },
+  {
     "id": "1600771",
     "title": "Aakhri Sawal",
     "type": "movie",
@@ -168,14 +177,5 @@
     "episode": 1,
     "backdrop": "https://image.tmdb.org/t/p/w1280/etPjU43sjNzLkYd0TMYzWJ7qH9f.jpg",
     "updatedAt": "2026-08-12T16:50:39.125Z"
-  },
-  {
-    "id": "247402",
-    "title": "The Great Queen",
-    "type": "tv",
-    "season": 1,
-    "episode": 15,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/uxxdP5VhemUHUKkh8A5lhsp9TmR.jpg",
-    "updatedAt": "2026-08-12T16:49:39.796Z"
   }
 ]
