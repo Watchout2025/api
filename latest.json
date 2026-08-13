@@ -1,5 +1,13 @@
 [
   {
+    "id": "1600771",
+    "title": "Aakhri Sawal",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/akZ9jTTzvBOx3CeTVCo9WyhxL5q.jpg",
+    "updatedAt": "2026-08-13T07:55:43.134Z"
+  },
+  {
     "id": "271489",
     "title": "The Traitors",
     "type": "tv",
@@ -169,14 +177,5 @@
     "episode": 15,
     "backdrop": "https://image.tmdb.org/t/p/w1280/uxxdP5VhemUHUKkh8A5lhsp9TmR.jpg",
     "updatedAt": "2026-08-12T16:49:39.796Z"
-  },
-  {
-    "id": "330440",
-    "title": "Night Tales",
-    "type": "tv",
-    "season": 1,
-    "episode": 21,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/xjReW7kiCuMZpYyGjOr1PDZcfFE.jpg",
-    "updatedAt": "2026-08-12T16:47:30.542Z"
   }
 ]
