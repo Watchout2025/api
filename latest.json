@@ -1,5 +1,13 @@
 [
   {
+    "id": "1489543",
+    "title": "G.D.N",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/obO03s9fil9uK5R6NFjHimEUecr.jpg",
+    "updatedAt": "2026-08-13T12:28:21.329Z"
+  },
+  {
     "id": "1465557",
     "title": "Our Hero, Balthazar",
     "type": "movie",
@@ -167,14 +175,5 @@
     "episode": 8,
     "backdrop": "https://image.tmdb.org/t/p/w1280/foCghy8VgobIKo2KUNQ1DHytTFD.jpg",
     "updatedAt": "2026-08-13T00:48:18.650Z"
-  },
-  {
-    "id": "108978",
-    "title": "Reacher",
-    "type": "tv",
-    "season": 4,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
-    "updatedAt": "2026-08-12T23:28:21.519Z"
   }
 ]
