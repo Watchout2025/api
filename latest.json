@@ -1,5 +1,14 @@
 [
   {
+    "id": "65942",
+    "title": "Re:ZERO -Starting Life in Another World-",
+    "type": "tv",
+    "season": 1,
+    "episode": 76,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9yrr6ubLv7uaOeHv890mVe1HNGn.jpg",
+    "updatedAt": "2026-08-13T08:16:40.578Z"
+  },
+  {
     "id": "61374",
     "title": "Tokyo Ghoul",
     "type": "tv",
@@ -168,14 +177,5 @@
     "episode": 7,
     "backdrop": "https://image.tmdb.org/t/p/w1280/f1WsBq0ATIsKkWQVlnhTXVAl4zA.jpg",
     "updatedAt": "2026-08-12T16:51:31.702Z"
-  },
-  {
-    "id": "307433",
-    "title": "Moonshadow",
-    "type": "tv",
-    "season": 1,
-    "episode": 1,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/etPjU43sjNzLkYd0TMYzWJ7qH9f.jpg",
-    "updatedAt": "2026-08-12T16:50:39.125Z"
   }
 ]
