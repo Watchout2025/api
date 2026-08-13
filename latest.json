@@ -1,5 +1,14 @@
 [
   {
+    "id": "329540",
+    "title": "Love U Lots",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jnP1DHf5VpCzGDAoFZlbCL4OPI6.jpg",
+    "updatedAt": "2026-08-13T17:35:09.863Z"
+  },
+  {
     "id": "325271",
     "title": "Dating Alys Perez",
     "type": "tv",
@@ -163,14 +172,5 @@
     "episode": 6,
     "backdrop": "https://image.tmdb.org/t/p/w1280/7BWn0XKkmB8Ngj6Jb8QzLhscFIG.jpg",
     "updatedAt": "2026-08-13T08:23:31.207Z"
-  },
-  {
-    "id": "139512",
-    "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
-    "type": "tv",
-    "season": 2,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/gnoMv9Y2kzt74albwVT1FhewVVC.jpg",
-    "updatedAt": "2026-08-13T08:22:38.702Z"
   }
 ]
