@@ -1,5 +1,14 @@
 [
   {
+    "id": "325271",
+    "title": "Dating Alys Perez",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pT5sJufAi68Nwz5lKOQctiI0Ent.jpg",
+    "updatedAt": "2026-08-13T17:34:38.487Z"
+  },
+  {
     "id": "306598",
     "title": "Unlucky Bae",
     "type": "tv",
@@ -163,14 +172,5 @@
     "episode": 3,
     "backdrop": "https://image.tmdb.org/t/p/w1280/gnoMv9Y2kzt74albwVT1FhewVVC.jpg",
     "updatedAt": "2026-08-13T08:22:38.702Z"
-  },
-  {
-    "id": "326119",
-    "title": "Thunder 3",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/7HTP5m1BTMMHhBpLqkjfGvHbVZJ.jpg",
-    "updatedAt": "2026-08-13T08:21:34.541Z"
   }
 ]
