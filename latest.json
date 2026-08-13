@@ -1,5 +1,14 @@
 [
   {
+    "id": "223876",
+    "title": "The Sentinels",
+    "type": "tv",
+    "season": 1,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pdyLy7u0mD2ujXL8gaVnCZ0sFCH.jpg",
+    "updatedAt": "2026-08-13T02:25:56.615Z"
+  },
+  {
     "id": "241882",
     "title": "Ride or Die",
     "type": "tv",
@@ -169,14 +178,5 @@
     "episode": 23,
     "backdrop": "https://image.tmdb.org/t/p/w1280/tjdrCxIkCemllkS5xewoG4QtNd1.jpg",
     "updatedAt": "2026-08-12T16:46:20.232Z"
-  },
-  {
-    "id": "295599",
-    "title": "Royal Betrothal",
-    "type": "tv",
-    "season": 1,
-    "episode": 32,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/5AXBNtjd0DH8UGahrevUkw0AFSz.jpg",
-    "updatedAt": "2026-08-12T16:45:45.844Z"
   }
 ]
