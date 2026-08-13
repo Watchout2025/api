@@ -1,5 +1,14 @@
 [
   {
+    "id": "300074",
+    "title": "When Light Fades",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/A6mQKSFmlS8D6mCU06tTXyESBzc.jpg",
+    "updatedAt": "2026-08-13T14:55:29.213Z"
+  },
+  {
     "id": "304871",
     "title": "Be My Player Two",
     "type": "tv",
@@ -164,13 +173,5 @@
     "episode": 12,
     "backdrop": "https://image.tmdb.org/t/p/w1280/b9JLwU8KPshCD5OhY2stwWl8c7c.jpg",
     "updatedAt": "2026-08-13T08:11:38.864Z"
-  },
-  {
-    "id": "1600771",
-    "title": "Aakhri Sawal",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/akZ9jTTzvBOx3CeTVCo9WyhxL5q.jpg",
-    "updatedAt": "2026-08-13T07:55:43.134Z"
   }
 ]
