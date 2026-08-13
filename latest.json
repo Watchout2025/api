@@ -1,5 +1,14 @@
 [
   {
+    "id": "306598",
+    "title": "Unlucky Bae",
+    "type": "tv",
+    "season": 1,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/g2XaAttXQz9DzwZZ3A2wBckXf5d.jpg",
+    "updatedAt": "2026-08-13T17:34:07.183Z"
+  },
+  {
     "id": "287496",
     "title": "The Road to Splendor",
     "type": "tv",
@@ -163,14 +172,5 @@
     "episode": 6,
     "backdrop": "https://image.tmdb.org/t/p/w1280/7HTP5m1BTMMHhBpLqkjfGvHbVZJ.jpg",
     "updatedAt": "2026-08-13T08:21:34.541Z"
-  },
-  {
-    "id": "297826",
-    "title": "Tomb Raider King",
-    "type": "tv",
-    "season": 1,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/efo2pV1xzSIyd35jXixoB2WJM3u.jpg",
-    "updatedAt": "2026-08-13T08:19:28.112Z"
   }
 ]
