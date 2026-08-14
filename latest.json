@@ -1,5 +1,14 @@
 [
   {
+    "id": "270603",
+    "title": "The Exiled Heavy Knight Knows How to Game the System",
+    "type": "tv",
+    "season": 1,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lJJpL0ZtFa1fkudBAkyWBcjT8Zc.jpg",
+    "updatedAt": "2026-08-14T03:16:49.974Z"
+  },
+  {
     "id": "203737",
     "title": "【OSHI NO KO】",
     "type": "tv",
@@ -163,14 +172,5 @@
     "episode": 28,
     "backdrop": "https://image.tmdb.org/t/p/w1280/tjdrCxIkCemllkS5xewoG4QtNd1.jpg",
     "updatedAt": "2026-08-13T12:05:33.655Z"
-  },
-  {
-    "id": "330440",
-    "title": "Night Tales",
-    "type": "tv",
-    "season": 1,
-    "episode": 22,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/xjReW7kiCuMZpYyGjOr1PDZcfFE.jpg",
-    "updatedAt": "2026-08-13T12:03:47.597Z"
   }
 ]
