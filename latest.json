@@ -1,5 +1,13 @@
 [
   {
+    "id": "1392469",
+    "title": "Cocktail 2",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/a1jyjK5eeZIuf7celUVnoeouF2I.jpg",
+    "updatedAt": "2026-08-14T06:04:36.429Z"
+  },
+  {
     "id": "1351908",
     "title": "Bharat Bhhagya Viddhaata",
     "type": "movie",
@@ -167,13 +175,5 @@
     "episode": 20,
     "backdrop": "https://image.tmdb.org/t/p/w1280/uH4HaYhGoZ3pBZxwTeGwGJ6Lc8M.jpg",
     "updatedAt": "2026-08-13T17:32:08.267Z"
-  },
-  {
-    "id": "1122573",
-    "title": "In the Grey",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/flnL4bbRwinTp6gDr7M29oWHWXg.jpg",
-    "updatedAt": "2026-08-13T17:13:08.631Z"
   }
 ]
