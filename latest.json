@@ -1,5 +1,13 @@
 [
   {
+    "id": "1043887",
+    "title": "Badass Ravi Kumar",
+    "type": "movie",
+    "year": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4WstqtRbUiSmMJH2IcX24oLruqo.jpg",
+    "updatedAt": "2026-08-14T17:46:31.226Z"
+  },
+  {
     "id": "1213898",
     "title": "Border 2",
     "type": "movie",
@@ -166,14 +174,5 @@
     "episode": 13,
     "backdrop": "https://image.tmdb.org/t/p/w1280/sVZNXtwIwGUlAKWkoGoDBszEGpx.jpg",
     "updatedAt": "2026-08-14T15:00:17.565Z"
-  },
-  {
-    "id": "326853",
-    "title": "To Love & Cherish",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/nbQY2o8EZmX99SyJVNE6D2ufvJs.jpg",
-    "updatedAt": "2026-08-14T14:59:31.794Z"
   }
 ]
