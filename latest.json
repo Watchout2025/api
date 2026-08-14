@@ -1,5 +1,14 @@
 [
   {
+    "id": "308834",
+    "title": "In Love Forever",
+    "type": "tv",
+    "season": 1,
+    "episode": 9,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7jfp8m7aUAKusm1fAVByigGz5wr.jpg",
+    "updatedAt": "2026-08-14T16:57:34.238Z"
+  },
+  {
     "id": "316278",
     "title": "My Husband Is a Mafia Boss",
     "type": "tv",
@@ -168,13 +177,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w1280/sJBASJrAnbpDeQNGwbLRLx5s1nS.jpg",
     "updatedAt": "2026-08-14T13:11:03.667Z"
-  },
-  {
-    "id": "980599",
-    "title": "Bhool Bhulaiyaa 3",
-    "type": "movie",
-    "year": "2024",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/colyBZEggZVwow9olmzbgLQn0Vf.jpg",
-    "updatedAt": "2026-08-14T12:16:20.743Z"
   }
 ]
