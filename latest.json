@@ -1,5 +1,13 @@
 [
   {
+    "id": "1213898",
+    "title": "Border 2",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9sJgOvsTonp0MNZThXfEPqNEwDH.jpg",
+    "updatedAt": "2026-08-14T17:40:37.464Z"
+  },
+  {
     "id": "1403039",
     "title": "Maaman",
     "type": "movie",
@@ -167,14 +175,5 @@
     "episode": 4,
     "backdrop": "https://image.tmdb.org/t/p/w1280/nbQY2o8EZmX99SyJVNE6D2ufvJs.jpg",
     "updatedAt": "2026-08-14T14:59:31.794Z"
-  },
-  {
-    "id": "247402",
-    "title": "The Great Queen",
-    "type": "tv",
-    "season": 1,
-    "episode": 17,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/uxxdP5VhemUHUKkh8A5lhsp9TmR.jpg",
-    "updatedAt": "2026-08-14T14:58:39.546Z"
   }
 ]
