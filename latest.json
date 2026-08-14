@@ -1,5 +1,14 @@
 [
   {
+    "id": "296286",
+    "title": "Smoking Behind the Supermarket with You",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gbb9tOprOZHkAQtTh5FlerbS1pb.jpg",
+    "updatedAt": "2026-08-14T03:01:41.711Z"
+  },
+  {
     "id": "203737",
     "title": "【OSHI NO KO】",
     "type": "tv",
@@ -163,14 +172,5 @@
     "episode": 16,
     "backdrop": "https://image.tmdb.org/t/p/w1280/uxxdP5VhemUHUKkh8A5lhsp9TmR.jpg",
     "updatedAt": "2026-08-13T12:02:48.325Z"
-  },
-  {
-    "id": "299167",
-    "title": "Dutton Ranch",
-    "type": "tv",
-    "season": 1,
-    "episode": 9,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/3ep9KMoFFMLr0eA1KGat0svAXaR.jpg",
-    "updatedAt": "2026-08-13T08:27:14.521Z"
   }
 ]
