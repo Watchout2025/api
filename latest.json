@@ -1,5 +1,14 @@
 [
   {
+    "id": "281966",
+    "title": "My Troublesome Star",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/onYhWv7231oqhETfePP4dGqFFkX.jpg",
+    "updatedAt": "2026-08-14T03:47:41.209Z"
+  },
+  {
     "id": "281004",
     "title": "Beyond the Bar",
     "type": "tv",
@@ -167,13 +176,5 @@
     "year": "2024",
     "backdrop": "https://image.tmdb.org/t/p/w1280/iuDz7fEWNnhtvoMURDCoB7QzWWl.jpg",
     "updatedAt": "2026-08-13T13:38:48.816Z"
-  },
-  {
-    "id": "1065834",
-    "title": "Kattalan",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/nTimAHDG7PoycFF2afMZVPyOokg.jpg",
-    "updatedAt": "2026-08-13T12:32:00.004Z"
   }
 ]
