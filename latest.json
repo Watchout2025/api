@@ -1,5 +1,13 @@
 [
   {
+    "id": "1351908",
+    "title": "Bharat Bhhagya Viddhaata",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vnEdyQ0XL325M4jd1prEMNo4xlL.jpg",
+    "updatedAt": "2026-08-14T06:03:46.861Z"
+  },
+  {
     "id": "1616268",
     "title": "Aroopi",
     "type": "movie",
@@ -167,14 +175,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w1280/flnL4bbRwinTp6gDr7M29oWHWXg.jpg",
     "updatedAt": "2026-08-13T17:13:08.631Z"
-  },
-  {
-    "id": "300074",
-    "title": "When Light Fades",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/A6mQKSFmlS8D6mCU06tTXyESBzc.jpg",
-    "updatedAt": "2026-08-13T14:55:29.213Z"
   }
 ]
