@@ -1,5 +1,14 @@
 [
   {
+    "id": "203737",
+    "title": "【OSHI NO KO】",
+    "type": "tv",
+    "season": 1,
+    "episode": 35,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9WagHM3tyoWYP5YyCZOjIeCME4f.jpg",
+    "updatedAt": "2026-08-14T03:14:16.538Z"
+  },
+  {
     "id": "215072",
     "title": "A Shop for Killers",
     "type": "tv",
@@ -25,15 +34,6 @@
     "episode": 6,
     "backdrop": "https://image.tmdb.org/t/p/w1280/gbb9tOprOZHkAQtTh5FlerbS1pb.jpg",
     "updatedAt": "2026-08-14T03:01:41.711Z"
-  },
-  {
-    "id": "203737",
-    "title": "【OSHI NO KO】",
-    "type": "tv",
-    "season": 1,
-    "episode": 24,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/9WagHM3tyoWYP5YyCZOjIeCME4f.jpg",
-    "updatedAt": "2026-08-14T03:00:28.162Z"
   },
   {
     "id": "329540",
