@@ -1,5 +1,13 @@
 [
   {
+    "id": "1616268",
+    "title": "Aroopi",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nMQMfDBmjDn9jsXVXagGwUBWUSs.jpg",
+    "updatedAt": "2026-08-14T06:02:06.938Z"
+  },
+  {
     "id": "262741",
     "title": "Youthful Glory",
     "type": "tv",
@@ -168,14 +176,5 @@
     "episode": 8,
     "backdrop": "https://image.tmdb.org/t/p/w1280/A6mQKSFmlS8D6mCU06tTXyESBzc.jpg",
     "updatedAt": "2026-08-13T14:55:29.213Z"
-  },
-  {
-    "id": "304871",
-    "title": "Be My Player Two",
-    "type": "tv",
-    "season": 1,
-    "episode": 5,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/cW0b2avFjFHpOAPDdWlpRSkugrk.jpg",
-    "updatedAt": "2026-08-13T14:55:06.489Z"
   }
 ]
