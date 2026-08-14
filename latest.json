@@ -1,5 +1,14 @@
 [
   {
+    "id": "309798",
+    "title": "My Brilliant Career",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg",
+    "updatedAt": "2026-08-14T03:21:29.002Z"
+  },
+  {
     "id": "270603",
     "title": "The Exiled Heavy Knight Knows How to Game the System",
     "type": "tv",
@@ -163,14 +172,5 @@
     "episode": 16,
     "backdrop": "https://image.tmdb.org/t/p/w1280/5sRWeNwujN5d7Zm6pv8PShcwoND.jpg",
     "updatedAt": "2026-08-13T12:07:18.619Z"
-  },
-  {
-    "id": "289116",
-    "title": "Genius Girlfriend",
-    "type": "tv",
-    "season": 1,
-    "episode": 28,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/tjdrCxIkCemllkS5xewoG4QtNd1.jpg",
-    "updatedAt": "2026-08-13T12:05:33.655Z"
   }
 ]
