@@ -1,5 +1,14 @@
 [
   {
+    "id": "203737",
+    "title": "【OSHI NO KO】",
+    "type": "tv",
+    "season": 1,
+    "episode": 24,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9WagHM3tyoWYP5YyCZOjIeCME4f.jpg",
+    "updatedAt": "2026-08-14T03:00:28.162Z"
+  },
+  {
     "id": "329540",
     "title": "Love U Lots",
     "type": "tv",
@@ -163,14 +172,5 @@
     "episode": 9,
     "backdrop": "https://image.tmdb.org/t/p/w1280/3ep9KMoFFMLr0eA1KGat0svAXaR.jpg",
     "updatedAt": "2026-08-13T08:27:14.521Z"
-  },
-  {
-    "id": "258348",
-    "title": "Clevatess",
-    "type": "tv",
-    "season": 2,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/7BWn0XKkmB8Ngj6Jb8QzLhscFIG.jpg",
-    "updatedAt": "2026-08-13T08:23:31.207Z"
   }
 ]
