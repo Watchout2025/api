@@ -1,19 +1,19 @@
 [
   {
+    "id": "1383072",
+    "title": "Mahavatar Narsimha",
+    "type": "movie",
+    "year": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xFjk2l1SGgvrMYlFIHGiP7BfvEY.jpg",
+    "updatedAt": "2026-08-14T17:56:12.436Z"
+  },
+  {
     "id": "1043887",
     "title": "Badass Ravi Kumar",
     "type": "movie",
     "year": "2025",
     "backdrop": "https://image.tmdb.org/t/p/w1280/4WstqtRbUiSmMJH2IcX24oLruqo.jpg",
     "updatedAt": "2026-08-14T17:55:57.662Z"
-  },
-  {
-    "id": "1383072",
-    "title": "Mahavatar Narsimha",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/xFjk2l1SGgvrMYlFIHGiP7BfvEY.jpg",
-    "updatedAt": "2026-08-14T17:49:24.017Z"
   },
   {
     "id": "1213898",
