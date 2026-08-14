@@ -1,5 +1,13 @@
 [
   {
+    "id": "1142921",
+    "title": "Tere Ishk Mein",
+    "type": "movie",
+    "year": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3FgFKX1gW21LzjT0Yniflaqmhpr.jpg",
+    "updatedAt": "2026-08-14T17:13:48.629Z"
+  },
+  {
     "id": "308834",
     "title": "In Love Forever",
     "type": "tv",
@@ -169,13 +177,5 @@
     "episode": 26,
     "backdrop": "https://image.tmdb.org/t/p/w1280/ojnPh1mhuK4zJ9pzG7belf6osJ5.jpg",
     "updatedAt": "2026-08-14T14:56:09.726Z"
-  },
-  {
-    "id": "1444466",
-    "title": "Awarapan 2",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/sJBASJrAnbpDeQNGwbLRLx5s1nS.jpg",
-    "updatedAt": "2026-08-14T13:11:03.667Z"
   }
 ]
