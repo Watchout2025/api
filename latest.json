@@ -1,5 +1,14 @@
 [
   {
+    "id": "220074",
+    "title": "Flex X Cop",
+    "type": "tv",
+    "season": 2,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kPHKRCsSkz3kanwmR6XPcms2TCG.jpg",
+    "updatedAt": "2026-08-14T16:55:07.666Z"
+  },
+  {
     "id": "327403",
     "title": "Make It Right 2026",
     "type": "tv",
@@ -165,13 +174,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w1280/vnEdyQ0XL325M4jd1prEMNo4xlL.jpg",
     "updatedAt": "2026-08-14T06:03:46.861Z"
-  },
-  {
-    "id": "1616268",
-    "title": "Aroopi",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/nMQMfDBmjDn9jsXVXagGwUBWUSs.jpg",
-    "updatedAt": "2026-08-14T06:02:06.938Z"
   }
 ]
