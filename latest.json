@@ -1,5 +1,14 @@
 [
   {
+    "id": "276609",
+    "title": "Thukra Ke Mera Pyaar",
+    "type": "tv",
+    "season": 2,
+    "episode": 37,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mKXSi5t9CKy0jDEWcGTuJnapu07.jpg",
+    "updatedAt": "2026-08-14T03:34:27.578Z"
+  },
+  {
     "id": "87978",
     "title": "Cinderella Chef",
     "type": "tv",
@@ -164,13 +173,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w1280/obO03s9fil9uK5R6NFjHimEUecr.jpg",
     "updatedAt": "2026-08-13T12:28:21.329Z"
-  },
-  {
-    "id": "1465557",
-    "title": "Our Hero, Balthazar",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/xvfsNQsD4bXBXXJDE6fzIMjhxlm.jpg",
-    "updatedAt": "2026-08-13T12:25:45.039Z"
   }
 ]
