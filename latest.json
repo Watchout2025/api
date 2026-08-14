@@ -1,5 +1,14 @@
 [
   {
+    "id": "221112",
+    "title": "Amidst a Snowstorm of Love",
+    "type": "tv",
+    "season": 1,
+    "episode": 30,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ldItx156g2iT3pjqvVcZOPYaS7F.jpg",
+    "updatedAt": "2026-08-14T03:40:26.538Z"
+  },
+  {
     "id": "276609",
     "title": "Thukra Ke Mera Pyaar",
     "type": "tv",
@@ -165,13 +174,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w1280/hX6jtlcsyGR5LMOP4Q26LREiUlf.jpg",
     "updatedAt": "2026-08-13T12:30:19.609Z"
-  },
-  {
-    "id": "1489543",
-    "title": "G.D.N",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/obO03s9fil9uK5R6NFjHimEUecr.jpg",
-    "updatedAt": "2026-08-13T12:28:21.329Z"
   }
 ]
