@@ -1,5 +1,13 @@
 [
   {
+    "id": "1383072",
+    "title": "Mahavatar Narsimha",
+    "type": "movie",
+    "year": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xFjk2l1SGgvrMYlFIHGiP7BfvEY.jpg",
+    "updatedAt": "2026-08-14T17:49:24.017Z"
+  },
+  {
     "id": "1043887",
     "title": "Badass Ravi Kumar",
     "type": "movie",
@@ -165,14 +173,5 @@
     "episode": 15,
     "backdrop": "https://image.tmdb.org/t/p/w1280/kq4RyNJvPbGdedKGhQQ53iGO1Ck.jpg",
     "updatedAt": "2026-08-14T15:00:58.078Z"
-  },
-  {
-    "id": "287496",
-    "title": "The Road to Splendor",
-    "type": "tv",
-    "season": 1,
-    "episode": 13,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/sVZNXtwIwGUlAKWkoGoDBszEGpx.jpg",
-    "updatedAt": "2026-08-14T15:00:17.565Z"
   }
 ]
