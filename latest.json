@@ -1,5 +1,14 @@
 [
   {
+    "id": "301418",
+    "title": "The Affair Was Just The Beginning",
+    "type": "tv",
+    "season": 1,
+    "episode": 5,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bftAVJ4PKXitpNk6bwoz25SW2CX.jpg",
+    "updatedAt": "2026-08-14T16:56:23.120Z"
+  },
+  {
     "id": "294095",
     "title": "A Bona Fide Killer",
     "type": "tv",
@@ -167,13 +176,5 @@
     "episode": 16,
     "backdrop": "https://image.tmdb.org/t/p/w1280/6Qd0zIiV5MUN3ZxBhPVBam67Z0y.jpg",
     "updatedAt": "2026-08-14T12:12:11.425Z"
-  },
-  {
-    "id": "1392469",
-    "title": "Cocktail 2",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/a1jyjK5eeZIuf7celUVnoeouF2I.jpg",
-    "updatedAt": "2026-08-14T06:04:36.429Z"
   }
 ]
