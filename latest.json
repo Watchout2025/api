@@ -1,5 +1,14 @@
 [
   {
+    "id": "262741",
+    "title": "Youthful Glory",
+    "type": "tv",
+    "season": 1,
+    "episode": 30,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rz5AsiwrvDe8Yo7cx8Kdsiv1JjI.jpg",
+    "updatedAt": "2026-08-14T03:53:06.592Z"
+  },
+  {
     "id": "281966",
     "title": "My Troublesome Star",
     "type": "tv",
@@ -168,13 +177,5 @@
     "episode": 5,
     "backdrop": "https://image.tmdb.org/t/p/w1280/cW0b2avFjFHpOAPDdWlpRSkugrk.jpg",
     "updatedAt": "2026-08-13T14:55:06.489Z"
-  },
-  {
-    "id": "1246507",
-    "title": "Oye Bhole Oye",
-    "type": "movie",
-    "year": "2024",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/iuDz7fEWNnhtvoMURDCoB7QzWWl.jpg",
-    "updatedAt": "2026-08-13T13:38:48.816Z"
   }
 ]
