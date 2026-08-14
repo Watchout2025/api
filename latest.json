@@ -1,5 +1,14 @@
 [
   {
+    "id": "108978",
+    "title": "Reacher",
+    "type": "tv",
+    "season": 4,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
+    "updatedAt": "2026-08-14T17:23:31.616Z"
+  },
+  {
     "id": "1142921",
     "title": "Tere Ishk Mein",
     "type": "movie",
@@ -168,14 +177,5 @@
     "episode": 6,
     "backdrop": "https://image.tmdb.org/t/p/w1280/3fMLEFqMN7VwqN5TttEwecnC7Bz.jpg",
     "updatedAt": "2026-08-14T14:58:09.789Z"
-  },
-  {
-    "id": "271016",
-    "title": "Mystic Nine",
-    "type": "tv",
-    "season": 1,
-    "episode": 26,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/ojnPh1mhuK4zJ9pzG7belf6osJ5.jpg",
-    "updatedAt": "2026-08-14T14:56:09.726Z"
   }
 ]
