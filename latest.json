@@ -1,5 +1,14 @@
 [
   {
+    "id": "215072",
+    "title": "A Shop for Killers",
+    "type": "tv",
+    "season": 2,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vU8d6PU0tauitQeyUJHUvK05g8T.jpg",
+    "updatedAt": "2026-08-14T03:04:55.653Z"
+  },
+  {
     "id": "312949",
     "title": "Chainsmoker Cat",
     "type": "tv",
@@ -163,14 +172,5 @@
     "episode": 22,
     "backdrop": "https://image.tmdb.org/t/p/w1280/xjReW7kiCuMZpYyGjOr1PDZcfFE.jpg",
     "updatedAt": "2026-08-13T12:03:47.597Z"
-  },
-  {
-    "id": "271016",
-    "title": "Mystic Nine",
-    "type": "tv",
-    "season": 1,
-    "episode": 25,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/ojnPh1mhuK4zJ9pzG7belf6osJ5.jpg",
-    "updatedAt": "2026-08-13T12:03:20.961Z"
   }
 ]
