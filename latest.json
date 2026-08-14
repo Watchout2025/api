@@ -1,5 +1,13 @@
 [
   {
+    "id": "1444466",
+    "title": "Awarapan 2",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sJBASJrAnbpDeQNGwbLRLx5s1nS.jpg",
+    "updatedAt": "2026-08-14T13:11:03.667Z"
+  },
+  {
     "id": "980599",
     "title": "Bhool Bhulaiyaa 3",
     "type": "movie",
@@ -165,14 +173,5 @@
     "episode": 10,
     "backdrop": "https://image.tmdb.org/t/p/w1280/pT5sJufAi68Nwz5lKOQctiI0Ent.jpg",
     "updatedAt": "2026-08-13T17:34:38.487Z"
-  },
-  {
-    "id": "306598",
-    "title": "Unlucky Bae",
-    "type": "tv",
-    "season": 1,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/g2XaAttXQz9DzwZZ3A2wBckXf5d.jpg",
-    "updatedAt": "2026-08-13T17:34:07.183Z"
   }
 ]
