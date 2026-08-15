@@ -1,5 +1,13 @@
 [
   {
+    "id": "1169537",
+    "title": "Batwara 1947",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/dYK1TgeitMmRU8Bki3Z75QHS195.jpg",
+    "updatedAt": "2026-08-15T11:37:22.335Z"
+  },
+  {
     "id": "1313003",
     "title": "Close to Me",
     "type": "movie",
@@ -162,14 +170,5 @@
     "episode": 11,
     "backdrop": "https://image.tmdb.org/t/p/w1280/5VNYmqye22ZTiF4iEQDh9RSd87w.jpg",
     "updatedAt": "2026-08-14T15:07:32.330Z"
-  },
-  {
-    "id": "239830",
-    "title": "Connecting to You",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/9wIrbuthzBZci5SUkj0yeXh7gNB.jpg",
-    "updatedAt": "2026-08-14T15:05:28.219Z"
   }
 ]
