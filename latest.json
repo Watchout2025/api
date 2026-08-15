@@ -1,5 +1,14 @@
 [
   {
+    "id": "238084",
+    "title": "Trigger",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/LocigwVR8yda0xxpTBQh3XyaKQ.jpg",
+    "updatedAt": "2026-08-15T17:15:50.929Z"
+  },
+  {
     "id": "119051",
     "title": "Wednesday",
     "type": "tv",
@@ -166,13 +175,5 @@
     "episode": 4,
     "backdrop": "https://image.tmdb.org/t/p/w500/lJJpL0ZtFa1fkudBAkyWBcjT8Zc.jpg",
     "updatedAt": "2026-08-15T11:43:30.423Z"
-  },
-  {
-    "id": "1589248",
-    "title": "My Best Friend, His Girlfriend and Me",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg",
-    "updatedAt": "2026-08-15T11:42:17.432Z"
   }
 ]
