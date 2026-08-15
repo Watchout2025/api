@@ -1,5 +1,14 @@
 [
   {
+    "id": "271016",
+    "title": "Mystic Nine",
+    "type": "tv",
+    "season": 1,
+    "episode": 30,
+    "backdrop": "https://image.tmdb.org/t/p/w500/ojnPh1mhuK4zJ9pzG7belf6osJ5.jpg",
+    "updatedAt": "2026-08-15T15:09:51.427Z"
+  },
+  {
     "id": "1227241",
     "title": "Maa Inti Bangaram",
     "type": "movie",
@@ -155,14 +164,5 @@
     "year": "2025",
     "backdrop": "https://image.tmdb.org/t/p/w1280/3FgFKX1gW21LzjT0Yniflaqmhpr.jpg",
     "updatedAt": "2026-08-14T17:13:48.629Z"
-  },
-  {
-    "id": "308834",
-    "title": "In Love Forever",
-    "type": "tv",
-    "season": 1,
-    "episode": 9,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/7jfp8m7aUAKusm1fAVByigGz5wr.jpg",
-    "updatedAt": "2026-08-14T16:57:34.238Z"
   }
 ]
