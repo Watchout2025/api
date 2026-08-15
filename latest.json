@@ -1,5 +1,13 @@
 [
   {
+    "id": "1478029",
+    "title": "Snake Woman",
+    "type": "movie",
+    "year": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w500/pHcVdudHe9Hv0uZDHHPDtgXbaPx.jpg",
+    "updatedAt": "2026-08-15T11:39:20.479Z"
+  },
+  {
     "id": "1169537",
     "title": "Batwara 1947",
     "type": "movie",
@@ -161,14 +169,5 @@
     "episode": 2,
     "backdrop": "https://image.tmdb.org/t/p/w1280/k1IZq7CnvBL3p8AgcCzoFXITwJf.jpg",
     "updatedAt": "2026-08-14T15:08:02.582Z"
-  },
-  {
-    "id": "316540",
-    "title": "Bittersweet Love",
-    "type": "tv",
-    "season": 1,
-    "episode": 11,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/5VNYmqye22ZTiF4iEQDh9RSd87w.jpg",
-    "updatedAt": "2026-08-14T15:07:32.330Z"
   }
 ]
