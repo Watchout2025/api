@@ -1,5 +1,13 @@
 [
   {
+    "id": "1313003",
+    "title": "Close to Me",
+    "type": "movie",
+    "year": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w500/jHDczXDoze03wW8tiextMCk5REA.jpg",
+    "updatedAt": "2026-08-15T11:36:41.740Z"
+  },
+  {
     "id": "1101383",
     "title": "The End of Oak Street",
     "type": "movie",
@@ -163,14 +171,5 @@
     "episode": 4,
     "backdrop": "https://image.tmdb.org/t/p/w1280/9wIrbuthzBZci5SUkj0yeXh7gNB.jpg",
     "updatedAt": "2026-08-14T15:05:28.219Z"
-  },
-  {
-    "id": "331549",
-    "title": "Hanyi Enters the Heart",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "",
-    "updatedAt": "2026-08-14T15:04:24.779Z"
   }
 ]
