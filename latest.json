@@ -1,5 +1,13 @@
 [
   {
+    "id": "1438392",
+    "title": "Euphoria",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/2VnevJhCTE8bwpkn37JAkceSW5i.jpg",
+    "updatedAt": "2026-08-15T11:41:13.017Z"
+  },
+  {
     "id": "1478029",
     "title": "Snake Woman",
     "type": "movie",
@@ -160,14 +168,5 @@
     "episode": 24,
     "backdrop": "https://image.tmdb.org/t/p/w1280/jhSiamQQYbmic7VVfwVCSiqj7mK.jpg",
     "updatedAt": "2026-08-14T15:11:39.610Z"
-  },
-  {
-    "id": "317314",
-    "title": "Ash",
-    "type": "tv",
-    "season": 1,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/k1IZq7CnvBL3p8AgcCzoFXITwJf.jpg",
-    "updatedAt": "2026-08-14T15:08:02.582Z"
   }
 ]
