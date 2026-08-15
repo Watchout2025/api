@@ -1,5 +1,14 @@
 [
   {
+    "id": "316540",
+    "title": "Bittersweet Love",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/5VNYmqye22ZTiF4iEQDh9RSd87w.jpg",
+    "updatedAt": "2026-08-15T15:10:35.111Z"
+  },
+  {
     "id": "287496",
     "title": "The Road to Splendor",
     "type": "tv",
@@ -156,14 +165,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w1280/9sJgOvsTonp0MNZThXfEPqNEwDH.jpg",
     "updatedAt": "2026-08-14T17:40:37.464Z"
-  },
-  {
-    "id": "108978",
-    "title": "Reacher",
-    "type": "tv",
-    "season": 4,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
-    "updatedAt": "2026-08-14T17:23:31.616Z"
   }
 ]
