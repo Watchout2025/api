@@ -1,5 +1,14 @@
 [
   {
+    "id": "306118",
+    "title": "Arafta",
+    "type": "tv",
+    "season": 2,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/3zXQwdeIKxazDMunGwKO6E5FNqz.jpg",
+    "updatedAt": "2026-08-15T11:51:36.648Z"
+  },
+  {
     "id": "270603",
     "title": "The Exiled Heavy Knight Knows How to Game the System",
     "type": "tv",
@@ -158,14 +167,5 @@
     "episode": 3,
     "backdrop": "https://image.tmdb.org/t/p/w1280/kPHKRCsSkz3kanwmR6XPcms2TCG.jpg",
     "updatedAt": "2026-08-14T16:55:07.666Z"
-  },
-  {
-    "id": "327403",
-    "title": "Make It Right 2026",
-    "type": "tv",
-    "season": 1,
-    "episode": 5,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/5F76MDavZrK3Bl3baqNjPbxhPRp.jpg",
-    "updatedAt": "2026-08-14T15:13:34.457Z"
   }
 ]
