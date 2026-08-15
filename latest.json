@@ -1,5 +1,14 @@
 [
   {
+    "id": "296140",
+    "title": "My Bias, My Boss",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/v8O0X6PP7grEaXsPkdiotIx78tA.jpg",
+    "updatedAt": "2026-08-15T16:38:41.512Z"
+  },
+  {
     "id": "30984",
     "title": "Bleach",
     "type": "tv",
@@ -164,13 +173,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/2VnevJhCTE8bwpkn37JAkceSW5i.jpg",
     "updatedAt": "2026-08-15T11:41:13.017Z"
-  },
-  {
-    "id": "1478029",
-    "title": "Snake Woman",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/pHcVdudHe9Hv0uZDHHPDtgXbaPx.jpg",
-    "updatedAt": "2026-08-15T11:39:20.479Z"
   }
 ]
