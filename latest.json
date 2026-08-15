@@ -1,5 +1,13 @@
 [
   {
+    "id": "1227241",
+    "title": "Maa Inti Bangaram",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
+    "updatedAt": "2026-08-15T15:07:47.740Z"
+  },
+  {
     "id": "82684",
     "title": "That Time I Got Reincarnated as a Slime",
     "type": "tv",
@@ -156,14 +164,5 @@
     "episode": 9,
     "backdrop": "https://image.tmdb.org/t/p/w1280/7jfp8m7aUAKusm1fAVByigGz5wr.jpg",
     "updatedAt": "2026-08-14T16:57:34.238Z"
-  },
-  {
-    "id": "316278",
-    "title": "My Husband Is a Mafia Boss",
-    "type": "tv",
-    "season": 1,
-    "episode": 19,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
-    "updatedAt": "2026-08-14T16:56:48.707Z"
   }
 ]
