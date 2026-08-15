@@ -1,5 +1,14 @@
 [
   {
+    "id": "30984",
+    "title": "Bleach",
+    "type": "tv",
+    "season": 2,
+    "episode": 42,
+    "backdrop": "https://image.tmdb.org/t/p/w500/mFKys64gbDQrFqwUheGwXQwo2JK.jpg",
+    "updatedAt": "2026-08-15T16:26:37.808Z"
+  },
+  {
     "id": "285992",
     "title": "The Fire",
     "type": "tv",
@@ -163,13 +172,5 @@
     "year": "2025",
     "backdrop": "https://image.tmdb.org/t/p/w500/pHcVdudHe9Hv0uZDHHPDtgXbaPx.jpg",
     "updatedAt": "2026-08-15T11:39:20.479Z"
-  },
-  {
-    "id": "1169537",
-    "title": "Batwara 1947",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/dYK1TgeitMmRU8Bki3Z75QHS195.jpg",
-    "updatedAt": "2026-08-15T11:37:22.335Z"
   }
 ]
