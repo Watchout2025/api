@@ -1,5 +1,13 @@
 [
   {
+    "id": "1589248",
+    "title": "My Best Friend, His Girlfriend and Me",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg",
+    "updatedAt": "2026-08-15T11:42:17.432Z"
+  },
+  {
     "id": "1438392",
     "title": "Euphoria",
     "type": "movie",
@@ -159,14 +167,5 @@
     "episode": 8,
     "backdrop": "https://image.tmdb.org/t/p/w1280/5dStdZ93b22PTSMVzpfzBDK6DYr.jpg",
     "updatedAt": "2026-08-14T15:13:08.839Z"
-  },
-  {
-    "id": "271290",
-    "title": "Go Back Lover",
-    "type": "tv",
-    "season": 1,
-    "episode": 24,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/jhSiamQQYbmic7VVfwVCSiqj7mK.jpg",
-    "updatedAt": "2026-08-14T15:11:39.610Z"
   }
 ]
