@@ -1,5 +1,14 @@
 [
   {
+    "id": "285992",
+    "title": "The Fire",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/6oQrmhUMiN5B7xQ4b9yrIQtcWpL.jpg",
+    "updatedAt": "2026-08-15T16:25:20.562Z"
+  },
+  {
     "id": "315083",
     "title": "The Edge of Horizon",
     "type": "tv",
@@ -162,13 +171,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/dYK1TgeitMmRU8Bki3Z75QHS195.jpg",
     "updatedAt": "2026-08-15T11:37:22.335Z"
-  },
-  {
-    "id": "1313003",
-    "title": "Close to Me",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/jHDczXDoze03wW8tiextMCk5REA.jpg",
-    "updatedAt": "2026-08-15T11:36:41.740Z"
   }
 ]
