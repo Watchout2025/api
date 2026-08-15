@@ -1,5 +1,14 @@
 [
   {
+    "id": "231280",
+    "title": "Good Boy",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/6Qd0zIiV5MUN3ZxBhPVBam67Z0y.jpg",
+    "updatedAt": "2026-08-15T16:21:28.137Z"
+  },
+  {
     "id": "316540",
     "title": "Bittersweet Love",
     "type": "tv",
@@ -157,13 +166,5 @@
     "year": "2025",
     "backdrop": "https://image.tmdb.org/t/p/w1280/4WstqtRbUiSmMJH2IcX24oLruqo.jpg",
     "updatedAt": "2026-08-14T17:55:57.662Z"
-  },
-  {
-    "id": "1213898",
-    "title": "Border 2",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/9sJgOvsTonp0MNZThXfEPqNEwDH.jpg",
-    "updatedAt": "2026-08-14T17:40:37.464Z"
   }
 ]
