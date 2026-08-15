@@ -1,5 +1,14 @@
 [
   {
+    "id": "82684",
+    "title": "That Time I Got Reincarnated as a Slime",
+    "type": "tv",
+    "season": 4,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/5rcEQ5AG617uTUpO2oPWPCx68Fk.jpg",
+    "updatedAt": "2026-08-15T15:06:16.679Z"
+  },
+  {
     "id": "1688935",
     "title": "Oye Bhole Oye 2",
     "type": "movie",
@@ -156,14 +165,5 @@
     "episode": 19,
     "backdrop": "https://image.tmdb.org/t/p/w1280/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
     "updatedAt": "2026-08-14T16:56:48.707Z"
-  },
-  {
-    "id": "301418",
-    "title": "The Affair Was Just The Beginning",
-    "type": "tv",
-    "season": 1,
-    "episode": 5,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/bftAVJ4PKXitpNk6bwoz25SW2CX.jpg",
-    "updatedAt": "2026-08-14T16:56:23.120Z"
   }
 ]
