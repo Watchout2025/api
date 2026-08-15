@@ -1,5 +1,14 @@
 [
   {
+    "id": "323569",
+    "title": "The Servant Prince",
+    "type": "tv",
+    "season": 1,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/mtPUATykWPMRxpbx29qbohEqcZd.jpg",
+    "updatedAt": "2026-08-15T04:22:52.365Z"
+  },
+  {
     "id": "306627",
     "title": "WEIRDO-101",
     "type": "tv",
@@ -164,14 +173,5 @@
     "episode": 11,
     "backdrop": "https://image.tmdb.org/t/p/w1280/5VNYmqye22ZTiF4iEQDh9RSd87w.jpg",
     "updatedAt": "2026-08-14T15:07:32.330Z"
-  },
-  {
-    "id": "239830",
-    "title": "Connecting to You",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/9wIrbuthzBZci5SUkj0yeXh7gNB.jpg",
-    "updatedAt": "2026-08-14T15:05:28.219Z"
   }
 ]
