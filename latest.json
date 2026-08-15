@@ -1,5 +1,13 @@
 [
   {
+    "id": "1688935",
+    "title": "Oye Bhole Oye 2",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/hX6jtlcsyGR5LMOP4Q26LREiUlf.jpg",
+    "updatedAt": "2026-08-15T13:56:51.216Z"
+  },
+  {
     "id": "1284465",
     "title": "The Death of Robin Hood",
     "type": "movie",
@@ -157,14 +165,5 @@
     "episode": 5,
     "backdrop": "https://image.tmdb.org/t/p/w1280/bftAVJ4PKXitpNk6bwoz25SW2CX.jpg",
     "updatedAt": "2026-08-14T16:56:23.120Z"
-  },
-  {
-    "id": "294095",
-    "title": "A Bona Fide Killer",
-    "type": "tv",
-    "season": 1,
-    "episode": 5,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/nAATQr4iewpPA5bEazcJ84UE7hl.jpg",
-    "updatedAt": "2026-08-14T16:55:30.375Z"
   }
 ]
