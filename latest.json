@@ -1,5 +1,14 @@
 [
   {
+    "id": "119051",
+    "title": "Wednesday",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg",
+    "updatedAt": "2026-08-15T17:04:55.439Z"
+  },
+  {
     "id": "296140",
     "title": "My Bias, My Boss",
     "type": "tv",
@@ -165,13 +174,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg",
     "updatedAt": "2026-08-15T11:42:17.432Z"
-  },
-  {
-    "id": "1438392",
-    "title": "Euphoria",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/2VnevJhCTE8bwpkn37JAkceSW5i.jpg",
-    "updatedAt": "2026-08-15T11:41:13.017Z"
   }
 ]
