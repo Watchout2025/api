@@ -1,5 +1,14 @@
 [
   {
+    "id": "270603",
+    "title": "The Exiled Heavy Knight Knows How to Game the System",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/lJJpL0ZtFa1fkudBAkyWBcjT8Zc.jpg",
+    "updatedAt": "2026-08-15T11:43:30.423Z"
+  },
+  {
     "id": "1589248",
     "title": "My Best Friend, His Girlfriend and Me",
     "type": "movie",
@@ -158,14 +167,5 @@
     "episode": 5,
     "backdrop": "https://image.tmdb.org/t/p/w1280/5F76MDavZrK3Bl3baqNjPbxhPRp.jpg",
     "updatedAt": "2026-08-14T15:13:34.457Z"
-  },
-  {
-    "id": "314936",
-    "title": "Don't Be Too Emotional",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/5dStdZ93b22PTSMVzpfzBDK6DYr.jpg",
-    "updatedAt": "2026-08-14T15:13:08.839Z"
   }
 ]
