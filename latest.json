@@ -1,5 +1,14 @@
 [
   {
+    "id": "294095",
+    "title": "A Bona Fide Killer",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/nAATQr4iewpPA5bEazcJ84UE7hl.jpg",
+    "updatedAt": "2026-08-15T16:23:10.339Z"
+  },
+  {
     "id": "298610",
     "title": "Spooky in Love",
     "type": "tv",
@@ -159,13 +168,5 @@
     "year": "2025",
     "backdrop": "https://image.tmdb.org/t/p/w1280/aSN6JVqci5QdzuUU5M8IJQ2RKG7.jpg",
     "updatedAt": "2026-08-14T18:00:50.488Z"
-  },
-  {
-    "id": "1383072",
-    "title": "Mahavatar Narsimha",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/xFjk2l1SGgvrMYlFIHGiP7BfvEY.jpg",
-    "updatedAt": "2026-08-14T17:56:12.436Z"
   }
 ]
