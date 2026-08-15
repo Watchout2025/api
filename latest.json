@@ -1,39 +1,12 @@
 [
   {
-    "id": "323569",
-    "title": "The Servant Prince",
+    "id": "197067",
+    "title": "Extraordinary Attorney Woo",
     "type": "tv",
     "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/mtPUATykWPMRxpbx29qbohEqcZd.jpg",
-    "updatedAt": "2026-08-15T04:22:52.365Z"
-  },
-  {
-    "id": "306627",
-    "title": "WEIRDO-101",
-    "type": "tv",
-    "season": 1,
-    "episode": 1,
-    "backdrop": "https://image.tmdb.org/t/p/w500/ex4A9H8axYYLzROfzxP86s2mCYy.jpg",
-    "updatedAt": "2026-08-15T04:21:55.732Z"
-  },
-  {
-    "id": "312573",
-    "title": "Class Crush Crisis",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/lHfWCmkL0NWz9qxEvreCenI96qB.jpg",
-    "updatedAt": "2026-08-15T04:21:33.415Z"
-  },
-  {
-    "id": "287496",
-    "title": "The Road to Splendor",
-    "type": "tv",
-    "season": 1,
-    "episode": 14,
-    "backdrop": "https://image.tmdb.org/t/p/w500/sVZNXtwIwGUlAKWkoGoDBszEGpx.jpg",
-    "updatedAt": "2026-08-15T04:21:03.875Z"
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/tmgtlnBnoFvk52xZBO7Z0pTmN9b.jpg",
+    "updatedAt": "2026-08-15T06:12:49.377Z"
   },
   {
     "id": "1403039",
@@ -173,5 +146,32 @@
     "episode": 11,
     "backdrop": "https://image.tmdb.org/t/p/w1280/5VNYmqye22ZTiF4iEQDh9RSd87w.jpg",
     "updatedAt": "2026-08-14T15:07:32.330Z"
+  },
+  {
+    "id": "239830",
+    "title": "Connecting to You",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9wIrbuthzBZci5SUkj0yeXh7gNB.jpg",
+    "updatedAt": "2026-08-14T15:05:28.219Z"
+  },
+  {
+    "id": "331549",
+    "title": "Hanyi Enters the Heart",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "",
+    "updatedAt": "2026-08-14T15:04:24.779Z"
+  },
+  {
+    "id": "331281",
+    "title": "The Outlaw",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9aGUCIc7EqJsGr32x51bvb6RfGV.jpg",
+    "updatedAt": "2026-08-14T15:02:53.271Z"
   }
 ]
