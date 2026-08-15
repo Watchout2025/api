@@ -1,5 +1,13 @@
 [
   {
+    "id": "1284465",
+    "title": "The Death of Robin Hood",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/ugOolHi7NNSoSclURMEcuMAIAl7.jpg",
+    "updatedAt": "2026-08-15T13:54:46.242Z"
+  },
+  {
     "id": "306118",
     "title": "Arafta",
     "type": "tv",
@@ -158,14 +166,5 @@
     "episode": 5,
     "backdrop": "https://image.tmdb.org/t/p/w1280/nAATQr4iewpPA5bEazcJ84UE7hl.jpg",
     "updatedAt": "2026-08-14T16:55:30.375Z"
-  },
-  {
-    "id": "220074",
-    "title": "Flex X Cop",
-    "type": "tv",
-    "season": 2,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/kPHKRCsSkz3kanwmR6XPcms2TCG.jpg",
-    "updatedAt": "2026-08-14T16:55:07.666Z"
   }
 ]
