@@ -1,5 +1,14 @@
 [
   {
+    "id": "247402",
+    "title": "The Great Queen",
+    "type": "tv",
+    "season": 1,
+    "episode": 19,
+    "backdrop": "https://image.tmdb.org/t/p/w500/uxxdP5VhemUHUKkh8A5lhsp9TmR.jpg",
+    "updatedAt": "2026-08-16T15:16:52.547Z"
+  },
+  {
     "id": "331281",
     "title": "The Outlaw",
     "type": "tv",
@@ -138,15 +147,6 @@
     "episode": 24,
     "backdrop": "https://image.tmdb.org/t/p/w500/xjReW7kiCuMZpYyGjOr1PDZcfFE.jpg",
     "updatedAt": "2026-08-16T02:50:56.868Z"
-  },
-  {
-    "id": "247402",
-    "title": "The Great Queen",
-    "type": "tv",
-    "season": 1,
-    "episode": 18,
-    "backdrop": "https://image.tmdb.org/t/p/w500/uxxdP5VhemUHUKkh8A5lhsp9TmR.jpg",
-    "updatedAt": "2026-08-16T02:50:03.995Z"
   },
   {
     "id": "283304",
