@@ -1,5 +1,14 @@
 [
   {
+    "id": "331281",
+    "title": "The Outlaw",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/9aGUCIc7EqJsGr32x51bvb6RfGV.jpg",
+    "updatedAt": "2026-08-16T02:50:30.615Z"
+  },
+  {
     "id": "247402",
     "title": "The Great Queen",
     "type": "tv",
@@ -166,14 +175,5 @@
     "episode": 16,
     "backdrop": "https://image.tmdb.org/t/p/w500/6Qd0zIiV5MUN3ZxBhPVBam67Z0y.jpg",
     "updatedAt": "2026-08-15T16:21:28.137Z"
-  },
-  {
-    "id": "316540",
-    "title": "Bittersweet Love",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/5VNYmqye22ZTiF4iEQDh9RSd87w.jpg",
-    "updatedAt": "2026-08-15T15:10:35.111Z"
   }
 ]
