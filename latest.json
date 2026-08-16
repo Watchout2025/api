@@ -1,5 +1,13 @@
 [
   {
+    "id": "293660",
+    "title": "Deadpool",
+    "type": "movie",
+    "year": "2016",
+    "backdrop": "https://image.tmdb.org/t/p/w500/fY23D9UbnkYvy9HZtF7XliTysp6.jpg",
+    "updatedAt": "2026-08-16T15:05:04.992Z"
+  },
+  {
     "id": "1582770",
     "title": "Dhurandhar: The Revenge",
     "type": "movie",
@@ -163,14 +171,5 @@
     "year": "2011",
     "backdrop": "https://image.tmdb.org/t/p/w500/89AW01kPjrDMBiDHMucHgi6IknO.jpg",
     "updatedAt": "2026-08-16T02:25:15.569Z"
-  },
-  {
-    "id": "303143",
-    "title": "My Royal Nemesis",
-    "type": "tv",
-    "season": 1,
-    "episode": 14,
-    "backdrop": "https://image.tmdb.org/t/p/w500/4ZJ3h2hgpcrF3UMYrycT05T62Hw.jpg",
-    "updatedAt": "2026-08-16T02:21:34.127Z"
   }
 ]
