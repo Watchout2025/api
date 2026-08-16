@@ -1,5 +1,13 @@
 [
   {
+    "id": "1771",
+    "title": "Captain America: The First Avenger",
+    "type": "movie",
+    "year": "2011",
+    "backdrop": "https://image.tmdb.org/t/p/w500/89AW01kPjrDMBiDHMucHgi6IknO.jpg",
+    "updatedAt": "2026-08-16T02:25:15.569Z"
+  },
+  {
     "id": "303143",
     "title": "My Royal Nemesis",
     "type": "tv",
@@ -166,14 +174,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/ugOolHi7NNSoSclURMEcuMAIAl7.jpg",
     "updatedAt": "2026-08-15T13:54:46.242Z"
-  },
-  {
-    "id": "306118",
-    "title": "Arafta",
-    "type": "tv",
-    "season": 2,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3zXQwdeIKxazDMunGwKO6E5FNqz.jpg",
-    "updatedAt": "2026-08-15T11:51:36.648Z"
   }
 ]
