@@ -1,5 +1,14 @@
 [
   {
+    "id": "247402",
+    "title": "The Great Queen",
+    "type": "tv",
+    "season": 1,
+    "episode": 18,
+    "backdrop": "https://image.tmdb.org/t/p/w500/uxxdP5VhemUHUKkh8A5lhsp9TmR.jpg",
+    "updatedAt": "2026-08-16T02:50:03.995Z"
+  },
+  {
     "id": "331549",
     "title": "Hanyi Enters the Heart",
     "type": "tv",
@@ -166,14 +175,5 @@
     "episode": 12,
     "backdrop": "https://image.tmdb.org/t/p/w500/5VNYmqye22ZTiF4iEQDh9RSd87w.jpg",
     "updatedAt": "2026-08-15T15:10:35.111Z"
-  },
-  {
-    "id": "271016",
-    "title": "Mystic Nine",
-    "type": "tv",
-    "season": 1,
-    "episode": 30,
-    "backdrop": "https://image.tmdb.org/t/p/w500/ojnPh1mhuK4zJ9pzG7belf6osJ5.jpg",
-    "updatedAt": "2026-08-15T15:09:51.427Z"
   }
 ]
