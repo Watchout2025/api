@@ -1,5 +1,14 @@
 [
   {
+    "id": "66732",
+    "title": "Stranger Things",
+    "type": "tv",
+    "season": 5,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/89T83vE1ol8wcI879LutCqv7hMa.jpg",
+    "updatedAt": "2026-08-16T13:57:20.652Z"
+  },
+  {
     "id": "260463",
     "title": "Daemons of the Shadow Realm",
     "type": "tv",
@@ -165,14 +174,5 @@
     "episode": 8,
     "backdrop": "https://image.tmdb.org/t/p/w500/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg",
     "updatedAt": "2026-08-15T17:04:55.439Z"
-  },
-  {
-    "id": "296140",
-    "title": "My Bias, My Boss",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/v8O0X6PP7grEaXsPkdiotIx78tA.jpg",
-    "updatedAt": "2026-08-15T16:38:41.512Z"
   }
 ]
