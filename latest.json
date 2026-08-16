@@ -1,5 +1,14 @@
 [
   {
+    "id": "136283",
+    "title": "The Glory",
+    "type": "tv",
+    "season": 1,
+    "episode": 15,
+    "backdrop": "https://image.tmdb.org/t/p/w500/iu5zBMCRKZECC78flUGd10tuQVT.jpg",
+    "updatedAt": "2026-08-16T07:48:36.059Z"
+  },
+  {
     "id": "260463",
     "title": "Daemons of the Shadow Realm",
     "type": "tv",
@@ -166,14 +175,5 @@
     "episode": 42,
     "backdrop": "https://image.tmdb.org/t/p/w500/mFKys64gbDQrFqwUheGwXQwo2JK.jpg",
     "updatedAt": "2026-08-15T16:26:37.808Z"
-  },
-  {
-    "id": "285992",
-    "title": "The Fire",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/6oQrmhUMiN5B7xQ4b9yrIQtcWpL.jpg",
-    "updatedAt": "2026-08-15T16:25:20.562Z"
   }
 ]
