@@ -1,5 +1,13 @@
 [
   {
+    "id": "1582770",
+    "title": "Dhurandhar: The Revenge",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/Au9YrJbzIjv53LXSDt7zazPD86R.jpg",
+    "updatedAt": "2026-08-16T14:18:59.102Z"
+  },
+  {
     "id": "287496",
     "title": "The Road to Splendor",
     "type": "tv",
@@ -164,14 +172,5 @@
     "episode": 14,
     "backdrop": "https://image.tmdb.org/t/p/w500/4ZJ3h2hgpcrF3UMYrycT05T62Hw.jpg",
     "updatedAt": "2026-08-16T02:21:34.127Z"
-  },
-  {
-    "id": "238084",
-    "title": "Trigger",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/LocigwVR8yda0xxpTBQh3XyaKQ.jpg",
-    "updatedAt": "2026-08-15T17:15:50.929Z"
   }
 ]
