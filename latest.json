@@ -1,5 +1,13 @@
 [
   {
+    "id": "4513",
+    "title": "30 Days of Night",
+    "type": "movie",
+    "year": "2007",
+    "backdrop": "https://image.tmdb.org/t/p/w500/qvhVxzYgfJTD33XbHlMAhSLT1Yj.jpg",
+    "updatedAt": "2026-08-16T14:08:30.437Z"
+  },
+  {
     "id": "66732",
     "title": "Stranger Things",
     "type": "tv",
@@ -165,14 +173,5 @@
     "episode": 10,
     "backdrop": "https://image.tmdb.org/t/p/w500/LocigwVR8yda0xxpTBQh3XyaKQ.jpg",
     "updatedAt": "2026-08-15T17:15:50.929Z"
-  },
-  {
-    "id": "119051",
-    "title": "Wednesday",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg",
-    "updatedAt": "2026-08-15T17:04:55.439Z"
   }
 ]
