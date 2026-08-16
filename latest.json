@@ -1,5 +1,14 @@
 [
   {
+    "id": "330440",
+    "title": "Night Tales",
+    "type": "tv",
+    "season": 1,
+    "episode": 24,
+    "backdrop": "https://image.tmdb.org/t/p/w500/xjReW7kiCuMZpYyGjOr1PDZcfFE.jpg",
+    "updatedAt": "2026-08-16T02:50:56.868Z"
+  },
+  {
     "id": "331281",
     "title": "The Outlaw",
     "type": "tv",
@@ -166,14 +175,5 @@
     "episode": 9,
     "backdrop": "https://image.tmdb.org/t/p/w500/9jdReHRO3tVsgIdDcY952FA5nfF.jpg",
     "updatedAt": "2026-08-15T16:22:17.122Z"
-  },
-  {
-    "id": "231280",
-    "title": "Good Boy",
-    "type": "tv",
-    "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/6Qd0zIiV5MUN3ZxBhPVBam67Z0y.jpg",
-    "updatedAt": "2026-08-15T16:21:28.137Z"
   }
 ]
