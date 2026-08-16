@@ -1,5 +1,14 @@
 [
   {
+    "id": "303143",
+    "title": "My Royal Nemesis",
+    "type": "tv",
+    "season": 1,
+    "episode": 14,
+    "backdrop": "https://image.tmdb.org/t/p/w500/4ZJ3h2hgpcrF3UMYrycT05T62Hw.jpg",
+    "updatedAt": "2026-08-16T02:21:34.127Z"
+  },
+  {
     "id": "238084",
     "title": "Trigger",
     "type": "tv",
@@ -166,14 +175,5 @@
     "episode": 6,
     "backdrop": "https://image.tmdb.org/t/p/w500/3zXQwdeIKxazDMunGwKO6E5FNqz.jpg",
     "updatedAt": "2026-08-15T11:51:36.648Z"
-  },
-  {
-    "id": "270603",
-    "title": "The Exiled Heavy Knight Knows How to Game the System",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/lJJpL0ZtFa1fkudBAkyWBcjT8Zc.jpg",
-    "updatedAt": "2026-08-15T11:43:30.423Z"
   }
 ]
