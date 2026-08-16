@@ -1,5 +1,14 @@
 [
   {
+    "id": "260463",
+    "title": "Daemons of the Shadow Realm",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/nUZECCEQUCtu1WKW1Gll9Ba8V2J.jpg",
+    "updatedAt": "2026-08-16T04:44:32.123Z"
+  },
+  {
     "id": "298610",
     "title": "Spooky in Love",
     "type": "tv",
@@ -166,14 +175,5 @@
     "episode": 6,
     "backdrop": "https://image.tmdb.org/t/p/w500/6oQrmhUMiN5B7xQ4b9yrIQtcWpL.jpg",
     "updatedAt": "2026-08-15T16:25:20.562Z"
-  },
-  {
-    "id": "315083",
-    "title": "The Edge of Horizon",
-    "type": "tv",
-    "season": 1,
-    "episode": 9,
-    "backdrop": "https://image.tmdb.org/t/p/w500/g56lYLkQE9z5gTNZjiwpYAoVWON.jpg",
-    "updatedAt": "2026-08-15T16:24:56.309Z"
   }
 ]
