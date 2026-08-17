@@ -1,5 +1,14 @@
 [
   {
+    "id": "299158",
+    "title": "LOVEx3",
+    "type": "tv",
+    "season": 1,
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cSL9gSe8F0NaFVpeMZQ8ae7aCtz.jpg",
+    "updatedAt": "2026-08-17T12:32:36.133Z"
+  },
+  {
     "id": "1582770",
     "title": "Dhurandhar: The Revenge",
     "type": "movie",
@@ -166,13 +175,5 @@
     "episode": 18,
     "backdrop": "https://image.tmdb.org/t/p/w500/6xVKvVhzCSfJzdxzUIgaw86vLjU.jpg",
     "updatedAt": "2026-08-16T15:15:29.028Z"
-  },
-  {
-    "id": "293660",
-    "title": "Deadpool",
-    "type": "movie",
-    "year": "2016",
-    "backdrop": "https://image.tmdb.org/t/p/w500/fY23D9UbnkYvy9HZtF7XliTysp6.jpg",
-    "updatedAt": "2026-08-16T15:05:04.992Z"
   }
 ]
