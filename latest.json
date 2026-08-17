@@ -1,5 +1,14 @@
 [
   {
+    "id": "287496",
+    "title": "The Road to Splendor",
+    "type": "tv",
+    "season": 1,
+    "episode": 19,
+    "backdrop": "https://image.tmdb.org/t/p/w500/zyAFGC97834c2Ld4xPY02uacdQk.jpg",
+    "updatedAt": "2026-08-17T17:59:49.742Z"
+  },
+  {
     "id": "119051",
     "title": "Wednesday",
     "type": "tv",
@@ -43,15 +52,6 @@
     "episode": 9,
     "backdrop": "https://image.tmdb.org/t/p/w500/laZKQVzGS2quLi1iEAbuA6IxYk8.jpg",
     "updatedAt": "2026-08-17T15:59:49.866Z"
-  },
-  {
-    "id": "287496",
-    "title": "The Road to Splendor",
-    "type": "tv",
-    "season": 1,
-    "episode": 18,
-    "backdrop": "https://image.tmdb.org/t/p/w500/zyAFGC97834c2Ld4xPY02uacdQk.jpg",
-    "updatedAt": "2026-08-17T15:56:51.342Z"
   },
   {
     "id": "328217",
