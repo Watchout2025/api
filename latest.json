@@ -1,5 +1,13 @@
 [
   {
+    "id": "1582770",
+    "title": "Dhurandhar: The Revenge",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/Au9YrJbzIjv53LXSDt7zazPD86R.jpg",
+    "updatedAt": "2026-08-17T11:57:23.933Z"
+  },
+  {
     "id": "127529",
     "title": "Bloodhounds",
     "type": "tv",
@@ -104,14 +112,6 @@
     "episode": 9,
     "backdrop": "https://image.tmdb.org/t/p/w500/9imXbIg5ojdg9wJySU5WfgymgdA.jpg",
     "updatedAt": "2026-08-16T17:34:07.334Z"
-  },
-  {
-    "id": "1582770",
-    "title": "Dhurandhar: The Revenge",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/Au9YrJbzIjv53LXSDt7zazPD86R.jpg",
-    "updatedAt": "2026-08-16T16:26:08.514Z"
   },
   {
     "id": "306629",
