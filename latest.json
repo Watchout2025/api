@@ -1,5 +1,14 @@
 [
   {
+    "id": "95350",
+    "title": "Lanterns",
+    "type": "tv",
+    "season": 1,
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/62P9tZ8Gyq64EIRMs4ZW9a9L3AV.jpg",
+    "updatedAt": "2026-08-17T09:48:45.629Z"
+  },
+  {
     "id": "1429520",
     "title": "Sidelined 2: Intercepted",
     "type": "movie",
@@ -165,13 +174,5 @@
     "episode": 17,
     "backdrop": "https://image.tmdb.org/t/p/w500/zyAFGC97834c2Ld4xPY02uacdQk.jpg",
     "updatedAt": "2026-08-16T14:09:16.143Z"
-  },
-  {
-    "id": "4513",
-    "title": "30 Days of Night",
-    "type": "movie",
-    "year": "2007",
-    "backdrop": "https://image.tmdb.org/t/p/w500/qvhVxzYgfJTD33XbHlMAhSLT1Yj.jpg",
-    "updatedAt": "2026-08-16T14:08:30.437Z"
   }
 ]
