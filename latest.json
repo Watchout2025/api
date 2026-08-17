@@ -1,5 +1,14 @@
 [
   {
+    "id": "312266",
+    "title": "Hanaori-san Still Wants to Fight in the Next Life",
+    "type": "tv",
+    "season": 1,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/7N3E8iWgZvrYr5TfaEPN2FSKq0H.jpg",
+    "updatedAt": "2026-08-17T08:07:12.140Z"
+  },
+  {
     "id": "153217",
     "title": "Sparks of Tomorrow",
     "type": "tv",
@@ -165,14 +174,5 @@
     "episode": 8,
     "backdrop": "https://image.tmdb.org/t/p/w500/89T83vE1ol8wcI879LutCqv7hMa.jpg",
     "updatedAt": "2026-08-16T13:57:20.652Z"
-  },
-  {
-    "id": "260463",
-    "title": "Daemons of the Shadow Realm",
-    "type": "tv",
-    "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/nUZECCEQUCtu1WKW1Gll9Ba8V2J.jpg",
-    "updatedAt": "2026-08-16T08:56:24.624Z"
   }
 ]
