@@ -1,5 +1,13 @@
 [
   {
+    "id": "1429520",
+    "title": "Sidelined 2: Intercepted",
+    "type": "movie",
+    "year": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w500/tYT4DdVw1utDPE4QIsBHxlKHai8.jpg",
+    "updatedAt": "2026-08-17T08:31:01.729Z"
+  },
+  {
     "id": "312266",
     "title": "Hanaori-san Still Wants to Fight in the Next Life",
     "type": "tv",
@@ -165,14 +173,5 @@
     "year": "2007",
     "backdrop": "https://image.tmdb.org/t/p/w500/qvhVxzYgfJTD33XbHlMAhSLT1Yj.jpg",
     "updatedAt": "2026-08-16T14:08:30.437Z"
-  },
-  {
-    "id": "66732",
-    "title": "Stranger Things",
-    "type": "tv",
-    "season": 5,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/89T83vE1ol8wcI879LutCqv7hMa.jpg",
-    "updatedAt": "2026-08-16T13:57:20.652Z"
   }
 ]
