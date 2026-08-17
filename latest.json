@@ -1,5 +1,14 @@
 [
   {
+    "id": "287496",
+    "title": "The Road to Splendor",
+    "type": "tv",
+    "season": 1,
+    "episode": 18,
+    "backdrop": "https://image.tmdb.org/t/p/w500/zyAFGC97834c2Ld4xPY02uacdQk.jpg",
+    "updatedAt": "2026-08-17T15:56:51.342Z"
+  },
+  {
     "id": "328217",
     "title": "Legacy",
     "type": "tv",
@@ -165,14 +174,5 @@
     "episode": 9,
     "backdrop": "https://image.tmdb.org/t/p/w500/9imXbIg5ojdg9wJySU5WfgymgdA.jpg",
     "updatedAt": "2026-08-16T17:34:07.334Z"
-  },
-  {
-    "id": "306629",
-    "title": "Match Point",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/jAeJPXdX7XCtgFbRDj7vCTKqw3f.jpg",
-    "updatedAt": "2026-08-16T15:17:31.429Z"
   }
 ]
