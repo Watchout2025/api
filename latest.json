@@ -1,5 +1,13 @@
 [
   {
+    "id": "1410937",
+    "title": "Balan - The Boy",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/cb4b4K3E2jBGaSjkuIkZHJHmoWG.jpg",
+    "updatedAt": "2026-08-17T12:01:23.644Z"
+  },
+  {
     "id": "1582770",
     "title": "Dhurandhar: The Revenge",
     "type": "movie",
@@ -95,14 +103,6 @@
     "episode": 130,
     "backdrop": "https://image.tmdb.org/t/p/w500/oOl2v17GpwEpALP8KMyImErJcH6.jpg",
     "updatedAt": "2026-08-17T05:47:54.014Z"
-  },
-  {
-    "id": "1410937",
-    "title": "Balan - The Boy",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/cb4b4K3E2jBGaSjkuIkZHJHmoWG.jpg",
-    "updatedAt": "2026-08-17T05:05:22.853Z"
   },
   {
     "id": "223326",
