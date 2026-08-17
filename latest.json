@@ -1,5 +1,13 @@
 [
   {
+    "id": "315635",
+    "title": "Spider-Man: Homecoming",
+    "type": "movie",
+    "year": "2017",
+    "backdrop": "https://image.tmdb.org/t/p/w500/7PhC0zGZNRWNQSXJz9Y3kAooGer.jpg",
+    "updatedAt": "2026-08-17T13:04:33.989Z"
+  },
+  {
     "id": "263037",
     "title": "Snowy Night Timeless Love",
     "type": "tv",
@@ -166,14 +174,5 @@
     "episode": 7,
     "backdrop": "https://image.tmdb.org/t/p/w500/bxwVTTX5ayJaNGM4ajyjPtTeXOS.jpg",
     "updatedAt": "2026-08-16T15:17:12.424Z"
-  },
-  {
-    "id": "247402",
-    "title": "The Great Queen",
-    "type": "tv",
-    "season": 1,
-    "episode": 19,
-    "backdrop": "https://image.tmdb.org/t/p/w500/uxxdP5VhemUHUKkh8A5lhsp9TmR.jpg",
-    "updatedAt": "2026-08-16T15:16:52.547Z"
   }
 ]
