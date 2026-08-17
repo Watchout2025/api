@@ -1,5 +1,14 @@
 [
   {
+    "id": "328217",
+    "title": "Legacy",
+    "type": "tv",
+    "season": 1,
+    "episode": 9,
+    "backdrop": "https://image.tmdb.org/t/p/w500/nWJf8wzIEPhrKthM1dHzhiI4oq7.jpg",
+    "updatedAt": "2026-08-17T15:02:55.256Z"
+  },
+  {
     "id": "315635",
     "title": "Spider-Man: Homecoming",
     "type": "movie",
@@ -165,14 +174,5 @@
     "episode": 4,
     "backdrop": "https://image.tmdb.org/t/p/w500/jAeJPXdX7XCtgFbRDj7vCTKqw3f.jpg",
     "updatedAt": "2026-08-16T15:17:31.429Z"
-  },
-  {
-    "id": "310326",
-    "title": "Love on the Menu",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/bxwVTTX5ayJaNGM4ajyjPtTeXOS.jpg",
-    "updatedAt": "2026-08-16T15:17:12.424Z"
   }
 ]
