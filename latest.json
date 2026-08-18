@@ -6,7 +6,15 @@
     "season": 1,
     "episode": 12,
     "backdrop": "https://image.tmdb.org/t/p/w500/9VYzoSa3KVKS6o19CQePnUk3I7T.jpg",
-    "updatedAt": "2026-08-18T09:15:31.007Z"
+    "updatedAt": "2026-08-18T09:32:42.330Z"
+  },
+  {
+    "id": "1280450",
+    "title": "Stolen Girl",
+    "type": "movie",
+    "year": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w500/uWIpSRVkaofixcWwSkZwi7e7OqN.jpg",
+    "updatedAt": "2026-08-18T09:06:36.642Z"
   },
   {
     "id": "1375646",
@@ -164,14 +172,5 @@
     "episode": 9,
     "backdrop": "https://image.tmdb.org/t/p/w500/nWJf8wzIEPhrKthM1dHzhiI4oq7.jpg",
     "updatedAt": "2026-08-17T15:03:23.635Z"
-  },
-  {
-    "id": "263037",
-    "title": "Snowy Night Timeless Love",
-    "type": "tv",
-    "season": 1,
-    "episode": 32,
-    "backdrop": "https://image.tmdb.org/t/p/w500/y4P3F830H8y2YCKW3BRHD85YHq.jpg",
-    "updatedAt": "2026-08-17T12:43:29.815Z"
   }
 ]
