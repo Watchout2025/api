@@ -1,5 +1,13 @@
 [
   {
+    "id": "840",
+    "title": "Close Encounters of the Third Kind",
+    "type": "movie",
+    "year": "1977",
+    "backdrop": "https://image.tmdb.org/t/p/w500/iYtvvkuBo6pxLdoIqZZxN97vDzW.jpg",
+    "updatedAt": "2026-08-18T13:16:29.188Z"
+  },
+  {
     "id": "24428",
     "title": "The Avengers",
     "type": "movie",
@@ -161,14 +169,5 @@
     "episode": 8,
     "backdrop": "https://image.tmdb.org/t/p/w500/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg",
     "updatedAt": "2026-08-17T17:48:52.383Z"
-  },
-  {
-    "id": "296140",
-    "title": "My Bias, My Boss",
-    "type": "tv",
-    "season": 1,
-    "episode": 5,
-    "backdrop": "https://image.tmdb.org/t/p/w500/v8O0X6PP7grEaXsPkdiotIx78tA.jpg",
-    "updatedAt": "2026-08-17T16:01:48.225Z"
   }
 ]
