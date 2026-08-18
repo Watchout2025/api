@@ -1,5 +1,13 @@
 [
   {
+    "id": "1504358",
+    "title": "Don't Say Good Luck",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/kEjXp62o7EWQad8O37urtAs1M9Q.jpg",
+    "updatedAt": "2026-08-18T03:05:22.533Z"
+  },
+  {
     "id": "279323",
     "title": "The East Palace",
     "type": "tv",
@@ -166,13 +174,5 @@
     "episode": 1,
     "backdrop": "https://image.tmdb.org/t/p/w500/62P9tZ8Gyq64EIRMs4ZW9a9L3AV.jpg",
     "updatedAt": "2026-08-17T09:48:45.629Z"
-  },
-  {
-    "id": "1429520",
-    "title": "Sidelined 2: Intercepted",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/tYT4DdVw1utDPE4QIsBHxlKHai8.jpg",
-    "updatedAt": "2026-08-17T08:31:01.729Z"
   }
 ]
