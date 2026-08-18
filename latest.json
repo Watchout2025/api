@@ -1,5 +1,14 @@
 [
   {
+    "id": "127529",
+    "title": "Bloodhounds",
+    "type": "tv",
+    "season": 2,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/iHHpiZ325jH7V59IajdBhANOMoB.jpg",
+    "updatedAt": "2026-08-18T14:15:03.393Z"
+  },
+  {
     "id": "1408162",
     "title": "Vishwanath & Sons",
     "type": "movie",
@@ -158,14 +167,5 @@
     "episode": 19,
     "backdrop": "https://image.tmdb.org/t/p/w500/6xVKvVhzCSfJzdxzUIgaw86vLjU.jpg",
     "updatedAt": "2026-08-17T18:02:07.524Z"
-  },
-  {
-    "id": "323990",
-    "title": "Are the Sexy Buttocks Not Good?",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/r0ZamLJpQKw85mSWdirQpehFLWE.jpg",
-    "updatedAt": "2026-08-17T18:01:30.160Z"
   }
 ]
