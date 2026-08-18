@@ -1,5 +1,13 @@
 [
   {
+    "id": "1375646",
+    "title": "Colony",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/mXhgb6WzczIJPOJSlY2hhUZuwc7.jpg",
+    "updatedAt": "2026-08-18T07:48:47.179Z"
+  },
+  {
     "id": "300626",
     "title": "Kiteretsu Daihyakka",
     "type": "tv",
@@ -165,14 +173,5 @@
     "episode": 10,
     "backdrop": "https://image.tmdb.org/t/p/w500/lBdIGdikJ0eWb1jNYtrP5GK9aIq.jpg",
     "updatedAt": "2026-08-17T12:35:18.016Z"
-  },
-  {
-    "id": "284822",
-    "title": "Your Third",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/ubLFqGZFxaqPtkqyyIg8gQEmeSw.jpg",
-    "updatedAt": "2026-08-17T12:33:29.207Z"
   }
 ]
