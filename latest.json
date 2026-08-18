@@ -1,5 +1,14 @@
 [
   {
+    "id": "328217",
+    "title": "Legacy",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/nWJf8wzIEPhrKthM1dHzhiI4oq7.jpg",
+    "updatedAt": "2026-08-18T15:25:55.900Z"
+  },
+  {
     "id": "298168",
     "title": "The Shards",
     "type": "tv",
@@ -159,13 +168,5 @@
     "episode": 11,
     "backdrop": "https://image.tmdb.org/t/p/w500/uG9ufzdzn5dQWlpsFHQWNKLSpsM.jpg",
     "updatedAt": "2026-08-18T03:10:37.484Z"
-  },
-  {
-    "id": "1504358",
-    "title": "Don't Say Good Luck",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/kEjXp62o7EWQad8O37urtAs1M9Q.jpg",
-    "updatedAt": "2026-08-18T03:05:22.533Z"
   }
 ]
