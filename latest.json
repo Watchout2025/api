@@ -1,5 +1,14 @@
 [
   {
+    "id": "300626",
+    "title": "Kiteretsu Daihyakka",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/qpJEF3la8zPN1OqdeQOPx1OwMLj.jpg",
+    "updatedAt": "2026-08-18T06:21:36.555Z"
+  },
+  {
     "id": "297712",
     "title": "Fifties Professionals",
     "type": "tv",
@@ -165,14 +174,5 @@
     "episode": 4,
     "backdrop": "https://image.tmdb.org/t/p/w500/ubLFqGZFxaqPtkqyyIg8gQEmeSw.jpg",
     "updatedAt": "2026-08-17T12:33:29.207Z"
-  },
-  {
-    "id": "299158",
-    "title": "LOVEx3",
-    "type": "tv",
-    "season": 1,
-    "episode": 1,
-    "backdrop": "https://image.tmdb.org/t/p/w500/cSL9gSe8F0NaFVpeMZQ8ae7aCtz.jpg",
-    "updatedAt": "2026-08-17T12:32:36.133Z"
   }
 ]
