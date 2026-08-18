@@ -1,5 +1,14 @@
 [
   {
+    "id": "279323",
+    "title": "The East Palace",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/lVhOlbw8NapzXtkEURlpugFw1ef.jpg",
+    "updatedAt": "2026-08-18T02:53:04.519Z"
+  },
+  {
     "id": "315635",
     "title": "Spider-Man: Homecoming",
     "type": "movie",
@@ -165,14 +174,5 @@
     "year": "2025",
     "backdrop": "https://image.tmdb.org/t/p/w500/tYT4DdVw1utDPE4QIsBHxlKHai8.jpg",
     "updatedAt": "2026-08-17T08:31:01.729Z"
-  },
-  {
-    "id": "312266",
-    "title": "Hanaori-san Still Wants to Fight in the Next Life",
-    "type": "tv",
-    "season": 1,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w500/7N3E8iWgZvrYr5TfaEPN2FSKq0H.jpg",
-    "updatedAt": "2026-08-17T08:07:12.140Z"
   }
 ]
