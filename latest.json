@@ -1,5 +1,13 @@
 [
   {
+    "id": "770906",
+    "title": "Salaar: Part 1 - Ceasefire",
+    "type": "movie",
+    "year": "2023",
+    "backdrop": "https://image.tmdb.org/t/p/w500/gk0xI59yHuunFJXkln9Mhpw26Tr.jpg",
+    "updatedAt": "2026-08-18T03:57:48.043Z"
+  },
+  {
     "id": "109445",
     "title": "Frozen",
     "type": "movie",
@@ -164,14 +172,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/cb4b4K3E2jBGaSjkuIkZHJHmoWG.jpg",
     "updatedAt": "2026-08-17T12:01:23.644Z"
-  },
-  {
-    "id": "127529",
-    "title": "Bloodhounds",
-    "type": "tv",
-    "season": 2,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/iHHpiZ325jH7V59IajdBhANOMoB.jpg",
-    "updatedAt": "2026-08-17T11:48:39.729Z"
   }
 ]
