@@ -1,5 +1,13 @@
 [
   {
+    "id": "1408162",
+    "title": "Vishwanath & Sons",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/sd0RKOpnqESIWxU3sZwZhBsgAHl.jpg",
+    "updatedAt": "2026-08-18T14:12:50.163Z"
+  },
+  {
     "id": "1748247",
     "title": "Jumper",
     "type": "movie",
@@ -159,14 +167,5 @@
     "episode": 7,
     "backdrop": "https://image.tmdb.org/t/p/w500/r0ZamLJpQKw85mSWdirQpehFLWE.jpg",
     "updatedAt": "2026-08-17T18:01:30.160Z"
-  },
-  {
-    "id": "287496",
-    "title": "The Road to Splendor",
-    "type": "tv",
-    "season": 1,
-    "episode": 19,
-    "backdrop": "https://image.tmdb.org/t/p/w500/zyAFGC97834c2Ld4xPY02uacdQk.jpg",
-    "updatedAt": "2026-08-17T17:59:49.742Z"
   }
 ]
