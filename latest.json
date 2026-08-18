@@ -1,5 +1,13 @@
 [
   {
+    "id": "1748247",
+    "title": "Jumper",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/webN6O1scfrvGjkVX8FuXpH5gl0.jpg",
+    "updatedAt": "2026-08-18T13:19:42.690Z"
+  },
+  {
     "id": "840",
     "title": "Close Encounters of the Third Kind",
     "type": "movie",
@@ -160,14 +168,5 @@
     "episode": 19,
     "backdrop": "https://image.tmdb.org/t/p/w500/zyAFGC97834c2Ld4xPY02uacdQk.jpg",
     "updatedAt": "2026-08-17T17:59:49.742Z"
-  },
-  {
-    "id": "119051",
-    "title": "Wednesday",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg",
-    "updatedAt": "2026-08-17T17:48:52.383Z"
   }
 ]
