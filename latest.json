@@ -1,5 +1,13 @@
 [
   {
+    "id": "109445",
+    "title": "Frozen",
+    "type": "movie",
+    "year": "2013",
+    "backdrop": "https://image.tmdb.org/t/p/w500/irwWmcOOZ0xaXlvhiJynFKmFbnE.jpg",
+    "updatedAt": "2026-08-18T03:31:53.034Z"
+  },
+  {
     "id": "301412",
     "title": "Dream to You",
     "type": "tv",
@@ -165,14 +173,5 @@
     "episode": 7,
     "backdrop": "https://image.tmdb.org/t/p/w500/iHHpiZ325jH7V59IajdBhANOMoB.jpg",
     "updatedAt": "2026-08-17T11:48:39.729Z"
-  },
-  {
-    "id": "95350",
-    "title": "Lanterns",
-    "type": "tv",
-    "season": 1,
-    "episode": 1,
-    "backdrop": "https://image.tmdb.org/t/p/w500/62P9tZ8Gyq64EIRMs4ZW9a9L3AV.jpg",
-    "updatedAt": "2026-08-17T09:48:45.629Z"
   }
 ]
