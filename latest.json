@@ -1,5 +1,13 @@
 [
   {
+    "id": "453395",
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "type": "movie",
+    "year": "2022",
+    "backdrop": "https://image.tmdb.org/t/p/w500/shDYfjtNFyZmf7uZNtOLaI6iJXM.jpg",
+    "updatedAt": "2026-08-18T16:07:47.208Z"
+  },
+  {
     "id": "306953",
     "title": "Mr.Kill",
     "type": "tv",
@@ -161,13 +169,5 @@
     "episode": 10,
     "backdrop": "https://image.tmdb.org/t/p/w500/rX7i0nH4skN0xv7NAV0PAWPV7Bh.jpg",
     "updatedAt": "2026-08-18T05:20:44.047Z"
-  },
-  {
-    "id": "770906",
-    "title": "Salaar: Part 1 - Ceasefire",
-    "type": "movie",
-    "year": "2023",
-    "backdrop": "https://image.tmdb.org/t/p/w500/gk0xI59yHuunFJXkln9Mhpw26Tr.jpg",
-    "updatedAt": "2026-08-18T03:57:48.043Z"
   }
 ]
