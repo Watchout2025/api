@@ -1,5 +1,14 @@
 [
   {
+    "id": "296140",
+    "title": "My Bias, My Boss",
+    "type": "tv",
+    "season": 1,
+    "episode": 5,
+    "backdrop": "https://image.tmdb.org/t/p/w500/v8O0X6PP7grEaXsPkdiotIx78tA.jpg",
+    "updatedAt": "2026-08-18T14:28:41.277Z"
+  },
+  {
     "id": "127529",
     "title": "Bloodhounds",
     "type": "tv",
@@ -158,14 +167,5 @@
     "year": "2017",
     "backdrop": "https://image.tmdb.org/t/p/w500/7PhC0zGZNRWNQSXJz9Y3kAooGer.jpg",
     "updatedAt": "2026-08-18T02:37:58.520Z"
-  },
-  {
-    "id": "305830",
-    "title": "Someone, Someday",
-    "type": "tv",
-    "season": 1,
-    "episode": 19,
-    "backdrop": "https://image.tmdb.org/t/p/w500/6xVKvVhzCSfJzdxzUIgaw86vLjU.jpg",
-    "updatedAt": "2026-08-17T18:02:07.524Z"
   }
 ]
