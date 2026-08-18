@@ -1,5 +1,14 @@
 [
   {
+    "id": "297712",
+    "title": "Fifties Professionals",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/fTxQwhj8f6AVLLy4wStNrSvphxf.jpg",
+    "updatedAt": "2026-08-18T06:12:38.930Z"
+  },
+  {
     "id": "281016",
     "title": "Boyfriend on Demand",
     "type": "tv",
@@ -165,13 +174,5 @@
     "episode": 1,
     "backdrop": "https://image.tmdb.org/t/p/w500/cSL9gSe8F0NaFVpeMZQ8ae7aCtz.jpg",
     "updatedAt": "2026-08-17T12:32:36.133Z"
-  },
-  {
-    "id": "1582770",
-    "title": "Dhurandhar: The Revenge",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/Au9YrJbzIjv53LXSDt7zazPD86R.jpg",
-    "updatedAt": "2026-08-17T12:09:17.245Z"
   }
 ]
