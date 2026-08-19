@@ -1,5 +1,13 @@
 [
   {
+    "id": "1610840",
+    "title": "Godari Gattupaina",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/1KeaFgD2u9kEpsP2xs1kXS9cTPQ.jpg",
+    "updatedAt": "2026-08-19T03:22:06.661Z"
+  },
+  {
     "id": "1399",
     "title": "Game of Thrones",
     "type": "tv",
@@ -159,14 +167,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/mXhgb6WzczIJPOJSlY2hhUZuwc7.jpg",
     "updatedAt": "2026-08-18T07:48:47.179Z"
-  },
-  {
-    "id": "300626",
-    "title": "Kiteretsu Daihyakka",
-    "type": "tv",
-    "season": 2,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/qpJEF3la8zPN1OqdeQOPx1OwMLj.jpg",
-    "updatedAt": "2026-08-18T06:27:55.682Z"
   }
 ]
