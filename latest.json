@@ -1,5 +1,14 @@
 [
   {
+    "id": "46648",
+    "title": "True Detective",
+    "type": "tv",
+    "season": 4,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/c27jL84jaLZVLCTaxY51rDLHYiq.jpg",
+    "updatedAt": "2026-08-19T11:34:47.195Z"
+  },
+  {
     "id": "94664",
     "title": "Mushoku Tensei: Jobless Reincarnation",
     "type": "tv",
@@ -160,14 +169,5 @@
     "year": "2003",
     "backdrop": "https://image.tmdb.org/t/p/w500/ebfl6vwnD3Pm2Gar8ciYSyiub3j.jpg",
     "updatedAt": "2026-08-18T14:35:25.775Z"
-  },
-  {
-    "id": "127529",
-    "title": "Bloodhounds",
-    "type": "tv",
-    "season": 2,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/iHHpiZ325jH7V59IajdBhANOMoB.jpg",
-    "updatedAt": "2026-08-18T14:15:03.393Z"
   }
 ]
