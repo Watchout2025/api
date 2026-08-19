@@ -1,5 +1,14 @@
 [
   {
+    "id": "1399",
+    "title": "Game of Thrones",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hRb50fOGcXic3NO6kUnL9hRXwsg.jpg",
+    "updatedAt": "2026-08-19T01:58:47.551Z"
+  },
+  {
     "id": "1726",
     "title": "Iron Man",
     "type": "movie",
@@ -159,14 +168,5 @@
     "episode": 12,
     "backdrop": "https://image.tmdb.org/t/p/w500/qpJEF3la8zPN1OqdeQOPx1OwMLj.jpg",
     "updatedAt": "2026-08-18T06:27:55.682Z"
-  },
-  {
-    "id": "297712",
-    "title": "Fifties Professionals",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/fTxQwhj8f6AVLLy4wStNrSvphxf.jpg",
-    "updatedAt": "2026-08-18T06:12:38.930Z"
   }
 ]
