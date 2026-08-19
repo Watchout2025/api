@@ -1,5 +1,14 @@
 [
   {
+    "id": "85518",
+    "title": "Khatron Ke Khiladi",
+    "type": "tv",
+    "season": 15,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/uDnAERbDb18p0jVB4UlfIHbuBGE.jpg",
+    "updatedAt": "2026-08-19T08:28:27.087Z"
+  },
+  {
     "id": "108978",
     "title": "Reacher",
     "type": "tv",
@@ -160,13 +169,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/sd0RKOpnqESIWxU3sZwZhBsgAHl.jpg",
     "updatedAt": "2026-08-18T14:12:50.163Z"
-  },
-  {
-    "id": "1748247",
-    "title": "Jumper",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/webN6O1scfrvGjkVX8FuXpH5gl0.jpg",
-    "updatedAt": "2026-08-18T13:19:42.690Z"
   }
 ]
