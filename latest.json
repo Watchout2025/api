@@ -1,5 +1,13 @@
 [
   {
+    "id": "1434102",
+    "title": "Heartin",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/ufVCGoqEHOCahpXwDguGIq8CxAP.jpg",
+    "updatedAt": "2026-08-19T08:15:51.265Z"
+  },
+  {
     "id": "299534",
     "title": "Avengers: Endgame",
     "type": "movie",
@@ -159,14 +167,5 @@
     "year": "2012",
     "backdrop": "https://image.tmdb.org/t/p/w500/huOmAVZBfXPMIRwjFmyGzZLojHR.jpg",
     "updatedAt": "2026-08-18T13:15:22.220Z"
-  },
-  {
-    "id": "93811",
-    "title": "Into the Night",
-    "type": "tv",
-    "season": 2,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/8rKZ3Fwac97TlJPhqPJxJJU2hw3.jpg",
-    "updatedAt": "2026-08-18T13:14:00.736Z"
   }
 ]
