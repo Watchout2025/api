@@ -1,5 +1,14 @@
 [
   {
+    "id": "93846",
+    "title": "The King: Eternal Monarch",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/9YUmiZVDFyRvWzYreeKQ1aQwAnm.jpg",
+    "updatedAt": "2026-08-19T05:56:47.679Z"
+  },
+  {
     "id": "1610840",
     "title": "Godari Gattupaina",
     "type": "movie",
@@ -159,13 +168,5 @@
     "year": "2025",
     "backdrop": "https://image.tmdb.org/t/p/w500/uWIpSRVkaofixcWwSkZwi7e7OqN.jpg",
     "updatedAt": "2026-08-18T09:06:36.642Z"
-  },
-  {
-    "id": "1375646",
-    "title": "Colony",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/mXhgb6WzczIJPOJSlY2hhUZuwc7.jpg",
-    "updatedAt": "2026-08-18T07:48:47.179Z"
   }
 ]
