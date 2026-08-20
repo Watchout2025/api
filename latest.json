@@ -1,5 +1,13 @@
 [
   {
+    "id": "1577326",
+    "title": "Srinivasa Mangapuram",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/lOGjVIXrqj6udJAS1sEpwRTkNsZ.jpg",
+    "updatedAt": "2026-08-20T07:59:39.549Z"
+  },
+  {
     "id": "251608",
     "title": "Bad Thoughts",
     "type": "tv",
@@ -160,14 +168,5 @@
     "year": "2022",
     "backdrop": "https://image.tmdb.org/t/p/w500/shDYfjtNFyZmf7uZNtOLaI6iJXM.jpg",
     "updatedAt": "2026-08-18T16:07:47.208Z"
-  },
-  {
-    "id": "306953",
-    "title": "Mr.Kill",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/zDLbi3i23b55zpCwxPqv2Zu7h5G.jpg",
-    "updatedAt": "2026-08-18T15:29:11.927Z"
   }
 ]
