@@ -1,5 +1,13 @@
 [
   {
+    "id": "470861",
+    "title": "Liza, Liza, Skies Are Grey",
+    "type": "movie",
+    "year": "2016",
+    "backdrop": "https://image.tmdb.org/t/p/w500/fHYrNFUT9jmtPWV4ONDtwXixsTN.jpg",
+    "updatedAt": "2026-08-20T08:11:28.151Z"
+  },
+  {
     "id": "271489",
     "title": "The Traitors",
     "type": "tv",
@@ -161,14 +169,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/1KeaFgD2u9kEpsP2xs1kXS9cTPQ.jpg",
     "updatedAt": "2026-08-19T03:22:06.661Z"
-  },
-  {
-    "id": "1399",
-    "title": "Game of Thrones",
-    "type": "tv",
-    "season": 8,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hRb50fOGcXic3NO6kUnL9hRXwsg.jpg",
-    "updatedAt": "2026-08-19T03:10:12.877Z"
   }
 ]
