@@ -1,5 +1,14 @@
 [
   {
+    "id": "139512",
+    "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
+    "type": "tv",
+    "season": 2,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/gnoMv9Y2kzt74albwVT1FhewVVC.jpg",
+    "updatedAt": "2026-08-20T07:55:07.105Z"
+  },
+  {
     "id": "1288445",
     "title": "Mutiny",
     "type": "movie",
@@ -160,14 +169,5 @@
     "episode": 12,
     "backdrop": "https://image.tmdb.org/t/p/w500/uG9ufzdzn5dQWlpsFHQWNKLSpsM.jpg",
     "updatedAt": "2026-08-18T15:27:12.987Z"
-  },
-  {
-    "id": "328217",
-    "title": "Legacy",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/nWJf8wzIEPhrKthM1dHzhiI4oq7.jpg",
-    "updatedAt": "2026-08-18T15:25:55.900Z"
   }
 ]
