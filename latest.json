@@ -1,5 +1,14 @@
 [
   {
+    "id": "271489",
+    "title": "The Traitors",
+    "type": "tv",
+    "season": 2,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/tcZmDatkBcqbCt6pWLcCA1K0pWZ.jpg",
+    "updatedAt": "2026-08-20T08:10:23.137Z"
+  },
+  {
     "id": "157004",
     "title": "Goosebumps",
     "type": "tv",
@@ -161,13 +170,5 @@
     "episode": 6,
     "backdrop": "https://image.tmdb.org/t/p/w500/hRb50fOGcXic3NO6kUnL9hRXwsg.jpg",
     "updatedAt": "2026-08-19T03:10:12.877Z"
-  },
-  {
-    "id": "1726",
-    "title": "Iron Man",
-    "type": "movie",
-    "year": "2008",
-    "backdrop": "https://image.tmdb.org/t/p/w500/A1m5BJznmmsDyj25AnhDyFbBSJJ.jpg",
-    "updatedAt": "2026-08-18T17:02:21.342Z"
   }
 ]
