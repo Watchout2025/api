@@ -1,5 +1,14 @@
 [
   {
+    "id": "251608",
+    "title": "Bad Thoughts",
+    "type": "tv",
+    "season": 2,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/FimxLnnk5EnKN1Gd6aPzzJ7Zr5.jpg",
+    "updatedAt": "2026-08-20T11:16:51.029Z"
+  },
+  {
     "id": "100757",
     "title": "Outer Banks",
     "type": "tv",
@@ -49,15 +58,6 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/lOGjVIXrqj6udJAS1sEpwRTkNsZ.jpg",
     "updatedAt": "2026-08-20T07:59:39.549Z"
-  },
-  {
-    "id": "251608",
-    "title": "Bad Thoughts",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/FimxLnnk5EnKN1Gd6aPzzJ7Zr5.jpg",
-    "updatedAt": "2026-08-20T07:58:46.757Z"
   },
   {
     "id": "139512",
