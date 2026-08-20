@@ -1,5 +1,14 @@
 [
   {
+    "id": "330058",
+    "title": "Street World Fighter: Directors’ War",
+    "type": "tv",
+    "season": 1,
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/eE0sUBNtW6e5L6fyYgruHd5wniE.jpg",
+    "updatedAt": "2026-08-20T14:51:18.702Z"
+  },
+  {
     "id": "276470",
     "title": "OK! Let's Get Divorced",
     "type": "tv",
@@ -164,14 +173,5 @@
     "episode": 6,
     "backdrop": "https://image.tmdb.org/t/p/w500/uDnAERbDb18p0jVB4UlfIHbuBGE.jpg",
     "updatedAt": "2026-08-19T08:28:27.087Z"
-  },
-  {
-    "id": "108978",
-    "title": "Reacher",
-    "type": "tv",
-    "season": 4,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
-    "updatedAt": "2026-08-19T08:20:57.577Z"
   }
 ]
