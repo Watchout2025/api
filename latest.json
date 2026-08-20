@@ -1,5 +1,14 @@
 [
   {
+    "id": "157004",
+    "title": "Goosebumps",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/otV49ElYjesZrX3OK21nznhfiON.jpg",
+    "updatedAt": "2026-08-20T08:07:15.065Z"
+  },
+  {
     "id": "1434102",
     "title": "Heartin",
     "type": "movie",
@@ -160,13 +169,5 @@
     "year": "2008",
     "backdrop": "https://image.tmdb.org/t/p/w500/A1m5BJznmmsDyj25AnhDyFbBSJJ.jpg",
     "updatedAt": "2026-08-18T17:02:21.342Z"
-  },
-  {
-    "id": "453395",
-    "title": "Doctor Strange in the Multiverse of Madness",
-    "type": "movie",
-    "year": "2022",
-    "backdrop": "https://image.tmdb.org/t/p/w500/shDYfjtNFyZmf7uZNtOLaI6iJXM.jpg",
-    "updatedAt": "2026-08-18T16:07:47.208Z"
   }
 ]
