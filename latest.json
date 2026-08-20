@@ -1,5 +1,14 @@
 [
   {
+    "id": "243206",
+    "title": "Pritam and Pedro",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/q6SuP6TfcxqzNb89D0Rjv7SbkvT.jpg",
+    "updatedAt": "2026-08-20T12:33:14.181Z"
+  },
+  {
     "id": "296140",
     "title": "My Bias, My Boss",
     "type": "tv",
@@ -163,13 +172,5 @@
     "year": "2005",
     "backdrop": "https://image.tmdb.org/t/p/w500/gZjREa0g2rRak33hBpVAOSzFctL.jpg",
     "updatedAt": "2026-08-19T08:17:16.608Z"
-  },
-  {
-    "id": "299534",
-    "title": "Avengers: Endgame",
-    "type": "movie",
-    "year": "2019",
-    "backdrop": "https://image.tmdb.org/t/p/w500/yaRps1bMQLyz54M8ib5YdA2a2RZ.jpg",
-    "updatedAt": "2026-08-19T08:14:30.788Z"
   }
 ]
