@@ -1,5 +1,14 @@
 [
   {
+    "id": "251608",
+    "title": "Bad Thoughts",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/FimxLnnk5EnKN1Gd6aPzzJ7Zr5.jpg",
+    "updatedAt": "2026-08-20T07:58:46.757Z"
+  },
+  {
     "id": "139512",
     "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
     "type": "tv",
@@ -160,14 +169,5 @@
     "episode": 7,
     "backdrop": "https://image.tmdb.org/t/p/w500/zDLbi3i23b55zpCwxPqv2Zu7h5G.jpg",
     "updatedAt": "2026-08-18T15:29:11.927Z"
-  },
-  {
-    "id": "301412",
-    "title": "Dream to You",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/uG9ufzdzn5dQWlpsFHQWNKLSpsM.jpg",
-    "updatedAt": "2026-08-18T15:27:12.987Z"
   }
 ]
