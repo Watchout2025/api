@@ -1,5 +1,14 @@
 [
   {
+    "id": "312523",
+    "title": "S&X",
+    "type": "tv",
+    "season": 1,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/e1k1FZ1J6Q9n1JbMoLJ75ND95Fc.jpg",
+    "updatedAt": "2026-08-20T11:22:01.931Z"
+  },
+  {
     "id": "251608",
     "title": "Bad Thoughts",
     "type": "tv",
@@ -161,14 +170,5 @@
     "year": "2016",
     "backdrop": "https://image.tmdb.org/t/p/w500/qPghrh3RMB7qzxK66skhiH5RZvF.jpg",
     "updatedAt": "2026-08-19T08:13:15.238Z"
-  },
-  {
-    "id": "93846",
-    "title": "The King: Eternal Monarch",
-    "type": "tv",
-    "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9YUmiZVDFyRvWzYreeKQ1aQwAnm.jpg",
-    "updatedAt": "2026-08-19T05:56:47.679Z"
   }
 ]
