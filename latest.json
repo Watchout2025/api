@@ -1,5 +1,14 @@
 [
   {
+    "id": "100757",
+    "title": "Outer Banks",
+    "type": "tv",
+    "season": 5,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/juNPe9rBABGNJhe2D9cCcS85y22.jpg",
+    "updatedAt": "2026-08-20T11:12:25.936Z"
+  },
+  {
     "id": "470861",
     "title": "Liza, Liza, Skies Are Grey",
     "type": "movie",
@@ -161,13 +170,5 @@
     "episode": 16,
     "backdrop": "https://image.tmdb.org/t/p/w500/9YUmiZVDFyRvWzYreeKQ1aQwAnm.jpg",
     "updatedAt": "2026-08-19T05:56:47.679Z"
-  },
-  {
-    "id": "1610840",
-    "title": "Godari Gattupaina",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/1KeaFgD2u9kEpsP2xs1kXS9cTPQ.jpg",
-    "updatedAt": "2026-08-19T03:22:06.661Z"
   }
 ]
