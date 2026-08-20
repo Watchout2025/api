@@ -1,5 +1,14 @@
 [
   {
+    "id": "296140",
+    "title": "My Bias, My Boss",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/v8O0X6PP7grEaXsPkdiotIx78tA.jpg",
+    "updatedAt": "2026-08-20T11:35:47.325Z"
+  },
+  {
     "id": "312523",
     "title": "S&X",
     "type": "tv",
@@ -162,13 +171,5 @@
     "year": "2019",
     "backdrop": "https://image.tmdb.org/t/p/w500/yaRps1bMQLyz54M8ib5YdA2a2RZ.jpg",
     "updatedAt": "2026-08-19T08:14:30.788Z"
-  },
-  {
-    "id": "271110",
-    "title": "Captain America: Civil War",
-    "type": "movie",
-    "year": "2016",
-    "backdrop": "https://image.tmdb.org/t/p/w500/qPghrh3RMB7qzxK66skhiH5RZvF.jpg",
-    "updatedAt": "2026-08-19T08:13:15.238Z"
   }
 ]
