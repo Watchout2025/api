@@ -1,5 +1,14 @@
 [
   {
+    "id": "272938",
+    "title": "Pull Strings",
+    "type": "tv",
+    "season": 1,
+    "episode": 5,
+    "backdrop": "https://image.tmdb.org/t/p/w500/czrTjghc1gqx0Fw9ja4Vpyej1Gi.jpg",
+    "updatedAt": "2026-08-20T14:52:28.230Z"
+  },
+  {
     "id": "330058",
     "title": "Street World Fighter: Directors’ War",
     "type": "tv",
@@ -164,14 +173,5 @@
     "year": "2023",
     "backdrop": "https://image.tmdb.org/t/p/w500/pNOccytgkGuyofTLmh1sqEfTJuE.jpg",
     "updatedAt": "2026-08-19T08:32:39.946Z"
-  },
-  {
-    "id": "85518",
-    "title": "Khatron Ke Khiladi",
-    "type": "tv",
-    "season": 15,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/uDnAERbDb18p0jVB4UlfIHbuBGE.jpg",
-    "updatedAt": "2026-08-19T08:28:27.087Z"
   }
 ]
