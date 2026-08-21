@@ -1,5 +1,14 @@
 [
   {
+    "id": "65844",
+    "title": "KONOSUBA - God's blessing on this wonderful world!",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/krxTisQ3NA2AMT7qHfOPgAuqREr.jpg",
+    "updatedAt": "2026-08-21T05:02:51.731Z"
+  },
+  {
     "id": "329540",
     "title": "Love U Lots",
     "type": "tv",
@@ -168,14 +177,5 @@
     "episode": 8,
     "backdrop": "",
     "updatedAt": "2026-08-19T17:19:14.144Z"
-  },
-  {
-    "id": "284432",
-    "title": "Scum of the Brave",
-    "type": "tv",
-    "season": 1,
-    "episode": 24,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/teHlVrodifmU6eLLDGvJxT8zPQr.jpg",
-    "updatedAt": "2026-08-12T04:49:43.172Z"
   }
 ]
