@@ -1,5 +1,14 @@
 [
   {
+    "id": "329540",
+    "title": "Love U Lots",
+    "type": "tv",
+    "season": 1,
+    "episode": 5,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jnP1DHf5VpCzGDAoFZlbCL4OPI6.jpg",
+    "updatedAt": "2026-08-21T03:32:07.712Z"
+  },
+  {
     "id": "276470",
     "title": "OK! Let's Get Divorced",
     "type": "tv",
@@ -168,14 +177,5 @@
     "episode": 24,
     "backdrop": "https://image.tmdb.org/t/p/w1280/teHlVrodifmU6eLLDGvJxT8zPQr.jpg",
     "updatedAt": "2026-08-12T04:49:43.172Z"
-  },
-  {
-    "id": "66465",
-    "title": "The Kapil Sharma Show",
-    "type": "tv",
-    "season": 1,
-    "episode": 85,
-    "backdrop": "https://image.tmdb.org/t/p/w1280/oOl2v17GpwEpALP8KMyImErJcH6.jpg",
-    "updatedAt": "2026-08-12T04:49:34.384Z"
   }
 ]
