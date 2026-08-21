@@ -1,5 +1,86 @@
 [
   {
+    "id": "306627",
+    "title": "WEIRDO-101",
+    "type": "tv",
+    "season": 1,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/ex4A9H8axYYLzROfzxP86s2mCYy.jpg",
+    "updatedAt": "2026-08-21T15:44:00.316Z"
+  },
+  {
+    "id": "220074",
+    "title": "Flex X Cop",
+    "type": "tv",
+    "season": 2,
+    "episode": 5,
+    "backdrop": "https://image.tmdb.org/t/p/w500/kPHKRCsSkz3kanwmR6XPcms2TCG.jpg",
+    "updatedAt": "2026-08-21T15:43:42.374Z"
+  },
+  {
+    "id": "323569",
+    "title": "The Servant Prince",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/mtPUATykWPMRxpbx29qbohEqcZd.jpg",
+    "updatedAt": "2026-08-21T15:43:14.736Z"
+  },
+  {
+    "id": "294095",
+    "title": "A Bona Fide Killer",
+    "type": "tv",
+    "season": 1,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/nAATQr4iewpPA5bEazcJ84UE7hl.jpg",
+    "updatedAt": "2026-08-21T15:42:49.262Z"
+  },
+  {
+    "id": "327403",
+    "title": "Make It Right 2026",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/5F76MDavZrK3Bl3baqNjPbxhPRp.jpg",
+    "updatedAt": "2026-08-21T15:42:13.513Z"
+  },
+  {
+    "id": "301418",
+    "title": "The Affair Was Just The Beginning",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/bftAVJ4PKXitpNk6bwoz25SW2CX.jpg",
+    "updatedAt": "2026-08-21T15:41:50.749Z"
+  },
+  {
+    "id": "317314",
+    "title": "Ash",
+    "type": "tv",
+    "season": 1,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/k1IZq7CnvBL3p8AgcCzoFXITwJf.jpg",
+    "updatedAt": "2026-08-21T15:41:26.911Z"
+  },
+  {
+    "id": "314936",
+    "title": "Don't Be Too Emotional",
+    "type": "tv",
+    "season": 1,
+    "episode": 9,
+    "backdrop": "https://image.tmdb.org/t/p/w500/5dStdZ93b22PTSMVzpfzBDK6DYr.jpg",
+    "updatedAt": "2026-08-21T15:41:08.152Z"
+  },
+  {
+    "id": "287496",
+    "title": "The Road to Splendor",
+    "type": "tv",
+    "season": 1,
+    "episode": 24,
+    "backdrop": "https://image.tmdb.org/t/p/w500/zyAFGC97834c2Ld4xPY02uacdQk.jpg",
+    "updatedAt": "2026-08-21T15:40:40.598Z"
+  },
+  {
     "id": "319037",
     "title": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
     "type": "tv",
@@ -89,85 +170,5 @@
     "year": "2025",
     "backdrop": "https://image.tmdb.org/t/p/w500/cS3XRGttTVC4YPIyOC3jByznpG0.jpg",
     "updatedAt": "2026-08-21T11:59:38.145Z"
-  },
-  {
-    "id": "297826",
-    "title": "Tomb Raider King",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/efo2pV1xzSIyd35jXixoB2WJM3u.jpg",
-    "updatedAt": "2026-08-21T06:36:22.148Z"
-  },
-  {
-    "id": "1083381",
-    "title": "Backrooms",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/vqgbIravMFb3XR0qm0STynacXi3.jpg",
-    "updatedAt": "2026-08-21T06:34:27.060Z"
-  },
-  {
-    "id": "155437",
-    "title": "Reginald the Vampire",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/tPsJ67h0NEJwKPGSRjFN9DGVPUh.jpg",
-    "updatedAt": "2026-08-21T05:08:09.024Z"
-  },
-  {
-    "id": "65844",
-    "title": "KONOSUBA - God's blessing on this wonderful world!",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/krxTisQ3NA2AMT7qHfOPgAuqREr.jpg",
-    "updatedAt": "2026-08-21T05:02:51.731Z"
-  },
-  {
-    "id": "329540",
-    "title": "Love U Lots",
-    "type": "tv",
-    "season": 1,
-    "episode": 5,
-    "backdrop": "https://image.tmdb.org/t/p/w500/jnP1DHf5VpCzGDAoFZlbCL4OPI6.jpg",
-    "updatedAt": "2026-08-21T03:32:07.712Z"
-  },
-  {
-    "id": "276470",
-    "title": "OK! Let's Get Divorced",
-    "type": "tv",
-    "season": 1,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/qtcTChxZEXrjgZLe5slGhOuzqzp.jpg",
-    "updatedAt": "2026-08-21T03:31:42.068Z"
-  },
-  {
-    "id": "325271",
-    "title": "Dating Alys Perez",
-    "type": "tv",
-    "season": 1,
-    "episode": 11,
-    "backdrop": "https://image.tmdb.org/t/p/w500/pT5sJufAi68Nwz5lKOQctiI0Ent.jpg",
-    "updatedAt": "2026-08-21T03:31:06.424Z"
-  },
-  {
-    "id": "287496",
-    "title": "The Road to Splendor",
-    "type": "tv",
-    "season": 1,
-    "episode": 23,
-    "backdrop": "https://image.tmdb.org/t/p/w500/zyAFGC97834c2Ld4xPY02uacdQk.jpg",
-    "updatedAt": "2026-08-21T03:30:34.388Z"
-  },
-  {
-    "id": "330975",
-    "title": "New Boyfriend",
-    "type": "tv",
-    "season": 1,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w500/nSi2UYlKcBf972X95AIpoMdxJLt.jpg",
-    "updatedAt": "2026-08-21T03:29:01.138Z"
   }
 ]
