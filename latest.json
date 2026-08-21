@@ -1,5 +1,13 @@
 [
   {
+    "id": "1621552",
+    "title": "Facing El Chapo",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
+    "updatedAt": "2026-08-21T12:05:55.084Z"
+  },
+  {
     "id": "1538273",
     "title": "Pyaar Prema Kalyanam",
     "type": "movie",
@@ -161,14 +169,5 @@
     "episode": 6,
     "backdrop": "",
     "updatedAt": "2026-08-20T14:58:58.211Z"
-  },
-  {
-    "id": "332134",
-    "title": "Born Again",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "",
-    "updatedAt": "2026-08-20T14:57:36.133Z"
   }
 ]
