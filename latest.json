@@ -1,177 +1,179 @@
 [
   {
+    "id": "330975",
+    "title": "New Boyfriend",
+    "type": "tv",
+    "season": 1,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/nSi2UYlKcBf972X95AIpoMdxJLt.jpg",
+    "updatedAt": "2026-08-21T03:29:01.138Z"
+  },
+  {
+    "id": "281016",
+    "title": "Boyfriend on Demand",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "",
+    "updatedAt": "2026-08-20T15:04:32.901Z"
+  },
+  {
+    "id": "306598",
+    "title": "Unlucky Bae",
+    "type": "tv",
+    "season": 1,
+    "episode": 3,
+    "backdrop": "",
+    "updatedAt": "2026-08-20T14:59:17.119Z"
+  },
+  {
+    "id": "304871",
+    "title": "Be My Player Two",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "",
+    "updatedAt": "2026-08-20T14:58:58.211Z"
+  },
+  {
+    "id": "332134",
+    "title": "Born Again",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "",
+    "updatedAt": "2026-08-20T14:57:36.133Z"
+  },
+  {
+    "id": "287496",
+    "title": "The Road to Splendor",
+    "type": "tv",
+    "season": 1,
+    "episode": 22,
+    "backdrop": "",
+    "updatedAt": "2026-08-20T14:56:29.782Z"
+  },
+  {
+    "id": "330718",
+    "title": "Dearest",
+    "type": "tv",
+    "season": 1,
+    "episode": 13,
+    "backdrop": "",
+    "updatedAt": "2026-08-20T14:56:02.730Z"
+  },
+  {
+    "id": "273119",
+    "title": "Ren Yu",
+    "type": "tv",
+    "season": 1,
+    "episode": 22,
+    "backdrop": "",
+    "updatedAt": "2026-08-20T14:54:19.104Z"
+  },
+  {
+    "id": "1748247",
+    "title": "Jumper",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "",
+    "updatedAt": "2026-08-19T17:26:07.161Z"
+  },
+  {
+    "id": "323005",
+    "title": "After Moving Seats, The Boy Behind Me Has A Crush On Me",
+    "type": "tv",
+    "season": 1,
+    "episode": 3,
+    "backdrop": "",
+    "updatedAt": "2026-08-19T17:23:47.507Z"
+  },
+  {
+    "id": "307433",
+    "title": "Moonshadow",
+    "type": "tv",
+    "season": 1,
+    "episode": 2,
+    "backdrop": "",
+    "updatedAt": "2026-08-19T17:22:42.059Z"
+  },
+  {
+    "id": "320676",
+    "title": "Blue Lips",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "",
+    "updatedAt": "2026-08-19T17:22:13.695Z"
+  },
+  {
+    "id": "322072",
+    "title": "My Summer of You",
+    "type": "tv",
+    "season": 1,
+    "episode": 9,
+    "backdrop": "",
+    "updatedAt": "2026-08-19T17:21:34.693Z"
+  },
+  {
     "id": "272938",
     "title": "Pull Strings",
     "type": "tv",
     "season": 1,
-    "episode": 5,
-    "backdrop": "https://image.tmdb.org/t/p/w500/czrTjghc1gqx0Fw9ja4Vpyej1Gi.jpg",
-    "updatedAt": "2026-08-20T14:52:28.230Z"
+    "episode": 3,
+    "backdrop": "",
+    "updatedAt": "2026-08-19T17:20:40.293Z"
   },
   {
-    "id": "330058",
-    "title": "Street World Fighter: Directors’ War",
-    "type": "tv",
-    "season": 1,
-    "episode": 1,
-    "backdrop": "https://image.tmdb.org/t/p/w500/eE0sUBNtW6e5L6fyYgruHd5wniE.jpg",
-    "updatedAt": "2026-08-20T14:51:18.702Z"
-  },
-  {
-    "id": "276470",
-    "title": "OK! Let's Get Divorced",
-    "type": "tv",
-    "season": 1,
-    "episode": 1,
-    "backdrop": "https://image.tmdb.org/t/p/w500/qtcTChxZEXrjgZLe5slGhOuzqzp.jpg",
-    "updatedAt": "2026-08-20T14:49:32.830Z"
-  },
-  {
-    "id": "243206",
-    "title": "Pritam and Pedro",
+    "id": "311914",
+    "title": "Love Destiny",
     "type": "tv",
     "season": 1,
     "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/q6SuP6TfcxqzNb89D0Rjv7SbkvT.jpg",
-    "updatedAt": "2026-08-20T12:33:14.181Z"
+    "backdrop": "",
+    "updatedAt": "2026-08-19T17:20:03.945Z"
   },
   {
-    "id": "296140",
-    "title": "My Bias, My Boss",
+    "id": "303493",
+    "title": "Knot",
     "type": "tv",
     "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/v8O0X6PP7grEaXsPkdiotIx78tA.jpg",
-    "updatedAt": "2026-08-20T11:35:47.325Z"
+    "episode": 8,
+    "backdrop": "",
+    "updatedAt": "2026-08-19T17:19:14.144Z"
   },
   {
-    "id": "312523",
-    "title": "S&X",
+    "id": "284432",
+    "title": "Scum of the Brave",
     "type": "tv",
     "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/e1k1FZ1J6Q9n1JbMoLJ75ND95Fc.jpg",
-    "updatedAt": "2026-08-20T11:22:01.931Z"
-  },
-  {
-    "id": "251608",
-    "title": "Bad Thoughts",
-    "type": "tv",
-    "season": 2,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/FimxLnnk5EnKN1Gd6aPzzJ7Zr5.jpg",
-    "updatedAt": "2026-08-20T11:16:51.029Z"
-  },
-  {
-    "id": "100757",
-    "title": "Outer Banks",
-    "type": "tv",
-    "season": 5,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/juNPe9rBABGNJhe2D9cCcS85y22.jpg",
-    "updatedAt": "2026-08-20T11:12:25.936Z"
-  },
-  {
-    "id": "470861",
-    "title": "Liza, Liza, Skies Are Grey",
-    "type": "movie",
-    "year": "2016",
-    "backdrop": "https://image.tmdb.org/t/p/w500/fHYrNFUT9jmtPWV4ONDtwXixsTN.jpg",
-    "updatedAt": "2026-08-20T08:11:28.151Z"
-  },
-  {
-    "id": "271489",
-    "title": "The Traitors",
-    "type": "tv",
-    "season": 2,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/tcZmDatkBcqbCt6pWLcCA1K0pWZ.jpg",
-    "updatedAt": "2026-08-20T08:10:23.137Z"
-  },
-  {
-    "id": "157004",
-    "title": "Goosebumps",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/otV49ElYjesZrX3OK21nznhfiON.jpg",
-    "updatedAt": "2026-08-20T08:07:15.065Z"
-  },
-  {
-    "id": "1434102",
-    "title": "Heartin",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/ufVCGoqEHOCahpXwDguGIq8CxAP.jpg",
-    "updatedAt": "2026-08-20T08:00:43.404Z"
-  },
-  {
-    "id": "1577326",
-    "title": "Srinivasa Mangapuram",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/lOGjVIXrqj6udJAS1sEpwRTkNsZ.jpg",
-    "updatedAt": "2026-08-20T07:59:39.549Z"
-  },
-  {
-    "id": "139512",
-    "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
-    "type": "tv",
-    "season": 2,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/gnoMv9Y2kzt74albwVT1FhewVVC.jpg",
-    "updatedAt": "2026-08-20T07:55:07.105Z"
-  },
-  {
-    "id": "1288445",
-    "title": "Mutiny",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/5kmju0rHpro6g8YWdihio8SJ1jH.jpg",
-    "updatedAt": "2026-08-20T07:41:14.296Z"
-  },
-  {
-    "id": "119769",
-    "title": "Taxi Driver",
-    "type": "tv",
-    "season": 3,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/ehcc0Aiva7r3rbsdo1cMKLkkjzB.jpg",
-    "updatedAt": "2026-08-20T07:39:23.857Z"
-  },
-  {
-    "id": "305830",
-    "title": "Someone, Someday",
-    "type": "tv",
-    "season": 1,
-    "episode": 20,
-    "backdrop": "https://image.tmdb.org/t/p/w500/6xVKvVhzCSfJzdxzUIgaw86vLjU.jpg",
-    "updatedAt": "2026-08-19T17:17:28.711Z"
-  },
-  {
-    "id": "46648",
-    "title": "True Detective",
-    "type": "tv",
-    "season": 4,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/c27jL84jaLZVLCTaxY51rDLHYiq.jpg",
-    "updatedAt": "2026-08-19T11:34:47.195Z"
-  },
-  {
-    "id": "94664",
-    "title": "Mushoku Tensei: Jobless Reincarnation",
-    "type": "tv",
-    "season": 2,
     "episode": 24,
-    "backdrop": "https://image.tmdb.org/t/p/w500/81j82xSVO8jXHsHVByQLYm2XZ3s.jpg",
-    "updatedAt": "2026-08-19T08:55:43.466Z"
+    "backdrop": "https://image.tmdb.org/t/p/w1280/teHlVrodifmU6eLLDGvJxT8zPQr.jpg",
+    "updatedAt": "2026-08-12T04:49:43.172Z"
   },
   {
-    "id": "1010581",
-    "title": "My Fault",
+    "id": "66465",
+    "title": "The Kapil Sharma Show",
+    "type": "tv",
+    "season": 1,
+    "episode": 85,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oOl2v17GpwEpALP8KMyImErJcH6.jpg",
+    "updatedAt": "2026-08-12T04:49:34.384Z"
+  },
+  {
+    "id": "1208271",
+    "title": "Wrangler",
     "type": "movie",
-    "year": "2023",
-    "backdrop": "https://image.tmdb.org/t/p/w500/pNOccytgkGuyofTLmh1sqEfTJuE.jpg",
-    "updatedAt": "2026-08-19T08:32:39.946Z"
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nYdMBuW1QtiCv0I1a3yvlbjCC8L.jpg",
+    "updatedAt": "2026-08-12T04:49:22.208Z"
+  },
+  {
+    "id": "1217931",
+    "title": "Vampires of the Velvet Lounge",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ePidDkPftGCxtN7RcnVu5XxpXak.jpg",
+    "updatedAt": "2026-08-12T04:18:40.670Z"
   }
 ]
