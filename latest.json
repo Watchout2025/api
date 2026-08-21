@@ -1,5 +1,14 @@
 [
   {
+    "id": "272938",
+    "title": "Pull Strings",
+    "type": "tv",
+    "season": 1,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/czrTjghc1gqx0Fw9ja4Vpyej1Gi.jpg",
+    "updatedAt": "2026-08-21T15:30:23.369Z"
+  },
+  {
     "id": "1621552",
     "title": "Facing El Chapo",
     "type": "movie",
@@ -160,14 +169,5 @@
     "episode": 3,
     "backdrop": "",
     "updatedAt": "2026-08-20T14:59:17.119Z"
-  },
-  {
-    "id": "304871",
-    "title": "Be My Player Two",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "",
-    "updatedAt": "2026-08-20T14:58:58.211Z"
   }
 ]
