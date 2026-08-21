@@ -1,5 +1,14 @@
 [
   {
+    "id": "287496",
+    "title": "The Road to Splendor",
+    "type": "tv",
+    "season": 1,
+    "episode": 23,
+    "backdrop": "https://image.tmdb.org/t/p/w500/zyAFGC97834c2Ld4xPY02uacdQk.jpg",
+    "updatedAt": "2026-08-21T03:30:34.388Z"
+  },
+  {
     "id": "330975",
     "title": "New Boyfriend",
     "type": "tv",
@@ -43,15 +52,6 @@
     "episode": 6,
     "backdrop": "",
     "updatedAt": "2026-08-20T14:57:36.133Z"
-  },
-  {
-    "id": "287496",
-    "title": "The Road to Splendor",
-    "type": "tv",
-    "season": 1,
-    "episode": 22,
-    "backdrop": "",
-    "updatedAt": "2026-08-20T14:56:29.782Z"
   },
   {
     "id": "330718",
