@@ -1,5 +1,13 @@
 [
   {
+    "id": "1641425",
+    "title": "Ranapati Shivray Swari Agra",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/AqB1igtK2RdiakxrinQLNOcoBcV.jpg",
+    "updatedAt": "2026-08-21T12:01:07.595Z"
+  },
+  {
     "id": "1169516",
     "title": "Welcome To The Jungle",
     "type": "movie",
@@ -165,14 +173,5 @@
     "episode": 3,
     "backdrop": "",
     "updatedAt": "2026-08-19T17:23:47.507Z"
-  },
-  {
-    "id": "307433",
-    "title": "Moonshadow",
-    "type": "tv",
-    "season": 1,
-    "episode": 2,
-    "backdrop": "",
-    "updatedAt": "2026-08-19T17:22:42.059Z"
   }
 ]
