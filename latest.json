@@ -1,5 +1,57 @@
 [
   {
+    "id": "258348",
+    "title": "Clevatess",
+    "type": "tv",
+    "season": 2,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/7BWn0XKkmB8Ngj6Jb8QzLhscFIG.jpg",
+    "updatedAt": "2026-08-22T05:50:23.911Z"
+  },
+  {
+    "id": "312949",
+    "title": "Chainsmoker Cat",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/zAMw1Nu5XzGW50eNjBkIxF3kfrx.jpg",
+    "updatedAt": "2026-08-22T05:48:39.301Z"
+  },
+  {
+    "id": "296286",
+    "title": "Smoking Behind the Supermarket with You",
+    "type": "tv",
+    "season": 1,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/gbb9tOprOZHkAQtTh5FlerbS1pb.jpg",
+    "updatedAt": "2026-08-22T05:46:08.569Z"
+  },
+  {
+    "id": "65942",
+    "title": "Re:ZERO -Starting Life in Another World-",
+    "type": "tv",
+    "season": 1,
+    "episode": 77,
+    "backdrop": "https://image.tmdb.org/t/p/w500/9yrr6ubLv7uaOeHv890mVe1HNGn.jpg",
+    "updatedAt": "2026-08-22T05:45:32.096Z"
+  },
+  {
+    "id": "1432706",
+    "title": "Bury the Devil",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/lWVnUBYG7nIb84gxa3tSeP8CghA.jpg",
+    "updatedAt": "2026-08-22T05:44:44.764Z"
+  },
+  {
+    "id": "1291595",
+    "title": "Insidious: Out of the Further",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/prGSGD56ihQCaexXldXYpeESBeM.jpg",
+    "updatedAt": "2026-08-22T05:43:21.192Z"
+  },
+  {
     "id": "306627",
     "title": "WEIRDO-101",
     "type": "tv",
@@ -122,53 +174,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/jgsptBYJbuO7omWLOj1HNsqvgLM.jpg",
     "updatedAt": "2026-08-21T12:05:14.035Z"
-  },
-  {
-    "id": "1408170",
-    "title": "Lenin",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/5P6jYac8MjxyIh0m9JO4K7MUeUc.jpg",
-    "updatedAt": "2026-08-21T12:03:49.862Z"
-  },
-  {
-    "id": "315837",
-    "title": "Ghost in the Shell",
-    "type": "movie",
-    "year": "2017",
-    "backdrop": "https://image.tmdb.org/t/p/w500/epBRm0h9aRVUY5A1PXkUQ8BfXiB.jpg",
-    "updatedAt": "2026-08-21T12:02:56.556Z"
-  },
-  {
-    "id": "1653208",
-    "title": "The Great Grand Superhero",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/2Lu1jb8kv93ciXYhmUlsj0E2RK1.jpg",
-    "updatedAt": "2026-08-21T12:02:13.564Z"
-  },
-  {
-    "id": "1641425",
-    "title": "Ranapati Shivray Swari Agra",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/AqB1igtK2RdiakxrinQLNOcoBcV.jpg",
-    "updatedAt": "2026-08-21T12:01:07.595Z"
-  },
-  {
-    "id": "1169516",
-    "title": "Welcome To The Jungle",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/pGTImtIABR9LXFYebcMOs46JsQv.jpg",
-    "updatedAt": "2026-08-21T12:00:26.529Z"
-  },
-  {
-    "id": "1216662",
-    "title": "Somebody",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/cS3XRGttTVC4YPIyOC3jByznpG0.jpg",
-    "updatedAt": "2026-08-21T11:59:38.145Z"
   }
 ]
