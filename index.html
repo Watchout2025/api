@@ -2504,7 +2504,7 @@ async function updateNextEpisodeButtonVisibility() {
 
     try {
         const githubJsonUrl =
-            `https://raw.githubusercontent.com/Watchout2025/api/refs/heads/main/hls/tv/${seriesId}/S${seasonNumber}.json`;
+            `/hls/tv/${seriesId}/S${seasonNumber}.json`;
         const res  = await fetch(githubJsonUrl, { cache: 'no-store' });
         if (!res.ok) return; // Can't confirm next episode — keep hidden
 
@@ -2872,7 +2872,7 @@ async function playMovie(movieId) {
     showLoader();
 
     const githubUrl =
-        `https://raw.githubusercontent.com/Watchout2025/api/refs/heads/main/hls/movie/${movieId}`;
+        `/hls/movie/${movieId}`;
 
     try {
         const res = await fetch(githubUrl, { cache: 'no-store' });
@@ -2986,7 +2986,7 @@ async function playEpisode(seriesId, seasonNumber, episodeNumber) {
     showLoader();
 
     const githubJsonUrl =
-        `https://raw.githubusercontent.com/Watchout2025/api/refs/heads/main/hls/tv/${seriesId}/S${seasonNumber}.json`;
+        `/hls/tv/${seriesId}/S${seasonNumber}.json`;
 
     try {
         const res = await fetch(githubJsonUrl, { cache: 'no-store' });
@@ -3134,8 +3134,6 @@ async function fetchAndSetTitle(type, id, season, episode) {
 /* -------------------------------------------------------------------------
    SUBTITLES FROM GITHUB subtitles.json
    ------------------------------------------------------------------------- */
-const GITHUB_RAW = 'https://raw.githubusercontent.com/Watchout2025/api/refs/heads/main';
-
 const LANG_LABELS = {
     eng:'English', hin:'Hindi', ara:'Arabic', fra:'French', spa:'Spanish',
     por:'Portuguese', rus:'Russian', zho:'Chinese', jpn:'Japanese', kor:'Korean',
@@ -3226,7 +3224,7 @@ async function loadSubtitlesFromGithub(type, id, season, episode) {
         // ── TV: try Cloudinary base URL first ──────────────────────────────
         if (type === 'tv') {
             try {
-                const seasonEndpoint = `${GITHUB_RAW}/sub/tv/${id}/${season}/endpoint`;
+                const seasonEndpoint = `/sub/tv/${id}/${season}/endpoint`;
                 const baseRes = await fetch(seasonEndpoint, { cache: 'no-store' });
 
                 if (baseRes.ok) {
@@ -3262,8 +3260,8 @@ async function loadSubtitlesFromGithub(type, id, season, episode) {
 
         // ── Fallback: subtitles.json (movies + TV fallback) ────────────────
         const jsonPath = type === 'movie'
-            ? `${GITHUB_RAW}/sub/movie/${id}/subtitles.json`
-            : `${GITHUB_RAW}/sub/tv/${id}/${season}/${episode}/subtitles.json`;
+            ? `/sub/movie/${id}/subtitles.json`
+            : `/sub/tv/${id}/${season}/${episode}/subtitles.json`;
 
         try {
             const res = await fetch(jsonPath, { cache: 'no-store' });
