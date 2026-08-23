@@ -1,5 +1,68 @@
 [
   {
+    "id": "331549",
+    "title": "Hanyi Enters the Heart",
+    "type": "tv",
+    "season": 1,
+    "episode": 18,
+    "backdrop": "https://image.tmdb.org/t/p/w500/eMml5KqHOP7KqOaXnoqypUZ5dJN.jpg",
+    "updatedAt": "2026-08-23T12:41:46.580Z"
+  },
+  {
+    "id": "332134",
+    "title": "Born Again",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/dxZb6ndm4YzBr2ADPv1UmOCxa3V.jpg",
+    "updatedAt": "2026-08-23T12:40:27.998Z"
+  },
+  {
+    "id": "287496",
+    "title": "The Road to Splendor",
+    "type": "tv",
+    "season": 1,
+    "episode": 28,
+    "backdrop": "https://image.tmdb.org/t/p/w500/zyAFGC97834c2Ld4xPY02uacdQk.jpg",
+    "updatedAt": "2026-08-23T12:39:53.443Z"
+  },
+  {
+    "id": "310326",
+    "title": "Love on the Menu",
+    "type": "tv",
+    "season": 1,
+    "episode": 9,
+    "backdrop": "https://image.tmdb.org/t/p/w500/bxwVTTX5ayJaNGM4ajyjPtTeXOS.jpg",
+    "updatedAt": "2026-08-23T12:38:26.497Z"
+  },
+  {
+    "id": "272938",
+    "title": "Pull Strings",
+    "type": "tv",
+    "season": 1,
+    "episode": 11,
+    "backdrop": "https://image.tmdb.org/t/p/w500/czrTjghc1gqx0Fw9ja4Vpyej1Gi.jpg",
+    "updatedAt": "2026-08-23T05:37:25.068Z"
+  },
+  {
+    "id": "325110",
+    "title": "Your Sky: Hare Nochi Koi",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/y5ZReeSNGNOlfw5G4lt3pWR83D8.jpg",
+    "updatedAt": "2026-08-23T04:35:09.194Z"
+  },
+  {
+    "id": "276051",
+    "title": "GELBOYS",
+    "type": "tv",
+    "season": 2,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jdSP1hJDP32K66sBsIxmcWNrsmH.jpg",
+    "updatedAt": "2026-08-23T02:22:11.027Z"
+  },
+  {
     "id": "403514",
     "title": "Dial 1975",
     "type": "movie",
@@ -14,15 +77,6 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/4atbuigi6il1dEMSt3BkR8RvmV6.jpg",
     "updatedAt": "2026-08-23T02:20:24.680Z"
-  },
-  {
-    "id": "332134",
-    "title": "Born Again",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/dxZb6ndm4YzBr2ADPv1UmOCxa3V.jpg",
-    "updatedAt": "2026-08-22T15:58:22.235Z"
   },
   {
     "id": "298610",
@@ -68,15 +122,6 @@
     "episode": 10,
     "backdrop": "https://image.tmdb.org/t/p/w500/g56lYLkQE9z5gTNZjiwpYAoVWON.jpg",
     "updatedAt": "2026-08-22T15:55:21.244Z"
-  },
-  {
-    "id": "287496",
-    "title": "The Road to Splendor",
-    "type": "tv",
-    "season": 1,
-    "episode": 26,
-    "backdrop": "https://image.tmdb.org/t/p/w500/zyAFGC97834c2Ld4xPY02uacdQk.jpg",
-    "updatedAt": "2026-08-22T11:54:19.462Z"
   },
   {
     "id": "330718",
@@ -131,48 +176,5 @@
     "episode": 7,
     "backdrop": "https://image.tmdb.org/t/p/w500/7BWn0XKkmB8Ngj6Jb8QzLhscFIG.jpg",
     "updatedAt": "2026-08-22T05:50:23.911Z"
-  },
-  {
-    "id": "312949",
-    "title": "Chainsmoker Cat",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/zAMw1Nu5XzGW50eNjBkIxF3kfrx.jpg",
-    "updatedAt": "2026-08-22T05:48:39.301Z"
-  },
-  {
-    "id": "296286",
-    "title": "Smoking Behind the Supermarket with You",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/gbb9tOprOZHkAQtTh5FlerbS1pb.jpg",
-    "updatedAt": "2026-08-22T05:46:08.569Z"
-  },
-  {
-    "id": "65942",
-    "title": "Re:ZERO -Starting Life in Another World-",
-    "type": "tv",
-    "season": 1,
-    "episode": 77,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9yrr6ubLv7uaOeHv890mVe1HNGn.jpg",
-    "updatedAt": "2026-08-22T05:45:32.096Z"
-  },
-  {
-    "id": "1432706",
-    "title": "Bury the Devil",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/lWVnUBYG7nIb84gxa3tSeP8CghA.jpg",
-    "updatedAt": "2026-08-22T05:44:44.764Z"
-  },
-  {
-    "id": "1291595",
-    "title": "Insidious: Out of the Further",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/prGSGD56ihQCaexXldXYpeESBeM.jpg",
-    "updatedAt": "2026-08-22T05:43:21.192Z"
   }
 ]
