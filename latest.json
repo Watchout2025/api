@@ -1,5 +1,21 @@
 [
   {
+    "id": "403514",
+    "title": "Dial 1975",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/eNUZ6BqDv0ido4TeUmJyRGL09LC.jpg",
+    "updatedAt": "2026-08-23T02:20:53.228Z"
+  },
+  {
+    "id": "1316427",
+    "title": "7 Dogs",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/4atbuigi6il1dEMSt3BkR8RvmV6.jpg",
+    "updatedAt": "2026-08-23T02:20:24.680Z"
+  },
+  {
     "id": "332134",
     "title": "Born Again",
     "type": "tv",
@@ -158,23 +174,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/prGSGD56ihQCaexXldXYpeESBeM.jpg",
     "updatedAt": "2026-08-22T05:43:21.192Z"
-  },
-  {
-    "id": "306627",
-    "title": "WEIRDO-101",
-    "type": "tv",
-    "season": 1,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/ex4A9H8axYYLzROfzxP86s2mCYy.jpg",
-    "updatedAt": "2026-08-21T15:44:00.316Z"
-  },
-  {
-    "id": "323569",
-    "title": "The Servant Prince",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/mtPUATykWPMRxpbx29qbohEqcZd.jpg",
-    "updatedAt": "2026-08-21T15:43:14.736Z"
   }
 ]
