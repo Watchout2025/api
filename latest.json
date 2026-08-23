@@ -1,5 +1,14 @@
 [
   {
+    "id": "84958",
+    "title": "Loki",
+    "type": "tv",
+    "season": 2,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/kXja7L9cRlsRmINMpxyWEdp9r3u.jpg",
+    "updatedAt": "2026-08-23T13:38:35.925Z"
+  },
+  {
     "id": "331549",
     "title": "Hanyi Enters the Heart",
     "type": "tv",
@@ -167,14 +176,5 @@
     "episode": 6,
     "backdrop": "https://image.tmdb.org/t/p/w500/9wIrbuthzBZci5SUkj0yeXh7gNB.jpg",
     "updatedAt": "2026-08-22T07:45:59.994Z"
-  },
-  {
-    "id": "258348",
-    "title": "Clevatess",
-    "type": "tv",
-    "season": 2,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/7BWn0XKkmB8Ngj6Jb8QzLhscFIG.jpg",
-    "updatedAt": "2026-08-22T05:50:23.911Z"
   }
 ]
