@@ -1,5 +1,14 @@
 [
   {
+    "id": "30984",
+    "title": "Bleach",
+    "type": "tv",
+    "season": 2,
+    "episode": 43,
+    "backdrop": "https://image.tmdb.org/t/p/w500/mFKys64gbDQrFqwUheGwXQwo2JK.jpg",
+    "updatedAt": "2026-08-24T04:05:11.075Z"
+  },
+  {
     "id": "228689",
     "title": "Genie, Make a Wish",
     "type": "tv",
@@ -167,14 +176,5 @@
     "episode": 10,
     "backdrop": "https://image.tmdb.org/t/p/w500/g56lYLkQE9z5gTNZjiwpYAoVWON.jpg",
     "updatedAt": "2026-08-22T15:55:21.244Z"
-  },
-  {
-    "id": "330718",
-    "title": "Dearest",
-    "type": "tv",
-    "season": 1,
-    "episode": 24,
-    "backdrop": "https://image.tmdb.org/t/p/w500/wLVc7iBIBtuyTOh3OlNHO80IzJK.jpg",
-    "updatedAt": "2026-08-22T11:50:12.600Z"
   }
 ]
