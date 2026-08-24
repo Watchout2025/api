@@ -1,5 +1,23 @@
 [
   {
+    "id": "287496",
+    "title": "The Road to Splendor",
+    "type": "tv",
+    "season": 1,
+    "episode": 30,
+    "backdrop": "https://image.tmdb.org/t/p/w500/zyAFGC97834c2Ld4xPY02uacdQk.jpg",
+    "updatedAt": "2026-08-24T16:14:09.648Z"
+  },
+  {
+    "id": "296140",
+    "title": "My Bias, My Boss",
+    "type": "tv",
+    "season": 1,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/v8O0X6PP7grEaXsPkdiotIx78tA.jpg",
+    "updatedAt": "2026-08-24T14:16:36.645Z"
+  },
+  {
     "id": "272938",
     "title": "Pull Strings",
     "type": "tv",
@@ -52,15 +70,6 @@
     "episode": 2,
     "backdrop": "https://image.tmdb.org/t/p/w500/cSL9gSe8F0NaFVpeMZQ8ae7aCtz.jpg",
     "updatedAt": "2026-08-24T00:59:33.568Z"
-  },
-  {
-    "id": "287496",
-    "title": "The Road to Splendor",
-    "type": "tv",
-    "season": 1,
-    "episode": 29,
-    "backdrop": "https://image.tmdb.org/t/p/w500/zyAFGC97834c2Ld4xPY02uacdQk.jpg",
-    "updatedAt": "2026-08-24T00:59:11.020Z"
   },
   {
     "id": "305830",
@@ -167,14 +176,5 @@
     "episode": 7,
     "backdrop": "https://image.tmdb.org/t/p/w500/6oQrmhUMiN5B7xQ4b9yrIQtcWpL.jpg",
     "updatedAt": "2026-08-22T15:56:00.182Z"
-  },
-  {
-    "id": "315083",
-    "title": "The Edge of Horizon",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/g56lYLkQE9z5gTNZjiwpYAoVWON.jpg",
-    "updatedAt": "2026-08-22T15:55:21.244Z"
   }
 ]
