@@ -1,5 +1,22 @@
 [
   {
+    "id": "95350",
+    "title": "Lanterns",
+    "type": "tv",
+    "season": 1,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
+    "updatedAt": "2026-08-25T11:50:30.092Z"
+  },
+  {
+    "id": "1212763",
+    "title": "Evil Dead Burn",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/viHFZ7GlzMcmPbADvP4Vd6Ema0g.jpg",
+    "updatedAt": "2026-08-25T10:46:03.512Z"
+  },
+  {
     "id": "287496",
     "title": "The Road to Splendor",
     "type": "tv",
@@ -158,23 +175,5 @@
     "episode": 8,
     "backdrop": "https://image.tmdb.org/t/p/w500/nAATQr4iewpPA5bEazcJ84UE7hl.jpg",
     "updatedAt": "2026-08-22T15:56:48.007Z"
-  },
-  {
-    "id": "220074",
-    "title": "Flex X Cop",
-    "type": "tv",
-    "season": 2,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/kPHKRCsSkz3kanwmR6XPcms2TCG.jpg",
-    "updatedAt": "2026-08-22T15:56:21.116Z"
-  },
-  {
-    "id": "285992",
-    "title": "The Fire",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/6oQrmhUMiN5B7xQ4b9yrIQtcWpL.jpg",
-    "updatedAt": "2026-08-22T15:56:00.182Z"
   }
 ]
