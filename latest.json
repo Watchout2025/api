@@ -1,5 +1,14 @@
 [
   {
+    "id": "228689",
+    "title": "Genie, Make a Wish",
+    "type": "tv",
+    "season": 1,
+    "episode": 13,
+    "backdrop": "https://image.tmdb.org/t/p/w500/941Ar9Mc8F9stDJSkmaqRPNFSEV.jpg",
+    "updatedAt": "2026-08-25T11:55:38.779Z"
+  },
+  {
     "id": "95350",
     "title": "Lanterns",
     "type": "tv",
@@ -69,15 +78,6 @@
     "episode": 43,
     "backdrop": "https://image.tmdb.org/t/p/w500/mFKys64gbDQrFqwUheGwXQwo2JK.jpg",
     "updatedAt": "2026-08-24T04:05:11.075Z"
-  },
-  {
-    "id": "228689",
-    "title": "Genie, Make a Wish",
-    "type": "tv",
-    "season": 1,
-    "episode": 13,
-    "backdrop": "https://image.tmdb.org/t/p/w500/941Ar9Mc8F9stDJSkmaqRPNFSEV.jpg",
-    "updatedAt": "2026-08-24T03:16:52.990Z"
   },
   {
     "id": "299158",
