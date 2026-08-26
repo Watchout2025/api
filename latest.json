@@ -1,5 +1,13 @@
 [
   {
+    "id": "1213243",
+    "title": "Toxic : A Fairy Tale for Grown-ups",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
+    "updatedAt": "2026-08-26T12:18:12.743Z"
+  },
+  {
     "id": "108978",
     "title": "Reacher",
     "type": "tv",
@@ -166,14 +174,5 @@
     "episode": 5,
     "backdrop": "https://image.tmdb.org/t/p/w500/jAeJPXdX7XCtgFbRDj7vCTKqw3f.jpg",
     "updatedAt": "2026-08-23T15:08:44.107Z"
-  },
-  {
-    "id": "84958",
-    "title": "Loki",
-    "type": "tv",
-    "season": 2,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/kXja7L9cRlsRmINMpxyWEdp9r3u.jpg",
-    "updatedAt": "2026-08-23T13:38:35.925Z"
   }
 ]
