@@ -1,5 +1,104 @@
 [
   {
+    "id": "271489",
+    "title": "The Traitors",
+    "type": "tv",
+    "season": 2,
+    "episode": 9,
+    "backdrop": "https://image.tmdb.org/t/p/w500/tcZmDatkBcqbCt6pWLcCA1K0pWZ.jpg",
+    "updatedAt": "2026-08-27T07:18:22.936Z"
+  },
+  {
+    "id": "258348",
+    "title": "Clevatess",
+    "type": "tv",
+    "season": 2,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/7BWn0XKkmB8Ngj6Jb8QzLhscFIG.jpg",
+    "updatedAt": "2026-08-27T07:16:32.030Z"
+  },
+  {
+    "id": "326119",
+    "title": "Thunder 3",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/7HTP5m1BTMMHhBpLqkjfGvHbVZJ.jpg",
+    "updatedAt": "2026-08-27T07:15:39.629Z"
+  },
+  {
+    "id": "139512",
+    "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
+    "type": "tv",
+    "season": 2,
+    "episode": 5,
+    "backdrop": "https://image.tmdb.org/t/p/w500/gnoMv9Y2kzt74albwVT1FhewVVC.jpg",
+    "updatedAt": "2026-08-27T07:13:58.330Z"
+  },
+  {
+    "id": "296140",
+    "title": "My Bias, My Boss",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/v8O0X6PP7grEaXsPkdiotIx78tA.jpg",
+    "updatedAt": "2026-08-27T07:12:07.907Z"
+  },
+  {
+    "id": "332179",
+    "title": "Street World Fighter: Directors' War",
+    "type": "tv",
+    "season": 1,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/myskPMwhqhD40Ugy7pWjJsOQ1AF.jpg",
+    "updatedAt": "2026-08-27T05:13:24.089Z"
+  },
+  {
+    "id": "323447",
+    "title": "NOUR",
+    "type": "tv",
+    "season": 1,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/qocG1nc3FKWjVNQ4VZhl29kTGOo.jpg",
+    "updatedAt": "2026-08-27T05:12:36.087Z"
+  },
+  {
+    "id": "287496",
+    "title": "The Road to Splendor",
+    "type": "tv",
+    "season": 1,
+    "episode": 32,
+    "backdrop": "https://image.tmdb.org/t/p/w500/5JH0WTzvSbbLwpOzI41cXytjCxW.jpg",
+    "updatedAt": "2026-08-27T05:11:59.805Z"
+  },
+  {
+    "id": "307433",
+    "title": "Moonshadow",
+    "type": "tv",
+    "season": 1,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/etPjU43sjNzLkYd0TMYzWJ7qH9f.jpg",
+    "updatedAt": "2026-08-27T05:10:51.685Z"
+  },
+  {
+    "id": "276470",
+    "title": "OK! Let's Get Divorced",
+    "type": "tv",
+    "season": 1,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/qtcTChxZEXrjgZLe5slGhOuzqzp.jpg",
+    "updatedAt": "2026-08-27T05:10:29.664Z"
+  },
+  {
+    "id": "299952",
+    "title": "The Early Spring",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/d7aATTaFwreVu0eSdVc3k9Yqlvv.jpg",
+    "updatedAt": "2026-08-26T12:55:34.598Z"
+  },
+  {
     "id": "1213243",
     "title": "Toxic : A Fairy Tale for Grown-ups",
     "type": "movie",
@@ -60,15 +159,6 @@
     "updatedAt": "2026-08-26T06:12:10.241Z"
   },
   {
-    "id": "287496",
-    "title": "The Road to Splendor",
-    "type": "tv",
-    "season": 1,
-    "episode": 31,
-    "backdrop": "https://image.tmdb.org/t/p/w500/zyAFGC97834c2Ld4xPY02uacdQk.jpg",
-    "updatedAt": "2026-08-26T06:11:45.506Z"
-  },
-  {
     "id": "298610",
     "title": "Spooky in Love",
     "type": "tv",
@@ -85,94 +175,5 @@
     "episode": 8,
     "backdrop": "https://image.tmdb.org/t/p/w500/zDLbi3i23b55zpCwxPqv2Zu7h5G.jpg",
     "updatedAt": "2026-08-25T15:30:06.424Z"
-  },
-  {
-    "id": "296140",
-    "title": "My Bias, My Boss",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/v8O0X6PP7grEaXsPkdiotIx78tA.jpg",
-    "updatedAt": "2026-08-25T15:29:43.980Z"
-  },
-  {
-    "id": "228689",
-    "title": "Genie, Make a Wish",
-    "type": "tv",
-    "season": 1,
-    "episode": 13,
-    "backdrop": "https://image.tmdb.org/t/p/w500/941Ar9Mc8F9stDJSkmaqRPNFSEV.jpg",
-    "updatedAt": "2026-08-25T11:55:38.779Z"
-  },
-  {
-    "id": "95350",
-    "title": "Lanterns",
-    "type": "tv",
-    "season": 1,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
-    "updatedAt": "2026-08-25T11:50:30.092Z"
-  },
-  {
-    "id": "1212763",
-    "title": "Evil Dead Burn",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/viHFZ7GlzMcmPbADvP4Vd6Ema0g.jpg",
-    "updatedAt": "2026-08-25T10:46:03.512Z"
-  },
-  {
-    "id": "272938",
-    "title": "Pull Strings",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/czrTjghc1gqx0Fw9ja4Vpyej1Gi.jpg",
-    "updatedAt": "2026-08-24T13:14:31.119Z"
-  },
-  {
-    "id": "310326",
-    "title": "Love on the Menu",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/bxwVTTX5ayJaNGM4ajyjPtTeXOS.jpg",
-    "updatedAt": "2026-08-24T13:14:06.401Z"
-  },
-  {
-    "id": "30984",
-    "title": "Bleach",
-    "type": "tv",
-    "season": 2,
-    "episode": 43,
-    "backdrop": "https://image.tmdb.org/t/p/w500/mFKys64gbDQrFqwUheGwXQwo2JK.jpg",
-    "updatedAt": "2026-08-24T04:05:11.075Z"
-  },
-  {
-    "id": "299158",
-    "title": "LOVEx3",
-    "type": "tv",
-    "season": 1,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/cSL9gSe8F0NaFVpeMZQ8ae7aCtz.jpg",
-    "updatedAt": "2026-08-24T00:59:33.568Z"
-  },
-  {
-    "id": "305830",
-    "title": "Someone, Someday",
-    "type": "tv",
-    "season": 1,
-    "episode": 23,
-    "backdrop": "https://image.tmdb.org/t/p/w500/6xVKvVhzCSfJzdxzUIgaw86vLjU.jpg",
-    "updatedAt": "2026-08-24T00:58:44.799Z"
-  },
-  {
-    "id": "306629",
-    "title": "Match Point",
-    "type": "tv",
-    "season": 1,
-    "episode": 5,
-    "backdrop": "https://image.tmdb.org/t/p/w500/jAeJPXdX7XCtgFbRDj7vCTKqw3f.jpg",
-    "updatedAt": "2026-08-23T15:08:44.107Z"
   }
 ]
