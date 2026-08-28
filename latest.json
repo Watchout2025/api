@@ -1,5 +1,89 @@
 [
   {
+    "id": "393",
+    "title": "Kill Bill: Vol. 2",
+    "type": "movie",
+    "year": "2004",
+    "backdrop": "https://image.tmdb.org/t/p/w500/7ldYM5HSpVEkowWr8WSEwYzEzKt.jpg",
+    "updatedAt": "2026-08-28T09:31:37.139Z"
+  },
+  {
+    "id": "24",
+    "title": "Kill Bill: Vol. 1",
+    "type": "movie",
+    "year": "2003",
+    "backdrop": "https://image.tmdb.org/t/p/w500/HqsGhAqwoGIFcO85t7rNWm7PA8.jpg",
+    "updatedAt": "2026-08-28T09:30:50.473Z"
+  },
+  {
+    "id": "1744462",
+    "title": "Grand Theft Auto VI: An Extended Look",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/XJXylXvPKLXrcOtYZpwKbhRztD.jpg",
+    "updatedAt": "2026-08-28T09:29:26.580Z"
+  },
+  {
+    "id": "1122030",
+    "title": "Alpha",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/7BZfcruJSMM4FCzljbdfxjFSDLF.jpg",
+    "updatedAt": "2026-08-28T09:26:31.572Z"
+  },
+  {
+    "id": "258025",
+    "title": "Head Over Heels",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/7xs9O23AFbMzbhrEOY1vvo4g8Y0.jpg",
+    "updatedAt": "2026-08-28T03:01:59.355Z"
+  },
+  {
+    "id": "1399",
+    "title": "Game of Thrones",
+    "type": "tv",
+    "season": 8,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hRb50fOGcXic3NO6kUnL9hRXwsg.jpg",
+    "updatedAt": "2026-08-28T02:49:02.811Z"
+  },
+  {
+    "id": "304871",
+    "title": "Be My Player Two",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cW0b2avFjFHpOAPDdWlpRSkugrk.jpg",
+    "updatedAt": "2026-08-27T15:51:41.362Z"
+  },
+  {
+    "id": "287496",
+    "title": "The Road to Splendor",
+    "type": "tv",
+    "season": 1,
+    "episode": 36,
+    "backdrop": "https://image.tmdb.org/t/p/w500/5JH0WTzvSbbLwpOzI41cXytjCxW.jpg",
+    "updatedAt": "2026-08-27T15:50:35.326Z"
+  },
+  {
+    "id": "1339676",
+    "title": "I, Nobody",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/zNvSWIvca6aA0eq63JqzVvagqLI.jpg",
+    "updatedAt": "2026-08-27T09:12:20.303Z"
+  },
+  {
+    "id": "1235877",
+    "title": "Jana Nayagan",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
+    "updatedAt": "2026-08-27T09:11:42.085Z"
+  },
+  {
     "id": "1213243",
     "title": "Toxic: A Fairy Tale for Grown-ups",
     "type": "movie",
@@ -71,15 +155,6 @@
     "updatedAt": "2026-08-27T05:12:36.087Z"
   },
   {
-    "id": "287496",
-    "title": "The Road to Splendor",
-    "type": "tv",
-    "season": 1,
-    "episode": 32,
-    "backdrop": "https://image.tmdb.org/t/p/w500/5JH0WTzvSbbLwpOzI41cXytjCxW.jpg",
-    "updatedAt": "2026-08-27T05:11:59.805Z"
-  },
-  {
     "id": "307433",
     "title": "Moonshadow",
     "type": "tv",
@@ -96,84 +171,5 @@
     "episode": 3,
     "backdrop": "https://image.tmdb.org/t/p/w500/qtcTChxZEXrjgZLe5slGhOuzqzp.jpg",
     "updatedAt": "2026-08-27T05:10:29.664Z"
-  },
-  {
-    "id": "299952",
-    "title": "The Early Spring",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/d7aATTaFwreVu0eSdVc3k9Yqlvv.jpg",
-    "updatedAt": "2026-08-26T12:55:34.598Z"
-  },
-  {
-    "id": "108978",
-    "title": "Reacher",
-    "type": "tv",
-    "season": 4,
-    "episode": 5,
-    "backdrop": "https://image.tmdb.org/t/p/w500/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
-    "updatedAt": "2026-08-26T09:19:53.699Z"
-  },
-  {
-    "id": "1560520",
-    "title": "Batman: Knightfall Part 1: Knightfall",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/dD9jGW6ucJTamWSEcwJKtCmj90u.jpg",
-    "updatedAt": "2026-08-26T09:17:38.972Z"
-  },
-  {
-    "id": "1516698",
-    "title": "The Last Sunrise",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/dJdZcLn8t1ZLodoxaP4DJ6jgBKy.jpg",
-    "updatedAt": "2026-08-26T09:16:03.146Z"
-  },
-  {
-    "id": "328217",
-    "title": "Legacy",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/nWJf8wzIEPhrKthM1dHzhiI4oq7.jpg",
-    "updatedAt": "2026-08-26T06:14:36.758Z"
-  },
-  {
-    "id": "311914",
-    "title": "Love Destiny",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3A3qhj0ghaXoVrIHoiJHqyxe9HL.jpg",
-    "updatedAt": "2026-08-26T06:12:33.423Z"
-  },
-  {
-    "id": "303493",
-    "title": "Knot",
-    "type": "tv",
-    "season": 1,
-    "episode": 9,
-    "backdrop": "https://image.tmdb.org/t/p/w500/iF5ZArBMkIengBgFaW4waiBWrBi.jpg",
-    "updatedAt": "2026-08-26T06:12:10.241Z"
-  },
-  {
-    "id": "298610",
-    "title": "Spooky in Love",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9jdReHRO3tVsgIdDcY952FA5nfF.jpg",
-    "updatedAt": "2026-08-25T15:32:27.334Z"
-  },
-  {
-    "id": "306953",
-    "title": "Mr.Kill",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/zDLbi3i23b55zpCwxPqv2Zu7h5G.jpg",
-    "updatedAt": "2026-08-25T15:30:06.424Z"
   }
 ]
