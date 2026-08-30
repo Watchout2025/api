@@ -1,5 +1,86 @@
 [
   {
+    "id": "284825",
+    "title": "Mr. Fanboy",
+    "type": "tv",
+    "season": 1,
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/wa0sbAAf8owaFfcVGiUh1Ikq6tw.jpg",
+    "updatedAt": "2026-08-30T13:46:25.783Z"
+  },
+  {
+    "id": "306630",
+    "title": "You Maniac",
+    "type": "tv",
+    "season": 1,
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/uN0kycbW2A5zyaogjDfzqvILjap.jpg",
+    "updatedAt": "2026-08-30T13:45:12.490Z"
+  },
+  {
+    "id": "315083",
+    "title": "The Edge of Horizon",
+    "type": "tv",
+    "season": 1,
+    "episode": 11,
+    "backdrop": "https://image.tmdb.org/t/p/w500/g56lYLkQE9z5gTNZjiwpYAoVWON.jpg",
+    "updatedAt": "2026-08-30T13:44:54.238Z"
+  },
+  {
+    "id": "285992",
+    "title": "The Fire",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/6oQrmhUMiN5B7xQ4b9yrIQtcWpL.jpg",
+    "updatedAt": "2026-08-30T13:44:32.071Z"
+  },
+  {
+    "id": "305644",
+    "title": "Four Hands, Two Sonatas",
+    "type": "tv",
+    "season": 1,
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/c8saa6GyN8a3bjHCLGG65j7WeMA.jpg",
+    "updatedAt": "2026-08-30T13:43:41.159Z"
+  },
+  {
+    "id": "272938",
+    "title": "Pull Strings",
+    "type": "tv",
+    "season": 1,
+    "episode": 20,
+    "backdrop": "https://image.tmdb.org/t/p/w500/czrTjghc1gqx0Fw9ja4Vpyej1Gi.jpg",
+    "updatedAt": "2026-08-30T13:43:18.738Z"
+  },
+  {
+    "id": "299952",
+    "title": "The Early Spring",
+    "type": "tv",
+    "season": 1,
+    "episode": 11,
+    "backdrop": "https://image.tmdb.org/t/p/w500/humHhdm4odTEMii5VM5KcKn73kf.jpg",
+    "updatedAt": "2026-08-30T13:42:37.503Z"
+  },
+  {
+    "id": "294095",
+    "title": "A Bona Fide Killer",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/nAATQr4iewpPA5bEazcJ84UE7hl.jpg",
+    "updatedAt": "2026-08-30T13:41:07.862Z"
+  },
+  {
+    "id": "220074",
+    "title": "Flex X Cop",
+    "type": "tv",
+    "season": 2,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/kPHKRCsSkz3kanwmR6XPcms2TCG.jpg",
+    "updatedAt": "2026-08-30T13:40:47.565Z"
+  },
+  {
     "id": "260458",
     "title": "Adults",
     "type": "tv",
@@ -93,86 +174,5 @@
     "episode": 10,
     "backdrop": "https://image.tmdb.org/t/p/w500/5dStdZ93b22PTSMVzpfzBDK6DYr.jpg",
     "updatedAt": "2026-08-29T09:31:46.700Z"
-  },
-  {
-    "id": "239830",
-    "title": "Connecting to You",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9wIrbuthzBZci5SUkj0yeXh7gNB.jpg",
-    "updatedAt": "2026-08-29T09:31:22.751Z"
-  },
-  {
-    "id": "272938",
-    "title": "Pull Strings",
-    "type": "tv",
-    "season": 1,
-    "episode": 18,
-    "backdrop": "https://image.tmdb.org/t/p/w500/czrTjghc1gqx0Fw9ja4Vpyej1Gi.jpg",
-    "updatedAt": "2026-08-29T09:30:46.475Z"
-  },
-  {
-    "id": "220074",
-    "title": "Flex X Cop",
-    "type": "tv",
-    "season": 2,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/kPHKRCsSkz3kanwmR6XPcms2TCG.jpg",
-    "updatedAt": "2026-08-29T09:29:44.371Z"
-  },
-  {
-    "id": "294095",
-    "title": "A Bona Fide Killer",
-    "type": "tv",
-    "season": 1,
-    "episode": 9,
-    "backdrop": "https://image.tmdb.org/t/p/w500/nAATQr4iewpPA5bEazcJ84UE7hl.jpg",
-    "updatedAt": "2026-08-29T09:29:05.305Z"
-  },
-  {
-    "id": "306627",
-    "title": "WEIRDO-101",
-    "type": "tv",
-    "season": 1,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w500/ex4A9H8axYYLzROfzxP86s2mCYy.jpg",
-    "updatedAt": "2026-08-29T09:28:37.365Z"
-  },
-  {
-    "id": "308834",
-    "title": "In Love Forever",
-    "type": "tv",
-    "season": 1,
-    "episode": 11,
-    "backdrop": "https://image.tmdb.org/t/p/w500/7jfp8m7aUAKusm1fAVByigGz5wr.jpg",
-    "updatedAt": "2026-08-29T09:28:15.217Z"
-  },
-  {
-    "id": "316278",
-    "title": "My Husband Is a Mafia Boss",
-    "type": "tv",
-    "season": 1,
-    "episode": 21,
-    "backdrop": "https://image.tmdb.org/t/p/w500/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
-    "updatedAt": "2026-08-29T09:27:53.276Z"
-  },
-  {
-    "id": "230448",
-    "title": "Mr. Plankton",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/7LmwKWqnd0sYLQvz0VvjdW5J8sN.jpg",
-    "updatedAt": "2026-08-29T02:20:17.027Z"
-  },
-  {
-    "id": "228689",
-    "title": "Genie, Make a Wish",
-    "type": "tv",
-    "season": 1,
-    "episode": 13,
-    "backdrop": "https://image.tmdb.org/t/p/w500/941Ar9Mc8F9stDJSkmaqRPNFSEV.jpg",
-    "updatedAt": "2026-08-29T02:06:00.381Z"
   }
 ]
