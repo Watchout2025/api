@@ -1,176 +1,178 @@
 [
   {
-    "id": "154825",
-    "title": "Business Proposal",
+    "id": "260458",
+    "title": "Adults",
     "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3ARq4Fmu6xApIdv5LmKO7W6Zf4R.jpg",
-    "updatedAt": "2026-08-28T15:34:54.692Z"
-  },
-  {
-    "id": "215001",
-    "title": "Destined with You",
-    "type": "tv",
-    "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/vnQx7CiClosgnW4Q7NHAcMXybMf.jpg",
-    "updatedAt": "2026-08-28T15:28:07.434Z"
-  },
-  {
-    "id": "296140",
-    "title": "My Bias, My Boss",
-    "type": "tv",
-    "season": 1,
+    "season": 2,
     "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/v8O0X6PP7grEaXsPkdiotIx78tA.jpg",
-    "updatedAt": "2026-08-28T15:11:30.714Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/r2yaABeXmcgQDmRxRJsmLbTsPHQ.jpg",
+    "updatedAt": "2026-08-30T13:37:05.467Z"
   },
   {
-    "id": "283297",
-    "title": "Sterling Point",
-    "type": "tv",
-    "season": 1,
-    "episode": 5,
-    "backdrop": "https://image.tmdb.org/t/p/w500/ieepBliPqckTatnBCGWFRleTGed.jpg",
-    "updatedAt": "2026-08-28T12:31:30.026Z"
-  },
-  {
-    "id": "276161",
-    "title": "Teach You a Lesson",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3pi7MLqfErHDUkMh2hjumbkUkQp.jpg",
-    "updatedAt": "2026-08-28T12:22:30.891Z"
-  },
-  {
-    "id": "1607634",
-    "title": "Anbe Diana",
+    "id": "860508",
+    "title": "The Whisper Man",
     "type": "movie",
     "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/l4xqxKS7nlOni6bnTHWi3USyp4o.jpg",
-    "updatedAt": "2026-08-28T10:36:36.083Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/vxqyAKDjfqlkUWWIJMSfhAnFbNk.jpg",
+    "updatedAt": "2026-08-30T13:25:47.116Z"
   },
   {
-    "id": "292558",
-    "title": "All the Truth In My Lies",
-    "type": "tv",
-    "season": 1,
-    "episode": 5,
-    "backdrop": "https://image.tmdb.org/t/p/w500/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg",
-    "updatedAt": "2026-08-28T10:35:49.129Z"
-  },
-  {
-    "id": "290193",
-    "title": "Mousetrap",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/6B3xYx8ishrDshAO0tO8t4rUGzI.jpg",
-    "updatedAt": "2026-08-28T10:32:22.557Z"
-  },
-  {
-    "id": "1213243",
-    "title": "Toxic: A Fairy Tale for Grown-ups",
+    "id": "1530941",
+    "title": "Gintama the Movie 2026: Yoshiwara in Flames",
     "type": "movie",
     "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/chVcgVAc6AwWJUEJhdLGysW9pCM.jpg",
-    "updatedAt": "2026-08-28T09:55:39.266Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/8qSFFK9AcMl2Ecp249f5J3Nr8MK.jpg",
+    "updatedAt": "2026-08-30T13:24:08.034Z"
   },
   {
-    "id": "299952",
-    "title": "The Early Spring",
+    "id": "610363",
+    "title": "The One",
+    "type": "movie",
+    "year": "2022",
+    "backdrop": "https://image.tmdb.org/t/p/w500/2CAcGzeL9dOMaPELyWruUyd2JNc.jpg",
+    "updatedAt": "2026-08-30T13:23:03.642Z"
+  },
+  {
+    "id": "285993",
+    "title": "BLACK TORCH",
     "type": "tv",
     "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/humHhdm4odTEMii5VM5KcKn73kf.jpg",
-    "updatedAt": "2026-08-28T09:47:04.304Z"
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/fy1R05K8zCUFmQG6f1Wn4gPwte4.jpg",
+    "updatedAt": "2026-08-30T13:20:19.433Z"
   },
   {
-    "id": "296286",
-    "title": "Smoking Behind the Supermarket with You",
+    "id": "196322",
+    "title": "Dark Matter",
+    "type": "tv",
+    "season": 2,
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/2UFwBzMvbGEVJReVlSbsZfdMo2r.jpg",
+    "updatedAt": "2026-08-30T13:19:26.992Z"
+  },
+  {
+    "id": "414419",
+    "title": "Kill Bill: The Whole Bloody Affair",
+    "type": "movie",
+    "year": "2011",
+    "backdrop": "https://image.tmdb.org/t/p/w500/jGYpPUb6iZ09o83H6f57159XBUA.jpg",
+    "updatedAt": "2026-08-30T13:18:08.730Z"
+  },
+  {
+    "id": "117376",
+    "title": "Vincenzo",
     "type": "tv",
     "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/gbb9tOprOZHkAQtTh5FlerbS1pb.jpg",
-    "updatedAt": "2026-08-28T09:42:57.864Z"
+    "episode": 20,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cQwu0TKuXXFfPKc5i8nZ0PsgeQC.jpg",
+    "updatedAt": "2026-08-29T09:49:11.009Z"
   },
   {
-    "id": "297826",
-    "title": "Tomb Raider King",
-    "type": "tv",
-    "season": 1,
-    "episode": 5,
-    "backdrop": "https://image.tmdb.org/t/p/w500/efo2pV1xzSIyd35jXixoB2WJM3u.jpg",
-    "updatedAt": "2026-08-28T09:41:01.472Z"
-  },
-  {
-    "id": "312949",
-    "title": "Chainsmoker Cat",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/zAMw1Nu5XzGW50eNjBkIxF3kfrx.jpg",
-    "updatedAt": "2026-08-28T09:39:19.527Z"
-  },
-  {
-    "id": "329540",
-    "title": "Love U Lots",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/jnP1DHf5VpCzGDAoFZlbCL4OPI6.jpg",
-    "updatedAt": "2026-08-28T09:35:22.340Z"
-  },
-  {
-    "id": "325271",
-    "title": "Dating Alys Perez",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/pT5sJufAi68Nwz5lKOQctiI0Ent.jpg",
-    "updatedAt": "2026-08-28T09:35:01.418Z"
-  },
-  {
-    "id": "306598",
-    "title": "Unlucky Bae",
+    "id": "331312",
+    "title": "Kiss or Kill",
     "type": "tv",
     "season": 1,
     "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/g2XaAttXQz9DzwZZ3A2wBckXf5d.jpg",
-    "updatedAt": "2026-08-28T09:33:51.578Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/gLiJPAnQl4jHODrq8Z3M783NB8S.jpg",
+    "updatedAt": "2026-08-29T09:33:06.645Z"
   },
   {
-    "id": "393",
-    "title": "Kill Bill: Vol. 2",
-    "type": "movie",
-    "year": "2004",
-    "backdrop": "https://image.tmdb.org/t/p/w500/7ldYM5HSpVEkowWr8WSEwYzEzKt.jpg",
-    "updatedAt": "2026-08-28T09:31:37.139Z"
+    "id": "301418",
+    "title": "The Affair Was Just The Beginning",
+    "type": "tv",
+    "season": 1,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/bftAVJ4PKXitpNk6bwoz25SW2CX.jpg",
+    "updatedAt": "2026-08-29T09:32:17.112Z"
   },
   {
-    "id": "24",
-    "title": "Kill Bill: Vol. 1",
-    "type": "movie",
-    "year": "2003",
-    "backdrop": "https://image.tmdb.org/t/p/w500/HqsGhAqwoGIFcO85t7rNWm7PA8.jpg",
-    "updatedAt": "2026-08-28T09:30:50.473Z"
+    "id": "314936",
+    "title": "Don't Be Too Emotional",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/5dStdZ93b22PTSMVzpfzBDK6DYr.jpg",
+    "updatedAt": "2026-08-29T09:31:46.700Z"
   },
   {
-    "id": "1744462",
-    "title": "Grand Theft Auto VI: An Extended Look",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/XJXylXvPKLXrcOtYZpwKbhRztD.jpg",
-    "updatedAt": "2026-08-28T09:29:26.580Z"
+    "id": "239830",
+    "title": "Connecting to You",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/9wIrbuthzBZci5SUkj0yeXh7gNB.jpg",
+    "updatedAt": "2026-08-29T09:31:22.751Z"
   },
   {
-    "id": "1122030",
-    "title": "Alpha",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/7BZfcruJSMM4FCzljbdfxjFSDLF.jpg",
-    "updatedAt": "2026-08-28T09:26:31.572Z"
+    "id": "272938",
+    "title": "Pull Strings",
+    "type": "tv",
+    "season": 1,
+    "episode": 18,
+    "backdrop": "https://image.tmdb.org/t/p/w500/czrTjghc1gqx0Fw9ja4Vpyej1Gi.jpg",
+    "updatedAt": "2026-08-29T09:30:46.475Z"
+  },
+  {
+    "id": "220074",
+    "title": "Flex X Cop",
+    "type": "tv",
+    "season": 2,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/kPHKRCsSkz3kanwmR6XPcms2TCG.jpg",
+    "updatedAt": "2026-08-29T09:29:44.371Z"
+  },
+  {
+    "id": "294095",
+    "title": "A Bona Fide Killer",
+    "type": "tv",
+    "season": 1,
+    "episode": 9,
+    "backdrop": "https://image.tmdb.org/t/p/w500/nAATQr4iewpPA5bEazcJ84UE7hl.jpg",
+    "updatedAt": "2026-08-29T09:29:05.305Z"
+  },
+  {
+    "id": "306627",
+    "title": "WEIRDO-101",
+    "type": "tv",
+    "season": 1,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/ex4A9H8axYYLzROfzxP86s2mCYy.jpg",
+    "updatedAt": "2026-08-29T09:28:37.365Z"
+  },
+  {
+    "id": "308834",
+    "title": "In Love Forever",
+    "type": "tv",
+    "season": 1,
+    "episode": 11,
+    "backdrop": "https://image.tmdb.org/t/p/w500/7jfp8m7aUAKusm1fAVByigGz5wr.jpg",
+    "updatedAt": "2026-08-29T09:28:15.217Z"
+  },
+  {
+    "id": "316278",
+    "title": "My Husband Is a Mafia Boss",
+    "type": "tv",
+    "season": 1,
+    "episode": 21,
+    "backdrop": "https://image.tmdb.org/t/p/w500/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
+    "updatedAt": "2026-08-29T09:27:53.276Z"
+  },
+  {
+    "id": "230448",
+    "title": "Mr. Plankton",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/7LmwKWqnd0sYLQvz0VvjdW5J8sN.jpg",
+    "updatedAt": "2026-08-29T02:20:17.027Z"
+  },
+  {
+    "id": "228689",
+    "title": "Genie, Make a Wish",
+    "type": "tv",
+    "season": 1,
+    "episode": 13,
+    "backdrop": "https://image.tmdb.org/t/p/w500/941Ar9Mc8F9stDJSkmaqRPNFSEV.jpg",
+    "updatedAt": "2026-08-29T02:06:00.381Z"
   }
 ]
