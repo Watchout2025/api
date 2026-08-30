@@ -1,11 +1,38 @@
 [
   {
-    "id": "4253",
-    "title": "Hum Tum",
+    "id": "276609",
+    "title": "Thukra Ke Mera Pyaar",
+    "type": "tv",
+    "season": 2,
+    "episode": 45,
+    "backdrop": "https://image.tmdb.org/t/p/w500/mKXSi5t9CKy0jDEWcGTuJnapu07.jpg",
+    "updatedAt": "2026-08-30T16:23:42.645Z"
+  },
+  {
+    "id": "90720",
+    "title": "Be Melodramatic",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/sE2WoHRJKYhbBzo0QyU0EAFegEO.jpg",
+    "updatedAt": "2026-08-30T16:15:05.321Z"
+  },
+  {
+    "id": "83533",
+    "title": "Avatar: Fire and Ash",
     "type": "movie",
-    "year": "2004",
-    "backdrop": "https://image.tmdb.org/t/p/w500/71Pw2W2IfBOT5wOBRACfCJtm9XS.jpg",
-    "updatedAt": "2026-08-30T15:49:56.145Z"
+    "year": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w500/ymtnjmwnExw1ZztBKQVkG0flooe.jpg",
+    "updatedAt": "2026-08-30T16:04:43.731Z"
+  },
+  {
+    "id": "262838",
+    "title": "India's Got Latent",
+    "type": "tv",
+    "season": 2,
+    "episode": 5,
+    "backdrop": "https://image.tmdb.org/t/p/w500/lhukQjNRaUXxZGdGGWNZvSU4qfq.jpg",
+    "updatedAt": "2026-08-30T16:02:59.697Z"
   },
   {
     "id": "215001",
@@ -14,7 +41,24 @@
     "season": 1,
     "episode": 16,
     "backdrop": "https://image.tmdb.org/t/p/w500/vnQx7CiClosgnW4Q7NHAcMXybMf.jpg",
-    "updatedAt": "2026-08-30T15:48:24.517Z"
+    "updatedAt": "2026-08-30T16:01:11.711Z"
+  },
+  {
+    "id": "276161",
+    "title": "Teach You a Lesson",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/3pi7MLqfErHDUkMh2hjumbkUkQp.jpg",
+    "updatedAt": "2026-08-30T15:59:49.915Z"
+  },
+  {
+    "id": "4253",
+    "title": "Hum Tum",
+    "type": "movie",
+    "year": "2004",
+    "backdrop": "https://image.tmdb.org/t/p/w500/71Pw2W2IfBOT5wOBRACfCJtm9XS.jpg",
+    "updatedAt": "2026-08-30T15:49:56.145Z"
   },
   {
     "id": "1698856",
@@ -129,50 +173,5 @@
     "episode": 8,
     "backdrop": "https://image.tmdb.org/t/p/w500/6oQrmhUMiN5B7xQ4b9yrIQtcWpL.jpg",
     "updatedAt": "2026-08-30T13:44:32.071Z"
-  },
-  {
-    "id": "305644",
-    "title": "Four Hands, Two Sonatas",
-    "type": "tv",
-    "season": 1,
-    "episode": 1,
-    "backdrop": "https://image.tmdb.org/t/p/w500/c8saa6GyN8a3bjHCLGG65j7WeMA.jpg",
-    "updatedAt": "2026-08-30T13:43:41.159Z"
-  },
-  {
-    "id": "272938",
-    "title": "Pull Strings",
-    "type": "tv",
-    "season": 1,
-    "episode": 20,
-    "backdrop": "https://image.tmdb.org/t/p/w500/czrTjghc1gqx0Fw9ja4Vpyej1Gi.jpg",
-    "updatedAt": "2026-08-30T13:43:18.738Z"
-  },
-  {
-    "id": "299952",
-    "title": "The Early Spring",
-    "type": "tv",
-    "season": 1,
-    "episode": 11,
-    "backdrop": "https://image.tmdb.org/t/p/w500/humHhdm4odTEMii5VM5KcKn73kf.jpg",
-    "updatedAt": "2026-08-30T13:42:37.503Z"
-  },
-  {
-    "id": "294095",
-    "title": "A Bona Fide Killer",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/nAATQr4iewpPA5bEazcJ84UE7hl.jpg",
-    "updatedAt": "2026-08-30T13:41:07.862Z"
-  },
-  {
-    "id": "220074",
-    "title": "Flex X Cop",
-    "type": "tv",
-    "season": 2,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/kPHKRCsSkz3kanwmR6XPcms2TCG.jpg",
-    "updatedAt": "2026-08-30T13:40:47.565Z"
   }
 ]
