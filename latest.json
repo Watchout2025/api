@@ -1,5 +1,59 @@
 [
   {
+    "id": "85518",
+    "title": "Khatron Ke Khiladi",
+    "type": "tv",
+    "season": 15,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/uDnAERbDb18p0jVB4UlfIHbuBGE.jpg",
+    "updatedAt": "2026-08-31T09:29:41.314Z"
+  },
+  {
+    "id": "325135",
+    "title": "Hastinapur Ke Veer",
+    "type": "tv",
+    "season": 1,
+    "episode": 77,
+    "backdrop": "https://image.tmdb.org/t/p/w500/3Y8mZPdlo9iJ2JEormLuneQomPZ.jpg",
+    "updatedAt": "2026-08-31T09:25:23.366Z"
+  },
+  {
+    "id": "332744",
+    "title": "Indian Game Show",
+    "type": "tv",
+    "season": 2,
+    "episode": 5,
+    "backdrop": "https://image.tmdb.org/t/p/w500/6cILiHDTg4lGUik4KFwZGC1bjpk.jpg",
+    "updatedAt": "2026-08-31T09:21:54.231Z"
+  },
+  {
+    "id": "288971",
+    "title": "Jaadugar: A Witch in Mongolia",
+    "type": "tv",
+    "season": 1,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/6w6L5bkYbsDduiaIbNEcIwn3p33.jpg",
+    "updatedAt": "2026-08-31T08:57:00.368Z"
+  },
+  {
+    "id": "260463",
+    "title": "Daemons of the Shadow Realm",
+    "type": "tv",
+    "season": 1,
+    "episode": 17,
+    "backdrop": "https://image.tmdb.org/t/p/w500/nUZECCEQUCtu1WKW1Gll9Ba8V2J.jpg",
+    "updatedAt": "2026-08-31T04:15:15.777Z"
+  },
+  {
+    "id": "94664",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "type": "tv",
+    "season": 3,
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/81j82xSVO8jXHsHVByQLYm2XZ3s.jpg",
+    "updatedAt": "2026-08-31T04:13:28.361Z"
+  },
+  {
     "id": "1084242",
     "title": "Zootopia 2",
     "type": "movie",
@@ -120,56 +174,5 @@
     "episode": 16,
     "backdrop": "https://image.tmdb.org/t/p/w500/vnQx7CiClosgnW4Q7NHAcMXybMf.jpg",
     "updatedAt": "2026-08-30T16:01:11.711Z"
-  },
-  {
-    "id": "276161",
-    "title": "Teach You a Lesson",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3pi7MLqfErHDUkMh2hjumbkUkQp.jpg",
-    "updatedAt": "2026-08-30T15:59:49.915Z"
-  },
-  {
-    "id": "4253",
-    "title": "Hum Tum",
-    "type": "movie",
-    "year": "2004",
-    "backdrop": "https://image.tmdb.org/t/p/w500/71Pw2W2IfBOT5wOBRACfCJtm9XS.jpg",
-    "updatedAt": "2026-08-30T15:49:56.145Z"
-  },
-  {
-    "id": "1698856",
-    "title": "Master of the Universe",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/m4wMut0xwEKuDNwhxg0GcqDBbJe.jpg",
-    "updatedAt": "2026-08-30T15:40:22.598Z"
-  },
-  {
-    "id": "13804",
-    "title": "Fast & Furious",
-    "type": "movie",
-    "year": "2009",
-    "backdrop": "https://image.tmdb.org/t/p/w500/ztZiRjQWoxO9KUsFebhzy8uUrJH.jpg",
-    "updatedAt": "2026-08-30T15:35:17.422Z"
-  },
-  {
-    "id": "124364",
-    "title": "FROM",
-    "type": "tv",
-    "season": 4,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/tS8PQabvc5jVTOYPyOQgOiotIK0.jpg",
-    "updatedAt": "2026-08-30T15:11:31.587Z"
-  },
-  {
-    "id": "317314",
-    "title": "Ash",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/k1IZq7CnvBL3p8AgcCzoFXITwJf.jpg",
-    "updatedAt": "2026-08-30T14:37:30.987Z"
   }
 ]
