@@ -1,5 +1,31 @@
 [
   {
+    "id": "117376",
+    "title": "Vincenzo",
+    "type": "tv",
+    "season": 1,
+    "episode": 20,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cQwu0TKuXXFfPKc5i8nZ0PsgeQC.jpg",
+    "updatedAt": "2026-08-31T10:04:36.064Z"
+  },
+  {
+    "id": "1129923",
+    "title": "Hitman 2",
+    "type": "movie",
+    "year": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w500/rOo14e8GYnUEeJ9ZP6Ctp8wK6eQ.jpg",
+    "updatedAt": "2026-08-31T09:56:54.673Z"
+  },
+  {
+    "id": "215001",
+    "title": "Destined with You",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/vnQx7CiClosgnW4Q7NHAcMXybMf.jpg",
+    "updatedAt": "2026-08-31T09:51:23.734Z"
+  },
+  {
     "id": "95350",
     "title": "Lanterns",
     "type": "tv",
@@ -148,31 +174,5 @@
     "episode": 6,
     "backdrop": "https://image.tmdb.org/t/p/w500/jAeJPXdX7XCtgFbRDj7vCTKqw3f.jpg",
     "updatedAt": "2026-08-30T16:26:36.653Z"
-  },
-  {
-    "id": "276609",
-    "title": "Thukra Ke Mera Pyaar",
-    "type": "tv",
-    "season": 2,
-    "episode": 45,
-    "backdrop": "https://image.tmdb.org/t/p/w500/mKXSi5t9CKy0jDEWcGTuJnapu07.jpg",
-    "updatedAt": "2026-08-30T16:23:42.645Z"
-  },
-  {
-    "id": "90720",
-    "title": "Be Melodramatic",
-    "type": "tv",
-    "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/sE2WoHRJKYhbBzo0QyU0EAFegEO.jpg",
-    "updatedAt": "2026-08-30T16:15:05.321Z"
-  },
-  {
-    "id": "83533",
-    "title": "Avatar: Fire and Ash",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/ymtnjmwnExw1ZztBKQVkG0flooe.jpg",
-    "updatedAt": "2026-08-30T16:04:43.731Z"
   }
 ]
