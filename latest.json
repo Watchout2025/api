@@ -1,5 +1,13 @@
 [
   {
+    "id": "1516698",
+    "title": "The Last Sunrise",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/dJdZcLn8t1ZLodoxaP4DJ6jgBKy.jpg",
+    "updatedAt": "2026-08-31T13:37:09.417Z"
+  },
+  {
     "id": "286988",
     "title": "Blossom Through the Cloud",
     "type": "tv",
@@ -165,14 +173,5 @@
     "episode": 12,
     "backdrop": "https://image.tmdb.org/t/p/w500/3ARq4Fmu6xApIdv5LmKO7W6Zf4R.jpg",
     "updatedAt": "2026-08-31T03:16:10.503Z"
-  },
-  {
-    "id": "294095",
-    "title": "A Bona Fide Killer",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/nAATQr4iewpPA5bEazcJ84UE7hl.jpg",
-    "updatedAt": "2026-08-31T03:13:15.782Z"
   }
 ]
