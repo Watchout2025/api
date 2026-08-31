@@ -1,5 +1,14 @@
 [
   {
+    "id": "270603",
+    "title": "The Exiled Heavy Knight Knows How to Game the System",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/lJJpL0ZtFa1fkudBAkyWBcjT8Zc.jpg",
+    "updatedAt": "2026-08-31T09:31:37.258Z"
+  },
+  {
     "id": "85518",
     "title": "Khatron Ke Khiladi",
     "type": "tv",
@@ -165,14 +174,5 @@
     "episode": 5,
     "backdrop": "https://image.tmdb.org/t/p/w500/lhukQjNRaUXxZGdGGWNZvSU4qfq.jpg",
     "updatedAt": "2026-08-30T16:02:59.697Z"
-  },
-  {
-    "id": "215001",
-    "title": "Destined with You",
-    "type": "tv",
-    "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/vnQx7CiClosgnW4Q7NHAcMXybMf.jpg",
-    "updatedAt": "2026-08-30T16:01:11.711Z"
   }
 ]
