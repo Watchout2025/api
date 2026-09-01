@@ -1,11 +1,54 @@
 [
   {
+    "id": "300126",
+    "title": "LIAR GAME",
+    "type": "tv",
+    "season": 1,
+    "episode": 19,
+    "backdrop": "https://image.tmdb.org/t/p/w500/beBpLR0P7cgEbXpOY7dIS2coF4f.jpg",
+    "updatedAt": "2026-09-01T04:19:47.474Z"
+  },
+  {
+    "id": "1442396",
+    "title": "Nagabandham: The Secret Treasure",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/vrr8lu6Z7LvF75juTV1ZqwaVE5u.jpg",
+    "updatedAt": "2026-09-01T04:18:11.645Z"
+  },
+  {
+    "id": "1740614",
+    "title": "Newton's 3rd Law",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/hwxT1gsIUJU0nHRTTgtUzkPpXtr.jpg",
+    "updatedAt": "2026-09-01T04:17:00.359Z"
+  },
+  {
+    "id": "302051",
+    "title": "I Became a Legend After My 10 Year-Long Last Stand",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/g4yyesQhnQ5KH2k6eCXHMHPwl1.jpg",
+    "updatedAt": "2026-09-01T04:15:18.397Z"
+  },
+  {
+    "id": "296140",
+    "title": "My Bias, My Boss",
+    "type": "tv",
+    "season": 1,
+    "episode": 9,
+    "backdrop": "https://image.tmdb.org/t/p/w500/v8O0X6PP7grEaXsPkdiotIx78tA.jpg",
+    "updatedAt": "2026-09-01T00:11:53.761Z"
+  },
+  {
     "id": "1516698",
     "title": "The Last Sunrise",
     "type": "movie",
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/dJdZcLn8t1ZLodoxaP4DJ6jgBKy.jpg",
-    "updatedAt": "2026-08-31T13:37:09.417Z"
+    "updatedAt": "2026-08-31T23:55:08.268Z"
   },
   {
     "id": "286988",
@@ -130,48 +173,5 @@
     "episode": 1,
     "backdrop": "https://image.tmdb.org/t/p/w500/81j82xSVO8jXHsHVByQLYm2XZ3s.jpg",
     "updatedAt": "2026-08-31T04:13:28.361Z"
-  },
-  {
-    "id": "1084242",
-    "title": "Zootopia 2",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/eiBMTTseOHFWDmeD72a73I6xmjn.jpg",
-    "updatedAt": "2026-08-31T03:32:43.307Z"
-  },
-  {
-    "id": "672",
-    "title": "Harry Potter and the Chamber of Secrets",
-    "type": "movie",
-    "year": "2002",
-    "backdrop": "https://image.tmdb.org/t/p/w500/zIEUumHrhkSJrlKPfBcEwPxZcMn.jpg",
-    "updatedAt": "2026-08-31T03:31:35.780Z"
-  },
-  {
-    "id": "299158",
-    "title": "LOVEx3",
-    "type": "tv",
-    "season": 1,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w500/cSL9gSe8F0NaFVpeMZQ8ae7aCtz.jpg",
-    "updatedAt": "2026-08-31T03:29:22.518Z"
-  },
-  {
-    "id": "319077",
-    "title": "The Vacation Principle",
-    "type": "tv",
-    "season": 1,
-    "episode": 15,
-    "backdrop": "https://image.tmdb.org/t/p/w500/laZKQVzGS2quLi1iEAbuA6IxYk8.jpg",
-    "updatedAt": "2026-08-31T03:28:40.350Z"
-  },
-  {
-    "id": "154825",
-    "title": "Business Proposal",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3ARq4Fmu6xApIdv5LmKO7W6Zf4R.jpg",
-    "updatedAt": "2026-08-31T03:16:10.503Z"
   }
 ]
