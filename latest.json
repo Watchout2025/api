@@ -1,5 +1,68 @@
 [
   {
+    "id": "296140",
+    "title": "My Bias, My Boss",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/v8O0X6PP7grEaXsPkdiotIx78tA.jpg",
+    "updatedAt": "2026-09-02T15:59:47.562Z"
+  },
+  {
+    "id": "208336",
+    "title": "Revenge of Others",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/53CrQtff8Jp1XuaSyRdTBA9bVxt.jpg",
+    "updatedAt": "2026-09-02T15:59:09.871Z"
+  },
+  {
+    "id": "299952",
+    "title": "The Early Spring",
+    "type": "tv",
+    "season": 1,
+    "episode": 14,
+    "backdrop": "https://image.tmdb.org/t/p/w500/humHhdm4odTEMii5VM5KcKn73kf.jpg",
+    "updatedAt": "2026-09-02T15:52:12.195Z"
+  },
+  {
+    "id": "286988",
+    "title": "Blossom Through the Cloud",
+    "type": "tv",
+    "season": 1,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/8ABkIKavSjn4I0nJTGthKSGVRfV.jpg",
+    "updatedAt": "2026-09-02T15:51:38.108Z"
+  },
+  {
+    "id": "332505",
+    "title": "The One",
+    "type": "tv",
+    "season": 1,
+    "episode": 20,
+    "backdrop": "https://image.tmdb.org/t/p/w500/ecxmExyKhXUQvYnfuPJSu1SQjpf.jpg",
+    "updatedAt": "2026-09-02T15:50:26.622Z"
+  },
+  {
+    "id": "323447",
+    "title": "NOUR",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/qocG1nc3FKWjVNQ4VZhl29kTGOo.jpg",
+    "updatedAt": "2026-09-02T15:47:09.927Z"
+  },
+  {
+    "id": "306953",
+    "title": "Mr.Kill",
+    "type": "tv",
+    "season": 1,
+    "episode": 9,
+    "backdrop": "https://image.tmdb.org/t/p/w500/zDLbi3i23b55zpCwxPqv2Zu7h5G.jpg",
+    "updatedAt": "2026-09-01T17:06:31.583Z"
+  },
+  {
     "id": "300126",
     "title": "LIAR GAME",
     "type": "tv",
@@ -34,30 +97,12 @@
     "updatedAt": "2026-09-01T04:15:18.397Z"
   },
   {
-    "id": "296140",
-    "title": "My Bias, My Boss",
-    "type": "tv",
-    "season": 1,
-    "episode": 9,
-    "backdrop": "https://image.tmdb.org/t/p/w500/v8O0X6PP7grEaXsPkdiotIx78tA.jpg",
-    "updatedAt": "2026-09-01T00:11:53.761Z"
-  },
-  {
     "id": "1516698",
     "title": "The Last Sunrise",
     "type": "movie",
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/dJdZcLn8t1ZLodoxaP4DJ6jgBKy.jpg",
     "updatedAt": "2026-08-31T23:55:08.268Z"
-  },
-  {
-    "id": "286988",
-    "title": "Blossom Through the Cloud",
-    "type": "tv",
-    "season": 1,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w500/8ABkIKavSjn4I0nJTGthKSGVRfV.jpg",
-    "updatedAt": "2026-08-31T13:27:26.868Z"
   },
   {
     "id": "910850",
@@ -128,50 +173,5 @@
     "episode": 10,
     "backdrop": "https://image.tmdb.org/t/p/w500/uDnAERbDb18p0jVB4UlfIHbuBGE.jpg",
     "updatedAt": "2026-08-31T09:29:41.314Z"
-  },
-  {
-    "id": "325135",
-    "title": "Hastinapur Ke Veer",
-    "type": "tv",
-    "season": 1,
-    "episode": 77,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3Y8mZPdlo9iJ2JEormLuneQomPZ.jpg",
-    "updatedAt": "2026-08-31T09:25:23.366Z"
-  },
-  {
-    "id": "332744",
-    "title": "Indian Game Show",
-    "type": "tv",
-    "season": 2,
-    "episode": 5,
-    "backdrop": "https://image.tmdb.org/t/p/w500/6cILiHDTg4lGUik4KFwZGC1bjpk.jpg",
-    "updatedAt": "2026-08-31T09:21:54.231Z"
-  },
-  {
-    "id": "288971",
-    "title": "Jaadugar: A Witch in Mongolia",
-    "type": "tv",
-    "season": 1,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w500/6w6L5bkYbsDduiaIbNEcIwn3p33.jpg",
-    "updatedAt": "2026-08-31T08:57:00.368Z"
-  },
-  {
-    "id": "260463",
-    "title": "Daemons of the Shadow Realm",
-    "type": "tv",
-    "season": 1,
-    "episode": 17,
-    "backdrop": "https://image.tmdb.org/t/p/w500/nUZECCEQUCtu1WKW1Gll9Ba8V2J.jpg",
-    "updatedAt": "2026-08-31T04:15:15.777Z"
-  },
-  {
-    "id": "94664",
-    "title": "Mushoku Tensei: Jobless Reincarnation",
-    "type": "tv",
-    "season": 3,
-    "episode": 1,
-    "backdrop": "https://image.tmdb.org/t/p/w500/81j82xSVO8jXHsHVByQLYm2XZ3s.jpg",
-    "updatedAt": "2026-08-31T04:13:28.361Z"
   }
 ]
