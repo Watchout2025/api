@@ -1,73 +1,120 @@
 [
   {
-    "id": "276470",
-    "title": "OK! Let's Get Divorced",
+    "id": "1137844",
+    "title": "Mayday",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/nFNCdoKCDE4Gc27iEBh5yiF7DwX.jpg",
+    "updatedAt": "2026-09-04T14:57:07.145Z"
+  },
+  {
+    "id": "1378537",
+    "title": "Mirzapur: The Movie",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/fjaR5w0LoRb20LN6DaYxmolWE4p.jpg",
+    "updatedAt": "2026-09-04T14:55:37.365Z"
+  },
+  {
+    "id": "262838",
+    "title": "India's Got Latent",
     "type": "tv",
-    "season": 1,
+    "season": 2,
     "episode": 5,
-    "backdrop": "https://image.tmdb.org/t/p/w500/qtcTChxZEXrjgZLe5slGhOuzqzp.jpg",
-    "updatedAt": "2026-09-03T14:18:12.272Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/lhukQjNRaUXxZGdGGWNZvSU4qfq.jpg",
+    "updatedAt": "2026-09-04T14:51:22.896Z"
   },
   {
-    "id": "286988",
-    "title": "Blossom Through the Cloud",
-    "type": "tv",
-    "season": 1,
-    "episode": 9,
-    "backdrop": "https://image.tmdb.org/t/p/w500/8ABkIKavSjn4I0nJTGthKSGVRfV.jpg",
-    "updatedAt": "2026-09-03T14:16:27.854Z"
+    "id": "1545486",
+    "title": "Unmadham",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/o0Ai0yCq1jyLE3K55Nk3bAl4D9h.jpg",
+    "updatedAt": "2026-09-04T07:39:57.515Z"
   },
   {
-    "id": "299952",
-    "title": "The Early Spring",
-    "type": "tv",
-    "season": 1,
-    "episode": 15,
-    "backdrop": "https://image.tmdb.org/t/p/w500/humHhdm4odTEMii5VM5KcKn73kf.jpg",
-    "updatedAt": "2026-09-03T14:12:42.796Z"
+    "id": "1423253",
+    "title": "Korean Kanakaraju",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/qMcVNK71eq1oWWbAt62ZLEkEQnO.jpg",
+    "updatedAt": "2026-09-04T07:37:12.665Z"
   },
   {
-    "id": "272938",
-    "title": "Pull Strings",
-    "type": "tv",
-    "season": 1,
-    "episode": 30,
-    "backdrop": "https://image.tmdb.org/t/p/w500/czrTjghc1gqx0Fw9ja4Vpyej1Gi.jpg",
-    "updatedAt": "2026-09-03T14:10:54.763Z"
+    "id": "1489543",
+    "title": "G.D.N",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/hR0QpzOO2Gx1Lt7KxqKFWZvj5Vl.jpg",
+    "updatedAt": "2026-09-04T07:35:05.762Z"
   },
   {
-    "id": "276161",
-    "title": "Teach You a Lesson",
+    "id": "1303331",
+    "title": "Dhamaal 4",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/38hG7f5YJIo7oHr68PpYFVXdjYP.jpg",
+    "updatedAt": "2026-09-04T07:33:38.494Z"
+  },
+  {
+    "id": "91586",
+    "title": "Insidious: Chapter 2",
+    "type": "movie",
+    "year": "2013",
+    "backdrop": "https://image.tmdb.org/t/p/w500/qKemWilOMuRE8nfKEQdxY1ZWUcM.jpg",
+    "updatedAt": "2026-09-04T07:30:42.925Z"
+  },
+  {
+    "id": "117376",
+    "title": "Vincenzo",
     "type": "tv",
     "season": 1,
+    "episode": 20,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cQwu0TKuXXFfPKc5i8nZ0PsgeQC.jpg",
+    "updatedAt": "2026-09-04T03:47:58.716Z"
+  },
+  {
+    "id": "9738",
+    "title": "Fantastic Four",
+    "type": "movie",
+    "year": "2005",
+    "backdrop": "https://image.tmdb.org/t/p/w500/xjZwzuJcUjPnCtQNXpSJJCs8w0S.jpg",
+    "updatedAt": "2026-09-04T03:45:25.247Z"
+  },
+  {
+    "id": "300727",
+    "title": "The Apartment Job",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/36F5wm9exXhKACPdMSZfJduJ6l.jpg",
+    "updatedAt": "2026-09-04T03:40:01.546Z"
+  },
+  {
+    "id": "235930",
+    "title": "Devil May Cry",
+    "type": "tv",
+    "season": 2,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/2pmWrjN12nwe1YHgGgv52n0ouvX.jpg",
+    "updatedAt": "2026-09-04T03:37:39.254Z"
+  },
+  {
+    "id": "1038392",
+    "title": "The Conjuring: Last Rites",
+    "type": "movie",
+    "year": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w500/29aMn7MwBNZS6tuKDsb2eKLSdHg.jpg",
+    "updatedAt": "2026-09-04T03:28:23.014Z"
+  },
+  {
+    "id": "271489",
+    "title": "The Traitors",
+    "type": "tv",
+    "season": 2,
     "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3pi7MLqfErHDUkMh2hjumbkUkQp.jpg",
-    "updatedAt": "2026-09-03T11:14:47.780Z"
-  },
-  {
-    "id": "290234",
-    "title": "Lovesick",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg",
-    "updatedAt": "2026-09-03T05:33:50.655Z"
-  },
-  {
-    "id": "1288059",
-    "title": "I Want Your Sex",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/7fLT2x5aIHxO4mjjtzXSKzwTojU.jpg",
-    "updatedAt": "2026-09-02T16:11:57.370Z"
-  },
-  {
-    "id": "1386315",
-    "title": "The Runner",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/uIoARHk8zc76lp93zKtKAwGnLuD.jpg",
-    "updatedAt": "2026-09-02T16:10:33.509Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/tcZmDatkBcqbCt6pWLcCA1K0pWZ.jpg",
+    "updatedAt": "2026-09-04T03:26:40.021Z"
   },
   {
     "id": "1228710",
@@ -75,101 +122,50 @@
     "type": "movie",
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/uhKu98XD2VFzzfDgNOM3wBrAOuH.jpg",
-    "updatedAt": "2026-09-02T16:08:55.442Z"
+    "updatedAt": "2026-09-04T03:21:34.749Z"
   },
   {
-    "id": "1731694",
-    "title": "LEGO Star Wars: The Mandalorian",
+    "id": "1386315",
+    "title": "The Runner",
     "type": "movie",
     "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/g4EwlW0lrYt5IgqJvXSabYzRApn.jpg",
-    "updatedAt": "2026-09-02T16:08:00.658Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/uIoARHk8zc76lp93zKtKAwGnLuD.jpg",
+    "updatedAt": "2026-09-04T03:20:02.714Z"
   },
   {
-    "id": "296140",
-    "title": "My Bias, My Boss",
+    "id": "258348",
+    "title": "Clevatess",
     "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/v8O0X6PP7grEaXsPkdiotIx78tA.jpg",
-    "updatedAt": "2026-09-02T15:59:47.562Z"
+    "season": 2,
+    "episode": 9,
+    "backdrop": "https://image.tmdb.org/t/p/w500/7BWn0XKkmB8Ngj6Jb8QzLhscFIG.jpg",
+    "updatedAt": "2026-09-04T03:17:04.622Z"
   },
   {
-    "id": "208336",
-    "title": "Revenge of Others",
+    "id": "139512",
+    "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
     "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/53CrQtff8Jp1XuaSyRdTBA9bVxt.jpg",
-    "updatedAt": "2026-09-02T15:59:09.871Z"
+    "season": 2,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/gnoMv9Y2kzt74albwVT1FhewVVC.jpg",
+    "updatedAt": "2026-09-04T03:16:10.848Z"
   },
   {
-    "id": "332505",
-    "title": "The One",
-    "type": "tv",
-    "season": 1,
-    "episode": 20,
-    "backdrop": "https://image.tmdb.org/t/p/w500/ecxmExyKhXUQvYnfuPJSu1SQjpf.jpg",
-    "updatedAt": "2026-09-02T15:50:26.622Z"
-  },
-  {
-    "id": "323447",
-    "title": "NOUR",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/qocG1nc3FKWjVNQ4VZhl29kTGOo.jpg",
-    "updatedAt": "2026-09-02T15:47:09.927Z"
-  },
-  {
-    "id": "306953",
-    "title": "Mr.Kill",
+    "id": "326119",
+    "title": "Thunder 3",
     "type": "tv",
     "season": 1,
     "episode": 9,
-    "backdrop": "https://image.tmdb.org/t/p/w500/zDLbi3i23b55zpCwxPqv2Zu7h5G.jpg",
-    "updatedAt": "2026-09-01T17:06:31.583Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/7HTP5m1BTMMHhBpLqkjfGvHbVZJ.jpg",
+    "updatedAt": "2026-09-04T03:15:13.280Z"
   },
   {
-    "id": "300126",
-    "title": "LIAR GAME",
-    "type": "tv",
-    "season": 1,
-    "episode": 19,
-    "backdrop": "https://image.tmdb.org/t/p/w500/beBpLR0P7cgEbXpOY7dIS2coF4f.jpg",
-    "updatedAt": "2026-09-01T04:19:47.474Z"
-  },
-  {
-    "id": "1442396",
-    "title": "Nagabandham: The Secret Treasure",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/vrr8lu6Z7LvF75juTV1ZqwaVE5u.jpg",
-    "updatedAt": "2026-09-01T04:18:11.645Z"
-  },
-  {
-    "id": "1740614",
-    "title": "Newton's 3rd Law",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/hwxT1gsIUJU0nHRTTgtUzkPpXtr.jpg",
-    "updatedAt": "2026-09-01T04:17:00.359Z"
-  },
-  {
-    "id": "302051",
-    "title": "I Became a Legend After My 10 Year-Long Last Stand",
+    "id": "297826",
+    "title": "Tomb Raider King",
     "type": "tv",
     "season": 1,
     "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/g4yyesQhnQ5KH2k6eCXHMHPwl1.jpg",
-    "updatedAt": "2026-09-01T04:15:18.397Z"
-  },
-  {
-    "id": "1516698",
-    "title": "The Last Sunrise",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/dJdZcLn8t1ZLodoxaP4DJ6jgBKy.jpg",
-    "updatedAt": "2026-08-31T23:55:08.268Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/efo2pV1xzSIyd35jXixoB2WJM3u.jpg",
+    "updatedAt": "2026-09-04T03:13:57.803Z"
   }
 ]
