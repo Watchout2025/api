@@ -1,5 +1,71 @@
 [
   {
+    "id": "920",
+    "title": "Cars",
+    "type": "movie",
+    "year": "2006",
+    "backdrop": "https://image.tmdb.org/t/p/w500/w5nE0dUFEecbGIqXda00aaUTz0r.jpg",
+    "updatedAt": "2026-09-07T05:45:07.829Z"
+  },
+  {
+    "id": "1294203",
+    "title": "My Fault: London",
+    "type": "movie",
+    "year": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w500/rp6lXKC1rpIqqYW8dXdvpNSTX7I.jpg",
+    "updatedAt": "2026-09-07T05:44:43.772Z"
+  },
+  {
+    "id": "480414",
+    "title": "The Curse of La Llorona",
+    "type": "movie",
+    "year": "2019",
+    "backdrop": "https://image.tmdb.org/t/p/w500/6EGFXfLCYzCZJULx8Lp7xnK7ZYF.jpg",
+    "updatedAt": "2026-09-07T05:44:09.092Z"
+  },
+  {
+    "id": "1489510",
+    "title": "Aaromaley",
+    "type": "movie",
+    "year": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w500/sBkt74K37VWbsAyuNe6Rk8PBvLm.jpg",
+    "updatedAt": "2026-09-07T05:43:23.897Z"
+  },
+  {
+    "id": "1582770",
+    "title": "Dhurandhar: The Revenge",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/br4Ra4dRpvR0R7a1zPPkOwGkcky.jpg",
+    "updatedAt": "2026-09-07T05:41:52.286Z"
+  },
+  {
+    "id": "93846",
+    "title": "The King: Eternal Monarch",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/9YUmiZVDFyRvWzYreeKQ1aQwAnm.jpg",
+    "updatedAt": "2026-09-07T05:38:47.344Z"
+  },
+  {
+    "id": "299536",
+    "title": "Avengers: Infinity War",
+    "type": "movie",
+    "year": "2018",
+    "backdrop": "https://image.tmdb.org/t/p/w500/icUSGFn22cP2BQ0tXCIsykWVCQ.jpg",
+    "updatedAt": "2026-09-07T05:36:43.512Z"
+  },
+  {
+    "id": "124364",
+    "title": "FROM",
+    "type": "tv",
+    "season": 4,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/tS8PQabvc5jVTOYPyOQgOiotIK0.jpg",
+    "updatedAt": "2026-09-07T05:32:36.678Z"
+  },
+  {
     "id": "11436",
     "title": "Bigg Boss",
     "type": "tv",
@@ -103,76 +169,5 @@
     "episode": 2,
     "backdrop": "https://image.tmdb.org/t/p/w500/81j82xSVO8jXHsHVByQLYm2XZ3s.jpg",
     "updatedAt": "2026-09-06T15:56:10.649Z"
-  },
-  {
-    "id": "262838",
-    "title": "India's Got Latent",
-    "type": "tv",
-    "season": 2,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/lhukQjNRaUXxZGdGGWNZvSU4qfq.jpg",
-    "updatedAt": "2026-09-06T15:54:44.852Z"
-  },
-  {
-    "id": "81559",
-    "title": "V Wars",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/12Mo9OkBwj32QJKCGV5xKBko9OV.jpg",
-    "updatedAt": "2026-09-06T15:52:43.040Z"
-  },
-  {
-    "id": "284825",
-    "title": "Mr. Fanboy",
-    "type": "tv",
-    "season": 1,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/wa0sbAAf8owaFfcVGiUh1Ikq6tw.jpg",
-    "updatedAt": "2026-09-06T09:14:54.262Z"
-  },
-  {
-    "id": "315142",
-    "title": "Juliet & Juliet",
-    "type": "tv",
-    "season": 1,
-    "episode": 1,
-    "backdrop": "https://image.tmdb.org/t/p/w500/aLowInOvrhjYapC7Kip4oLsoiBm.jpg",
-    "updatedAt": "2026-09-06T09:13:32.936Z"
-  },
-  {
-    "id": "306630",
-    "title": "You Maniac",
-    "type": "tv",
-    "season": 1,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/uN0kycbW2A5zyaogjDfzqvILjap.jpg",
-    "updatedAt": "2026-09-06T09:10:53.517Z"
-  },
-  {
-    "id": "332507",
-    "title": "The Last Oath",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/pXd5XhPTivPdT1xwJnlKAAxD94v.jpg",
-    "updatedAt": "2026-09-06T09:07:30.096Z"
-  },
-  {
-    "id": "1582770",
-    "title": "Dhurandhar: The Revenge",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/br4Ra4dRpvR0R7a1zPPkOwGkcky.jpg",
-    "updatedAt": "2026-09-05T13:29:11.248Z"
-  },
-  {
-    "id": "314936",
-    "title": "Don't Be Too Emotional",
-    "type": "tv",
-    "season": 1,
-    "episode": 11,
-    "backdrop": "https://image.tmdb.org/t/p/w500/5dStdZ93b22PTSMVzpfzBDK6DYr.jpg",
-    "updatedAt": "2026-09-05T13:23:14.336Z"
   }
 ]
