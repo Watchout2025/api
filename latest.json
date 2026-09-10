@@ -1,173 +1,178 @@
 [
   {
-    "id": "920",
-    "title": "Cars",
-    "type": "movie",
-    "year": "2006",
-    "backdrop": "https://image.tmdb.org/t/p/w500/w5nE0dUFEecbGIqXda00aaUTz0r.jpg",
-    "updatedAt": "2026-09-07T05:45:07.829Z"
-  },
-  {
-    "id": "1294203",
-    "title": "My Fault: London",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/rp6lXKC1rpIqqYW8dXdvpNSTX7I.jpg",
-    "updatedAt": "2026-09-07T05:44:43.772Z"
-  },
-  {
-    "id": "480414",
-    "title": "The Curse of La Llorona",
-    "type": "movie",
-    "year": "2019",
-    "backdrop": "https://image.tmdb.org/t/p/w500/6EGFXfLCYzCZJULx8Lp7xnK7ZYF.jpg",
-    "updatedAt": "2026-09-07T05:44:09.092Z"
-  },
-  {
-    "id": "1489510",
-    "title": "Aaromaley",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/sBkt74K37VWbsAyuNe6Rk8PBvLm.jpg",
-    "updatedAt": "2026-09-07T05:43:23.897Z"
-  },
-  {
-    "id": "1582770",
-    "title": "Dhurandhar: The Revenge",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/br4Ra4dRpvR0R7a1zPPkOwGkcky.jpg",
-    "updatedAt": "2026-09-07T05:41:52.286Z"
-  },
-  {
-    "id": "93846",
-    "title": "The King: Eternal Monarch",
+    "id": "299952",
+    "title": "The Early Spring",
     "type": "tv",
     "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9YUmiZVDFyRvWzYreeKQ1aQwAnm.jpg",
-    "updatedAt": "2026-09-07T05:38:47.344Z"
-  },
-  {
-    "id": "299536",
-    "title": "Avengers: Infinity War",
-    "type": "movie",
-    "year": "2018",
-    "backdrop": "https://image.tmdb.org/t/p/w500/icUSGFn22cP2BQ0tXCIsykWVCQ.jpg",
-    "updatedAt": "2026-09-07T05:36:43.512Z"
-  },
-  {
-    "id": "124364",
-    "title": "FROM",
-    "type": "tv",
-    "season": 4,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/tS8PQabvc5jVTOYPyOQgOiotIK0.jpg",
-    "updatedAt": "2026-09-07T05:32:36.678Z"
-  },
-  {
-    "id": "11436",
-    "title": "Bigg Boss",
-    "type": "tv",
-    "season": 20,
-    "episode": 1,
-    "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
-    "updatedAt": "2026-09-07T03:08:41.973Z"
+    "episode": 24,
+    "backdrop": "https://image.tmdb.org/t/p/w500/q1VfrW33zJYUayakX2S8dWjadRy.jpg",
+    "updatedAt": "2026-09-10T04:14:38.623Z"
   },
   {
     "id": "286988",
     "title": "Blossom Through the Cloud",
     "type": "tv",
     "season": 1,
-    "episode": 12,
+    "episode": 18,
     "backdrop": "https://image.tmdb.org/t/p/w500/8ABkIKavSjn4I0nJTGthKSGVRfV.jpg",
-    "updatedAt": "2026-09-07T03:02:49.025Z"
+    "updatedAt": "2026-09-10T04:12:12.435Z"
   },
   {
-    "id": "284822",
-    "title": "Your Third",
+    "id": "306953",
+    "title": "Mr.Kill",
     "type": "tv",
     "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/ubLFqGZFxaqPtkqyyIg8gQEmeSw.jpg",
-    "updatedAt": "2026-09-07T03:00:19.190Z"
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/zDLbi3i23b55zpCwxPqv2Zu7h5G.jpg",
+    "updatedAt": "2026-09-10T04:11:15.090Z"
   },
   {
     "id": "303493",
     "title": "Knot",
     "type": "tv",
     "season": 1,
-    "episode": 10,
+    "episode": 11,
     "backdrop": "https://image.tmdb.org/t/p/w500/iF5ZArBMkIengBgFaW4waiBWrBi.jpg",
-    "updatedAt": "2026-09-07T02:58:42.427Z"
+    "updatedAt": "2026-09-10T03:57:54.549Z"
   },
   {
-    "id": "305644",
-    "title": "Four Hands, Two Sonatas",
+    "id": "311914",
+    "title": "Love Destiny",
     "type": "tv",
     "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/c8saa6GyN8a3bjHCLGG65j7WeMA.jpg",
-    "updatedAt": "2026-09-07T02:54:47.777Z"
+    "episode": 9,
+    "backdrop": "https://image.tmdb.org/t/p/w500/3A3qhj0ghaXoVrIHoiJHqyxe9HL.jpg",
+    "updatedAt": "2026-09-10T03:57:10.611Z"
   },
   {
-    "id": "803796",
-    "title": "KPop Demon Hunters",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/3aZHMVeLb5z7iHIGyF0tbA1yZJZ.jpg",
-    "updatedAt": "2026-09-07T02:30:41.097Z"
-  },
-  {
-    "id": "1010581",
-    "title": "My Fault",
-    "type": "movie",
-    "year": "2023",
-    "backdrop": "https://image.tmdb.org/t/p/w500/pNOccytgkGuyofTLmh1sqEfTJuE.jpg",
-    "updatedAt": "2026-09-07T02:24:16.636Z"
-  },
-  {
-    "id": "93405",
-    "title": "Squid Game",
+    "id": "246473",
+    "title": "Made in Korea",
     "type": "tv",
-    "season": 3,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/bN3n7CIwuNSGGg7U4Nllbf7EbFX.jpg",
-    "updatedAt": "2026-09-07T02:22:06.903Z"
-  },
-  {
-    "id": "784963",
-    "title": "Tuck Jagadish",
-    "type": "movie",
-    "year": "2021",
-    "backdrop": "https://image.tmdb.org/t/p/w500/7CxTd5KB0CuHvHvA7KNEQeWgW3R.jpg",
-    "updatedAt": "2026-09-06T16:09:42.358Z"
-  },
-  {
-    "id": "321984",
-    "title": "Summertime",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/mcwzXqLswl7gjmJTXG2Z0JcuhfE.jpg",
-    "updatedAt": "2026-09-06T16:07:40.185Z"
-  },
-  {
-    "id": "285993",
-    "title": "BLACK TORCH",
-    "type": "tv",
-    "season": 1,
+    "season": 2,
     "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/fy1R05K8zCUFmQG6f1Wn4gPwte4.jpg",
-    "updatedAt": "2026-09-06T15:57:22.791Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/3S7EDGQeOF9xV2sT8iygpA0JlA8.jpg",
+    "updatedAt": "2026-09-10T03:55:28.872Z"
   },
   {
-    "id": "94664",
-    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "id": "323447",
+    "title": "NOUR",
     "type": "tv",
-    "season": 3,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/81j82xSVO8jXHsHVByQLYm2XZ3s.jpg",
-    "updatedAt": "2026-09-06T15:56:10.649Z"
+    "season": 1,
+    "episode": 5,
+    "backdrop": "https://image.tmdb.org/t/p/w500/qocG1nc3FKWjVNQ4VZhl29kTGOo.jpg",
+    "updatedAt": "2026-09-10T03:54:11.970Z"
+  },
+  {
+    "id": "307433",
+    "title": "Moonshadow",
+    "type": "tv",
+    "season": 1,
+    "episode": 5,
+    "backdrop": "https://image.tmdb.org/t/p/w500/etPjU43sjNzLkYd0TMYzWJ7qH9f.jpg",
+    "updatedAt": "2026-09-10T03:51:38.776Z"
+  },
+  {
+    "id": "135157",
+    "title": "Alchemy of Souls",
+    "type": "tv",
+    "season": 2,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/vBtBy4FlIaYkJnjj2Paoi5czcGQ.jpg",
+    "updatedAt": "2026-09-09T11:04:16.040Z"
+  },
+  {
+    "id": "314478",
+    "title": "DANG!",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/2Uf9Lf7qlkO44EkR3IaUhqXkiDl.jpg",
+    "updatedAt": "2026-09-09T10:41:33.147Z"
+  },
+  {
+    "id": "328217",
+    "title": "Legacy",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/nWJf8wzIEPhrKthM1dHzhiI4oq7.jpg",
+    "updatedAt": "2026-09-09T10:31:55.853Z"
+  },
+  {
+    "id": "108978",
+    "title": "Reacher",
+    "type": "tv",
+    "season": 4,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
+    "updatedAt": "2026-09-09T10:28:27.905Z"
+  },
+  {
+    "id": "75214",
+    "title": "Violet Evergarden",
+    "type": "tv",
+    "season": 1,
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/yxcEyG50WaNHq6tcoBpfXno5vLT.jpg",
+    "updatedAt": "2026-09-09T10:26:16.121Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
+    "updatedAt": "2026-09-09T10:23:01.070Z"
+  },
+  {
+    "id": "1440098",
+    "title": "Drawn Together",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/raBLJODE6ogmwn4Ca27pgCRRRtW.jpg",
+    "updatedAt": "2026-09-09T10:20:28.399Z"
+  },
+  {
+    "id": "1425101",
+    "title": "I'm Not An Actor",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/sRtKKNpBDVIM2g1FHZDwHqP1W9e.jpg",
+    "updatedAt": "2026-09-09T10:18:30.567Z"
+  },
+  {
+    "id": "1431068",
+    "title": "Main Vaapas Aaunga",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/bWw9PuPH6vFXlezBoHZ6D9XBhQW.jpg",
+    "updatedAt": "2026-09-08T14:16:56.678Z"
+  },
+  {
+    "id": "1220522",
+    "title": "Dacoit",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/xiygh1obva8ieo7cxXmpLbA2e7K.jpg",
+    "updatedAt": "2026-09-08T13:28:43.263Z"
+  },
+  {
+    "id": "325135",
+    "title": "Hastinapur Ke Veer",
+    "type": "tv",
+    "season": 1,
+    "episode": 84,
+    "backdrop": "https://image.tmdb.org/t/p/w500/3Y8mZPdlo9iJ2JEormLuneQomPZ.jpg",
+    "updatedAt": "2026-09-08T13:23:42.048Z"
+  },
+  {
+    "id": "229891",
+    "title": "Can This Love Be Translated?",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/kn4RmKUMA1C7oBU9JOesEz6ZXG9.jpg",
+    "updatedAt": "2026-09-08T13:03:14.306Z"
   }
 ]
