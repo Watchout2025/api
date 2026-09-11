@@ -1,176 +1,177 @@
 [
   {
-    "id": "296140",
-    "title": "My Bias, My Boss",
+    "id": "296286",
+    "title": "Smoking Behind the Supermarket with You",
     "type": "tv",
     "season": 1,
-    "episode": 11,
-    "backdrop": "https://image.tmdb.org/t/p/w500/v8O0X6PP7grEaXsPkdiotIx78tA.jpg",
-    "updatedAt": "2026-09-10T08:44:22.115Z"
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/gbb9tOprOZHkAQtTh5FlerbS1pb.jpg",
+    "updatedAt": "2026-09-11T04:43:57.177Z"
   },
   {
-    "id": "93846",
-    "title": "The King: Eternal Monarch",
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 5,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
+    "updatedAt": "2026-09-11T04:42:23.477Z"
+  },
+  {
+    "id": "298168",
+    "title": "The Shards",
     "type": "tv",
     "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9YUmiZVDFyRvWzYreeKQ1aQwAnm.jpg",
-    "updatedAt": "2026-09-10T08:43:10.980Z"
+    "episode": 9,
+    "backdrop": "https://image.tmdb.org/t/p/w500/9NrKpGms03Gk5mtKyiygQB6XSTw.jpg",
+    "updatedAt": "2026-09-11T04:38:45.650Z"
   },
   {
-    "id": "312573",
-    "title": "Class Crush Crisis",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/lHfWCmkL0NWz9qxEvreCenI96qB.jpg",
-    "updatedAt": "2026-09-10T08:39:20.091Z"
-  },
-  {
-    "id": "271489",
-    "title": "The Traitors",
+    "id": "65844",
+    "title": "KONOSUBA - God's blessing on this wonderful world!",
     "type": "tv",
     "season": 2,
-    "episode": 11,
-    "backdrop": "https://image.tmdb.org/t/p/w500/tcZmDatkBcqbCt6pWLcCA1K0pWZ.jpg",
-    "updatedAt": "2026-09-10T08:33:40.216Z"
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/krxTisQ3NA2AMT7qHfOPgAuqREr.jpg",
+    "updatedAt": "2026-09-11T04:32:29.787Z"
   },
   {
-    "id": "125988",
-    "title": "Silo",
-    "type": "tv",
-    "season": 3,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
-    "updatedAt": "2026-09-10T08:31:44.168Z"
-  },
-  {
-    "id": "69557",
-    "title": "Fauda",
-    "type": "tv",
-    "season": 5,
-    "episode": 11,
-    "backdrop": "https://image.tmdb.org/t/p/w500/b3S01b9R5djFXUlun5CMj4rw7dP.jpg",
-    "updatedAt": "2026-09-10T08:28:54.153Z"
-  },
-  {
-    "id": "230246",
-    "title": "The First Order",
+    "id": "329274",
+    "title": "MOURINHO",
     "type": "tv",
     "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/bimNEAYulIAJUeY8tswd7LBU0Sd.jpg",
-    "updatedAt": "2026-09-10T08:20:21.770Z"
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/aaHwtfXqe8Mav5OKglHOd44OVYp.jpg",
+    "updatedAt": "2026-09-11T04:23:45.024Z"
   },
   {
-    "id": "38523",
-    "title": "Ponette",
+    "id": "249863",
+    "title": "The Revolutionaries",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/uImwvxPG2klY0VyybGPt5zRJVMc.jpg",
+    "updatedAt": "2026-09-11T04:19:43.722Z"
+  },
+  {
+    "id": "20178",
+    "title": "World's Greatest Dad",
     "type": "movie",
-    "year": "1996",
-    "backdrop": "https://image.tmdb.org/t/p/w500/jH0AM4Z928cDooUTtIXjXUveGAe.jpg",
-    "updatedAt": "2026-09-10T08:08:31.553Z"
+    "year": "2009",
+    "backdrop": "https://image.tmdb.org/t/p/w500/9cwSDF4pFMrRTG0IPoMAOFewbtf.jpg",
+    "updatedAt": "2026-09-11T04:08:44.312Z"
   },
   {
-    "id": "60304",
-    "title": "Hansel & Gretel: Witch Hunters",
-    "type": "movie",
-    "year": "2013",
-    "backdrop": "https://image.tmdb.org/t/p/w500/9ntJ377OP0vixaL4aNa87AQ4cK1.jpg",
-    "updatedAt": "2026-09-10T08:07:46.807Z"
-  },
-  {
-    "id": "1185806",
-    "title": "PAW Patrol: The Dino Movie",
+    "id": "1382832",
+    "title": "Hungry",
     "type": "movie",
     "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/qFNoS2RJRFVOpwSx7YuCGTX1gqo.jpg",
-    "updatedAt": "2026-09-10T08:05:59.397Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/76qk1pc4HWOccdkVfLYUjKwpB9O.jpg",
+    "updatedAt": "2026-09-11T04:07:25.298Z"
   },
   {
-    "id": "226649",
-    "title": "The Tale of Lady Ok",
+    "id": "1372059",
+    "title": "Ghamasaan",
+    "type": "movie",
+    "year": "2024",
+    "backdrop": "https://image.tmdb.org/t/p/w500/7yCPyIQVyFkx0wtKnFbVMKccqUQ.jpg",
+    "updatedAt": "2026-09-11T04:06:25.370Z"
+  },
+  {
+    "id": "333327",
+    "title": "Till I See You",
     "type": "tv",
     "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/1oJlC0Mgzfo6Empo5Asc9w6KFmq.jpg",
-    "updatedAt": "2026-09-10T08:04:39.410Z"
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/kHK6b8tMuHvTay3gwz0d5O4R1YV.jpg",
+    "updatedAt": "2026-09-11T04:04:15.491Z"
   },
   {
-    "id": "70590",
-    "title": "Singham",
-    "type": "movie",
-    "year": "2011",
-    "backdrop": "https://image.tmdb.org/t/p/w500/zaqcuV1XL5AT0rBvxBLphhWWSEz.jpg",
-    "updatedAt": "2026-09-10T07:57:01.916Z"
-  },
-  {
-    "id": "285803",
-    "title": "Singham Returns",
-    "type": "movie",
-    "year": "2014",
-    "backdrop": "https://image.tmdb.org/t/p/w500/rvG9irR3D0HrxAA0Jh577Rik2Ck.jpg",
-    "updatedAt": "2026-09-10T07:55:27.553Z"
-  },
-  {
-    "id": "1536626",
-    "title": "Love in Vietnam",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/3T8zjFMH286tRDbTROLLprfIop2.jpg",
-    "updatedAt": "2026-09-10T07:54:25.569Z"
-  },
-  {
-    "id": "299952",
-    "title": "The Early Spring",
+    "id": "304871",
+    "title": "Be My Player Two",
     "type": "tv",
     "season": 1,
-    "episode": 24,
-    "backdrop": "https://image.tmdb.org/t/p/w500/q1VfrW33zJYUayakX2S8dWjadRy.jpg",
-    "updatedAt": "2026-09-10T04:14:38.623Z"
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cW0b2avFjFHpOAPDdWlpRSkugrk.jpg",
+    "updatedAt": "2026-09-11T04:03:11.077Z"
   },
   {
     "id": "286988",
     "title": "Blossom Through the Cloud",
     "type": "tv",
     "season": 1,
-    "episode": 18,
+    "episode": 20,
     "backdrop": "https://image.tmdb.org/t/p/w500/8ABkIKavSjn4I0nJTGthKSGVRfV.jpg",
-    "updatedAt": "2026-09-10T04:12:12.435Z"
+    "updatedAt": "2026-09-11T04:02:02.054Z"
   },
   {
-    "id": "306953",
-    "title": "Mr.Kill",
+    "id": "294636",
+    "title": "The Ordinary Jackpot",
     "type": "tv",
     "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/zDLbi3i23b55zpCwxPqv2Zu7h5G.jpg",
-    "updatedAt": "2026-09-10T04:11:15.090Z"
-  },
-  {
-    "id": "303493",
-    "title": "Knot",
-    "type": "tv",
-    "season": 1,
-    "episode": 11,
-    "backdrop": "https://image.tmdb.org/t/p/w500/iF5ZArBMkIengBgFaW4waiBWrBi.jpg",
-    "updatedAt": "2026-09-10T03:57:54.549Z"
-  },
-  {
-    "id": "311914",
-    "title": "Love Destiny",
-    "type": "tv",
-    "season": 1,
-    "episode": 9,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3A3qhj0ghaXoVrIHoiJHqyxe9HL.jpg",
-    "updatedAt": "2026-09-10T03:57:10.611Z"
-  },
-  {
-    "id": "246473",
-    "title": "Made in Korea",
-    "type": "tv",
-    "season": 2,
     "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3S7EDGQeOF9xV2sT8iygpA0JlA8.jpg",
-    "updatedAt": "2026-09-10T03:55:28.872Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/AtJigZx2ExMks84uY0Dq20Y3KYJ.jpg",
+    "updatedAt": "2026-09-11T04:00:24.708Z"
+  },
+  {
+    "id": "306598",
+    "title": "Unlucky Bae",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/g2XaAttXQz9DzwZZ3A2wBckXf5d.jpg",
+    "updatedAt": "2026-09-11T03:28:31.257Z"
+  },
+  {
+    "id": "321984",
+    "title": "Summertime",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/mcwzXqLswl7gjmJTXG2Z0JcuhfE.jpg",
+    "updatedAt": "2026-09-11T03:27:42.727Z"
+  },
+  {
+    "id": "276470",
+    "title": "OK! Let's Get Divorced",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/qtcTChxZEXrjgZLe5slGhOuzqzp.jpg",
+    "updatedAt": "2026-09-11T03:26:11.091Z"
+  },
+  {
+    "id": "329540",
+    "title": "Love U Lots",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jnP1DHf5VpCzGDAoFZlbCL4OPI6.jpg",
+    "updatedAt": "2026-09-11T03:24:50.654Z"
+  },
+  {
+    "id": "325271",
+    "title": "Dating Alys Perez",
+    "type": "tv",
+    "season": 1,
+    "episode": 14,
+    "backdrop": "https://image.tmdb.org/t/p/w500/pT5sJufAi68Nwz5lKOQctiI0Ent.jpg",
+    "updatedAt": "2026-09-11T03:23:25.129Z"
+  },
+  {
+    "id": "165076",
+    "title": "Gumrah",
+    "type": "movie",
+    "year": "1993",
+    "backdrop": "https://image.tmdb.org/t/p/w500/zDVfpDF6rbJYgxG6IxxrqZ9jGYx.jpg",
+    "updatedAt": "2026-09-11T03:21:35.479Z"
+  },
+  {
+    "id": "1365884",
+    "title": "Call My Agent! The Movie",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/blh99dDTXa0Gpiuws2BoVyas8Pp.jpg",
+    "updatedAt": "2026-09-11T03:20:47.950Z"
   }
 ]
