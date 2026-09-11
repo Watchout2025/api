@@ -1,5 +1,13 @@
 [
   {
+    "id": "1558568",
+    "title": "Go Team!",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/1hwrvoeqSe6oM59BHR8zFO082kF.jpg",
+    "updatedAt": "2026-09-11T14:39:49.906Z"
+  },
+  {
     "id": "286988",
     "title": "Blossom Through the Cloud",
     "type": "tv",
@@ -158,14 +166,5 @@
     "episode": 10,
     "backdrop": "https://image.tmdb.org/t/p/w500/gbb9tOprOZHkAQtTh5FlerbS1pb.jpg",
     "updatedAt": "2026-09-11T04:43:57.177Z"
-  },
-  {
-    "id": "11436",
-    "title": "Bigg Boss",
-    "type": "tv",
-    "season": 20,
-    "episode": 5,
-    "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
-    "updatedAt": "2026-09-11T04:42:23.477Z"
   }
 ]
