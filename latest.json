@@ -1,5 +1,32 @@
 [
   {
+    "id": "286988",
+    "title": "Blossom Through the Cloud",
+    "type": "tv",
+    "season": 1,
+    "episode": 24,
+    "backdrop": "https://image.tmdb.org/t/p/w500/8ABkIKavSjn4I0nJTGthKSGVRfV.jpg",
+    "updatedAt": "2026-09-11T14:32:55.754Z"
+  },
+  {
+    "id": "331312",
+    "title": "Kiss or Kill",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/gLiJPAnQl4jHODrq8Z3M783NB8S.jpg",
+    "updatedAt": "2026-09-11T14:30:14.558Z"
+  },
+  {
+    "id": "332507",
+    "title": "The Last Oath",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/pXd5XhPTivPdT1xwJnlKAAxD94v.jpg",
+    "updatedAt": "2026-09-11T14:28:37.644Z"
+  },
+  {
     "id": "332863",
     "title": "Stolen Heartbeats",
     "type": "tv",
@@ -140,32 +167,5 @@
     "episode": 5,
     "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
     "updatedAt": "2026-09-11T04:42:23.477Z"
-  },
-  {
-    "id": "298168",
-    "title": "The Shards",
-    "type": "tv",
-    "season": 1,
-    "episode": 9,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9NrKpGms03Gk5mtKyiygQB6XSTw.jpg",
-    "updatedAt": "2026-09-11T04:38:45.650Z"
-  },
-  {
-    "id": "65844",
-    "title": "KONOSUBA - God's blessing on this wonderful world!",
-    "type": "tv",
-    "season": 2,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/krxTisQ3NA2AMT7qHfOPgAuqREr.jpg",
-    "updatedAt": "2026-09-11T04:32:29.787Z"
-  },
-  {
-    "id": "329274",
-    "title": "MOURINHO",
-    "type": "tv",
-    "season": 1,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w500/aaHwtfXqe8Mav5OKglHOd44OVYp.jpg",
-    "updatedAt": "2026-09-11T04:23:45.024Z"
   }
 ]
