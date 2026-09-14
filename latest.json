@@ -1,173 +1,182 @@
 [
   {
-    "id": "200709",
-    "title": "Weak Hero",
+    "id": "295263",
+    "title": "Police in Love",
+    "type": "tv",
+    "season": 1,
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/ixNUa0nk4nnD7O4vu670AtPz8OM.jpg",
+    "updatedAt": "2026-09-14T03:25:58.256Z"
+  },
+  {
+    "id": "306630",
+    "title": "You Maniac",
+    "type": "tv",
+    "season": 1,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/uN0kycbW2A5zyaogjDfzqvILjap.jpg",
+    "updatedAt": "2026-09-14T03:19:50.313Z"
+  },
+  {
+    "id": "305644",
+    "title": "Four Hands, Two Sonatas",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/c8saa6GyN8a3bjHCLGG65j7WeMA.jpg",
+    "updatedAt": "2026-09-14T03:17:53.472Z"
+  },
+  {
+    "id": "304885",
+    "title": "Yesterday",
+    "type": "tv",
+    "season": 1,
+    "episode": 11,
+    "backdrop": "https://image.tmdb.org/t/p/w500/yRmXY8OIXsLaNP1tPt3maK7Mv4L.jpg",
+    "updatedAt": "2026-09-14T03:14:15.151Z"
+  },
+  {
+    "id": "276051",
+    "title": "GELBOYS",
     "type": "tv",
     "season": 2,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/2Zx455jE4wHTDeZcZuAfElbsH07.jpg",
-    "updatedAt": "2026-09-12T17:22:40.312Z"
-  },
-  {
-    "id": "1660940",
-    "title": "Nee Forever",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/odsBpm8rvmbeIGzrAxDEERCdDfM.jpg",
-    "updatedAt": "2026-09-12T16:49:26.679Z"
-  },
-  {
-    "id": "1250502",
-    "title": "I'm Game",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/z8PMsnvYs2t3fmKpK1ZYPMz4QQ9.jpg",
-    "updatedAt": "2026-09-12T16:35:42.141Z"
-  },
-  {
-    "id": "317314",
-    "title": "Ash",
-    "type": "tv",
-    "season": 1,
     "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/k1IZq7CnvBL3p8AgcCzoFXITwJf.jpg",
-    "updatedAt": "2026-09-12T11:18:54.357Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/jdSP1hJDP32K66sBsIxmcWNrsmH.jpg",
+    "updatedAt": "2026-09-14T03:10:30.427Z"
   },
   {
-    "id": "12445",
-    "title": "Harry Potter and the Deathly Hallows: Part 2",
-    "type": "movie",
-    "year": "2011",
-    "backdrop": "https://image.tmdb.org/t/p/w500/ik5bYheGLGw7oaVm9zbzUocnPcf.jpg",
-    "updatedAt": "2026-09-12T05:10:08.336Z"
-  },
-  {
-    "id": "566525",
-    "title": "Shang-Chi and the Legend of the Ten Rings",
-    "type": "movie",
-    "year": "2021",
-    "backdrop": "https://image.tmdb.org/t/p/w500/d3cxROd9PtmavG20P6e2WbrNxkg.jpg",
-    "updatedAt": "2026-09-12T04:24:10.597Z"
-  },
-  {
-    "id": "286360",
-    "title": "Notes from the Last Row",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/pcBTl7U8eVOVGhu2Wi0hN693tsd.jpg",
-    "updatedAt": "2026-09-12T04:19:09.974Z"
-  },
-  {
-    "id": "110316",
-    "title": "Alice in Borderland",
-    "type": "tv",
-    "season": 2,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/i6vV0LDMnyFFT3yBysMHvpWEZor.jpg",
-    "updatedAt": "2026-09-12T04:15:41.379Z"
-  },
-  {
-    "id": "117376",
-    "title": "Vincenzo",
-    "type": "tv",
-    "season": 1,
-    "episode": 20,
-    "backdrop": "https://image.tmdb.org/t/p/w500/cQwu0TKuXXFfPKc5i8nZ0PsgeQC.jpg",
-    "updatedAt": "2026-09-12T03:38:12.895Z"
-  },
-  {
-    "id": "215720",
-    "title": "Queen of Tears",
-    "type": "tv",
-    "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/gnkSyB7OYvFAF6oUN726nGSvgpL.jpg",
-    "updatedAt": "2026-09-12T02:49:41.456Z"
-  },
-  {
-    "id": "315635",
-    "title": "Spider-Man: Homecoming",
-    "type": "movie",
-    "year": "2017",
-    "backdrop": "https://image.tmdb.org/t/p/w500/7PhC0zGZNRWNQSXJz9Y3kAooGer.jpg",
-    "updatedAt": "2026-09-12T02:45:02.899Z"
-  },
-  {
-    "id": "1408162",
-    "title": "Vishwanath & Sons",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/mHTkvCDHIazVnmO3FborbN2j9t5.jpg",
-    "updatedAt": "2026-09-12T02:42:35.471Z"
-  },
-  {
-    "id": "68555",
-    "title": "Death Note Relight 2: L's Successors",
-    "type": "movie",
-    "year": "2009",
-    "backdrop": "https://image.tmdb.org/t/p/w500/nVmfVV4Tv9slNQlSndoUt2N0tYD.jpg",
-    "updatedAt": "2026-09-12T02:36:13.154Z"
-  },
-  {
-    "id": "1558568",
-    "title": "Go Team!",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/1hwrvoeqSe6oM59BHR8zFO082kF.jpg",
-    "updatedAt": "2026-09-11T14:39:49.906Z"
-  },
-  {
-    "id": "286988",
-    "title": "Blossom Through the Cloud",
-    "type": "tv",
-    "season": 1,
-    "episode": 24,
-    "backdrop": "https://image.tmdb.org/t/p/w500/8ABkIKavSjn4I0nJTGthKSGVRfV.jpg",
-    "updatedAt": "2026-09-11T14:32:55.754Z"
-  },
-  {
-    "id": "331312",
-    "title": "Kiss or Kill",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/gLiJPAnQl4jHODrq8Z3M783NB8S.jpg",
-    "updatedAt": "2026-09-11T14:30:14.558Z"
-  },
-  {
-    "id": "332507",
-    "title": "The Last Oath",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/pXd5XhPTivPdT1xwJnlKAAxD94v.jpg",
-    "updatedAt": "2026-09-11T14:28:37.644Z"
-  },
-  {
-    "id": "332863",
-    "title": "Stolen Heartbeats",
-    "type": "tv",
-    "season": 1,
-    "episode": 31,
-    "backdrop": "https://image.tmdb.org/t/p/w500/2lqDwTCsD01Dg83BLw9z4IsDNh5.jpg",
-    "updatedAt": "2026-09-11T12:12:23.142Z"
-  },
-  {
-    "id": "294636",
-    "title": "The Ordinary Jackpot",
+    "id": "315142",
+    "title": "Juliet & Juliet",
     "type": "tv",
     "season": 1,
     "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/AtJigZx2ExMks84uY0Dq20Y3KYJ.jpg",
-    "updatedAt": "2026-09-11T11:53:39.457Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/5SAzTrHmj61pdFTRO3eptQ7YQQ.jpg",
+    "updatedAt": "2026-09-14T03:07:57.092Z"
   },
   {
-    "id": "1461254",
-    "title": "Salmokji: Whispering Water",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/edVIvTc8RofOTxoAZN7a5kxIAay.jpg",
-    "updatedAt": "2026-09-11T11:52:01.504Z"
+    "id": "284825",
+    "title": "Mr. Fanboy",
+    "type": "tv",
+    "season": 1,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/wa0sbAAf8owaFfcVGiUh1Ikq6tw.jpg",
+    "updatedAt": "2026-09-14T03:06:03.975Z"
+  },
+  {
+    "id": "282326",
+    "title": "Against the Current",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cQylfnq28qgF4dn5CPu95gTmwp4.jpg",
+    "updatedAt": "2026-09-14T03:02:07.414Z"
+  },
+  {
+    "id": "320695",
+    "title": "Third Person",
+    "type": "tv",
+    "season": 1,
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/2h8wQ5HsIEEcjXxMPHONg5VGpIC.jpg",
+    "updatedAt": "2026-09-14T03:00:02.854Z"
+  },
+  {
+    "id": "317308",
+    "title": "The Missing Piece",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/yIESAKzVwEbuU3RFPFv5Kcx7xa9.jpg",
+    "updatedAt": "2026-09-14T02:57:50.256Z"
+  },
+  {
+    "id": "333555",
+    "title": "Prelude of the White Snake",
+    "type": "tv",
+    "season": 1,
+    "episode": 20,
+    "backdrop": "https://image.tmdb.org/t/p/w500/m9bZzGX9OlV8caWmOLICgteUA2P.jpg",
+    "updatedAt": "2026-09-14T02:56:31.525Z"
+  },
+  {
+    "id": "306629",
+    "title": "Match Point",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jAeJPXdX7XCtgFbRDj7vCTKqw3f.jpg",
+    "updatedAt": "2026-09-14T02:38:34.570Z"
+  },
+  {
+    "id": "299158",
+    "title": "LOVEx3",
+    "type": "tv",
+    "season": 1,
+    "episode": 5,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cSL9gSe8F0NaFVpeMZQ8ae7aCtz.jpg",
+    "updatedAt": "2026-09-14T02:36:01.950Z"
+  },
+  {
+    "id": "325870",
+    "title": "Fairway of Love",
+    "type": "tv",
+    "season": 1,
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/vnrfPWrHCWyFnzPNU4h6tTRk6U5.jpg",
+    "updatedAt": "2026-09-14T02:33:57.214Z"
+  },
+  {
+    "id": "284822",
+    "title": "Your Third",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/ubLFqGZFxaqPtkqyyIg8gQEmeSw.jpg",
+    "updatedAt": "2026-09-14T02:32:42.082Z"
+  },
+  {
+    "id": "314939",
+    "title": "A Love Other Than Yours",
+    "type": "tv",
+    "season": 1,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/auiu4giz7AMlLlaRpZPlOP3mgIT.jpg",
+    "updatedAt": "2026-09-14T02:16:46.271Z"
+  },
+  {
+    "id": "262838",
+    "title": "India's Got Latent",
+    "type": "tv",
+    "season": 2,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/lhukQjNRaUXxZGdGGWNZvSU4qfq.jpg",
+    "updatedAt": "2026-09-13T17:31:38.598Z"
+  },
+  {
+    "id": "314936",
+    "title": "Don't Be Too Emotional",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/5dStdZ93b22PTSMVzpfzBDK6DYr.jpg",
+    "updatedAt": "2026-09-13T16:39:16.255Z"
+  },
+  {
+    "id": "298610",
+    "title": "Spooky in Love",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/9jdReHRO3tVsgIdDcY952FA5nfF.jpg",
+    "updatedAt": "2026-09-13T11:29:46.187Z"
+  },
+  {
+    "id": "66732",
+    "title": "Stranger Things",
+    "type": "tv",
+    "season": 5,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/89T83vE1ol8wcI879LutCqv7hMa.jpg",
+    "updatedAt": "2026-09-13T11:25:50.513Z"
   }
 ]
