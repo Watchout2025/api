@@ -1,5 +1,94 @@
 [
   {
+    "id": "30984",
+    "title": "Bleach",
+    "type": "tv",
+    "season": 2,
+    "episode": 46,
+    "backdrop": "https://image.tmdb.org/t/p/w500/mFKys64gbDQrFqwUheGwXQwo2JK.jpg",
+    "updatedAt": "2026-09-14T04:55:21.496Z"
+  },
+  {
+    "id": "95350",
+    "title": "Lanterns",
+    "type": "tv",
+    "season": 1,
+    "episode": 5,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
+    "updatedAt": "2026-09-14T04:54:02.458Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
+    "updatedAt": "2026-09-14T04:52:58.093Z"
+  },
+  {
+    "id": "483165",
+    "title": "The Fixies: Top Secret",
+    "type": "movie",
+    "year": "2017",
+    "backdrop": "https://image.tmdb.org/t/p/w500/z59sHzL9x0qZk8LHQZo3EPIgkZG.jpg",
+    "updatedAt": "2026-09-14T04:51:47.814Z"
+  },
+  {
+    "id": "313172",
+    "title": "Chumbak",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/2N1kH7314XUfMw80iLZh1d2UoHY.jpg",
+    "updatedAt": "2026-09-14T04:49:28.504Z"
+  },
+  {
+    "id": "285993",
+    "title": "BLACK TORCH",
+    "type": "tv",
+    "season": 1,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/fy1R05K8zCUFmQG6f1Wn4gPwte4.jpg",
+    "updatedAt": "2026-09-14T04:30:41.661Z"
+  },
+  {
+    "id": "153217",
+    "title": "Sparks of Tomorrow",
+    "type": "tv",
+    "season": 1,
+    "episode": 11,
+    "backdrop": "https://image.tmdb.org/t/p/w500/uI8e54LXFazUjOQ8n4K2FapSIdo.jpg",
+    "updatedAt": "2026-09-14T04:29:01.242Z"
+  },
+  {
+    "id": "94664",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "type": "tv",
+    "season": 3,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/81j82xSVO8jXHsHVByQLYm2XZ3s.jpg",
+    "updatedAt": "2026-09-14T04:27:14.786Z"
+  },
+  {
+    "id": "210273",
+    "title": "Fanletter, Please",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/n7sOB4pgW9sv7jZT6DXk1Rdmwjb.jpg",
+    "updatedAt": "2026-09-14T04:16:59.642Z"
+  },
+  {
+    "id": "314939",
+    "title": "A Love Other Than Yours",
+    "type": "tv",
+    "season": 1,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/auiu4giz7AMlLlaRpZPlOP3mgIT.jpg",
+    "updatedAt": "2026-09-14T04:14:43.004Z"
+  },
+  {
     "id": "295263",
     "title": "Police in Love",
     "type": "tv",
@@ -88,95 +177,5 @@
     "episode": 4,
     "backdrop": "https://image.tmdb.org/t/p/w500/yIESAKzVwEbuU3RFPFv5Kcx7xa9.jpg",
     "updatedAt": "2026-09-14T02:57:50.256Z"
-  },
-  {
-    "id": "333555",
-    "title": "Prelude of the White Snake",
-    "type": "tv",
-    "season": 1,
-    "episode": 20,
-    "backdrop": "https://image.tmdb.org/t/p/w500/m9bZzGX9OlV8caWmOLICgteUA2P.jpg",
-    "updatedAt": "2026-09-14T02:56:31.525Z"
-  },
-  {
-    "id": "306629",
-    "title": "Match Point",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/jAeJPXdX7XCtgFbRDj7vCTKqw3f.jpg",
-    "updatedAt": "2026-09-14T02:38:34.570Z"
-  },
-  {
-    "id": "299158",
-    "title": "LOVEx3",
-    "type": "tv",
-    "season": 1,
-    "episode": 5,
-    "backdrop": "https://image.tmdb.org/t/p/w500/cSL9gSe8F0NaFVpeMZQ8ae7aCtz.jpg",
-    "updatedAt": "2026-09-14T02:36:01.950Z"
-  },
-  {
-    "id": "325870",
-    "title": "Fairway of Love",
-    "type": "tv",
-    "season": 1,
-    "episode": 1,
-    "backdrop": "https://image.tmdb.org/t/p/w500/vnrfPWrHCWyFnzPNU4h6tTRk6U5.jpg",
-    "updatedAt": "2026-09-14T02:33:57.214Z"
-  },
-  {
-    "id": "284822",
-    "title": "Your Third",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/ubLFqGZFxaqPtkqyyIg8gQEmeSw.jpg",
-    "updatedAt": "2026-09-14T02:32:42.082Z"
-  },
-  {
-    "id": "314939",
-    "title": "A Love Other Than Yours",
-    "type": "tv",
-    "season": 1,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/auiu4giz7AMlLlaRpZPlOP3mgIT.jpg",
-    "updatedAt": "2026-09-14T02:16:46.271Z"
-  },
-  {
-    "id": "262838",
-    "title": "India's Got Latent",
-    "type": "tv",
-    "season": 2,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/lhukQjNRaUXxZGdGGWNZvSU4qfq.jpg",
-    "updatedAt": "2026-09-13T17:31:38.598Z"
-  },
-  {
-    "id": "314936",
-    "title": "Don't Be Too Emotional",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/5dStdZ93b22PTSMVzpfzBDK6DYr.jpg",
-    "updatedAt": "2026-09-13T16:39:16.255Z"
-  },
-  {
-    "id": "298610",
-    "title": "Spooky in Love",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9jdReHRO3tVsgIdDcY952FA5nfF.jpg",
-    "updatedAt": "2026-09-13T11:29:46.187Z"
-  },
-  {
-    "id": "66732",
-    "title": "Stranger Things",
-    "type": "tv",
-    "season": 5,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/89T83vE1ol8wcI879LutCqv7hMa.jpg",
-    "updatedAt": "2026-09-13T11:25:50.513Z"
   }
 ]
