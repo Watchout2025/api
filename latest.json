@@ -1,75 +1,48 @@
 [
   {
-    "id": "286686",
-    "title": "In My Prime",
+    "id": "85518",
+    "title": "Khatron Ke Khiladi",
     "type": "tv",
-    "season": 1,
-    "episode": 15,
-    "backdrop": "https://image.tmdb.org/t/p/w500/7HXIhc3aRr1v7KmOrCulszXf3YP.jpg",
-    "updatedAt": "2026-09-14T15:07:04.939Z"
+    "season": 15,
+    "episode": 14,
+    "backdrop": "https://image.tmdb.org/t/p/w500/uDnAERbDb18p0jVB4UlfIHbuBGE.jpg",
+    "updatedAt": "2026-09-16T04:32:46.926Z"
   },
   {
-    "id": "308261",
-    "title": "Khom Khlang",
-    "type": "tv",
-    "season": 1,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/h1zB3m2yunfXLwNHwU7T7iqIKjn.jpg",
-    "updatedAt": "2026-09-14T15:01:59.140Z"
-  },
-  {
-    "id": "333555",
-    "title": "Prelude of the White Snake",
-    "type": "tv",
-    "season": 1,
-    "episode": 21,
-    "backdrop": "https://image.tmdb.org/t/p/w500/m9bZzGX9OlV8caWmOLICgteUA2P.jpg",
-    "updatedAt": "2026-09-14T15:00:48.598Z"
-  },
-  {
-    "id": "303290",
-    "title": "No. 9 Hunter",
-    "type": "tv",
-    "season": 1,
-    "episode": 19,
-    "backdrop": "https://image.tmdb.org/t/p/w500/w4Vb57dtZcJNbrRHSbK5dRAU33J.jpg",
-    "updatedAt": "2026-09-14T15:00:07.806Z"
-  },
-  {
-    "id": "332014",
-    "title": "City Rong",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/yLBXldClV6vLyGete2bCRMbJjwG.jpg",
-    "updatedAt": "2026-09-14T14:55:20.298Z"
-  },
-  {
-    "id": "282326",
-    "title": "Against the Current",
-    "type": "tv",
-    "season": 1,
-    "episode": 9,
-    "backdrop": "https://image.tmdb.org/t/p/w500/cQylfnq28qgF4dn5CPu95gTmwp4.jpg",
-    "updatedAt": "2026-09-14T14:53:33.927Z"
-  },
-  {
-    "id": "246482",
-    "title": "Love Is Better the Second Time Around",
+    "id": "332744",
+    "title": "Indian Game Show",
     "type": "tv",
     "season": 2,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/jXPaqZIbY9eINLyEn7oWPv7I32V.jpg",
-    "updatedAt": "2026-09-14T14:51:57.013Z"
+    "episode": 21,
+    "backdrop": "https://image.tmdb.org/t/p/w500/6cILiHDTg4lGUik4KFwZGC1bjpk.jpg",
+    "updatedAt": "2026-09-16T04:27:10.337Z"
   },
   {
-    "id": "326878",
-    "title": "Duty First, Kiss Later",
+    "id": "325870",
+    "title": "Fairway of Love",
     "type": "tv",
     "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/u6CtkR3ZDznAADD9kZqLNFoRFxb.jpg",
-    "updatedAt": "2026-09-14T14:47:26.409Z"
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/ll7L7PtsE32jsz5PHoxVHuMVG08.jpg",
+    "updatedAt": "2026-09-16T03:04:09.660Z"
+  },
+  {
+    "id": "315142",
+    "title": "Juliet & Juliet",
+    "type": "tv",
+    "season": 1,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/5SAzTrHmj61pdFTRO3eptQ7YQQ.jpg",
+    "updatedAt": "2026-09-16T03:02:38.864Z"
+  },
+  {
+    "id": "154825",
+    "title": "Business Proposal",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/3ARq4Fmu6xApIdv5LmKO7W6Zf4R.jpg",
+    "updatedAt": "2026-09-16T02:59:26.867Z"
   },
   {
     "id": "294095",
@@ -78,97 +51,132 @@
     "season": 1,
     "episode": 14,
     "backdrop": "https://image.tmdb.org/t/p/w500/nAATQr4iewpPA5bEazcJ84UE7hl.jpg",
-    "updatedAt": "2026-09-14T14:31:54.471Z"
+    "updatedAt": "2026-09-15T15:39:56.376Z"
   },
   {
-    "id": "590",
-    "title": "SWAT Kats: The Radical Squadron",
+    "id": "99071",
+    "title": "Redo of Healer",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/4JpNan65uxoWvH3I1Uc9ro8bHS9.jpg",
+    "updatedAt": "2026-09-15T15:23:11.474Z"
+  },
+  {
+    "id": "220074",
+    "title": "Flex X Cop",
     "type": "tv",
     "season": 2,
     "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3C3J3gdnB4xj72ufttnjbK7KmXq.jpg",
-    "updatedAt": "2026-09-14T13:23:33.880Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/kPHKRCsSkz3kanwmR6XPcms2TCG.jpg",
+    "updatedAt": "2026-09-15T14:56:34.275Z"
   },
   {
-    "id": "296140",
-    "title": "My Bias, My Boss",
+    "id": "93846",
+    "title": "The King: Eternal Monarch",
     "type": "tv",
     "season": 1,
-    "episode": 11,
-    "backdrop": "https://image.tmdb.org/t/p/w500/v8O0X6PP7grEaXsPkdiotIx78tA.jpg",
-    "updatedAt": "2026-09-14T13:04:17.464Z"
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/9YUmiZVDFyRvWzYreeKQ1aQwAnm.jpg",
+    "updatedAt": "2026-09-15T14:52:35.813Z"
   },
   {
-    "id": "61669",
-    "title": "Dear Sister",
+    "id": "305644",
+    "title": "Four Hands, Two Sonatas",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/c8saa6GyN8a3bjHCLGG65j7WeMA.jpg",
+    "updatedAt": "2026-09-15T14:45:17.455Z"
+  },
+  {
+    "id": "286988",
+    "title": "Blossom Through the Cloud",
+    "type": "tv",
+    "season": 1,
+    "episode": 24,
+    "backdrop": "https://image.tmdb.org/t/p/w500/8ABkIKavSjn4I0nJTGthKSGVRfV.jpg",
+    "updatedAt": "2026-09-15T14:40:39.820Z"
+  },
+  {
+    "id": "78385",
+    "title": "Something in the Rain",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/lAbpLvcy6iwlPXjy6i2sDuDWo1S.jpg",
+    "updatedAt": "2026-09-15T14:36:41.252Z"
+  },
+  {
+    "id": "325294",
+    "title": "Popular Serizawa Acts Weird Around Me",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/gXw9z8snzb4GN3In3JRqPyeFOs6.jpg",
+    "updatedAt": "2026-09-15T14:32:00.615Z"
+  },
+  {
+    "id": "334299",
+    "title": "Sword God",
+    "type": "tv",
+    "season": 1,
+    "episode": 14,
+    "backdrop": "https://image.tmdb.org/t/p/w500/vfAA41yUZ1iKo2WFT0eyYMA8liP.jpg",
+    "updatedAt": "2026-09-15T14:28:24.261Z"
+  },
+  {
+    "id": "233349",
+    "title": "Cinderella at 2AM",
     "type": "tv",
     "season": 1,
     "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/5mSk2KfeSFTw73N6f4sPWpzTDS0.jpg",
-    "updatedAt": "2026-09-14T13:02:50.837Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/8Tyrfz3T0OZqxD4lqgQ4wdfN0Zq.jpg",
+    "updatedAt": "2026-09-15T14:22:33.754Z"
   },
   {
-    "id": "290153",
-    "title": "Tom and Jerry: The Classic Collection Volume 7",
-    "type": "movie",
-    "year": "2004",
-    "backdrop": "",
-    "updatedAt": "2026-09-14T12:57:56.234Z"
+    "id": "299952",
+    "title": "The Early Spring",
+    "type": "tv",
+    "season": 1,
+    "episode": 24,
+    "backdrop": "https://image.tmdb.org/t/p/w500/q1VfrW33zJYUayakX2S8dWjadRy.jpg",
+    "updatedAt": "2026-09-15T14:14:54.137Z"
   },
   {
-    "id": "290152",
-    "title": "Tom and Jerry: The Classic Collection Volume 6",
-    "type": "movie",
-    "year": "2004",
-    "backdrop": "https://image.tmdb.org/t/p/w500/zA5FRDsUVUg7GC7tg5HTjIxejjY.jpg",
-    "updatedAt": "2026-09-14T12:57:11.712Z"
+    "id": "308261",
+    "title": "Khom Khlang",
+    "type": "tv",
+    "season": 1,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/h1zB3m2yunfXLwNHwU7T7iqIKjn.jpg",
+    "updatedAt": "2026-09-15T13:46:32.698Z"
   },
   {
-    "id": "290151",
-    "title": "Tom and Jerry: The Classic Collection Volume 5",
-    "type": "movie",
-    "year": "2004",
-    "backdrop": "https://image.tmdb.org/t/p/w500/y3VfhtVTW4L4ucWL58Tj1xOtnc8.jpg",
-    "updatedAt": "2026-09-14T12:56:08.968Z"
+    "id": "314939",
+    "title": "A Love Other Than Yours",
+    "type": "tv",
+    "season": 1,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/auiu4giz7AMlLlaRpZPlOP3mgIT.jpg",
+    "updatedAt": "2026-09-15T13:10:32.464Z"
   },
   {
-    "id": "290150",
-    "title": "Tom and Jerry: The Classic Collection Volume 4",
-    "type": "movie",
-    "year": "2004",
-    "backdrop": "https://image.tmdb.org/t/p/w500/9zZIvvtlvNrrxRUqhMddq3GoQSE.jpg",
-    "updatedAt": "2026-09-14T12:49:49.651Z"
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 9,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
+    "updatedAt": "2026-09-15T13:02:50.943Z"
   },
   {
-    "id": "290127",
-    "title": "Tom and Jerry: The Classic Collection Volume 3",
-    "type": "movie",
-    "year": "2004",
-    "backdrop": "",
-    "updatedAt": "2026-09-14T12:48:44.076Z"
-  },
-  {
-    "id": "290123",
-    "title": "Tom and Jerry: The Classic Collection Volume 2",
-    "type": "movie",
-    "year": "2004",
-    "backdrop": "https://image.tmdb.org/t/p/w500/3JvJoFEoMjKDJySNDdtAfyY8Mgn.jpg",
-    "updatedAt": "2026-09-14T12:47:46.763Z"
-  },
-  {
-    "id": "290130",
-    "title": "Tom and Jerry: The Classic Collection Volume 1",
-    "type": "movie",
-    "year": "2004",
-    "backdrop": "",
-    "updatedAt": "2026-09-14T12:46:08.512Z"
-  },
-  {
-    "id": "290154",
-    "title": "Tom and Jerry: The Classic Collection Volume 8",
-    "type": "movie",
-    "year": "2004",
-    "backdrop": "https://image.tmdb.org/t/p/w500/fXvhwLH1FOE5poJvIjwnzQkoHsD.jpg",
-    "updatedAt": "2026-09-14T12:44:32.597Z"
+    "id": "286686",
+    "title": "In My Prime",
+    "type": "tv",
+    "season": 1,
+    "episode": 15,
+    "backdrop": "https://image.tmdb.org/t/p/w500/7HXIhc3aRr1v7KmOrCulszXf3YP.jpg",
+    "updatedAt": "2026-09-15T12:55:24.200Z"
   }
 ]
