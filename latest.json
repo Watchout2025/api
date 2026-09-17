@@ -1,128 +1,65 @@
 [
   {
-    "id": "238084",
-    "title": "Trigger",
+    "id": "294990",
+    "title": "Spring of the Blade",
     "type": "tv",
     "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/LocigwVR8yda0xxpTBQh3XyaKQ.jpg",
-    "updatedAt": "2026-09-16T05:16:40.015Z"
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/qLZQnTiQxkBOid9tVLWC1CmoOcu.jpg",
+    "updatedAt": "2026-09-17T13:21:42.743Z"
   },
   {
-    "id": "1137844",
-    "title": "Mayday",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/nFNCdoKCDE4Gc27iEBh5yiF7DwX.jpg",
-    "updatedAt": "2026-09-16T05:11:39.149Z"
-  },
-  {
-    "id": "1639",
-    "title": "Heroes",
+    "id": "297826",
+    "title": "Tomb Raider King",
     "type": "tv",
-    "season": 4,
-    "episode": 19,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3VfA8LqEQkB1tCUpuQmQdApwLgt.jpg",
-    "updatedAt": "2026-09-16T05:08:05.244Z"
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/efo2pV1xzSIyd35jXixoB2WJM3u.jpg",
+    "updatedAt": "2026-09-17T09:00:16.161Z"
+  },
+  {
+    "id": "139512",
+    "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
+    "type": "tv",
+    "season": 2,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/gnoMv9Y2kzt74albwVT1FhewVVC.jpg",
+    "updatedAt": "2026-09-17T08:58:34.758Z"
+  },
+  {
+    "id": "224263",
+    "title": "Stranger Things: Tales from '85",
+    "type": "tv",
+    "season": 2,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/7PoEyK2EFMDRvJg15Ld9Qbtbhe4.jpg",
+    "updatedAt": "2026-09-17T08:56:18.824Z"
   },
   {
     "id": "11436",
     "title": "Bigg Boss",
     "type": "tv",
     "season": 20,
-    "episode": 10,
+    "episode": 11,
     "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
-    "updatedAt": "2026-09-16T04:53:35.148Z"
+    "updatedAt": "2026-09-17T08:52:18.433Z"
   },
   {
-    "id": "300126",
-    "title": "LIAR GAME",
-    "type": "tv",
-    "season": 1,
-    "episode": 21,
-    "backdrop": "https://image.tmdb.org/t/p/w500/beBpLR0P7cgEbXpOY7dIS2coF4f.jpg",
-    "updatedAt": "2026-09-16T04:52:06.073Z"
-  },
-  {
-    "id": "331932",
-    "title": "Ali Baba aur 40 Bhoot",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/uDRHlrlXbIgwCnVRJr80VnBrgX7.jpg",
-    "updatedAt": "2026-09-16T04:45:23.713Z"
-  },
-  {
-    "id": "325135",
-    "title": "Hastinapur Ke Veer",
-    "type": "tv",
-    "season": 1,
-    "episode": 91,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3Y8mZPdlo9iJ2JEormLuneQomPZ.jpg",
-    "updatedAt": "2026-09-16T04:38:44.150Z"
-  },
-  {
-    "id": "85518",
-    "title": "Khatron Ke Khiladi",
-    "type": "tv",
-    "season": 15,
-    "episode": 14,
-    "backdrop": "https://image.tmdb.org/t/p/w500/uDnAERbDb18p0jVB4UlfIHbuBGE.jpg",
-    "updatedAt": "2026-09-16T04:32:46.926Z"
-  },
-  {
-    "id": "332744",
-    "title": "Indian Game Show",
-    "type": "tv",
-    "season": 2,
-    "episode": 21,
-    "backdrop": "https://image.tmdb.org/t/p/w500/6cILiHDTg4lGUik4KFwZGC1bjpk.jpg",
-    "updatedAt": "2026-09-16T04:27:10.337Z"
-  },
-  {
-    "id": "325870",
-    "title": "Fairway of Love",
+    "id": "296437",
+    "title": "The Frontier Lord Begins with Zero Subjects",
     "type": "tv",
     "season": 1,
     "episode": 1,
-    "backdrop": "https://image.tmdb.org/t/p/w500/ll7L7PtsE32jsz5PHoxVHuMVG08.jpg",
-    "updatedAt": "2026-09-16T03:04:09.660Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/uHmqYzmPftg6vVvOPZGxmufKjMR.jpg",
+    "updatedAt": "2026-09-17T08:51:21.393Z"
   },
   {
-    "id": "315142",
-    "title": "Juliet & Juliet",
-    "type": "tv",
-    "season": 1,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/5SAzTrHmj61pdFTRO3eptQ7YQQ.jpg",
-    "updatedAt": "2026-09-16T03:02:38.864Z"
-  },
-  {
-    "id": "154825",
-    "title": "Business Proposal",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3ARq4Fmu6xApIdv5LmKO7W6Zf4R.jpg",
-    "updatedAt": "2026-09-16T02:59:26.867Z"
-  },
-  {
-    "id": "294095",
-    "title": "A Bona Fide Killer",
-    "type": "tv",
-    "season": 1,
-    "episode": 14,
-    "backdrop": "https://image.tmdb.org/t/p/w500/nAATQr4iewpPA5bEazcJ84UE7hl.jpg",
-    "updatedAt": "2026-09-15T15:39:56.376Z"
-  },
-  {
-    "id": "99071",
-    "title": "Redo of Healer",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/4JpNan65uxoWvH3I1Uc9ro8bHS9.jpg",
-    "updatedAt": "2026-09-15T15:23:11.474Z"
+    "id": "1656489",
+    "title": "Sultana",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/29XMlo2zt5LTA0YMjA3hubbM942.jpg",
+    "updatedAt": "2026-09-17T08:20:55.642Z"
   },
   {
     "id": "220074",
@@ -131,16 +68,49 @@
     "season": 2,
     "episode": 12,
     "backdrop": "https://image.tmdb.org/t/p/w500/kPHKRCsSkz3kanwmR6XPcms2TCG.jpg",
-    "updatedAt": "2026-09-15T14:56:34.275Z"
+    "updatedAt": "2026-09-17T03:59:44.813Z"
   },
   {
-    "id": "93846",
-    "title": "The King: Eternal Monarch",
+    "id": "12445",
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "type": "movie",
+    "year": "2011",
+    "backdrop": "https://image.tmdb.org/t/p/w500/ik5bYheGLGw7oaVm9zbzUocnPcf.jpg",
+    "updatedAt": "2026-09-17T03:54:36.340Z"
+  },
+  {
+    "id": "625499",
+    "title": "Matchless Hero Fang Shiyu",
+    "type": "movie",
+    "year": "2019",
+    "backdrop": "https://image.tmdb.org/t/p/w500/xAbw927C9bzfCAjskQHksl56S87.jpg",
+    "updatedAt": "2026-09-17T03:17:36.697Z"
+  },
+  {
+    "id": "1340076",
+    "title": "Untitled Home Invasion Romance",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/s4hEhzWSeKp1h0R8stm5H253g5I.jpg",
+    "updatedAt": "2026-09-17T03:16:08.589Z"
+  },
+  {
+    "id": "332401",
+    "title": "City of Blood",
     "type": "tv",
     "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9YUmiZVDFyRvWzYreeKQ1aQwAnm.jpg",
-    "updatedAt": "2026-09-15T14:52:35.813Z"
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/nAEIr2b9M9ya8SXOTA1bDDMjhCA.jpg",
+    "updatedAt": "2026-09-17T03:13:59.353Z"
+  },
+  {
+    "id": "317314",
+    "title": "Ash",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/k1IZq7CnvBL3p8AgcCzoFXITwJf.jpg",
+    "updatedAt": "2026-09-17T03:07:51.224Z"
   },
   {
     "id": "305644",
@@ -149,33 +119,60 @@
     "season": 1,
     "episode": 6,
     "backdrop": "https://image.tmdb.org/t/p/w500/c8saa6GyN8a3bjHCLGG65j7WeMA.jpg",
-    "updatedAt": "2026-09-15T14:45:17.455Z"
+    "updatedAt": "2026-09-17T03:04:52.672Z"
   },
   {
-    "id": "286988",
-    "title": "Blossom Through the Cloud",
+    "id": "279041",
+    "title": "Speed and Love",
+    "type": "tv",
+    "season": 1,
+    "episode": 29,
+    "backdrop": "https://image.tmdb.org/t/p/w500/y8to5dxGElD7r7Fp7VSczpKOHR7.jpg",
+    "updatedAt": "2026-09-17T02:55:37.873Z"
+  },
+  {
+    "id": "276470",
+    "title": "OK! Let's Get Divorced",
+    "type": "tv",
+    "season": 1,
+    "episode": 9,
+    "backdrop": "https://image.tmdb.org/t/p/w500/qtcTChxZEXrjgZLe5slGhOuzqzp.jpg",
+    "updatedAt": "2026-09-17T02:51:00.981Z"
+  },
+  {
+    "id": "282326",
+    "title": "Against the Current",
+    "type": "tv",
+    "season": 1,
+    "episode": 14,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cQylfnq28qgF4dn5CPu95gTmwp4.jpg",
+    "updatedAt": "2026-09-17T02:44:46.377Z"
+  },
+  {
+    "id": "279388",
+    "title": "Pursuit of Jade",
+    "type": "tv",
+    "season": 1,
+    "episode": 40,
+    "backdrop": "https://image.tmdb.org/t/p/w500/yFOHbKXwDMnxBVgz78vOzqI1Ock.jpg",
+    "updatedAt": "2026-09-17T02:15:10.956Z"
+  },
+  {
+    "id": "299952",
+    "title": "The Early Spring",
     "type": "tv",
     "season": 1,
     "episode": 24,
-    "backdrop": "https://image.tmdb.org/t/p/w500/8ABkIKavSjn4I0nJTGthKSGVRfV.jpg",
-    "updatedAt": "2026-09-15T14:40:39.820Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/q1VfrW33zJYUayakX2S8dWjadRy.jpg",
+    "updatedAt": "2026-09-17T01:23:44.277Z"
   },
   {
-    "id": "78385",
-    "title": "Something in the Rain",
+    "id": "291496",
+    "title": "Our Sticky Love",
     "type": "tv",
     "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/lAbpLvcy6iwlPXjy6i2sDuDWo1S.jpg",
-    "updatedAt": "2026-09-15T14:36:41.252Z"
-  },
-  {
-    "id": "325294",
-    "title": "Popular Serizawa Acts Weird Around Me",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/gXw9z8snzb4GN3In3JRqPyeFOs6.jpg",
-    "updatedAt": "2026-09-15T14:32:00.615Z"
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/3Yypc9omHiqUAL46ciYHkyAfjOr.jpg",
+    "updatedAt": "2026-09-17T00:46:30.599Z"
   }
 ]
