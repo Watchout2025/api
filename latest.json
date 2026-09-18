@@ -1,5 +1,104 @@
 [
   {
+    "id": "306598",
+    "title": "Unlucky Bae",
+    "type": "tv",
+    "season": 1,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/g2XaAttXQz9DzwZZ3A2wBckXf5d.jpg",
+    "updatedAt": "2026-09-18T03:43:25.087Z"
+  },
+  {
+    "id": "321984",
+    "title": "Summertime",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/mcwzXqLswl7gjmJTXG2Z0JcuhfE.jpg",
+    "updatedAt": "2026-09-18T03:41:19.903Z"
+  },
+  {
+    "id": "276470",
+    "title": "OK! Let's Get Divorced",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/qtcTChxZEXrjgZLe5slGhOuzqzp.jpg",
+    "updatedAt": "2026-09-18T03:40:10.344Z"
+  },
+  {
+    "id": "282326",
+    "title": "Against the Current",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cQylfnq28qgF4dn5CPu95gTmwp4.jpg",
+    "updatedAt": "2026-09-18T03:38:01.098Z"
+  },
+  {
+    "id": "325271",
+    "title": "Dating Alys Perez",
+    "type": "tv",
+    "season": 1,
+    "episode": 15,
+    "backdrop": "https://image.tmdb.org/t/p/w500/pT5sJufAi68Nwz5lKOQctiI0Ent.jpg",
+    "updatedAt": "2026-09-18T03:37:26.942Z"
+  },
+  {
+    "id": "328190",
+    "title": "Hold on, Harutora-kun",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/prKZkxjmPhqk0wpvE4fQLWTIxvG.jpg",
+    "updatedAt": "2026-09-18T03:34:50.419Z"
+  },
+  {
+    "id": "325294",
+    "title": "Popular Serizawa Acts Weird Around Me",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/gXw9z8snzb4GN3In3JRqPyeFOs6.jpg",
+    "updatedAt": "2026-09-18T03:29:23.159Z"
+  },
+  {
+    "id": "298008",
+    "title": "Plastic Beauty",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg",
+    "updatedAt": "2026-09-18T03:05:35.966Z"
+  },
+  {
+    "id": "294636",
+    "title": "The Ordinary Jackpot",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/AtJigZx2ExMks84uY0Dq20Y3KYJ.jpg",
+    "updatedAt": "2026-09-17T13:34:29.633Z"
+  },
+  {
+    "id": "95486",
+    "title": "Falling Into Your Smile",
+    "type": "tv",
+    "season": 1,
+    "episode": 31,
+    "backdrop": "https://image.tmdb.org/t/p/w500/8m1reJttyl0DZnqkA9VeAsI3kHs.jpg",
+    "updatedAt": "2026-09-17T13:31:09.093Z"
+  },
+  {
+    "id": "333327",
+    "title": "Till I See You",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/kHK6b8tMuHvTay3gwz0d5O4R1YV.jpg",
+    "updatedAt": "2026-09-17T13:23:37.375Z"
+  },
+  {
     "id": "294990",
     "title": "Spring of the Blade",
     "type": "tv",
@@ -77,102 +176,5 @@
     "year": "2011",
     "backdrop": "https://image.tmdb.org/t/p/w500/ik5bYheGLGw7oaVm9zbzUocnPcf.jpg",
     "updatedAt": "2026-09-17T03:54:36.340Z"
-  },
-  {
-    "id": "625499",
-    "title": "Matchless Hero Fang Shiyu",
-    "type": "movie",
-    "year": "2019",
-    "backdrop": "https://image.tmdb.org/t/p/w500/xAbw927C9bzfCAjskQHksl56S87.jpg",
-    "updatedAt": "2026-09-17T03:17:36.697Z"
-  },
-  {
-    "id": "1340076",
-    "title": "Untitled Home Invasion Romance",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/s4hEhzWSeKp1h0R8stm5H253g5I.jpg",
-    "updatedAt": "2026-09-17T03:16:08.589Z"
-  },
-  {
-    "id": "332401",
-    "title": "City of Blood",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/nAEIr2b9M9ya8SXOTA1bDDMjhCA.jpg",
-    "updatedAt": "2026-09-17T03:13:59.353Z"
-  },
-  {
-    "id": "317314",
-    "title": "Ash",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/k1IZq7CnvBL3p8AgcCzoFXITwJf.jpg",
-    "updatedAt": "2026-09-17T03:07:51.224Z"
-  },
-  {
-    "id": "305644",
-    "title": "Four Hands, Two Sonatas",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/c8saa6GyN8a3bjHCLGG65j7WeMA.jpg",
-    "updatedAt": "2026-09-17T03:04:52.672Z"
-  },
-  {
-    "id": "279041",
-    "title": "Speed and Love",
-    "type": "tv",
-    "season": 1,
-    "episode": 29,
-    "backdrop": "https://image.tmdb.org/t/p/w500/y8to5dxGElD7r7Fp7VSczpKOHR7.jpg",
-    "updatedAt": "2026-09-17T02:55:37.873Z"
-  },
-  {
-    "id": "276470",
-    "title": "OK! Let's Get Divorced",
-    "type": "tv",
-    "season": 1,
-    "episode": 9,
-    "backdrop": "https://image.tmdb.org/t/p/w500/qtcTChxZEXrjgZLe5slGhOuzqzp.jpg",
-    "updatedAt": "2026-09-17T02:51:00.981Z"
-  },
-  {
-    "id": "282326",
-    "title": "Against the Current",
-    "type": "tv",
-    "season": 1,
-    "episode": 14,
-    "backdrop": "https://image.tmdb.org/t/p/w500/cQylfnq28qgF4dn5CPu95gTmwp4.jpg",
-    "updatedAt": "2026-09-17T02:44:46.377Z"
-  },
-  {
-    "id": "279388",
-    "title": "Pursuit of Jade",
-    "type": "tv",
-    "season": 1,
-    "episode": 40,
-    "backdrop": "https://image.tmdb.org/t/p/w500/yFOHbKXwDMnxBVgz78vOzqI1Ock.jpg",
-    "updatedAt": "2026-09-17T02:15:10.956Z"
-  },
-  {
-    "id": "299952",
-    "title": "The Early Spring",
-    "type": "tv",
-    "season": 1,
-    "episode": 24,
-    "backdrop": "https://image.tmdb.org/t/p/w500/q1VfrW33zJYUayakX2S8dWjadRy.jpg",
-    "updatedAt": "2026-09-17T01:23:44.277Z"
-  },
-  {
-    "id": "291496",
-    "title": "Our Sticky Love",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3Yypc9omHiqUAL46ciYHkyAfjOr.jpg",
-    "updatedAt": "2026-09-17T00:46:30.599Z"
   }
 ]
