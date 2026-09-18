@@ -1,5 +1,14 @@
 [
   {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
+    "updatedAt": "2026-09-18T07:41:09.020Z"
+  },
+  {
     "id": "312663",
     "title": "The Fixers",
     "type": "tv",
@@ -161,14 +170,5 @@
     "episode": 6,
     "backdrop": "https://image.tmdb.org/t/p/w500/prKZkxjmPhqk0wpvE4fQLWTIxvG.jpg",
     "updatedAt": "2026-09-18T03:34:50.419Z"
-  },
-  {
-    "id": "325294",
-    "title": "Popular Serizawa Acts Weird Around Me",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/gXw9z8snzb4GN3In3JRqPyeFOs6.jpg",
-    "updatedAt": "2026-09-18T03:29:23.159Z"
   }
 ]
