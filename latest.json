@@ -1,5 +1,29 @@
 [
   {
+    "id": "1451944",
+    "title": "Lust Stories 3",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/4KhYHimTT2j1YOvAXZ62o2anPNj.jpg",
+    "updatedAt": "2026-09-18T10:43:24.493Z"
+  },
+  {
+    "id": "1514863",
+    "title": "Best of the Best",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/l66G12NvVhkpm02CHWJteA7nJUb.jpg",
+    "updatedAt": "2026-09-18T10:43:10.544Z"
+  },
+  {
+    "id": "1760576",
+    "title": "Zakir Khan: Papa Yaar",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/wd3hGCB9EPxUgarzgcQ6sKr4yms.jpg",
+    "updatedAt": "2026-09-18T10:39:53.019Z"
+  },
+  {
     "id": "11436",
     "title": "Bigg Boss",
     "type": "tv",
@@ -143,32 +167,5 @@
     "episode": 10,
     "backdrop": "https://image.tmdb.org/t/p/w500/qtcTChxZEXrjgZLe5slGhOuzqzp.jpg",
     "updatedAt": "2026-09-18T03:40:10.344Z"
-  },
-  {
-    "id": "282326",
-    "title": "Against the Current",
-    "type": "tv",
-    "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/cQylfnq28qgF4dn5CPu95gTmwp4.jpg",
-    "updatedAt": "2026-09-18T03:38:01.098Z"
-  },
-  {
-    "id": "325271",
-    "title": "Dating Alys Perez",
-    "type": "tv",
-    "season": 1,
-    "episode": 15,
-    "backdrop": "https://image.tmdb.org/t/p/w500/pT5sJufAi68Nwz5lKOQctiI0Ent.jpg",
-    "updatedAt": "2026-09-18T03:37:26.942Z"
-  },
-  {
-    "id": "328190",
-    "title": "Hold on, Harutora-kun",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/prKZkxjmPhqk0wpvE4fQLWTIxvG.jpg",
-    "updatedAt": "2026-09-18T03:34:50.419Z"
   }
 ]
