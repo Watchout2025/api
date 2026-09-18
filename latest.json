@@ -1,5 +1,114 @@
 [
   {
+    "id": "312663",
+    "title": "The Fixers",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/iyHgIyMJ6Vd5w79dLeGOTOkqDS5.jpg",
+    "updatedAt": "2026-09-18T07:35:11.577Z"
+  },
+  {
+    "id": "299939",
+    "title": "Monster: The Lizzie Borden Story",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/1V4qYjjNNhldd3fQLUuTnzXRPmJ.jpg",
+    "updatedAt": "2026-09-18T07:28:47.333Z"
+  },
+  {
+    "id": "1506736",
+    "title": "Thudakkam",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/xcvPY9Wk2TzZWQRynWSwHEhnK2j.jpg",
+    "updatedAt": "2026-09-18T07:21:09.240Z"
+  },
+  {
+    "id": "1235877",
+    "title": "Jana Nayagan",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
+    "updatedAt": "2026-09-18T07:19:17.487Z"
+  },
+  {
+    "id": "1685882",
+    "title": "Modha Rathri",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/11TnS5t4jJrD6Rl0mv6Klckxv7U.jpg",
+    "updatedAt": "2026-09-18T07:15:04.568Z"
+  },
+  {
+    "id": "1204680",
+    "title": "Coyote vs. Acme",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/linZzmvbivJnXAXthvblHZdkkpp.jpg",
+    "updatedAt": "2026-09-18T07:13:16.638Z"
+  },
+  {
+    "id": "1370939",
+    "title": "The Bodyguard",
+    "type": "movie",
+    "year": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w500/x3Gz0knAzDJifwKPvrbgAPDFSeu.jpg",
+    "updatedAt": "2026-09-18T07:12:29.629Z"
+  },
+  {
+    "id": "1641629",
+    "title": "You+Me – Against the World",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+    "updatedAt": "2026-09-18T07:09:07.479Z"
+  },
+  {
+    "id": "1522333",
+    "title": "Carry On Jatta 4",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "",
+    "updatedAt": "2026-09-18T07:07:33.550Z"
+  },
+  {
+    "id": "1476682",
+    "title": "Gail Daughtry and the Celebrity Sex Pass",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/uJ6yvOkHxSoFOUKsgi0I162x3RV.jpg",
+    "updatedAt": "2026-09-18T07:05:15.967Z"
+  },
+  {
+    "id": "96462",
+    "title": "It's Okay to Not Be Okay",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hr4kddxosUBZxT3JzO4hRaNoXAt.jpg",
+    "updatedAt": "2026-09-18T06:11:46.912Z"
+  },
+  {
+    "id": "281013",
+    "title": "Dynamite Kiss",
+    "type": "tv",
+    "season": 1,
+    "episode": 14,
+    "backdrop": "https://image.tmdb.org/t/p/w500/9ONuNpCPVrKf0tsBf9v5Bi5Ggp1.jpg",
+    "updatedAt": "2026-09-18T06:06:26.010Z"
+  },
+  {
+    "id": "113962",
+    "title": "Lioness",
+    "type": "tv",
+    "season": 3,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/4K5Jdry2gZj5XbomCa0H56g9XCs.jpg",
+    "updatedAt": "2026-09-18T06:04:48.400Z"
+  },
+  {
     "id": "306598",
     "title": "Unlucky Bae",
     "type": "tv",
@@ -61,120 +170,5 @@
     "episode": 6,
     "backdrop": "https://image.tmdb.org/t/p/w500/gXw9z8snzb4GN3In3JRqPyeFOs6.jpg",
     "updatedAt": "2026-09-18T03:29:23.159Z"
-  },
-  {
-    "id": "298008",
-    "title": "Plastic Beauty",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg",
-    "updatedAt": "2026-09-18T03:05:35.966Z"
-  },
-  {
-    "id": "294636",
-    "title": "The Ordinary Jackpot",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/AtJigZx2ExMks84uY0Dq20Y3KYJ.jpg",
-    "updatedAt": "2026-09-17T13:34:29.633Z"
-  },
-  {
-    "id": "95486",
-    "title": "Falling Into Your Smile",
-    "type": "tv",
-    "season": 1,
-    "episode": 31,
-    "backdrop": "https://image.tmdb.org/t/p/w500/8m1reJttyl0DZnqkA9VeAsI3kHs.jpg",
-    "updatedAt": "2026-09-17T13:31:09.093Z"
-  },
-  {
-    "id": "333327",
-    "title": "Till I See You",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/kHK6b8tMuHvTay3gwz0d5O4R1YV.jpg",
-    "updatedAt": "2026-09-17T13:23:37.375Z"
-  },
-  {
-    "id": "294990",
-    "title": "Spring of the Blade",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/qLZQnTiQxkBOid9tVLWC1CmoOcu.jpg",
-    "updatedAt": "2026-09-17T13:21:42.743Z"
-  },
-  {
-    "id": "297826",
-    "title": "Tomb Raider King",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/efo2pV1xzSIyd35jXixoB2WJM3u.jpg",
-    "updatedAt": "2026-09-17T09:00:16.161Z"
-  },
-  {
-    "id": "139512",
-    "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
-    "type": "tv",
-    "season": 2,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/gnoMv9Y2kzt74albwVT1FhewVVC.jpg",
-    "updatedAt": "2026-09-17T08:58:34.758Z"
-  },
-  {
-    "id": "224263",
-    "title": "Stranger Things: Tales from '85",
-    "type": "tv",
-    "season": 2,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/7PoEyK2EFMDRvJg15Ld9Qbtbhe4.jpg",
-    "updatedAt": "2026-09-17T08:56:18.824Z"
-  },
-  {
-    "id": "11436",
-    "title": "Bigg Boss",
-    "type": "tv",
-    "season": 20,
-    "episode": 11,
-    "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
-    "updatedAt": "2026-09-17T08:52:18.433Z"
-  },
-  {
-    "id": "296437",
-    "title": "The Frontier Lord Begins with Zero Subjects",
-    "type": "tv",
-    "season": 1,
-    "episode": 1,
-    "backdrop": "https://image.tmdb.org/t/p/w500/uHmqYzmPftg6vVvOPZGxmufKjMR.jpg",
-    "updatedAt": "2026-09-17T08:51:21.393Z"
-  },
-  {
-    "id": "1656489",
-    "title": "Sultana",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/29XMlo2zt5LTA0YMjA3hubbM942.jpg",
-    "updatedAt": "2026-09-17T08:20:55.642Z"
-  },
-  {
-    "id": "220074",
-    "title": "Flex X Cop",
-    "type": "tv",
-    "season": 2,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/kPHKRCsSkz3kanwmR6XPcms2TCG.jpg",
-    "updatedAt": "2026-09-17T03:59:44.813Z"
-  },
-  {
-    "id": "12445",
-    "title": "Harry Potter and the Deathly Hallows: Part 2",
-    "type": "movie",
-    "year": "2011",
-    "backdrop": "https://image.tmdb.org/t/p/w500/ik5bYheGLGw7oaVm9zbzUocnPcf.jpg",
-    "updatedAt": "2026-09-17T03:54:36.340Z"
   }
 ]
