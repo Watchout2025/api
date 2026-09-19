@@ -1,169 +1,181 @@
 [
   {
-    "id": "1434543",
-    "title": "Ek Deewane Ki Deewaniyat",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/jwWLS6N6hePsR9UrL67MQN9MGwY.jpg",
-    "updatedAt": "2026-09-18T12:25:33.783Z"
-  },
-  {
-    "id": "770906",
-    "title": "Salaar: Part 1 - Ceasefire",
-    "type": "movie",
-    "year": "2023",
-    "backdrop": "https://image.tmdb.org/t/p/w500/gk0xI59yHuunFJXkln9Mhpw26Tr.jpg",
-    "updatedAt": "2026-09-18T12:23:47.581Z"
-  },
-  {
-    "id": "154825",
-    "title": "Business Proposal",
+    "id": "294990",
+    "title": "Spring of the Blade",
     "type": "tv",
     "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3ARq4Fmu6xApIdv5LmKO7W6Zf4R.jpg",
-    "updatedAt": "2026-09-18T12:20:03.164Z"
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/qLZQnTiQxkBOid9tVLWC1CmoOcu.jpg",
+    "updatedAt": "2026-09-19T04:14:43.542Z"
   },
   {
-    "id": "215001",
-    "title": "Destined with You",
+    "id": "331312",
+    "title": "Kiss or Kill",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/gLiJPAnQl4jHODrq8Z3M783NB8S.jpg",
+    "updatedAt": "2026-09-19T04:13:26.321Z"
+  },
+  {
+    "id": "317314",
+    "title": "Ash",
+    "type": "tv",
+    "season": 1,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/k1IZq7CnvBL3p8AgcCzoFXITwJf.jpg",
+    "updatedAt": "2026-09-19T04:08:22.026Z"
+  },
+  {
+    "id": "332507",
+    "title": "The Last Oath",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/pXd5XhPTivPdT1xwJnlKAAxD94v.jpg",
+    "updatedAt": "2026-09-19T04:07:25.162Z"
+  },
+  {
+    "id": "316241",
+    "title": "Pls Love",
+    "type": "tv",
+    "season": 1,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/niUk8voDoePA5GAi2ovRIPb593A.jpg",
+    "updatedAt": "2026-09-19T04:03:52.110Z"
+  },
+  {
+    "id": "220074",
+    "title": "Flex X Cop",
+    "type": "tv",
+    "season": 2,
+    "episode": 13,
+    "backdrop": "https://image.tmdb.org/t/p/w500/kPHKRCsSkz3kanwmR6XPcms2TCG.jpg",
+    "updatedAt": "2026-09-19T04:02:50.320Z"
+  },
+  {
+    "id": "306627",
+    "title": "WEIRDO-101",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/ex4A9H8axYYLzROfzxP86s2mCYy.jpg",
+    "updatedAt": "2026-09-19T04:01:44.895Z"
+  },
+  {
+    "id": "306629",
+    "title": "Match Point",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jAeJPXdX7XCtgFbRDj7vCTKqw3f.jpg",
+    "updatedAt": "2026-09-19T03:59:20.442Z"
+  },
+  {
+    "id": "282326",
+    "title": "Against the Current",
+    "type": "tv",
+    "season": 1,
+    "episode": 18,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cQylfnq28qgF4dn5CPu95gTmwp4.jpg",
+    "updatedAt": "2026-09-19T03:56:16.738Z"
+  },
+  {
+    "id": "259288",
+    "title": "Friendly Rivalry",
     "type": "tv",
     "season": 1,
     "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/vnQx7CiClosgnW4Q7NHAcMXybMf.jpg",
-    "updatedAt": "2026-09-18T12:18:47.327Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/4ki56ZIJZgT0ISCMzLZSdmW6UKe.jpg",
+    "updatedAt": "2026-09-19T03:53:43.383Z"
   },
   {
-    "id": "1451944",
-    "title": "Lust Stories 3",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/4KhYHimTT2j1YOvAXZ62o2anPNj.jpg",
-    "updatedAt": "2026-09-18T10:43:24.493Z"
+    "id": "318239",
+    "title": "Oops! Mysterious Sounds",
+    "type": "tv",
+    "season": 1,
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/d2K8LT8KZdV3S6TNS7t2t6UsJSt.jpg",
+    "updatedAt": "2026-09-19T03:51:26.217Z"
   },
   {
-    "id": "1514863",
-    "title": "Best of the Best",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/l66G12NvVhkpm02CHWJteA7nJUb.jpg",
-    "updatedAt": "2026-09-18T10:43:10.544Z"
-  },
-  {
-    "id": "1760576",
-    "title": "Zakir Khan: Papa Yaar",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/wd3hGCB9EPxUgarzgcQ6sKr4yms.jpg",
-    "updatedAt": "2026-09-18T10:39:53.019Z"
+    "id": "335733",
+    "title": "Our Yesterday's Escape",
+    "type": "tv",
+    "season": 1,
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/bz1Vy06zSh1nfdIodsLj6PsOQ44.jpg",
+    "updatedAt": "2026-09-19T03:50:43.326Z"
   },
   {
     "id": "11436",
     "title": "Bigg Boss",
     "type": "tv",
     "season": 20,
-    "episode": 12,
+    "episode": 13,
     "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
-    "updatedAt": "2026-09-18T07:41:09.020Z"
+    "updatedAt": "2026-09-19T03:32:06.637Z"
   },
   {
-    "id": "312663",
-    "title": "The Fixers",
+    "id": "217167",
+    "title": "Karna the Guardian",
     "type": "tv",
     "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/iyHgIyMJ6Vd5w79dLeGOTOkqDS5.jpg",
-    "updatedAt": "2026-09-18T07:35:11.577Z"
+    "episode": 11,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cUMvXAKlkYFD9ASKstydMw3YTeB.jpg",
+    "updatedAt": "2026-09-19T03:29:12.322Z"
   },
   {
-    "id": "299939",
-    "title": "Monster: The Lizzie Borden Story",
+    "id": "294636",
+    "title": "The Ordinary Jackpot",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/AtJigZx2ExMks84uY0Dq20Y3KYJ.jpg",
+    "updatedAt": "2026-09-19T03:23:48.917Z"
+  },
+  {
+    "id": "328217",
+    "title": "Legacy",
+    "type": "tv",
+    "season": 1,
+    "episode": 19,
+    "backdrop": "https://image.tmdb.org/t/p/w500/nWJf8wzIEPhrKthM1dHzhiI4oq7.jpg",
+    "updatedAt": "2026-09-19T03:22:35.007Z"
+  },
+  {
+    "id": "335678",
+    "title": "Bandbudh aur Budbak 2.0",
     "type": "tv",
     "season": 1,
     "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/1V4qYjjNNhldd3fQLUuTnzXRPmJ.jpg",
-    "updatedAt": "2026-09-18T07:28:47.333Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/tHHwXZr3bCMHUjtbJFjOuHHJ8Wq.jpg",
+    "updatedAt": "2026-09-19T03:20:12.347Z"
   },
   {
-    "id": "1506736",
-    "title": "Thudakkam",
+    "id": "1654566",
+    "title": "Vibe",
     "type": "movie",
     "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/xcvPY9Wk2TzZWQRynWSwHEhnK2j.jpg",
-    "updatedAt": "2026-09-18T07:21:09.240Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/paZuQDNYwuD0WBwZERfvgSNQZDz.jpg",
+    "updatedAt": "2026-09-19T03:13:29.495Z"
   },
   {
-    "id": "1235877",
-    "title": "Jana Nayagan",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
-    "updatedAt": "2026-09-18T07:19:17.487Z"
-  },
-  {
-    "id": "1685882",
-    "title": "Modha Rathri",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/11TnS5t4jJrD6Rl0mv6Klckxv7U.jpg",
-    "updatedAt": "2026-09-18T07:15:04.568Z"
-  },
-  {
-    "id": "1204680",
-    "title": "Coyote vs. Acme",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/linZzmvbivJnXAXthvblHZdkkpp.jpg",
-    "updatedAt": "2026-09-18T07:13:16.638Z"
-  },
-  {
-    "id": "1370939",
-    "title": "The Bodyguard",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/x3Gz0knAzDJifwKPvrbgAPDFSeu.jpg",
-    "updatedAt": "2026-09-18T07:12:29.629Z"
-  },
-  {
-    "id": "1641629",
-    "title": "You+Me – Against the World",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
-    "updatedAt": "2026-09-18T07:09:07.479Z"
-  },
-  {
-    "id": "1522333",
-    "title": "Carry On Jatta 4",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "",
-    "updatedAt": "2026-09-18T07:07:33.550Z"
-  },
-  {
-    "id": "1476682",
-    "title": "Gail Daughtry and the Celebrity Sex Pass",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/uJ6yvOkHxSoFOUKsgi0I162x3RV.jpg",
-    "updatedAt": "2026-09-18T07:05:15.967Z"
-  },
-  {
-    "id": "96462",
-    "title": "It's Okay to Not Be Okay",
+    "id": "243084",
+    "title": "Love Game in Eastern Fantasy",
     "type": "tv",
     "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hr4kddxosUBZxT3JzO4hRaNoXAt.jpg",
-    "updatedAt": "2026-09-18T06:11:46.912Z"
+    "episode": 32,
+    "backdrop": "https://image.tmdb.org/t/p/w500/7lRygOChXVhMc2nr4fIxoHL22wy.jpg",
+    "updatedAt": "2026-09-19T03:09:29.303Z"
   },
   {
-    "id": "281013",
-    "title": "Dynamite Kiss",
+    "id": "208336",
+    "title": "Revenge of Others",
     "type": "tv",
     "season": 1,
-    "episode": 14,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9ONuNpCPVrKf0tsBf9v5Bi5Ggp1.jpg",
-    "updatedAt": "2026-09-18T06:06:26.010Z"
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/53CrQtff8Jp1XuaSyRdTBA9bVxt.jpg",
+    "updatedAt": "2026-09-19T02:52:01.003Z"
   }
 ]
