@@ -1,5 +1,55 @@
 [
   {
+    "id": "82684",
+    "title": "That Time I Got Reincarnated as a Slime",
+    "type": "tv",
+    "season": 4,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/5rcEQ5AG617uTUpO2oPWPCx68Fk.jpg",
+    "updatedAt": "2026-09-19T12:43:47.279Z"
+  },
+  {
+    "id": "1453317",
+    "title": "Hari Ka Om",
+    "type": "movie",
+    "year": "2024",
+    "backdrop": "https://image.tmdb.org/t/p/w500/fbDG5Z2J6T9ptm806Et2iw9MGlE.jpg",
+    "updatedAt": "2026-09-19T12:39:49.476Z"
+  },
+  {
+    "id": "1288341",
+    "title": "Seven Snipers",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/mS6ummmqQx4MALQcG5e675ad5R6.jpg",
+    "updatedAt": "2026-09-19T12:39:00.531Z"
+  },
+  {
+    "id": "1215889",
+    "title": "Daayra",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/rbwmf04kpX1o3zbbOS6Y7woF2Ku.jpg",
+    "updatedAt": "2026-09-19T12:37:36.742Z"
+  },
+  {
+    "id": "247718",
+    "title": "MobLand",
+    "type": "tv",
+    "season": 2,
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
+    "updatedAt": "2026-09-19T12:35:25.162Z"
+  },
+  {
+    "id": "1657630",
+    "title": "The Awakening",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/75MLVCmQ4QougShkx3OlUbJbuSK.jpg",
+    "updatedAt": "2026-09-19T12:32:27.303Z"
+  },
+  {
     "id": "294990",
     "title": "Spring of the Blade",
     "type": "tv",
@@ -124,58 +174,5 @@
     "episode": 11,
     "backdrop": "https://image.tmdb.org/t/p/w500/cUMvXAKlkYFD9ASKstydMw3YTeB.jpg",
     "updatedAt": "2026-09-19T03:29:12.322Z"
-  },
-  {
-    "id": "294636",
-    "title": "The Ordinary Jackpot",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/AtJigZx2ExMks84uY0Dq20Y3KYJ.jpg",
-    "updatedAt": "2026-09-19T03:23:48.917Z"
-  },
-  {
-    "id": "328217",
-    "title": "Legacy",
-    "type": "tv",
-    "season": 1,
-    "episode": 19,
-    "backdrop": "https://image.tmdb.org/t/p/w500/nWJf8wzIEPhrKthM1dHzhiI4oq7.jpg",
-    "updatedAt": "2026-09-19T03:22:35.007Z"
-  },
-  {
-    "id": "335678",
-    "title": "Bandbudh aur Budbak 2.0",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/tHHwXZr3bCMHUjtbJFjOuHHJ8Wq.jpg",
-    "updatedAt": "2026-09-19T03:20:12.347Z"
-  },
-  {
-    "id": "1654566",
-    "title": "Vibe",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/paZuQDNYwuD0WBwZERfvgSNQZDz.jpg",
-    "updatedAt": "2026-09-19T03:13:29.495Z"
-  },
-  {
-    "id": "243084",
-    "title": "Love Game in Eastern Fantasy",
-    "type": "tv",
-    "season": 1,
-    "episode": 32,
-    "backdrop": "https://image.tmdb.org/t/p/w500/7lRygOChXVhMc2nr4fIxoHL22wy.jpg",
-    "updatedAt": "2026-09-19T03:09:29.303Z"
-  },
-  {
-    "id": "208336",
-    "title": "Revenge of Others",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/53CrQtff8Jp1XuaSyRdTBA9bVxt.jpg",
-    "updatedAt": "2026-09-19T02:52:01.003Z"
   }
 ]
