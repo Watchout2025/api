@@ -1,5 +1,68 @@
 [
   {
+    "id": "312949",
+    "title": "Chainsmoker Cat",
+    "type": "tv",
+    "season": 1,
+    "episode": 9,
+    "backdrop": "https://image.tmdb.org/t/p/w500/zAMw1Nu5XzGW50eNjBkIxF3kfrx.jpg",
+    "updatedAt": "2026-09-20T10:45:02.666Z"
+  },
+  {
+    "id": "302051",
+    "title": "I Became a Legend After My 10 Year-Long Last Stand",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/g4yyesQhnQ5KH2k6eCXHMHPwl1.jpg",
+    "updatedAt": "2026-09-20T10:44:18.968Z"
+  },
+  {
+    "id": "288971",
+    "title": "Jaadugar: A Witch in Mongolia",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/6w6L5bkYbsDduiaIbNEcIwn3p33.jpg",
+    "updatedAt": "2026-09-20T10:43:14.945Z"
+  },
+  {
+    "id": "285993",
+    "title": "BLACK TORCH",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/fy1R05K8zCUFmQG6f1Wn4gPwte4.jpg",
+    "updatedAt": "2026-09-20T10:41:07.513Z"
+  },
+  {
+    "id": "335787",
+    "title": "Family Full House with Rohit Sharma",
+    "type": "tv",
+    "season": 1,
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/dUpoXzSJxMtTbMqrYdDxFM3DrUp.jpg",
+    "updatedAt": "2026-09-20T10:40:38.911Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 14,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
+    "updatedAt": "2026-09-20T10:38:16.306Z"
+  },
+  {
+    "id": "314939",
+    "title": "A Love Other Than Yours",
+    "type": "tv",
+    "season": 1,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/auiu4giz7AMlLlaRpZPlOP3mgIT.jpg",
+    "updatedAt": "2026-09-20T10:37:38.407Z"
+  },
+  {
     "id": "1423191",
     "title": "Resident Evil",
     "type": "movie",
@@ -111,64 +174,5 @@
     "episode": 16,
     "backdrop": "https://image.tmdb.org/t/p/w500/5rcEQ5AG617uTUpO2oPWPCx68Fk.jpg",
     "updatedAt": "2026-09-19T12:43:47.279Z"
-  },
-  {
-    "id": "1453317",
-    "title": "Hari Ka Om",
-    "type": "movie",
-    "year": "2024",
-    "backdrop": "https://image.tmdb.org/t/p/w500/fbDG5Z2J6T9ptm806Et2iw9MGlE.jpg",
-    "updatedAt": "2026-09-19T12:39:49.476Z"
-  },
-  {
-    "id": "1288341",
-    "title": "Seven Snipers",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/mS6ummmqQx4MALQcG5e675ad5R6.jpg",
-    "updatedAt": "2026-09-19T12:39:00.531Z"
-  },
-  {
-    "id": "1215889",
-    "title": "Daayra",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/rbwmf04kpX1o3zbbOS6Y7woF2Ku.jpg",
-    "updatedAt": "2026-09-19T12:37:36.742Z"
-  },
-  {
-    "id": "247718",
-    "title": "MobLand",
-    "type": "tv",
-    "season": 2,
-    "episode": 1,
-    "backdrop": "https://image.tmdb.org/t/p/w500/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
-    "updatedAt": "2026-09-19T12:35:25.162Z"
-  },
-  {
-    "id": "1657630",
-    "title": "The Awakening",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/75MLVCmQ4QougShkx3OlUbJbuSK.jpg",
-    "updatedAt": "2026-09-19T12:32:27.303Z"
-  },
-  {
-    "id": "331312",
-    "title": "Kiss or Kill",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/gLiJPAnQl4jHODrq8Z3M783NB8S.jpg",
-    "updatedAt": "2026-09-19T04:13:26.321Z"
-  },
-  {
-    "id": "317314",
-    "title": "Ash",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/k1IZq7CnvBL3p8AgcCzoFXITwJf.jpg",
-    "updatedAt": "2026-09-19T04:08:22.026Z"
   }
 ]
