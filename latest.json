@@ -1,5 +1,162 @@
 [
   {
+    "id": "295263",
+    "title": "Police in Love",
+    "type": "tv",
+    "season": 1,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/kwg7IeyaZ30QIdXWYKmpHMZs5k1.jpg",
+    "updatedAt": "2026-09-20T13:07:07.510Z"
+  },
+  {
+    "id": "315142",
+    "title": "Juliet & Juliet",
+    "type": "tv",
+    "season": 1,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/5SAzTrHmj61pdFTRO3eptQ7YQQ.jpg",
+    "updatedAt": "2026-09-20T13:05:42.346Z"
+  },
+  {
+    "id": "306630",
+    "title": "You Maniac",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/uN0kycbW2A5zyaogjDfzqvILjap.jpg",
+    "updatedAt": "2026-09-20T13:04:28.972Z"
+  },
+  {
+    "id": "284825",
+    "title": "Mr. Fanboy",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/wa0sbAAf8owaFfcVGiUh1Ikq6tw.jpg",
+    "updatedAt": "2026-09-20T13:02:17.269Z"
+  },
+  {
+    "id": "276051",
+    "title": "GELBOYS",
+    "type": "tv",
+    "season": 2,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jdSP1hJDP32K66sBsIxmcWNrsmH.jpg",
+    "updatedAt": "2026-09-20T12:59:53.224Z"
+  },
+  {
+    "id": "314939",
+    "title": "A Love Other Than Yours",
+    "type": "tv",
+    "season": 1,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/auiu4giz7AMlLlaRpZPlOP3mgIT.jpg",
+    "updatedAt": "2026-09-20T12:57:35.019Z"
+  },
+  {
+    "id": "220074",
+    "title": "Flex X Cop",
+    "type": "tv",
+    "season": 2,
+    "episode": 14,
+    "backdrop": "https://image.tmdb.org/t/p/w500/kPHKRCsSkz3kanwmR6XPcms2TCG.jpg",
+    "updatedAt": "2026-09-20T12:56:53.924Z"
+  },
+  {
+    "id": "305644",
+    "title": "Four Hands, Two Sonatas",
+    "type": "tv",
+    "season": 1,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/c8saa6GyN8a3bjHCLGG65j7WeMA.jpg",
+    "updatedAt": "2026-09-20T12:55:54.712Z"
+  },
+  {
+    "id": "303084",
+    "title": "Deep In",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/9NGSChkF7irriKPI56aKnvoE4in.jpg",
+    "updatedAt": "2026-09-20T12:54:37.426Z"
+  },
+  {
+    "id": "294990",
+    "title": "Spring of the Blade",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/qLZQnTiQxkBOid9tVLWC1CmoOcu.jpg",
+    "updatedAt": "2026-09-20T12:50:05.015Z"
+  },
+  {
+    "id": "282326",
+    "title": "Against the Current",
+    "type": "tv",
+    "season": 1,
+    "episode": 21,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cQylfnq28qgF4dn5CPu95gTmwp4.jpg",
+    "updatedAt": "2026-09-20T12:49:02.247Z"
+  },
+  {
+    "id": "317308",
+    "title": "The Missing Piece",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/yIESAKzVwEbuU3RFPFv5Kcx7xa9.jpg",
+    "updatedAt": "2026-09-20T12:47:57.055Z"
+  },
+  {
+    "id": "68721",
+    "title": "Iron Man 3",
+    "type": "movie",
+    "year": "2013",
+    "backdrop": "https://image.tmdb.org/t/p/w500/rIUa56zPJ7RmkxvWAQGL8x86G6j.jpg",
+    "updatedAt": "2026-09-20T11:16:43.717Z"
+  },
+  {
+    "id": "297826",
+    "title": "Tomb Raider King",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/efo2pV1xzSIyd35jXixoB2WJM3u.jpg",
+    "updatedAt": "2026-09-20T11:15:46.182Z"
+  },
+  {
+    "id": "1682974",
+    "title": "The India Story",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/4TtfVgg7GHiYFtlIiEjZ3JHTz4S.jpg",
+    "updatedAt": "2026-09-20T10:51:03.042Z"
+  },
+  {
+    "id": "1741770",
+    "title": "Karmakhya",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/pZWvngm47TEmrnV6xDAoiIc16gP.jpg",
+    "updatedAt": "2026-09-20T10:49:21.719Z"
+  },
+  {
+    "id": "404733",
+    "title": "Overdrive",
+    "type": "movie",
+    "year": "2017",
+    "backdrop": "https://image.tmdb.org/t/p/w500/q3daZ6QkAYfOXJLR1medkD1d51.jpg",
+    "updatedAt": "2026-09-20T10:48:34.350Z"
+  },
+  {
+    "id": "1433367",
+    "title": "One Night Only",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/cQijkqnB0TbrNILztYwrTxlLq5h.jpg",
+    "updatedAt": "2026-09-20T10:48:06.378Z"
+  },
+  {
     "id": "312949",
     "title": "Chainsmoker Cat",
     "type": "tv",
@@ -16,163 +173,5 @@
     "episode": 8,
     "backdrop": "https://image.tmdb.org/t/p/w500/g4yyesQhnQ5KH2k6eCXHMHPwl1.jpg",
     "updatedAt": "2026-09-20T10:44:18.968Z"
-  },
-  {
-    "id": "288971",
-    "title": "Jaadugar: A Witch in Mongolia",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/6w6L5bkYbsDduiaIbNEcIwn3p33.jpg",
-    "updatedAt": "2026-09-20T10:43:14.945Z"
-  },
-  {
-    "id": "285993",
-    "title": "BLACK TORCH",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/fy1R05K8zCUFmQG6f1Wn4gPwte4.jpg",
-    "updatedAt": "2026-09-20T10:41:07.513Z"
-  },
-  {
-    "id": "335787",
-    "title": "Family Full House with Rohit Sharma",
-    "type": "tv",
-    "season": 1,
-    "episode": 1,
-    "backdrop": "https://image.tmdb.org/t/p/w500/dUpoXzSJxMtTbMqrYdDxFM3DrUp.jpg",
-    "updatedAt": "2026-09-20T10:40:38.911Z"
-  },
-  {
-    "id": "11436",
-    "title": "Bigg Boss",
-    "type": "tv",
-    "season": 20,
-    "episode": 14,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
-    "updatedAt": "2026-09-20T10:38:16.306Z"
-  },
-  {
-    "id": "314939",
-    "title": "A Love Other Than Yours",
-    "type": "tv",
-    "season": 1,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w500/auiu4giz7AMlLlaRpZPlOP3mgIT.jpg",
-    "updatedAt": "2026-09-20T10:37:38.407Z"
-  },
-  {
-    "id": "1423191",
-    "title": "Resident Evil",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/qe7ip5bsuGGdrEfkKuXpZoJ0beK.jpg",
-    "updatedAt": "2026-09-19T14:29:23.356Z"
-  },
-  {
-    "id": "117376",
-    "title": "Vincenzo",
-    "type": "tv",
-    "season": 1,
-    "episode": 20,
-    "backdrop": "https://image.tmdb.org/t/p/w500/cQwu0TKuXXFfPKc5i8nZ0PsgeQC.jpg",
-    "updatedAt": "2026-09-19T14:27:47.033Z"
-  },
-  {
-    "id": "94997",
-    "title": "House of the Dragon",
-    "type": "tv",
-    "season": 3,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/fFOk5QlPH6qpKLHZW67sdmbLAQQ.jpg",
-    "updatedAt": "2026-09-19T14:15:14.997Z"
-  },
-  {
-    "id": "1306525",
-    "title": "The Elixir",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/cNmGq1bfUDhrZEHvJ77zwiWfoNA.jpg",
-    "updatedAt": "2026-09-19T14:04:35.089Z"
-  },
-  {
-    "id": "1441228",
-    "title": "Irumudi",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
-    "updatedAt": "2026-09-19T13:55:44.791Z"
-  },
-  {
-    "id": "93846",
-    "title": "The King: Eternal Monarch",
-    "type": "tv",
-    "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9YUmiZVDFyRvWzYreeKQ1aQwAnm.jpg",
-    "updatedAt": "2026-09-19T13:54:38.921Z"
-  },
-  {
-    "id": "857598",
-    "title": "Pushpa 2 - The Rule",
-    "type": "movie",
-    "year": "2024",
-    "backdrop": "https://image.tmdb.org/t/p/w500/xTQ4WGvU3tj5LkS8obWyAmJzvrD.jpg",
-    "updatedAt": "2026-09-19T13:49:57.583Z"
-  },
-  {
-    "id": "317308",
-    "title": "The Missing Piece",
-    "type": "tv",
-    "season": 1,
-    "episode": 5,
-    "backdrop": "https://image.tmdb.org/t/p/w500/yIESAKzVwEbuU3RFPFv5Kcx7xa9.jpg",
-    "updatedAt": "2026-09-19T13:47:17.299Z"
-  },
-  {
-    "id": "332507",
-    "title": "The Last Oath",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/pXd5XhPTivPdT1xwJnlKAAxD94v.jpg",
-    "updatedAt": "2026-09-19T13:45:04.765Z"
-  },
-  {
-    "id": "294990",
-    "title": "Spring of the Blade",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/qLZQnTiQxkBOid9tVLWC1CmoOcu.jpg",
-    "updatedAt": "2026-09-19T13:44:03.645Z"
-  },
-  {
-    "id": "282326",
-    "title": "Against the Current",
-    "type": "tv",
-    "season": 1,
-    "episode": 19,
-    "backdrop": "https://image.tmdb.org/t/p/w500/cQylfnq28qgF4dn5CPu95gTmwp4.jpg",
-    "updatedAt": "2026-09-19T13:43:06.301Z"
-  },
-  {
-    "id": "275102",
-    "title": "The Scandal",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/av8T87Tdd1lN74FBTmCYyVGxFIe.jpg",
-    "updatedAt": "2026-09-19T12:55:14.452Z"
-  },
-  {
-    "id": "82684",
-    "title": "That Time I Got Reincarnated as a Slime",
-    "type": "tv",
-    "season": 4,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/5rcEQ5AG617uTUpO2oPWPCx68Fk.jpg",
-    "updatedAt": "2026-09-19T12:43:47.279Z"
   }
 ]
