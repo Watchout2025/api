@@ -1,5 +1,75 @@
 [
   {
+    "id": "314939",
+    "title": "A Love Other Than Yours",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/auiu4giz7AMlLlaRpZPlOP3mgIT.jpg",
+    "updatedAt": "2026-09-21T05:31:22.162Z"
+  },
+  {
+    "id": "335787",
+    "title": "Family Full House with Rohit Sharma",
+    "type": "tv",
+    "season": 1,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/dUpoXzSJxMtTbMqrYdDxFM3DrUp.jpg",
+    "updatedAt": "2026-09-21T05:30:12.628Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 15,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
+    "updatedAt": "2026-09-21T05:28:32.723Z"
+  },
+  {
+    "id": "333458",
+    "title": "Crime Patrol 2026: Crime Ka Current Season",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/kzrQTJzqzjq0ErMTCGJCr8tv81e.jpg",
+    "updatedAt": "2026-09-21T05:26:58.020Z"
+  },
+  {
+    "id": "94664",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "type": "tv",
+    "season": 3,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/81j82xSVO8jXHsHVByQLYm2XZ3s.jpg",
+    "updatedAt": "2026-09-21T05:23:42.644Z"
+  },
+  {
+    "id": "95350",
+    "title": "Lanterns",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
+    "updatedAt": "2026-09-21T05:21:52.646Z"
+  },
+  {
+    "id": "1033774",
+    "title": "The Wish of the Fairy Fish",
+    "type": "movie",
+    "year": "2023",
+    "backdrop": "https://image.tmdb.org/t/p/w500/t2bZIBv65Gf7fI9WAZuHlzf1Jgj.jpg",
+    "updatedAt": "2026-09-21T05:15:01.780Z"
+  },
+  {
+    "id": "1714670",
+    "title": "Heer Sara",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/ivwFKTyVG0hRRlT0ZS1o6fAf6Zz.jpg",
+    "updatedAt": "2026-09-21T05:12:38.050Z"
+  },
+  {
     "id": "295263",
     "title": "Police in Love",
     "type": "tv",
@@ -43,15 +113,6 @@
     "episode": 7,
     "backdrop": "https://image.tmdb.org/t/p/w500/jdSP1hJDP32K66sBsIxmcWNrsmH.jpg",
     "updatedAt": "2026-09-20T12:59:53.224Z"
-  },
-  {
-    "id": "314939",
-    "title": "A Love Other Than Yours",
-    "type": "tv",
-    "season": 1,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w500/auiu4giz7AMlLlaRpZPlOP3mgIT.jpg",
-    "updatedAt": "2026-09-20T12:57:35.019Z"
   },
   {
     "id": "220074",
@@ -114,64 +175,5 @@
     "year": "2013",
     "backdrop": "https://image.tmdb.org/t/p/w500/rIUa56zPJ7RmkxvWAQGL8x86G6j.jpg",
     "updatedAt": "2026-09-20T11:16:43.717Z"
-  },
-  {
-    "id": "297826",
-    "title": "Tomb Raider King",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/efo2pV1xzSIyd35jXixoB2WJM3u.jpg",
-    "updatedAt": "2026-09-20T11:15:46.182Z"
-  },
-  {
-    "id": "1682974",
-    "title": "The India Story",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/4TtfVgg7GHiYFtlIiEjZ3JHTz4S.jpg",
-    "updatedAt": "2026-09-20T10:51:03.042Z"
-  },
-  {
-    "id": "1741770",
-    "title": "Karmakhya",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/pZWvngm47TEmrnV6xDAoiIc16gP.jpg",
-    "updatedAt": "2026-09-20T10:49:21.719Z"
-  },
-  {
-    "id": "404733",
-    "title": "Overdrive",
-    "type": "movie",
-    "year": "2017",
-    "backdrop": "https://image.tmdb.org/t/p/w500/q3daZ6QkAYfOXJLR1medkD1d51.jpg",
-    "updatedAt": "2026-09-20T10:48:34.350Z"
-  },
-  {
-    "id": "1433367",
-    "title": "One Night Only",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/cQijkqnB0TbrNILztYwrTxlLq5h.jpg",
-    "updatedAt": "2026-09-20T10:48:06.378Z"
-  },
-  {
-    "id": "312949",
-    "title": "Chainsmoker Cat",
-    "type": "tv",
-    "season": 1,
-    "episode": 9,
-    "backdrop": "https://image.tmdb.org/t/p/w500/zAMw1Nu5XzGW50eNjBkIxF3kfrx.jpg",
-    "updatedAt": "2026-09-20T10:45:02.666Z"
-  },
-  {
-    "id": "302051",
-    "title": "I Became a Legend After My 10 Year-Long Last Stand",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/g4yyesQhnQ5KH2k6eCXHMHPwl1.jpg",
-    "updatedAt": "2026-09-20T10:44:18.968Z"
   }
 ]
