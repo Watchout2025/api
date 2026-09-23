@@ -1,5 +1,101 @@
 [
   {
+    "id": "275102",
+    "title": "The Scandal",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/av8T87Tdd1lN74FBTmCYyVGxFIe.jpg",
+    "updatedAt": "2026-09-23T02:28:36.285Z"
+  },
+  {
+    "id": "297424",
+    "title": "Our Universe",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/eUcFENeB4ggjTsHVPt8IiLIQeXS.jpg",
+    "updatedAt": "2026-09-23T01:36:44.991Z"
+  },
+  {
+    "id": "1339876",
+    "title": "Mardaani 3",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/pfcyWSaPKGagqdunfBXQYCqZHxx.jpg",
+    "updatedAt": "2026-09-23T01:30:32.104Z"
+  },
+  {
+    "id": "296140",
+    "title": "My Bias, My Boss",
+    "type": "tv",
+    "season": 1,
+    "episode": 11,
+    "backdrop": "https://image.tmdb.org/t/p/w500/v8O0X6PP7grEaXsPkdiotIx78tA.jpg",
+    "updatedAt": "2026-09-22T17:21:16.280Z"
+  },
+  {
+    "id": "238084",
+    "title": "Trigger",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/LocigwVR8yda0xxpTBQh3XyaKQ.jpg",
+    "updatedAt": "2026-09-22T17:15:57.582Z"
+  },
+  {
+    "id": "210733",
+    "title": "Hidden Love",
+    "type": "tv",
+    "season": 1,
+    "episode": 26,
+    "backdrop": "https://image.tmdb.org/t/p/w500/lVlTnDwfD3cZxywI4972YRTEa1Y.jpg",
+    "updatedAt": "2026-09-22T17:11:09.731Z"
+  },
+  {
+    "id": "1423191",
+    "title": "Resident Evil",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/qe7ip5bsuGGdrEfkKuXpZoJ0beK.jpg",
+    "updatedAt": "2026-09-22T17:04:01.345Z"
+  },
+  {
+    "id": "10138",
+    "title": "Iron Man 2",
+    "type": "movie",
+    "year": "2010",
+    "backdrop": "https://image.tmdb.org/t/p/w500/wWu57zGqpAt7K746drOSjbwfIfe.jpg",
+    "updatedAt": "2026-09-22T17:01:07.354Z"
+  },
+  {
+    "id": "117376",
+    "title": "Vincenzo",
+    "type": "tv",
+    "season": 1,
+    "episode": 20,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cQwu0TKuXXFfPKc5i8nZ0PsgeQC.jpg",
+    "updatedAt": "2026-09-22T16:59:07.544Z"
+  },
+  {
+    "id": "154825",
+    "title": "Business Proposal",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/3ARq4Fmu6xApIdv5LmKO7W6Zf4R.jpg",
+    "updatedAt": "2026-09-22T16:56:26.086Z"
+  },
+  {
+    "id": "282326",
+    "title": "Against the Current",
+    "type": "tv",
+    "season": 1,
+    "episode": 26,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cQylfnq28qgF4dn5CPu95gTmwp4.jpg",
+    "updatedAt": "2026-09-22T16:53:07.378Z"
+  },
+  {
     "id": "332744",
     "title": "Indian Game Show",
     "type": "tv",
@@ -69,15 +165,6 @@
     "updatedAt": "2026-09-22T05:37:59.800Z"
   },
   {
-    "id": "282326",
-    "title": "Against the Current",
-    "type": "tv",
-    "season": 1,
-    "episode": 24,
-    "backdrop": "https://image.tmdb.org/t/p/w500/cQylfnq28qgF4dn5CPu95gTmwp4.jpg",
-    "updatedAt": "2026-09-22T05:36:17.224Z"
-  },
-  {
     "id": "11436",
     "title": "Bigg Boss",
     "type": "tv",
@@ -85,90 +172,5 @@
     "episode": 16,
     "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
     "updatedAt": "2026-09-22T05:33:38.205Z"
-  },
-  {
-    "id": "300126",
-    "title": "LIAR GAME",
-    "type": "tv",
-    "season": 1,
-    "episode": 22,
-    "backdrop": "https://image.tmdb.org/t/p/w500/beBpLR0P7cgEbXpOY7dIS2coF4f.jpg",
-    "updatedAt": "2026-09-22T05:29:16.856Z"
-  },
-  {
-    "id": "335127",
-    "title": "Midnight Sex Run",
-    "type": "movie",
-    "year": "2015",
-    "backdrop": "",
-    "updatedAt": "2026-09-22T05:28:04.008Z"
-  },
-  {
-    "id": "357974",
-    "title": "Beginner's Guide to Sex",
-    "type": "movie",
-    "year": "2015",
-    "backdrop": "https://image.tmdb.org/t/p/w500/lfHSh0N7EiIEr1ZxwjetMqTuBjD.jpg",
-    "updatedAt": "2026-09-22T05:19:58.297Z"
-  },
-  {
-    "id": "286360",
-    "title": "Notes from the Last Row",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/pcBTl7U8eVOVGhu2Wi0hN693tsd.jpg",
-    "updatedAt": "2026-09-21T16:41:46.213Z"
-  },
-  {
-    "id": "1514863",
-    "title": "Best of the Best",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/l66G12NvVhkpm02CHWJteA7nJUb.jpg",
-    "updatedAt": "2026-09-21T16:39:31.230Z"
-  },
-  {
-    "id": "1383072",
-    "title": "Mahavatar Narsimha",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/xFjk2l1SGgvrMYlFIHGiP7BfvEY.jpg",
-    "updatedAt": "2026-09-21T16:38:41.998Z"
-  },
-  {
-    "id": "91586",
-    "title": "Insidious: Chapter 2",
-    "type": "movie",
-    "year": "2013",
-    "backdrop": "https://image.tmdb.org/t/p/w500/qKemWilOMuRE8nfKEQdxY1ZWUcM.jpg",
-    "updatedAt": "2026-09-21T16:37:53.982Z"
-  },
-  {
-    "id": "127529",
-    "title": "Bloodhounds",
-    "type": "tv",
-    "season": 2,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/iHHpiZ325jH7V59IajdBhANOMoB.jpg",
-    "updatedAt": "2026-09-21T16:34:13.914Z"
-  },
-  {
-    "id": "208336",
-    "title": "Revenge of Others",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/53CrQtff8Jp1XuaSyRdTBA9bVxt.jpg",
-    "updatedAt": "2026-09-21T16:26:16.738Z"
-  },
-  {
-    "id": "231306",
-    "title": "Exclusive Fairytale",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/kOPFlONftux3ve2HiVXlzYz8gQg.jpg",
-    "updatedAt": "2026-09-21T15:56:35.830Z"
   }
 ]
