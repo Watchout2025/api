@@ -1,5 +1,14 @@
 [
   {
+    "id": "258165",
+    "title": "East of Eden",
+    "type": "tv",
+    "season": 1,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/fOwox7xGB4W9XghMbkWr6kBneqj.jpg",
+    "updatedAt": "2026-10-01T16:56:11.520Z"
+  },
+  {
     "id": "64010",
     "title": "Reply 1988",
     "type": "tv",
@@ -166,14 +175,5 @@
     "episode": 12,
     "backdrop": "https://image.tmdb.org/t/p/w500/7BWn0XKkmB8Ngj6Jb8QzLhscFIG.jpg",
     "updatedAt": "2026-10-01T09:32:27.227Z"
-  },
-  {
-    "id": "326119",
-    "title": "Thunder 3",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/7HTP5m1BTMMHhBpLqkjfGvHbVZJ.jpg",
-    "updatedAt": "2026-10-01T09:29:01.158Z"
   }
 ]
