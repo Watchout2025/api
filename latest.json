@@ -1,5 +1,14 @@
 [
   {
+    "id": "64010",
+    "title": "Reply 1988",
+    "type": "tv",
+    "season": 1,
+    "episode": 20,
+    "backdrop": "https://image.tmdb.org/t/p/w500/aPgS8jJBaOHOksfE2mJ0fHCOg8A.jpg",
+    "updatedAt": "2026-10-01T16:48:49.276Z"
+  },
+  {
     "id": "108978",
     "title": "Reacher",
     "type": "tv",
@@ -166,14 +175,5 @@
     "episode": 12,
     "backdrop": "https://image.tmdb.org/t/p/w500/7HTP5m1BTMMHhBpLqkjfGvHbVZJ.jpg",
     "updatedAt": "2026-10-01T09:29:01.158Z"
-  },
-  {
-    "id": "296437",
-    "title": "The Frontier Lord Begins with Zero Subjects",
-    "type": "tv",
-    "season": 1,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/uHmqYzmPftg6vVvOPZGxmufKjMR.jpg",
-    "updatedAt": "2026-10-01T09:25:39.105Z"
   }
 ]
