@@ -1,5 +1,47 @@
 [
   {
+    "id": "1602337",
+    "title": "Parimala and Co",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/hcQ9Kcmc34yYElii4fjFxABQYqq.jpg",
+    "updatedAt": "2026-10-02T15:35:40.106Z"
+  },
+  {
+    "id": "221851",
+    "title": "Marry My Husband",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/pT0RwjCRAStJxJBaXZ1gSJV7sVN.jpg",
+    "updatedAt": "2026-10-02T15:32:04.137Z"
+  },
+  {
+    "id": "1213898",
+    "title": "Border 2",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/9sJgOvsTonp0MNZThXfEPqNEwDH.jpg",
+    "updatedAt": "2026-10-02T13:18:07.391Z"
+  },
+  {
+    "id": "109445",
+    "title": "Frozen",
+    "type": "movie",
+    "year": "2013",
+    "backdrop": "https://image.tmdb.org/t/p/w500/irwWmcOOZ0xaXlvhiJynFKmFbnE.jpg",
+    "updatedAt": "2026-10-02T13:08:14.684Z"
+  },
+  {
+    "id": "119051",
+    "title": "Wednesday",
+    "type": "tv",
+    "season": 2,
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg",
+    "updatedAt": "2026-10-02T13:00:44.034Z"
+  },
+  {
     "id": "335227",
     "title": "I Would Rather Die",
     "type": "tv",
@@ -124,49 +166,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/zii3j8dk78586q5yb9Ga9Lls0Tq.jpg",
     "updatedAt": "2026-10-02T08:11:42.980Z"
-  },
-  {
-    "id": "11436",
-    "title": "Bigg Boss",
-    "type": "tv",
-    "season": 20,
-    "episode": 26,
-    "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
-    "updatedAt": "2026-10-02T08:09:38.973Z"
-  },
-  {
-    "id": "270420",
-    "title": "No Tail to Tell",
-    "type": "tv",
-    "season": null,
-    "episode": null,
-    "backdrop": "https://image.tmdb.org/t/p/w500/iFqDa1Ao2A4K65jCcG6T5SPLe7c.jpg",
-    "updatedAt": "2026-10-01T18:49:57.154Z"
-  },
-  {
-    "id": "300081",
-    "title": "Rise and Fall",
-    "type": "tv",
-    "season": 2,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/oE2X7HuKpCJE5hCzTMPKdxJY5vW.jpg",
-    "updatedAt": "2026-10-01T18:04:41.973Z"
-  },
-  {
-    "id": "241239",
-    "title": "A Most Violent Year",
-    "type": "movie",
-    "year": "2014",
-    "backdrop": "https://image.tmdb.org/t/p/w500/h7P1maSdZs6LxgCGBQw7HZogw5J.jpg",
-    "updatedAt": "2026-10-01T18:02:26.298Z"
-  },
-  {
-    "id": "281016",
-    "title": "Boyfriend on Demand",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/rX7i0nH4skN0xv7NAV0PAWPV7Bh.jpg",
-    "updatedAt": "2026-10-01T17:46:35.005Z"
   }
 ]
