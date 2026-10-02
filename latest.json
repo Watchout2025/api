@@ -1,117 +1,166 @@
 [
   {
-    "id": "258165",
-    "title": "East of Eden",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/fOwox7xGB4W9XghMbkWr6kBneqj.jpg",
-    "updatedAt": "2026-10-01T16:56:11.520Z"
-  },
-  {
-    "id": "64010",
-    "title": "Reply 1988",
-    "type": "tv",
-    "season": 1,
-    "episode": 20,
-    "backdrop": "https://image.tmdb.org/t/p/w500/aPgS8jJBaOHOksfE2mJ0fHCOg8A.jpg",
-    "updatedAt": "2026-10-01T16:48:49.276Z"
-  },
-  {
-    "id": "108978",
-    "title": "Reacher",
-    "type": "tv",
-    "season": 4,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
-    "updatedAt": "2026-10-01T12:02:26.612Z"
-  },
-  {
-    "id": "1582770",
-    "title": "Dhurandhar: The Revenge",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/br4Ra4dRpvR0R7a1zPPkOwGkcky.jpg",
-    "updatedAt": "2026-10-01T12:00:14.581Z"
-  },
-  {
-    "id": "1169537",
-    "title": "Batwara 1947",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/dYK1TgeitMmRU8Bki3Z75QHS195.jpg",
-    "updatedAt": "2026-10-01T11:58:22.493Z"
-  },
-  {
-    "id": "315083",
-    "title": "The Edge of Horizon",
-    "type": "tv",
-    "season": 1,
-    "episode": 11,
-    "backdrop": "https://image.tmdb.org/t/p/w500/g56lYLkQE9z5gTNZjiwpYAoVWON.jpg",
-    "updatedAt": "2026-10-01T11:54:59.832Z"
-  },
-  {
-    "id": "285838",
-    "title": "If Wishes Could Kill",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "updatedAt": "2026-10-01T11:51:25.831Z"
-  },
-  {
-    "id": "127532",
-    "title": "Solo Leveling",
-    "type": "tv",
-    "season": 1,
-    "episode": 25,
-    "backdrop": "https://image.tmdb.org/t/p/w500/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg",
-    "updatedAt": "2026-10-01T11:46:51.954Z"
-  },
-  {
-    "id": "228689",
-    "title": "Genie, Make a Wish",
-    "type": "tv",
-    "season": 1,
-    "episode": 13,
-    "backdrop": "https://image.tmdb.org/t/p/w500/941Ar9Mc8F9stDJSkmaqRPNFSEV.jpg",
-    "updatedAt": "2026-10-01T11:40:12.574Z"
-  },
-  {
-    "id": "297640",
-    "title": "Filing for Love",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/e1NeKiC0YSrNNGHazvzOGEjflJe.jpg",
-    "updatedAt": "2026-10-01T11:37:45.836Z"
-  },
-  {
-    "id": "333483",
-    "title": "Hunkkaar: The Roar",
+    "id": "329573",
+    "title": "Force of Nature",
     "type": "tv",
     "season": 1,
     "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/6zENIpSZvMGh2gfMKBeatpRtgX.jpg",
-    "updatedAt": "2026-10-01T11:36:05.386Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/3ppEA3ilG1Pwibueyyj8C4ll0jX.jpg",
+    "updatedAt": "2026-10-02T08:33:51.637Z"
   },
   {
-    "id": "1122573",
-    "title": "In the Grey",
+    "id": "283428",
+    "title": "The Ramparts of Ice",
+    "type": "tv",
+    "season": 2,
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/8Oh5v6xltWdVgt9Vt465qbLXatM.jpg",
+    "updatedAt": "2026-10-02T08:25:05.561Z"
+  },
+  {
+    "id": "270603",
+    "title": "The Exiled Heavy Knight Knows How to Game the System",
+    "type": "tv",
+    "season": 1,
+    "episode": 11,
+    "backdrop": "https://image.tmdb.org/t/p/w500/lJJpL0ZtFa1fkudBAkyWBcjT8Zc.jpg",
+    "updatedAt": "2026-10-02T08:19:32.138Z"
+  },
+  {
+    "id": "1735283",
+    "title": "Yaar Jigree Kasooti Degree",
     "type": "movie",
     "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/flnL4bbRwinTp6gDr7M29oWHWXg.jpg",
-    "updatedAt": "2026-10-01T11:35:06.490Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/4pF248kabSZGxgFji51WiJvpRfU.jpg",
+    "updatedAt": "2026-10-02T08:17:15.609Z"
   },
   {
-    "id": "311914",
-    "title": "Love Destiny",
+    "id": "1220538",
+    "title": "Pooja Meri Jaan",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/anwB9RlA2haerdblfBcl5OH9gtr.jpg",
+    "updatedAt": "2026-10-02T08:16:29.021Z"
+  },
+  {
+    "id": "22717",
+    "title": "Wanted",
+    "type": "movie",
+    "year": "2009",
+    "backdrop": "https://image.tmdb.org/t/p/w500/pPvXyMjF7x5EMtxkURdbhpU4jGO.jpg",
+    "updatedAt": "2026-10-02T08:15:54.226Z"
+  },
+  {
+    "id": "1315702",
+    "title": "The Residence",
+    "type": "movie",
+    "year": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w500/uQ5stWHm11b0jr3gAysEsEq68W.jpg",
+    "updatedAt": "2026-10-02T08:14:27.749Z"
+  },
+  {
+    "id": "1101383",
+    "title": "The End of Oak Street",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/3bq3Jy5cnE2FjngeRVvkJawquVf.jpg",
+    "updatedAt": "2026-10-02T08:13:23.262Z"
+  },
+  {
+    "id": "1508168",
+    "title": "Bethlehem Kudumba Unit",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/zii3j8dk78586q5yb9Ga9Lls0Tq.jpg",
+    "updatedAt": "2026-10-02T08:11:42.980Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 26,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
+    "updatedAt": "2026-10-02T08:09:38.973Z"
+  },
+  {
+    "id": "270420",
+    "title": "No Tail to Tell",
+    "type": "tv",
+    "season": null,
+    "episode": null,
+    "backdrop": "https://image.tmdb.org/t/p/w500/iFqDa1Ao2A4K65jCcG6T5SPLe7c.jpg",
+    "updatedAt": "2026-10-01T18:49:57.154Z"
+  },
+  {
+    "id": "300081",
+    "title": "Rise and Fall",
+    "type": "tv",
+    "season": 2,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/oE2X7HuKpCJE5hCzTMPKdxJY5vW.jpg",
+    "updatedAt": "2026-10-01T18:04:41.973Z"
+  },
+  {
+    "id": "241239",
+    "title": "A Most Violent Year",
+    "type": "movie",
+    "year": "2014",
+    "backdrop": "https://image.tmdb.org/t/p/w500/h7P1maSdZs6LxgCGBQw7HZogw5J.jpg",
+    "updatedAt": "2026-10-01T18:02:26.298Z"
+  },
+  {
+    "id": "281016",
+    "title": "Boyfriend on Demand",
     "type": "tv",
     "season": 1,
     "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3A3qhj0ghaXoVrIHoiJHqyxe9HL.jpg",
-    "updatedAt": "2026-10-01T11:33:27.122Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/rX7i0nH4skN0xv7NAV0PAWPV7Bh.jpg",
+    "updatedAt": "2026-10-01T17:46:35.005Z"
+  },
+  {
+    "id": "1250502",
+    "title": "I'm Game",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/z8PMsnvYs2t3fmKpK1ZYPMz4QQ9.jpg",
+    "updatedAt": "2026-10-01T17:45:33.092Z"
+  },
+  {
+    "id": "335787",
+    "title": "Family Full House with Rohit Sharma",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/dUpoXzSJxMtTbMqrYdDxFM3DrUp.jpg",
+    "updatedAt": "2026-10-01T17:44:13.236Z"
+  },
+  {
+    "id": "290193",
+    "title": "Mousetrap",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/6B3xYx8ishrDshAO0tO8t4rUGzI.jpg",
+    "updatedAt": "2026-10-01T17:42:57.665Z"
+  },
+  {
+    "id": "218539",
+    "title": "My Demon",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/evhyKVCquKhhwceubBnEOae0TyQ.jpg",
+    "updatedAt": "2026-10-01T17:40:08.272Z"
+  },
+  {
+    "id": "84958",
+    "title": "Loki",
+    "type": "tv",
+    "season": 2,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/kXja7L9cRlsRmINMpxyWEdp9r3u.jpg",
+    "updatedAt": "2026-10-01T17:39:00.975Z"
   },
   {
     "id": "154825",
@@ -120,60 +169,6 @@
     "season": 1,
     "episode": 12,
     "backdrop": "https://image.tmdb.org/t/p/w500/3ARq4Fmu6xApIdv5LmKO7W6Zf4R.jpg",
-    "updatedAt": "2026-10-01T11:28:14.146Z"
-  },
-  {
-    "id": "294990",
-    "title": "Spring of the Blade",
-    "type": "tv",
-    "season": 1,
-    "episode": 30,
-    "backdrop": "https://image.tmdb.org/t/p/w500/k3aKIWf48yCKnbCjk2b2Tea32Vk.jpg",
-    "updatedAt": "2026-10-01T11:20:03.275Z"
-  },
-  {
-    "id": "289078",
-    "title": "A Prophet",
-    "type": "tv",
-    "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/eTlMy2amueTqJBFZm5x14GGhZxH.jpg",
-    "updatedAt": "2026-10-01T11:17:27.376Z"
-  },
-  {
-    "id": "297982",
-    "title": "Irreplaceable",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/qfm9wsSidsExVNtbM6d8UkqW4T6.jpg",
-    "updatedAt": "2026-10-01T11:14:51.739Z"
-  },
-  {
-    "id": "284792",
-    "title": "Medusa",
-    "type": "tv",
-    "season": 2,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/gm7OMY4t99UpiMpIShNOKvKLQwO.jpg",
-    "updatedAt": "2026-10-01T09:50:59.864Z"
-  },
-  {
-    "id": "139512",
-    "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
-    "type": "tv",
-    "season": 2,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/gnoMv9Y2kzt74albwVT1FhewVVC.jpg",
-    "updatedAt": "2026-10-01T09:33:55.704Z"
-  },
-  {
-    "id": "258348",
-    "title": "Clevatess",
-    "type": "tv",
-    "season": 2,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/7BWn0XKkmB8Ngj6Jb8QzLhscFIG.jpg",
-    "updatedAt": "2026-10-01T09:32:27.227Z"
+    "updatedAt": "2026-10-01T17:29:28.231Z"
   }
 ]
