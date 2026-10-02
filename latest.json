@@ -1,5 +1,39 @@
 [
   {
+    "id": "1269325",
+    "title": "Drishyam: The Conclusion",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/nq73eRdEooripf3k0XHLtX14zyC.jpg",
+    "updatedAt": "2026-10-02T16:14:22.724Z"
+  },
+  {
+    "id": "105869",
+    "title": "First Dragon",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/9CY6mGaeBRRFACUCt2lzj0b86Er.jpg",
+    "updatedAt": "2026-10-02T16:12:02.929Z"
+  },
+  {
+    "id": "294993",
+    "title": "Rise of the Legend",
+    "type": "movie",
+    "year": "2014",
+    "backdrop": "https://image.tmdb.org/t/p/w500/pFKSRbJdpYH8W84LuyLFzUXpoWF.jpg",
+    "updatedAt": "2026-10-02T15:56:48.185Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 26,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
+    "updatedAt": "2026-10-02T15:49:35.381Z"
+  },
+  {
     "id": "1602337",
     "title": "Parimala and Co",
     "type": "movie",
@@ -134,37 +168,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/anwB9RlA2haerdblfBcl5OH9gtr.jpg",
     "updatedAt": "2026-10-02T08:16:29.021Z"
-  },
-  {
-    "id": "22717",
-    "title": "Wanted",
-    "type": "movie",
-    "year": "2009",
-    "backdrop": "https://image.tmdb.org/t/p/w500/pPvXyMjF7x5EMtxkURdbhpU4jGO.jpg",
-    "updatedAt": "2026-10-02T08:15:54.226Z"
-  },
-  {
-    "id": "1315702",
-    "title": "The Residence",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/uQ5stWHm11b0jr3gAysEsEq68W.jpg",
-    "updatedAt": "2026-10-02T08:14:27.749Z"
-  },
-  {
-    "id": "1101383",
-    "title": "The End of Oak Street",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/3bq3Jy5cnE2FjngeRVvkJawquVf.jpg",
-    "updatedAt": "2026-10-02T08:13:23.262Z"
-  },
-  {
-    "id": "1508168",
-    "title": "Bethlehem Kudumba Unit",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/zii3j8dk78586q5yb9Ga9Lls0Tq.jpg",
-    "updatedAt": "2026-10-02T08:11:42.980Z"
   }
 ]
