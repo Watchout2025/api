@@ -1,5 +1,56 @@
 [
   {
+    "id": "335227",
+    "title": "I Would Rather Die",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/y66hyKHDyBE3vIFUNFWYBPEvGya.jpg",
+    "updatedAt": "2026-10-02T12:35:14.593Z"
+  },
+  {
+    "id": "1320039",
+    "title": "Stranglehold",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/tN37AERxUTb77wFq0ISVBjVCC3x.jpg",
+    "updatedAt": "2026-10-02T12:28:41.905Z"
+  },
+  {
+    "id": "203667",
+    "title": "Red Queen",
+    "type": "tv",
+    "season": 2,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/2SJ6OOyK8tWaKF7W7PzYxOKKStZ.jpg",
+    "updatedAt": "2026-10-02T12:26:32.397Z"
+  },
+  {
+    "id": "294636",
+    "title": "The Ordinary Jackpot",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/AtJigZx2ExMks84uY0Dq20Y3KYJ.jpg",
+    "updatedAt": "2026-10-02T12:12:41.509Z"
+  },
+  {
+    "id": "1458857",
+    "title": "Doing Life",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/jhlA7tXeynux7WktY4XGOiYNwCK.jpg",
+    "updatedAt": "2026-10-02T12:09:05.151Z"
+  },
+  {
+    "id": "1623435",
+    "title": "Paatki",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "",
+    "updatedAt": "2026-10-02T12:08:03.263Z"
+  },
+  {
     "id": "329573",
     "title": "Force of Nature",
     "type": "tv",
@@ -117,58 +168,5 @@
     "episode": 10,
     "backdrop": "https://image.tmdb.org/t/p/w500/rX7i0nH4skN0xv7NAV0PAWPV7Bh.jpg",
     "updatedAt": "2026-10-01T17:46:35.005Z"
-  },
-  {
-    "id": "1250502",
-    "title": "I'm Game",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/z8PMsnvYs2t3fmKpK1ZYPMz4QQ9.jpg",
-    "updatedAt": "2026-10-01T17:45:33.092Z"
-  },
-  {
-    "id": "335787",
-    "title": "Family Full House with Rohit Sharma",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/dUpoXzSJxMtTbMqrYdDxFM3DrUp.jpg",
-    "updatedAt": "2026-10-01T17:44:13.236Z"
-  },
-  {
-    "id": "290193",
-    "title": "Mousetrap",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/6B3xYx8ishrDshAO0tO8t4rUGzI.jpg",
-    "updatedAt": "2026-10-01T17:42:57.665Z"
-  },
-  {
-    "id": "218539",
-    "title": "My Demon",
-    "type": "tv",
-    "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/evhyKVCquKhhwceubBnEOae0TyQ.jpg",
-    "updatedAt": "2026-10-01T17:40:08.272Z"
-  },
-  {
-    "id": "84958",
-    "title": "Loki",
-    "type": "tv",
-    "season": 2,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/kXja7L9cRlsRmINMpxyWEdp9r3u.jpg",
-    "updatedAt": "2026-10-01T17:39:00.975Z"
-  },
-  {
-    "id": "154825",
-    "title": "Business Proposal",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3ARq4Fmu6xApIdv5LmKO7W6Zf4R.jpg",
-    "updatedAt": "2026-10-01T17:29:28.231Z"
   }
 ]
