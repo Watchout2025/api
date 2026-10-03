@@ -1,5 +1,163 @@
 [
   {
+    "id": "1235877",
+    "title": "Jana Nayagan",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
+    "updatedAt": "2026-10-03T12:01:59.711Z"
+  },
+  {
+    "id": "1466115",
+    "title": "Even If This Love Disappears Tonight",
+    "type": "movie",
+    "year": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w500/4jyBccWa8H5wqD7gbCmPAq3YlSu.jpg",
+    "updatedAt": "2026-10-03T11:53:33.572Z"
+  },
+  {
+    "id": "127529",
+    "title": "Bloodhounds",
+    "type": "tv",
+    "season": 2,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/iHHpiZ325jH7V59IajdBhANOMoB.jpg",
+    "updatedAt": "2026-10-03T11:50:59.840Z"
+  },
+  {
+    "id": "119051",
+    "title": "Wednesday",
+    "type": "tv",
+    "season": 2,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg",
+    "updatedAt": "2026-10-03T11:44:33.675Z"
+  },
+  {
+    "id": "232766",
+    "title": "Mercy for None",
+    "type": "tv",
+    "season": 1,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/zZeE0bSvWfJaUWMz4xAQDgjOMWj.jpg",
+    "updatedAt": "2026-10-03T11:30:25.283Z"
+  },
+  {
+    "id": "125988",
+    "title": "Silo",
+    "type": "tv",
+    "season": 3,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
+    "updatedAt": "2026-10-03T07:48:42.351Z"
+  },
+  {
+    "id": "300081",
+    "title": "Rise and Fall",
+    "type": "tv",
+    "season": 2,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/oE2X7HuKpCJE5hCzTMPKdxJY5vW.jpg",
+    "updatedAt": "2026-10-03T05:08:38.934Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 27,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
+    "updatedAt": "2026-10-03T05:07:13.980Z"
+  },
+  {
+    "id": "318918",
+    "title": "LEGO ONE PIECE",
+    "type": "tv",
+    "season": 1,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/iNUOxqcuMAY8K6bJ81WaFkib5Id.jpg",
+    "updatedAt": "2026-10-03T05:05:43.101Z"
+  },
+  {
+    "id": "331932",
+    "title": "Ali Baba Aur 40 Bhoot",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/uDRHlrlXbIgwCnVRJr80VnBrgX7.jpg",
+    "updatedAt": "2026-10-03T05:03:45.981Z"
+  },
+  {
+    "id": "292742",
+    "title": "S.W.A.T. Exiles",
+    "type": "tv",
+    "season": 1,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/sJmUIIljRkbi5A3LO1P51Lpl0Qi.jpg",
+    "updatedAt": "2026-10-03T05:00:09.617Z"
+  },
+  {
+    "id": "247718",
+    "title": "MobLand",
+    "type": "tv",
+    "season": 2,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
+    "updatedAt": "2026-10-03T04:59:05.786Z"
+  },
+  {
+    "id": "325138",
+    "title": "Dum Laga Ke Haisha",
+    "type": "movie",
+    "year": "2015",
+    "backdrop": "https://image.tmdb.org/t/p/w500/eEeZwT2B2VFZ8MbbIjnARdKK9Hf.jpg",
+    "updatedAt": "2026-10-03T04:56:51.259Z"
+  },
+  {
+    "id": "256226",
+    "title": "Dear X",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/wrP05wyzyrxwsaicfVx7VMqHgEu.jpg",
+    "updatedAt": "2026-10-03T04:53:21.289Z"
+  },
+  {
+    "id": "335227",
+    "title": "I Would Rather Die",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/y66hyKHDyBE3vIFUNFWYBPEvGya.jpg",
+    "updatedAt": "2026-10-03T04:43:37.806Z"
+  },
+  {
+    "id": "117376",
+    "title": "Vincenzo",
+    "type": "tv",
+    "season": 1,
+    "episode": 20,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cQwu0TKuXXFfPKc5i8nZ0PsgeQC.jpg",
+    "updatedAt": "2026-10-03T04:41:06.332Z"
+  },
+  {
+    "id": "313172",
+    "title": "Chumbak",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/2N1kH7314XUfMw80iLZh1d2UoHY.jpg",
+    "updatedAt": "2026-10-03T03:01:25.003Z"
+  },
+  {
+    "id": "977942",
+    "title": "The Uprising",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/9YKDy9xgIopB2qoFZcHYNkFeikh.jpg",
+    "updatedAt": "2026-10-03T02:54:13.929Z"
+  },
+  {
     "id": "1269325",
     "title": "Drishyam: The Conclusion",
     "type": "movie",
@@ -15,158 +173,5 @@
     "episode": 16,
     "backdrop": "https://image.tmdb.org/t/p/w500/9CY6mGaeBRRFACUCt2lzj0b86Er.jpg",
     "updatedAt": "2026-10-02T16:12:02.929Z"
-  },
-  {
-    "id": "294993",
-    "title": "Rise of the Legend",
-    "type": "movie",
-    "year": "2014",
-    "backdrop": "https://image.tmdb.org/t/p/w500/pFKSRbJdpYH8W84LuyLFzUXpoWF.jpg",
-    "updatedAt": "2026-10-02T15:56:48.185Z"
-  },
-  {
-    "id": "11436",
-    "title": "Bigg Boss",
-    "type": "tv",
-    "season": 20,
-    "episode": 26,
-    "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
-    "updatedAt": "2026-10-02T15:49:35.381Z"
-  },
-  {
-    "id": "1602337",
-    "title": "Parimala and Co",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/hcQ9Kcmc34yYElii4fjFxABQYqq.jpg",
-    "updatedAt": "2026-10-02T15:35:40.106Z"
-  },
-  {
-    "id": "221851",
-    "title": "Marry My Husband",
-    "type": "tv",
-    "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/pT0RwjCRAStJxJBaXZ1gSJV7sVN.jpg",
-    "updatedAt": "2026-10-02T15:32:04.137Z"
-  },
-  {
-    "id": "1213898",
-    "title": "Border 2",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/9sJgOvsTonp0MNZThXfEPqNEwDH.jpg",
-    "updatedAt": "2026-10-02T13:18:07.391Z"
-  },
-  {
-    "id": "109445",
-    "title": "Frozen",
-    "type": "movie",
-    "year": "2013",
-    "backdrop": "https://image.tmdb.org/t/p/w500/irwWmcOOZ0xaXlvhiJynFKmFbnE.jpg",
-    "updatedAt": "2026-10-02T13:08:14.684Z"
-  },
-  {
-    "id": "119051",
-    "title": "Wednesday",
-    "type": "tv",
-    "season": 2,
-    "episode": 1,
-    "backdrop": "https://image.tmdb.org/t/p/w500/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg",
-    "updatedAt": "2026-10-02T13:00:44.034Z"
-  },
-  {
-    "id": "335227",
-    "title": "I Would Rather Die",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/y66hyKHDyBE3vIFUNFWYBPEvGya.jpg",
-    "updatedAt": "2026-10-02T12:35:14.593Z"
-  },
-  {
-    "id": "1320039",
-    "title": "Stranglehold",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/tN37AERxUTb77wFq0ISVBjVCC3x.jpg",
-    "updatedAt": "2026-10-02T12:28:41.905Z"
-  },
-  {
-    "id": "203667",
-    "title": "Red Queen",
-    "type": "tv",
-    "season": 2,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/2SJ6OOyK8tWaKF7W7PzYxOKKStZ.jpg",
-    "updatedAt": "2026-10-02T12:26:32.397Z"
-  },
-  {
-    "id": "294636",
-    "title": "The Ordinary Jackpot",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/AtJigZx2ExMks84uY0Dq20Y3KYJ.jpg",
-    "updatedAt": "2026-10-02T12:12:41.509Z"
-  },
-  {
-    "id": "1458857",
-    "title": "Doing Life",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/jhlA7tXeynux7WktY4XGOiYNwCK.jpg",
-    "updatedAt": "2026-10-02T12:09:05.151Z"
-  },
-  {
-    "id": "1623435",
-    "title": "Paatki",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "",
-    "updatedAt": "2026-10-02T12:08:03.263Z"
-  },
-  {
-    "id": "329573",
-    "title": "Force of Nature",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3ppEA3ilG1Pwibueyyj8C4ll0jX.jpg",
-    "updatedAt": "2026-10-02T08:33:51.637Z"
-  },
-  {
-    "id": "283428",
-    "title": "The Ramparts of Ice",
-    "type": "tv",
-    "season": 2,
-    "episode": 1,
-    "backdrop": "https://image.tmdb.org/t/p/w500/8Oh5v6xltWdVgt9Vt465qbLXatM.jpg",
-    "updatedAt": "2026-10-02T08:25:05.561Z"
-  },
-  {
-    "id": "270603",
-    "title": "The Exiled Heavy Knight Knows How to Game the System",
-    "type": "tv",
-    "season": 1,
-    "episode": 11,
-    "backdrop": "https://image.tmdb.org/t/p/w500/lJJpL0ZtFa1fkudBAkyWBcjT8Zc.jpg",
-    "updatedAt": "2026-10-02T08:19:32.138Z"
-  },
-  {
-    "id": "1735283",
-    "title": "Yaar Jigree Kasooti Degree",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/4pF248kabSZGxgFji51WiJvpRfU.jpg",
-    "updatedAt": "2026-10-02T08:17:15.609Z"
-  },
-  {
-    "id": "1220538",
-    "title": "Pooja Meri Jaan",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/anwB9RlA2haerdblfBcl5OH9gtr.jpg",
-    "updatedAt": "2026-10-02T08:16:29.021Z"
   }
 ]
