@@ -1,5 +1,101 @@
 [
   {
+    "id": "518497",
+    "title": "Sir",
+    "type": "movie",
+    "year": "2018",
+    "backdrop": "https://image.tmdb.org/t/p/w500/pYRFw5Lyc7CnaarhzlXHojSzEZx.jpg",
+    "updatedAt": "2026-10-06T12:34:11.411Z"
+  },
+  {
+    "id": "94664",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "type": "tv",
+    "season": 3,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/81j82xSVO8jXHsHVByQLYm2XZ3s.jpg",
+    "updatedAt": "2026-10-06T12:30:22.722Z"
+  },
+  {
+    "id": "154825",
+    "title": "Business Proposal",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/3ARq4Fmu6xApIdv5LmKO7W6Zf4R.jpg",
+    "updatedAt": "2026-10-06T12:28:42.998Z"
+  },
+  {
+    "id": "277834",
+    "title": "Moana",
+    "type": "movie",
+    "year": "2016",
+    "backdrop": "https://image.tmdb.org/t/p/w500/mtYxEUvcjrwzfzpJTGqziewyGR3.jpg",
+    "updatedAt": "2026-10-06T12:26:46.198Z"
+  },
+  {
+    "id": "302882",
+    "title": "#Love",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/xrm5XNKMuAnvnG9sokNYlaAng2G.jpg",
+    "updatedAt": "2026-10-06T12:26:02.189Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 30,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
+    "updatedAt": "2026-10-06T12:18:33.137Z"
+  },
+  {
+    "id": "297640",
+    "title": "Filing for Love",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/e1NeKiC0YSrNNGHazvzOGEjflJe.jpg",
+    "updatedAt": "2026-10-06T12:14:14.530Z"
+  },
+  {
+    "id": "45790",
+    "title": "JoJo's Bizarre Adventure",
+    "type": "tv",
+    "season": null,
+    "episode": null,
+    "backdrop": "https://image.tmdb.org/t/p/w500/ciDRS9Q8ErVxYzOpmYG40Wqbpc2.jpg",
+    "updatedAt": "2026-10-06T12:12:33.368Z"
+  },
+  {
+    "id": "313101",
+    "title": "Musafir Cafe",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/2C15EiKyfLrWAWbjqpHvumgOtNk.jpg",
+    "updatedAt": "2026-10-06T12:01:03.987Z"
+  },
+  {
+    "id": "1383072",
+    "title": "Mahavatar Narsimha",
+    "type": "movie",
+    "year": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w500/xFjk2l1SGgvrMYlFIHGiP7BfvEY.jpg",
+    "updatedAt": "2026-10-06T11:56:30.975Z"
+  },
+  {
+    "id": "258025",
+    "title": "Head Over Heels",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/7xs9O23AFbMzbhrEOY1vvo4g8Y0.jpg",
+    "updatedAt": "2026-10-06T11:49:01.475Z"
+  },
+  {
     "id": "290699",
     "title": "Shadow Punisher",
     "type": "tv",
@@ -76,104 +172,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/f9mM7tDrZ3LlHPQu9I5A6TTxTb9.jpg",
     "updatedAt": "2026-10-06T07:22:07.137Z"
-  },
-  {
-    "id": "259140",
-    "title": "Ranma1/2",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/z0sftiGQfOALJVCg62n3MaWU72l.jpg",
-    "updatedAt": "2026-10-06T06:06:37.395Z"
-  },
-  {
-    "id": "324502",
-    "title": "Overgeared",
-    "type": "tv",
-    "season": 1,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/745xqHbiUWwO51TM60MXRCR4Onm.jpg",
-    "updatedAt": "2026-10-06T05:59:29.962Z"
-  },
-  {
-    "id": "260463",
-    "title": "Daemons of the Shadow Realm",
-    "type": "tv",
-    "season": 1,
-    "episode": 23,
-    "backdrop": "https://image.tmdb.org/t/p/w500/nUZECCEQUCtu1WKW1Gll9Ba8V2J.jpg",
-    "updatedAt": "2026-10-06T05:57:43.656Z"
-  },
-  {
-    "id": "94404",
-    "title": "Dorohedoro",
-    "type": "tv",
-    "season": 2,
-    "episode": 11,
-    "backdrop": "https://image.tmdb.org/t/p/w500/bsVSyPPAcYgrKdmGROmgOm0z5FG.jpg",
-    "updatedAt": "2026-10-06T05:56:28.916Z"
-  },
-  {
-    "id": "314939",
-    "title": "A Love Other Than Yours",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/auiu4giz7AMlLlaRpZPlOP3mgIT.jpg",
-    "updatedAt": "2026-10-06T05:52:42.040Z"
-  },
-  {
-    "id": "94664",
-    "title": "Mushoku Tensei: Jobless Reincarnation",
-    "type": "tv",
-    "season": 3,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/81j82xSVO8jXHsHVByQLYm2XZ3s.jpg",
-    "updatedAt": "2026-10-06T05:49:38.897Z"
-  },
-  {
-    "id": "207347",
-    "title": "Blue Box",
-    "type": "tv",
-    "season": 1,
-    "episode": 26,
-    "backdrop": "https://image.tmdb.org/t/p/w500/yLZXf9fghX00SyIfhaoh0x8lUpJ.jpg",
-    "updatedAt": "2026-10-06T05:46:36.908Z"
-  },
-  {
-    "id": "332744",
-    "title": "Indian Game Show",
-    "type": "tv",
-    "season": 2,
-    "episode": 34,
-    "backdrop": "https://image.tmdb.org/t/p/w500/6cILiHDTg4lGUik4KFwZGC1bjpk.jpg",
-    "updatedAt": "2026-10-06T05:43:34.803Z"
-  },
-  {
-    "id": "300081",
-    "title": "Rise and Fall",
-    "type": "tv",
-    "season": 2,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/oE2X7HuKpCJE5hCzTMPKdxJY5vW.jpg",
-    "updatedAt": "2026-10-06T05:36:25.194Z"
-  },
-  {
-    "id": "300126",
-    "title": "LIAR GAME",
-    "type": "tv",
-    "season": 1,
-    "episode": 24,
-    "backdrop": "https://image.tmdb.org/t/p/w500/beBpLR0P7cgEbXpOY7dIS2coF4f.jpg",
-    "updatedAt": "2026-10-06T05:30:49.696Z"
-  },
-  {
-    "id": "11436",
-    "title": "Bigg Boss",
-    "type": "tv",
-    "season": 20,
-    "episode": 30,
-    "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
-    "updatedAt": "2026-10-06T05:15:10.677Z"
   }
 ]
