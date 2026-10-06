@@ -1,5 +1,40 @@
 [
   {
+    "id": "290699",
+    "title": "Shadow Punisher",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/lZnNJ1RS5YrWNZGTlyrvLSmSKxj.jpg",
+    "updatedAt": "2026-10-06T11:42:04.834Z"
+  },
+  {
+    "id": "1303331",
+    "title": "Dhamaal 4",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
+    "updatedAt": "2026-10-06T11:32:15.393Z"
+  },
+  {
+    "id": "229915",
+    "title": "Night Has Come",
+    "type": "tv",
+    "season": null,
+    "episode": null,
+    "backdrop": "https://image.tmdb.org/t/p/w500/itGeBTRqCbWO0uPEXwI8bbu5lKy.jpg",
+    "updatedAt": "2026-10-06T11:13:01.962Z"
+  },
+  {
+    "id": "238084",
+    "title": "Trigger",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/LocigwVR8yda0xxpTBQh3XyaKQ.jpg",
+    "updatedAt": "2026-10-06T11:01:43.235Z"
+  },
+  {
     "id": "66732",
     "title": "Stranger Things",
     "type": "tv",
@@ -140,39 +175,5 @@
     "episode": 30,
     "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
     "updatedAt": "2026-10-06T05:15:10.677Z"
-  },
-  {
-    "id": "77240",
-    "title": "Captain Tsubasa",
-    "type": "tv",
-    "season": 2,
-    "episode": 39,
-    "backdrop": "https://image.tmdb.org/t/p/w500/kvIitUZR9t1kJsA4rrTLFa9SFNG.jpg",
-    "updatedAt": "2026-10-06T05:12:26.028Z"
-  },
-  {
-    "id": "196322",
-    "title": "Dark Matter",
-    "type": "tv",
-    "season": 2,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/2UFwBzMvbGEVJReVlSbsZfdMo2r.jpg",
-    "updatedAt": "2026-10-06T04:14:01.419Z"
-  },
-  {
-    "id": "1640396",
-    "title": "Prem Keetanu",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/kFLbvQ7ZmBo4eZHk4FmA9PEWuk8.jpg",
-    "updatedAt": "2026-10-06T04:03:01.611Z"
-  },
-  {
-    "id": "1615767",
-    "title": "Fury In the Shadows",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/84QZLhoIzgdhoJuROKPVYpTjbzG.jpg",
-    "updatedAt": "2026-10-06T03:59:40.403Z"
   }
 ]
