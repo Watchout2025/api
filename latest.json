@@ -1,5 +1,98 @@
 [
   {
+    "id": "652",
+    "title": "Troy",
+    "type": "movie",
+    "year": "2004",
+    "backdrop": "https://image.tmdb.org/t/p/w500/bQWhc4BVzODExgBpK0HREWrvWAu.jpg",
+    "updatedAt": "2026-10-06T14:11:32.471Z"
+  },
+  {
+    "id": "218539",
+    "title": "My Demon",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/evhyKVCquKhhwceubBnEOae0TyQ.jpg",
+    "updatedAt": "2026-10-06T14:06:45.945Z"
+  },
+  {
+    "id": "119051",
+    "title": "Wednesday",
+    "type": "tv",
+    "season": 2,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg",
+    "updatedAt": "2026-10-06T14:04:04.825Z"
+  },
+  {
+    "id": "1508168",
+    "title": "Bethlehem Kudumba Unit",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/zms3m4kVz7RXmobU1B0nhrvUEmP.jpg",
+    "updatedAt": "2026-10-06T13:51:30.315Z"
+  },
+  {
+    "id": "194766",
+    "title": "The Summer I Turned Pretty",
+    "type": "tv",
+    "season": 3,
+    "episode": 11,
+    "backdrop": "https://image.tmdb.org/t/p/w500/bWOLnvEXYytz0V91nZFYdpiXQ2M.jpg",
+    "updatedAt": "2026-10-06T13:43:04.398Z"
+  },
+  {
+    "id": "1375646",
+    "title": "Colony",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/mXhgb6WzczIJPOJSlY2hhUZuwc7.jpg",
+    "updatedAt": "2026-10-06T13:41:37.361Z"
+  },
+  {
+    "id": "314939",
+    "title": "A Love Other Than Yours",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/auiu4giz7AMlLlaRpZPlOP3mgIT.jpg",
+    "updatedAt": "2026-10-06T13:40:44.609Z"
+  },
+  {
+    "id": "110316",
+    "title": "Alice in Borderland",
+    "type": "tv",
+    "season": 2,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/i6vV0LDMnyFFT3yBysMHvpWEZor.jpg",
+    "updatedAt": "2026-10-06T13:36:12.725Z"
+  },
+  {
+    "id": "1419390",
+    "title": "Vash Level 2",
+    "type": "movie",
+    "year": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w500/5AHNEPeP4YdQDTJ7NRVvRX2VzSm.jpg",
+    "updatedAt": "2026-10-06T13:15:36.416Z"
+  },
+  {
+    "id": "579974",
+    "title": "RRR",
+    "type": "movie",
+    "year": "2022",
+    "backdrop": "https://image.tmdb.org/t/p/w500/d3l7kgFJyLTTQSrR4ysCk5yeVyW.jpg",
+    "updatedAt": "2026-10-06T13:15:23.411Z"
+  },
+  {
+    "id": "165068",
+    "title": "Dushman",
+    "type": "movie",
+    "year": "1998",
+    "backdrop": "https://image.tmdb.org/t/p/w500/8BVJJjXoq7IbacR6YnUe9rGrUq7.jpg",
+    "updatedAt": "2026-10-06T13:07:40.391Z"
+  },
+  {
     "id": "518497",
     "title": "Sir",
     "type": "movie",
@@ -77,100 +170,5 @@
     "episode": 8,
     "backdrop": "https://image.tmdb.org/t/p/w500/2C15EiKyfLrWAWbjqpHvumgOtNk.jpg",
     "updatedAt": "2026-10-06T12:01:03.987Z"
-  },
-  {
-    "id": "1383072",
-    "title": "Mahavatar Narsimha",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/xFjk2l1SGgvrMYlFIHGiP7BfvEY.jpg",
-    "updatedAt": "2026-10-06T11:56:30.975Z"
-  },
-  {
-    "id": "258025",
-    "title": "Head Over Heels",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/7xs9O23AFbMzbhrEOY1vvo4g8Y0.jpg",
-    "updatedAt": "2026-10-06T11:49:01.475Z"
-  },
-  {
-    "id": "290699",
-    "title": "Shadow Punisher",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/lZnNJ1RS5YrWNZGTlyrvLSmSKxj.jpg",
-    "updatedAt": "2026-10-06T11:42:04.834Z"
-  },
-  {
-    "id": "1303331",
-    "title": "Dhamaal 4",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
-    "updatedAt": "2026-10-06T11:32:15.393Z"
-  },
-  {
-    "id": "229915",
-    "title": "Night Has Come",
-    "type": "tv",
-    "season": null,
-    "episode": null,
-    "backdrop": "https://image.tmdb.org/t/p/w500/itGeBTRqCbWO0uPEXwI8bbu5lKy.jpg",
-    "updatedAt": "2026-10-06T11:13:01.962Z"
-  },
-  {
-    "id": "238084",
-    "title": "Trigger",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/LocigwVR8yda0xxpTBQh3XyaKQ.jpg",
-    "updatedAt": "2026-10-06T11:01:43.235Z"
-  },
-  {
-    "id": "66732",
-    "title": "Stranger Things",
-    "type": "tv",
-    "season": 5,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/89T83vE1ol8wcI879LutCqv7hMa.jpg",
-    "updatedAt": "2026-10-06T10:59:11.153Z"
-  },
-  {
-    "id": "296140",
-    "title": "My Bias, My Boss",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/v8O0X6PP7grEaXsPkdiotIx78tA.jpg",
-    "updatedAt": "2026-10-06T10:46:00.864Z"
-  },
-  {
-    "id": "95249",
-    "title": "Gossip Girl",
-    "type": "tv",
-    "season": 2,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/j1Dt1QvQIlHZrH8QKYZyMbg5hOs.jpg",
-    "updatedAt": "2026-10-06T10:29:53.218Z"
-  },
-  {
-    "id": "142527",
-    "title": "Doraemon: Nobita and the Birth of Japan",
-    "type": "movie",
-    "year": "1989",
-    "backdrop": "https://image.tmdb.org/t/p/w500/pPwR2VBB1Bo1SB5Tf205bY7vqbt.jpg",
-    "updatedAt": "2026-10-06T07:35:05.891Z"
-  },
-  {
-    "id": "969681",
-    "title": "Spider-Man: Brand New Day",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/f9mM7tDrZ3LlHPQu9I5A6TTxTb9.jpg",
-    "updatedAt": "2026-10-06T07:22:07.137Z"
   }
 ]
