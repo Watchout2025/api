@@ -1,177 +1,176 @@
 [
   {
-    "id": "1235877",
-    "title": "Jana Nayagan",
+    "id": "142527",
+    "title": "Doraemon: Nobita and the Birth of Japan",
+    "type": "movie",
+    "year": "1989",
+    "backdrop": "https://image.tmdb.org/t/p/w500/pPwR2VBB1Bo1SB5Tf205bY7vqbt.jpg",
+    "updatedAt": "2026-10-06T07:35:05.891Z"
+  },
+  {
+    "id": "969681",
+    "title": "Spider-Man: Brand New Day",
     "type": "movie",
     "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
-    "updatedAt": "2026-10-03T12:01:59.711Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/f9mM7tDrZ3LlHPQu9I5A6TTxTb9.jpg",
+    "updatedAt": "2026-10-06T07:22:07.137Z"
   },
   {
-    "id": "1466115",
-    "title": "Even If This Love Disappears Tonight",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/4jyBccWa8H5wqD7gbCmPAq3YlSu.jpg",
-    "updatedAt": "2026-10-03T11:53:33.572Z"
-  },
-  {
-    "id": "127529",
-    "title": "Bloodhounds",
-    "type": "tv",
-    "season": 2,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/iHHpiZ325jH7V59IajdBhANOMoB.jpg",
-    "updatedAt": "2026-10-03T11:50:59.840Z"
-  },
-  {
-    "id": "119051",
-    "title": "Wednesday",
-    "type": "tv",
-    "season": 2,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg",
-    "updatedAt": "2026-10-03T11:44:33.675Z"
-  },
-  {
-    "id": "232766",
-    "title": "Mercy for None",
+    "id": "259140",
+    "title": "Ranma1/2",
     "type": "tv",
     "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/zZeE0bSvWfJaUWMz4xAQDgjOMWj.jpg",
-    "updatedAt": "2026-10-03T11:30:25.283Z"
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/z0sftiGQfOALJVCg62n3MaWU72l.jpg",
+    "updatedAt": "2026-10-06T06:06:37.395Z"
   },
   {
-    "id": "125988",
-    "title": "Silo",
+    "id": "324502",
+    "title": "Overgeared",
+    "type": "tv",
+    "season": 1,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/745xqHbiUWwO51TM60MXRCR4Onm.jpg",
+    "updatedAt": "2026-10-06T05:59:29.962Z"
+  },
+  {
+    "id": "260463",
+    "title": "Daemons of the Shadow Realm",
+    "type": "tv",
+    "season": 1,
+    "episode": 23,
+    "backdrop": "https://image.tmdb.org/t/p/w500/nUZECCEQUCtu1WKW1Gll9Ba8V2J.jpg",
+    "updatedAt": "2026-10-06T05:57:43.656Z"
+  },
+  {
+    "id": "94404",
+    "title": "Dorohedoro",
+    "type": "tv",
+    "season": 2,
+    "episode": 11,
+    "backdrop": "https://image.tmdb.org/t/p/w500/bsVSyPPAcYgrKdmGROmgOm0z5FG.jpg",
+    "updatedAt": "2026-10-06T05:56:28.916Z"
+  },
+  {
+    "id": "314939",
+    "title": "A Love Other Than Yours",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/auiu4giz7AMlLlaRpZPlOP3mgIT.jpg",
+    "updatedAt": "2026-10-06T05:52:42.040Z"
+  },
+  {
+    "id": "94664",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
     "type": "tv",
     "season": 3,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
-    "updatedAt": "2026-10-03T07:48:42.351Z"
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/81j82xSVO8jXHsHVByQLYm2XZ3s.jpg",
+    "updatedAt": "2026-10-06T05:49:38.897Z"
+  },
+  {
+    "id": "207347",
+    "title": "Blue Box",
+    "type": "tv",
+    "season": 1,
+    "episode": 26,
+    "backdrop": "https://image.tmdb.org/t/p/w500/yLZXf9fghX00SyIfhaoh0x8lUpJ.jpg",
+    "updatedAt": "2026-10-06T05:46:36.908Z"
+  },
+  {
+    "id": "332744",
+    "title": "Indian Game Show",
+    "type": "tv",
+    "season": 2,
+    "episode": 34,
+    "backdrop": "https://image.tmdb.org/t/p/w500/6cILiHDTg4lGUik4KFwZGC1bjpk.jpg",
+    "updatedAt": "2026-10-06T05:43:34.803Z"
   },
   {
     "id": "300081",
     "title": "Rise and Fall",
     "type": "tv",
     "season": 2,
-    "episode": 7,
+    "episode": 10,
     "backdrop": "https://image.tmdb.org/t/p/w500/oE2X7HuKpCJE5hCzTMPKdxJY5vW.jpg",
-    "updatedAt": "2026-10-03T05:08:38.934Z"
+    "updatedAt": "2026-10-06T05:36:25.194Z"
+  },
+  {
+    "id": "300126",
+    "title": "LIAR GAME",
+    "type": "tv",
+    "season": 1,
+    "episode": 24,
+    "backdrop": "https://image.tmdb.org/t/p/w500/beBpLR0P7cgEbXpOY7dIS2coF4f.jpg",
+    "updatedAt": "2026-10-06T05:30:49.696Z"
   },
   {
     "id": "11436",
     "title": "Bigg Boss",
     "type": "tv",
     "season": 20,
-    "episode": 27,
+    "episode": 30,
     "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
-    "updatedAt": "2026-10-03T05:07:13.980Z"
+    "updatedAt": "2026-10-06T05:15:10.677Z"
   },
   {
-    "id": "318918",
-    "title": "LEGO ONE PIECE",
-    "type": "tv",
-    "season": 1,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/iNUOxqcuMAY8K6bJ81WaFkib5Id.jpg",
-    "updatedAt": "2026-10-03T05:05:43.101Z"
-  },
-  {
-    "id": "331932",
-    "title": "Ali Baba Aur 40 Bhoot",
-    "type": "tv",
-    "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/uDRHlrlXbIgwCnVRJr80VnBrgX7.jpg",
-    "updatedAt": "2026-10-03T05:03:45.981Z"
-  },
-  {
-    "id": "292742",
-    "title": "S.W.A.T. Exiles",
-    "type": "tv",
-    "season": 1,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/sJmUIIljRkbi5A3LO1P51Lpl0Qi.jpg",
-    "updatedAt": "2026-10-03T05:00:09.617Z"
-  },
-  {
-    "id": "247718",
-    "title": "MobLand",
+    "id": "77240",
+    "title": "Captain Tsubasa",
     "type": "tv",
     "season": 2,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w500/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
-    "updatedAt": "2026-10-03T04:59:05.786Z"
+    "episode": 39,
+    "backdrop": "https://image.tmdb.org/t/p/w500/kvIitUZR9t1kJsA4rrTLFa9SFNG.jpg",
+    "updatedAt": "2026-10-06T05:12:26.028Z"
   },
   {
-    "id": "325138",
-    "title": "Dum Laga Ke Haisha",
-    "type": "movie",
-    "year": "2015",
-    "backdrop": "https://image.tmdb.org/t/p/w500/eEeZwT2B2VFZ8MbbIjnARdKK9Hf.jpg",
-    "updatedAt": "2026-10-03T04:56:51.259Z"
-  },
-  {
-    "id": "256226",
-    "title": "Dear X",
+    "id": "196322",
+    "title": "Dark Matter",
     "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/wrP05wyzyrxwsaicfVx7VMqHgEu.jpg",
-    "updatedAt": "2026-10-03T04:53:21.289Z"
+    "season": 2,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/2UFwBzMvbGEVJReVlSbsZfdMo2r.jpg",
+    "updatedAt": "2026-10-06T04:14:01.419Z"
   },
   {
-    "id": "335227",
-    "title": "I Would Rather Die",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/y66hyKHDyBE3vIFUNFWYBPEvGya.jpg",
-    "updatedAt": "2026-10-03T04:43:37.806Z"
-  },
-  {
-    "id": "117376",
-    "title": "Vincenzo",
-    "type": "tv",
-    "season": 1,
-    "episode": 20,
-    "backdrop": "https://image.tmdb.org/t/p/w500/cQwu0TKuXXFfPKc5i8nZ0PsgeQC.jpg",
-    "updatedAt": "2026-10-03T04:41:06.332Z"
-  },
-  {
-    "id": "313172",
-    "title": "Chumbak",
-    "type": "tv",
-    "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/2N1kH7314XUfMw80iLZh1d2UoHY.jpg",
-    "updatedAt": "2026-10-03T03:01:25.003Z"
-  },
-  {
-    "id": "977942",
-    "title": "The Uprising",
+    "id": "1640396",
+    "title": "Prem Keetanu",
     "type": "movie",
     "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/9YKDy9xgIopB2qoFZcHYNkFeikh.jpg",
-    "updatedAt": "2026-10-03T02:54:13.929Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/kFLbvQ7ZmBo4eZHk4FmA9PEWuk8.jpg",
+    "updatedAt": "2026-10-06T04:03:01.611Z"
   },
   {
-    "id": "1269325",
-    "title": "Drishyam: The Conclusion",
+    "id": "1615767",
+    "title": "Fury In the Shadows",
     "type": "movie",
     "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/nq73eRdEooripf3k0XHLtX14zyC.jpg",
-    "updatedAt": "2026-10-02T16:14:22.724Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/84QZLhoIzgdhoJuROKPVYpTjbzG.jpg",
+    "updatedAt": "2026-10-06T03:59:40.403Z"
   },
   {
-    "id": "105869",
-    "title": "First Dragon",
+    "id": "88005",
+    "title": "Seeking a Friend for the End of the World",
+    "type": "movie",
+    "year": "2012",
+    "backdrop": "https://image.tmdb.org/t/p/w500/tEJ3nvnp520AvNPbhCegHMo1EfM.jpg",
+    "updatedAt": "2026-10-06T03:58:18.823Z"
+  },
+  {
+    "id": "10385",
+    "title": "Hanging Up",
+    "type": "movie",
+    "year": "2000",
+    "backdrop": "https://image.tmdb.org/t/p/w500/umafRaEIigBtk3XDVNaw9ou57J3.jpg",
+    "updatedAt": "2026-10-06T03:56:15.528Z"
+  },
+  {
+    "id": "285993",
+    "title": "BLACK TORCH",
     "type": "tv",
     "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9CY6mGaeBRRFACUCt2lzj0b86Er.jpg",
-    "updatedAt": "2026-10-02T16:12:02.929Z"
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/fy1R05K8zCUFmQG6f1Wn4gPwte4.jpg",
+    "updatedAt": "2026-10-04T04:43:48.302Z"
   }
 ]
