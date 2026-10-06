@@ -1,5 +1,32 @@
 [
   {
+    "id": "66732",
+    "title": "Stranger Things",
+    "type": "tv",
+    "season": 5,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/89T83vE1ol8wcI879LutCqv7hMa.jpg",
+    "updatedAt": "2026-10-06T10:59:11.153Z"
+  },
+  {
+    "id": "296140",
+    "title": "My Bias, My Boss",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/v8O0X6PP7grEaXsPkdiotIx78tA.jpg",
+    "updatedAt": "2026-10-06T10:46:00.864Z"
+  },
+  {
+    "id": "95249",
+    "title": "Gossip Girl",
+    "type": "tv",
+    "season": 2,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/j1Dt1QvQIlHZrH8QKYZyMbg5hOs.jpg",
+    "updatedAt": "2026-10-06T10:29:53.218Z"
+  },
+  {
     "id": "142527",
     "title": "Doraemon: Nobita and the Birth of Japan",
     "type": "movie",
@@ -147,30 +174,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/84QZLhoIzgdhoJuROKPVYpTjbzG.jpg",
     "updatedAt": "2026-10-06T03:59:40.403Z"
-  },
-  {
-    "id": "88005",
-    "title": "Seeking a Friend for the End of the World",
-    "type": "movie",
-    "year": "2012",
-    "backdrop": "https://image.tmdb.org/t/p/w500/tEJ3nvnp520AvNPbhCegHMo1EfM.jpg",
-    "updatedAt": "2026-10-06T03:58:18.823Z"
-  },
-  {
-    "id": "10385",
-    "title": "Hanging Up",
-    "type": "movie",
-    "year": "2000",
-    "backdrop": "https://image.tmdb.org/t/p/w500/umafRaEIigBtk3XDVNaw9ou57J3.jpg",
-    "updatedAt": "2026-10-06T03:56:15.528Z"
-  },
-  {
-    "id": "285993",
-    "title": "BLACK TORCH",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/fy1R05K8zCUFmQG6f1Wn4gPwte4.jpg",
-    "updatedAt": "2026-10-04T04:43:48.302Z"
   }
 ]
