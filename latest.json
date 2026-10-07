@@ -1,5 +1,66 @@
 [
   {
+    "id": "243084",
+    "title": "Love Game in Eastern Fantasy",
+    "type": "tv",
+    "season": 1,
+    "episode": 32,
+    "backdrop": "https://image.tmdb.org/t/p/w500/7lRygOChXVhMc2nr4fIxoHL22wy.jpg",
+    "updatedAt": "2026-10-07T14:25:09.684Z"
+  },
+  {
+    "id": "937020",
+    "title": "Jailer",
+    "type": "movie",
+    "year": "2023",
+    "backdrop": "https://image.tmdb.org/t/p/w500/ownDZBS9ecoPbWjW5V5L8jknGF.jpg",
+    "updatedAt": "2026-10-07T13:16:40.542Z"
+  },
+  {
+    "id": "91239",
+    "title": "Bridgerton",
+    "type": "tv",
+    "season": null,
+    "episode": null,
+    "backdrop": "https://image.tmdb.org/t/p/w500/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg",
+    "updatedAt": "2026-10-07T13:16:13.870Z"
+  },
+  {
+    "id": "228689",
+    "title": "Genie, Make a Wish",
+    "type": "tv",
+    "season": 1,
+    "episode": 13,
+    "backdrop": "https://image.tmdb.org/t/p/w500/941Ar9Mc8F9stDJSkmaqRPNFSEV.jpg",
+    "updatedAt": "2026-10-07T13:14:33.832Z"
+  },
+  {
+    "id": "94796",
+    "title": "Crash Landing on You",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/xR126BEtfrU2cwIB2hIJVDMr6MO.jpg",
+    "updatedAt": "2026-10-07T13:11:55.613Z"
+  },
+  {
+    "id": "154825",
+    "title": "Business Proposal",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/3ARq4Fmu6xApIdv5LmKO7W6Zf4R.jpg",
+    "updatedAt": "2026-10-07T13:07:28.035Z"
+  },
+  {
+    "id": "1226572",
+    "title": "Superboys of Malegaon",
+    "type": "movie",
+    "year": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w500/kgnjPFC0jq2U6M2VjEO0bO9QuFq.jpg",
+    "updatedAt": "2026-10-07T13:05:20.808Z"
+  },
+  {
     "id": "404368",
     "title": "Ralph Breaks the Internet",
     "type": "movie",
@@ -105,63 +166,5 @@
     "year": "2023",
     "backdrop": "https://image.tmdb.org/t/p/w500/nyPL8GW5jy2niM9vyRSn4wF29cT.jpg",
     "updatedAt": "2026-10-07T10:43:14.060Z"
-  },
-  {
-    "id": "1473354",
-    "title": "Sarvam Maya",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/ajvTTNfkOXbodEePwe9B3JsigON.jpg",
-    "updatedAt": "2026-10-07T07:38:03.665Z"
-  },
-  {
-    "id": "579974",
-    "title": "RRR",
-    "type": "movie",
-    "year": "2022",
-    "backdrop": "https://image.tmdb.org/t/p/w500/d3l7kgFJyLTTQSrR4ysCk5yeVyW.jpg",
-    "updatedAt": "2026-10-07T07:35:04.935Z"
-  },
-  {
-    "id": "414906",
-    "title": "The Batman",
-    "type": "movie",
-    "year": "2022",
-    "backdrop": "https://image.tmdb.org/t/p/w500/eUORREWq2ThkkxyiCESCu3sVdGg.jpg",
-    "updatedAt": "2026-10-07T07:32:33.564Z"
-  },
-  {
-    "id": "91314",
-    "title": "Transformers: Age of Extinction",
-    "type": "movie",
-    "year": "2014",
-    "backdrop": "https://image.tmdb.org/t/p/w500/wnYaT3SmpDGC6jvb10zY7wCWS9o.jpg",
-    "updatedAt": "2026-10-07T07:30:56.976Z"
-  },
-  {
-    "id": "110356",
-    "title": "My Name",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/OfG0t7Dff5vaDZTe4mvWlcYEum.jpg",
-    "updatedAt": "2026-10-07T06:56:15.836Z"
-  },
-  {
-    "id": "142527",
-    "title": "Doraemon: Nobita and the Birth of Japan",
-    "type": "movie",
-    "year": "1989",
-    "backdrop": "https://image.tmdb.org/t/p/w500/pPwR2VBB1Bo1SB5Tf205bY7vqbt.jpg",
-    "updatedAt": "2026-10-07T06:53:10.540Z"
-  },
-  {
-    "id": "93846",
-    "title": "The King: Eternal Monarch",
-    "type": "tv",
-    "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9YUmiZVDFyRvWzYreeKQ1aQwAnm.jpg",
-    "updatedAt": "2026-10-07T06:39:27.710Z"
   }
 ]
