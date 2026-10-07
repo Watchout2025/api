@@ -1,80 +1,78 @@
 [
   {
-    "id": "652",
-    "title": "Troy",
+    "id": "9502",
+    "title": "Kung Fu Panda",
     "type": "movie",
-    "year": "2004",
-    "backdrop": "https://image.tmdb.org/t/p/w500/bQWhc4BVzODExgBpK0HREWrvWAu.jpg",
-    "updatedAt": "2026-10-06T14:11:32.471Z"
+    "year": "2008",
+    "backdrop": "https://image.tmdb.org/t/p/w500/7nSTDHcdwzUcZ74G6gGwxrTy6j9.jpg",
+    "updatedAt": "2026-10-07T12:55:11.247Z"
   },
   {
-    "id": "218539",
-    "title": "My Demon",
+    "id": "1609125",
+    "title": "The Butcher's Blade",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/zYrldkWrMQO529xKQP7qRZUFKCD.jpg",
+    "updatedAt": "2026-10-07T12:49:19.046Z"
+  },
+  {
+    "id": "20359",
+    "title": "Phir Hera Pheri",
+    "type": "movie",
+    "year": "2006",
+    "backdrop": "https://image.tmdb.org/t/p/w500/mnmC3vRTmb7dhExzVp84NTsLYkh.jpg",
+    "updatedAt": "2026-10-07T12:48:00.371Z"
+  },
+  {
+    "id": "91363",
+    "title": "What If...?",
+    "type": "tv",
+    "season": 3,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/c8CPhNYTiovQoEGFsJAauWkggRg.jpg",
+    "updatedAt": "2026-10-07T12:46:34.214Z"
+  },
+  {
+    "id": "288673",
+    "title": "Carrie",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/eS83I38AwNkZn1dETD63bgsukzP.jpg",
+    "updatedAt": "2026-10-07T12:29:55.931Z"
+  },
+  {
+    "id": "89410",
+    "title": "Search: WWW",
     "type": "tv",
     "season": 1,
     "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/evhyKVCquKhhwceubBnEOae0TyQ.jpg",
-    "updatedAt": "2026-10-06T14:06:45.945Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/gjHLT1mhbEYACMGPinkhR7TyCl.jpg",
+    "updatedAt": "2026-10-07T11:41:18.112Z"
   },
   {
-    "id": "119051",
-    "title": "Wednesday",
-    "type": "tv",
-    "season": 2,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg",
-    "updatedAt": "2026-10-06T14:04:04.825Z"
-  },
-  {
-    "id": "1508168",
-    "title": "Bethlehem Kudumba Unit",
+    "id": "496316",
+    "title": "Baaghi 2",
     "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/zms3m4kVz7RXmobU1B0nhrvUEmP.jpg",
-    "updatedAt": "2026-10-06T13:51:30.315Z"
+    "year": "2018",
+    "backdrop": "https://image.tmdb.org/t/p/w500/q8ONC72AnOjjX999EKPTQkearE7.jpg",
+    "updatedAt": "2026-10-07T10:48:43.802Z"
   },
   {
-    "id": "194766",
-    "title": "The Summer I Turned Pretty",
-    "type": "tv",
-    "season": 3,
-    "episode": 11,
-    "backdrop": "https://image.tmdb.org/t/p/w500/bWOLnvEXYytz0V91nZFYdpiXQ2M.jpg",
-    "updatedAt": "2026-10-06T13:43:04.398Z"
-  },
-  {
-    "id": "1375646",
-    "title": "Colony",
+    "id": "447365",
+    "title": "Guardians of the Galaxy Vol. 3",
     "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/mXhgb6WzczIJPOJSlY2hhUZuwc7.jpg",
-    "updatedAt": "2026-10-06T13:41:37.361Z"
+    "year": "2023",
+    "backdrop": "https://image.tmdb.org/t/p/w500/nyPL8GW5jy2niM9vyRSn4wF29cT.jpg",
+    "updatedAt": "2026-10-07T10:43:14.060Z"
   },
   {
-    "id": "314939",
-    "title": "A Love Other Than Yours",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/auiu4giz7AMlLlaRpZPlOP3mgIT.jpg",
-    "updatedAt": "2026-10-06T13:40:44.609Z"
-  },
-  {
-    "id": "110316",
-    "title": "Alice in Borderland",
-    "type": "tv",
-    "season": 2,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/i6vV0LDMnyFFT3yBysMHvpWEZor.jpg",
-    "updatedAt": "2026-10-06T13:36:12.725Z"
-  },
-  {
-    "id": "1419390",
-    "title": "Vash Level 2",
+    "id": "1473354",
+    "title": "Sarvam Maya",
     "type": "movie",
     "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/5AHNEPeP4YdQDTJ7NRVvRX2VzSm.jpg",
-    "updatedAt": "2026-10-06T13:15:36.416Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/ajvTTNfkOXbodEePwe9B3JsigON.jpg",
+    "updatedAt": "2026-10-07T07:38:03.665Z"
   },
   {
     "id": "579974",
@@ -82,93 +80,89 @@
     "type": "movie",
     "year": "2022",
     "backdrop": "https://image.tmdb.org/t/p/w500/d3l7kgFJyLTTQSrR4ysCk5yeVyW.jpg",
-    "updatedAt": "2026-10-06T13:15:23.411Z"
+    "updatedAt": "2026-10-07T07:35:04.935Z"
   },
   {
-    "id": "165068",
-    "title": "Dushman",
+    "id": "414906",
+    "title": "The Batman",
     "type": "movie",
-    "year": "1998",
-    "backdrop": "https://image.tmdb.org/t/p/w500/8BVJJjXoq7IbacR6YnUe9rGrUq7.jpg",
-    "updatedAt": "2026-10-06T13:07:40.391Z"
+    "year": "2022",
+    "backdrop": "https://image.tmdb.org/t/p/w500/eUORREWq2ThkkxyiCESCu3sVdGg.jpg",
+    "updatedAt": "2026-10-07T07:32:33.564Z"
   },
   {
-    "id": "518497",
-    "title": "Sir",
+    "id": "91314",
+    "title": "Transformers: Age of Extinction",
     "type": "movie",
-    "year": "2018",
-    "backdrop": "https://image.tmdb.org/t/p/w500/pYRFw5Lyc7CnaarhzlXHojSzEZx.jpg",
-    "updatedAt": "2026-10-06T12:34:11.411Z"
+    "year": "2014",
+    "backdrop": "https://image.tmdb.org/t/p/w500/wnYaT3SmpDGC6jvb10zY7wCWS9o.jpg",
+    "updatedAt": "2026-10-07T07:30:56.976Z"
   },
   {
-    "id": "94664",
-    "title": "Mushoku Tensei: Jobless Reincarnation",
-    "type": "tv",
-    "season": 3,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/81j82xSVO8jXHsHVByQLYm2XZ3s.jpg",
-    "updatedAt": "2026-10-06T12:30:22.722Z"
-  },
-  {
-    "id": "154825",
-    "title": "Business Proposal",
+    "id": "110356",
+    "title": "My Name",
     "type": "tv",
     "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3ARq4Fmu6xApIdv5LmKO7W6Zf4R.jpg",
-    "updatedAt": "2026-10-06T12:28:42.998Z"
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/OfG0t7Dff5vaDZTe4mvWlcYEum.jpg",
+    "updatedAt": "2026-10-07T06:56:15.836Z"
   },
   {
-    "id": "277834",
-    "title": "Moana",
+    "id": "142527",
+    "title": "Doraemon: Nobita and the Birth of Japan",
     "type": "movie",
-    "year": "2016",
-    "backdrop": "https://image.tmdb.org/t/p/w500/mtYxEUvcjrwzfzpJTGqziewyGR3.jpg",
-    "updatedAt": "2026-10-06T12:26:46.198Z"
+    "year": "1989",
+    "backdrop": "https://image.tmdb.org/t/p/w500/pPwR2VBB1Bo1SB5Tf205bY7vqbt.jpg",
+    "updatedAt": "2026-10-07T06:53:10.540Z"
   },
   {
-    "id": "302882",
-    "title": "#Love",
+    "id": "93846",
+    "title": "The King: Eternal Monarch",
     "type": "tv",
     "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/xrm5XNKMuAnvnG9sokNYlaAng2G.jpg",
-    "updatedAt": "2026-10-06T12:26:02.189Z"
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/9YUmiZVDFyRvWzYreeKQ1aQwAnm.jpg",
+    "updatedAt": "2026-10-07T06:39:27.710Z"
+  },
+  {
+    "id": "1291595",
+    "title": "Insidious: Out of the Further",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/prGSGD56ihQCaexXldXYpeESBeM.jpg",
+    "updatedAt": "2026-10-07T06:23:12.746Z"
   },
   {
     "id": "11436",
     "title": "Bigg Boss",
     "type": "tv",
     "season": 20,
-    "episode": 30,
+    "episode": 31,
     "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
-    "updatedAt": "2026-10-06T12:18:33.137Z"
+    "updatedAt": "2026-10-07T06:20:34.673Z"
   },
   {
-    "id": "297640",
-    "title": "Filing for Love",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/e1NeKiC0YSrNNGHazvzOGEjflJe.jpg",
-    "updatedAt": "2026-10-06T12:14:14.530Z"
+    "id": "1280611",
+    "title": "Paradha",
+    "type": "movie",
+    "year": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w500/yiY4kqZo7hHYoE7TTnUvY71Dbmm.jpg",
+    "updatedAt": "2026-10-07T06:18:49.620Z"
   },
   {
-    "id": "45790",
-    "title": "JoJo's Bizarre Adventure",
-    "type": "tv",
-    "season": null,
-    "episode": null,
-    "backdrop": "https://image.tmdb.org/t/p/w500/ciDRS9Q8ErVxYzOpmYG40Wqbpc2.jpg",
-    "updatedAt": "2026-10-06T12:12:33.368Z"
+    "id": "1277236",
+    "title": "Main Ladega",
+    "type": "movie",
+    "year": "2024",
+    "backdrop": "https://image.tmdb.org/t/p/w500/yXvVIZCIitmt8SeGAoSuEn8Z6Mi.jpg",
+    "updatedAt": "2026-10-07T06:17:12.866Z"
   },
   {
-    "id": "313101",
-    "title": "Musafir Cafe",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/2C15EiKyfLrWAWbjqpHvumgOtNk.jpg",
-    "updatedAt": "2026-10-06T12:01:03.987Z"
+    "id": "1101412",
+    "title": "Fall 2: Deadpoint",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/zwHsEcRcazZCxTWs9Glwo9qWZ0F.jpg",
+    "updatedAt": "2026-10-07T06:16:10.971Z"
   }
 ]
