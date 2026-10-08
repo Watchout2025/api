@@ -1,5 +1,68 @@
 [
   {
+    "id": "282326",
+    "title": "Against the Current",
+    "type": "tv",
+    "season": 1,
+    "episode": 47,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cQylfnq28qgF4dn5CPu95gTmwp4.jpg",
+    "updatedAt": "2026-10-08T03:28:43.342Z"
+  },
+  {
+    "id": "246482",
+    "title": "Love Is Better the Second Time Around",
+    "type": "tv",
+    "season": 2,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jXPaqZIbY9eINLyEn7oWPv7I32V.jpg",
+    "updatedAt": "2026-10-08T03:21:37.869Z"
+  },
+  {
+    "id": "307433",
+    "title": "Moonshadow",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/etPjU43sjNzLkYd0TMYzWJ7qH9f.jpg",
+    "updatedAt": "2026-10-08T03:18:29.670Z"
+  },
+  {
+    "id": "305551",
+    "title": "Merry Berry Love",
+    "type": "tv",
+    "season": 1,
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/z4T6XZp1B3l6sr2KvPxVqAX4SCg.jpg",
+    "updatedAt": "2026-10-08T03:17:05.555Z"
+  },
+  {
+    "id": "260463",
+    "title": "Daemons of the Shadow Realm",
+    "type": "tv",
+    "season": 1,
+    "episode": 24,
+    "backdrop": "https://image.tmdb.org/t/p/w500/nUZECCEQUCtu1WKW1Gll9Ba8V2J.jpg",
+    "updatedAt": "2026-10-08T03:15:52.274Z"
+  },
+  {
+    "id": "307106",
+    "title": "Between Steps",
+    "type": "tv",
+    "season": 1,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/fyBCir5oh2TCrF0uWD1gUEfg6Pz.jpg",
+    "updatedAt": "2026-10-08T03:14:14.552Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 32,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
+    "updatedAt": "2026-10-08T03:11:57.357Z"
+  },
+  {
     "id": "243084",
     "title": "Love Game in Eastern Fantasy",
     "type": "tv",
@@ -107,64 +170,5 @@
     "year": "2008",
     "backdrop": "https://image.tmdb.org/t/p/w500/7nSTDHcdwzUcZ74G6gGwxrTy6j9.jpg",
     "updatedAt": "2026-10-07T12:55:11.247Z"
-  },
-  {
-    "id": "1609125",
-    "title": "The Butcher's Blade",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/zYrldkWrMQO529xKQP7qRZUFKCD.jpg",
-    "updatedAt": "2026-10-07T12:49:19.046Z"
-  },
-  {
-    "id": "20359",
-    "title": "Phir Hera Pheri",
-    "type": "movie",
-    "year": "2006",
-    "backdrop": "https://image.tmdb.org/t/p/w500/mnmC3vRTmb7dhExzVp84NTsLYkh.jpg",
-    "updatedAt": "2026-10-07T12:48:00.371Z"
-  },
-  {
-    "id": "91363",
-    "title": "What If...?",
-    "type": "tv",
-    "season": 3,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/c8CPhNYTiovQoEGFsJAauWkggRg.jpg",
-    "updatedAt": "2026-10-07T12:46:34.214Z"
-  },
-  {
-    "id": "288673",
-    "title": "Carrie",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/eS83I38AwNkZn1dETD63bgsukzP.jpg",
-    "updatedAt": "2026-10-07T12:29:55.931Z"
-  },
-  {
-    "id": "89410",
-    "title": "Search: WWW",
-    "type": "tv",
-    "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/gjHLT1mhbEYACMGPinkhR7TyCl.jpg",
-    "updatedAt": "2026-10-07T11:41:18.112Z"
-  },
-  {
-    "id": "496316",
-    "title": "Baaghi 2",
-    "type": "movie",
-    "year": "2018",
-    "backdrop": "https://image.tmdb.org/t/p/w500/q8ONC72AnOjjX999EKPTQkearE7.jpg",
-    "updatedAt": "2026-10-07T10:48:43.802Z"
-  },
-  {
-    "id": "447365",
-    "title": "Guardians of the Galaxy Vol. 3",
-    "type": "movie",
-    "year": "2023",
-    "backdrop": "https://image.tmdb.org/t/p/w500/nyPL8GW5jy2niM9vyRSn4wF29cT.jpg",
-    "updatedAt": "2026-10-07T10:43:14.060Z"
   }
 ]
