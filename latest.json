@@ -1,5 +1,141 @@
 [
   {
+    "id": "1036081",
+    "title": "Khalifa: The Ruler",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
+    "updatedAt": "2026-10-09T16:47:50.572Z"
+  },
+  {
+    "id": "505642",
+    "title": "Black Panther: Wakanda Forever",
+    "type": "movie",
+    "year": "2022",
+    "backdrop": "https://image.tmdb.org/t/p/w500/scKJVENxSW3baJiDUP6h3nwcfP0.jpg",
+    "updatedAt": "2026-10-09T16:43:52.355Z"
+  },
+  {
+    "id": "284054",
+    "title": "Black Panther",
+    "type": "movie",
+    "year": "2018",
+    "backdrop": "https://image.tmdb.org/t/p/w500/iwKlrK1FJJy6wnJVu8YQgNq3Ort.jpg",
+    "updatedAt": "2026-10-09T16:41:56.433Z"
+  },
+  {
+    "id": "95269",
+    "title": "Toilet-Bound Hanako-kun",
+    "type": "tv",
+    "season": 2,
+    "episode": 24,
+    "backdrop": "https://image.tmdb.org/t/p/w500/aWmfb4bHFrYZjcIBpaGFOYUr77v.jpg",
+    "updatedAt": "2026-10-09T16:35:16.898Z"
+  },
+  {
+    "id": "337806",
+    "title": "Least Eligible Bachelor",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/y7jCp3fZuKEyw6F3I8tseyJyl2L.jpg",
+    "updatedAt": "2026-10-09T16:01:44.995Z"
+  },
+  {
+    "id": "289423",
+    "title": "Take Charge of My Heart",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/6NAy0c79IPyT4AE4gzD7n4iZ3FR.jpg",
+    "updatedAt": "2026-10-09T13:26:06.587Z"
+  },
+  {
+    "id": "1148365",
+    "title": "Matchbox the Movie",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/ugpflhns3FF9JcNaNjIThcOTKf5.jpg",
+    "updatedAt": "2026-10-09T11:23:36.705Z"
+  },
+  {
+    "id": "564",
+    "title": "The Mummy",
+    "type": "movie",
+    "year": "1999",
+    "backdrop": "https://image.tmdb.org/t/p/w500/nwFlWrZ4007ysvNlaN0VsMEFCC9.jpg",
+    "updatedAt": "2026-10-09T10:43:09.061Z"
+  },
+  {
+    "id": "39898",
+    "title": "Kung Fu Panda: Legends of Awesomeness",
+    "type": "tv",
+    "season": 1,
+    "episode": 26,
+    "backdrop": "https://image.tmdb.org/t/p/w500/l4JTYrVduABZiH7tkIZLCMIPG5w.jpg",
+    "updatedAt": "2026-10-09T10:42:07.046Z"
+  },
+  {
+    "id": "1389172",
+    "title": "Reporting Live",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
+    "updatedAt": "2026-10-09T10:18:17.577Z"
+  },
+  {
+    "id": "1236045",
+    "title": "Animals",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/2lx5WGVJ6cl5wMwdgjxezpPAk7m.jpg",
+    "updatedAt": "2026-10-09T10:17:09.178Z"
+  },
+  {
+    "id": "294636",
+    "title": "The Ordinary Jackpot",
+    "type": "tv",
+    "season": 1,
+    "episode": 9,
+    "backdrop": "https://image.tmdb.org/t/p/w500/AtJigZx2ExMks84uY0Dq20Y3KYJ.jpg",
+    "updatedAt": "2026-10-09T10:16:50.495Z"
+  },
+  {
+    "id": "255613",
+    "title": "Eyes",
+    "type": "tv",
+    "season": 1,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/9jwfNI5P95kadt3HNQxIbftSg4N.jpg",
+    "updatedAt": "2026-10-09T06:03:10.572Z"
+  },
+  {
+    "id": "117376",
+    "title": "Vincenzo",
+    "type": "tv",
+    "season": 1,
+    "episode": 20,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cQwu0TKuXXFfPKc5i8nZ0PsgeQC.jpg",
+    "updatedAt": "2026-10-09T03:27:21.740Z"
+  },
+  {
+    "id": "1022453",
+    "title": "The Rajasaab",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/kCwmLYy9ZMto1eMH8BI9KcVVIH2.jpg",
+    "updatedAt": "2026-10-09T03:05:18.170Z"
+  },
+  {
+    "id": "283428",
+    "title": "The Ramparts of Ice",
+    "type": "tv",
+    "season": 2,
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/8Oh5v6xltWdVgt9Vt465qbLXatM.jpg",
+    "updatedAt": "2026-10-09T02:40:16.693Z"
+  },
+  {
     "id": "1408162",
     "title": "Vishwanath & Sons",
     "type": "movie",
@@ -32,145 +168,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/1vC4Cy8YThzksYyqUZ3BI9YQ6W1.jpg",
     "updatedAt": "2026-10-08T17:02:18.748Z"
-  },
-  {
-    "id": "83533",
-    "title": "Avatar: Fire and Ash",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/ymtnjmwnExw1ZztBKQVkG0flooe.jpg",
-    "updatedAt": "2026-10-08T17:00:23.997Z"
-  },
-  {
-    "id": "1399",
-    "title": "Game of Thrones",
-    "type": "tv",
-    "season": 8,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hRb50fOGcXic3NO6kUnL9hRXwsg.jpg",
-    "updatedAt": "2026-10-08T12:11:29.006Z"
-  },
-  {
-    "id": "997448",
-    "title": "My Dad Got Remarried 6 Months Ago, Now I'm Living With This Lazy New Big Stepsister Prancing Around With Her Guard Down, I Couldn't Resist And Gave Her A Creampie From Behind",
-    "type": "movie",
-    "year": "2022",
-    "backdrop": "https://image.tmdb.org/t/p/w500/lDhC7QAR9hTA83SvMFV55Pr3LYy.jpg",
-    "updatedAt": "2026-10-08T10:52:38.382Z"
-  },
-  {
-    "id": "245467",
-    "title": "Raisinghani VS. Raisinghani",
-    "type": "tv",
-    "season": 1,
-    "episode": 50,
-    "backdrop": "https://image.tmdb.org/t/p/w500/fHIDQu76psLKed0CUEx4dbPJVF0.jpg",
-    "updatedAt": "2026-10-08T10:22:47.317Z"
-  },
-  {
-    "id": "300081",
-    "title": "Rise and Fall",
-    "type": "tv",
-    "season": 2,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/oE2X7HuKpCJE5hCzTMPKdxJY5vW.jpg",
-    "updatedAt": "2026-10-08T10:06:19.847Z"
-  },
-  {
-    "id": "285322",
-    "title": "Below",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/tJhDFLNrJsYG2WysMh2jAcfJjEq.jpg",
-    "updatedAt": "2026-10-08T10:03:30.424Z"
-  },
-  {
-    "id": "1733512",
-    "title": "Vadala",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/kI21hS25XVMqq65p6lrAqQplWtR.jpg",
-    "updatedAt": "2026-10-08T09:57:46.906Z"
-  },
-  {
-    "id": "1293550",
-    "title": "Bandar",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/xS8tsJ8IvNkzBMu3kq3gZFReh7j.jpg",
-    "updatedAt": "2026-10-08T03:35:38.350Z"
-  },
-  {
-    "id": "78385",
-    "title": "Something in the Rain",
-    "type": "tv",
-    "season": null,
-    "episode": null,
-    "backdrop": "https://image.tmdb.org/t/p/w500/lAbpLvcy6iwlPXjy6i2sDuDWo1S.jpg",
-    "updatedAt": "2026-10-08T03:33:26.431Z"
-  },
-  {
-    "id": "282326",
-    "title": "Against the Current",
-    "type": "tv",
-    "season": 1,
-    "episode": 47,
-    "backdrop": "https://image.tmdb.org/t/p/w500/cQylfnq28qgF4dn5CPu95gTmwp4.jpg",
-    "updatedAt": "2026-10-08T03:28:43.342Z"
-  },
-  {
-    "id": "246482",
-    "title": "Love Is Better the Second Time Around",
-    "type": "tv",
-    "season": 2,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/jXPaqZIbY9eINLyEn7oWPv7I32V.jpg",
-    "updatedAt": "2026-10-08T03:21:37.869Z"
-  },
-  {
-    "id": "307433",
-    "title": "Moonshadow",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/etPjU43sjNzLkYd0TMYzWJ7qH9f.jpg",
-    "updatedAt": "2026-10-08T03:18:29.670Z"
-  },
-  {
-    "id": "305551",
-    "title": "Merry Berry Love",
-    "type": "tv",
-    "season": 1,
-    "episode": 1,
-    "backdrop": "https://image.tmdb.org/t/p/w500/z4T6XZp1B3l6sr2KvPxVqAX4SCg.jpg",
-    "updatedAt": "2026-10-08T03:17:05.555Z"
-  },
-  {
-    "id": "260463",
-    "title": "Daemons of the Shadow Realm",
-    "type": "tv",
-    "season": 1,
-    "episode": 24,
-    "backdrop": "https://image.tmdb.org/t/p/w500/nUZECCEQUCtu1WKW1Gll9Ba8V2J.jpg",
-    "updatedAt": "2026-10-08T03:15:52.274Z"
-  },
-  {
-    "id": "11436",
-    "title": "Bigg Boss",
-    "type": "tv",
-    "season": 20,
-    "episode": 32,
-    "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
-    "updatedAt": "2026-10-08T03:11:57.357Z"
-  },
-  {
-    "id": "243084",
-    "title": "Love Game in Eastern Fantasy",
-    "type": "tv",
-    "season": 1,
-    "episode": 32,
-    "backdrop": "https://image.tmdb.org/t/p/w500/7lRygOChXVhMc2nr4fIxoHL22wy.jpg",
-    "updatedAt": "2026-10-07T14:25:09.684Z"
   }
 ]
