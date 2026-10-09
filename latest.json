@@ -1,5 +1,13 @@
 [
   {
+    "id": "414906",
+    "title": "The Batman",
+    "type": "movie",
+    "year": "2022",
+    "backdrop": "https://image.tmdb.org/t/p/w500/eUORREWq2ThkkxyiCESCu3sVdGg.jpg",
+    "updatedAt": "2026-10-09T17:00:53.049Z"
+  },
+  {
     "id": "1036081",
     "title": "Khalifa: The Ruler",
     "type": "movie",
@@ -160,13 +168,5 @@
     "episode": 8,
     "backdrop": "https://image.tmdb.org/t/p/w500/lhukQjNRaUXxZGdGGWNZvSU4qfq.jpg",
     "updatedAt": "2026-10-08T17:10:26.935Z"
-  },
-  {
-    "id": "1650939",
-    "title": "Pitt Siyapa",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/1vC4Cy8YThzksYyqUZ3BI9YQ6W1.jpg",
-    "updatedAt": "2026-10-08T17:02:18.748Z"
   }
 ]
