@@ -1,5 +1,47 @@
 [
   {
+    "id": "881614",
+    "title": "Adbhut",
+    "type": "movie",
+    "year": "2024",
+    "backdrop": "https://image.tmdb.org/t/p/w500/gZD6c0yBUqER3ykAHH89yssFPGZ.jpg",
+    "updatedAt": "2026-10-10T07:09:34.269Z"
+  },
+  {
+    "id": "1792938",
+    "title": "Meri Girlfriend Da Viyaah",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/dIhHGPG1TMJzMFSs7kzQ6ZjMBK4.jpg",
+    "updatedAt": "2026-10-10T07:07:50.380Z"
+  },
+  {
+    "id": "1514682",
+    "title": "Above & Below",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/lSd6nEnlaeQkswLLUgHC5gyuXyU.jpg",
+    "updatedAt": "2026-10-10T07:06:34.798Z"
+  },
+  {
+    "id": "293610",
+    "title": "Doctor X: Mafia in White",
+    "type": "tv",
+    "season": 1,
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hMEulOCbZtnS7gFFBDuQCpYQs5a.jpg",
+    "updatedAt": "2026-10-10T06:41:44.883Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 34,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
+    "updatedAt": "2026-10-10T06:39:52.741Z"
+  },
+  {
     "id": "414906",
     "title": "The Batman",
     "type": "movie",
@@ -125,48 +167,5 @@
     "episode": 20,
     "backdrop": "https://image.tmdb.org/t/p/w500/cQwu0TKuXXFfPKc5i8nZ0PsgeQC.jpg",
     "updatedAt": "2026-10-09T03:27:21.740Z"
-  },
-  {
-    "id": "1022453",
-    "title": "The Rajasaab",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/kCwmLYy9ZMto1eMH8BI9KcVVIH2.jpg",
-    "updatedAt": "2026-10-09T03:05:18.170Z"
-  },
-  {
-    "id": "283428",
-    "title": "The Ramparts of Ice",
-    "type": "tv",
-    "season": 2,
-    "episode": 1,
-    "backdrop": "https://image.tmdb.org/t/p/w500/8Oh5v6xltWdVgt9Vt465qbLXatM.jpg",
-    "updatedAt": "2026-10-09T02:40:16.693Z"
-  },
-  {
-    "id": "1408162",
-    "title": "Vishwanath & Sons",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
-    "updatedAt": "2026-10-08T17:15:09.238Z"
-  },
-  {
-    "id": "307106",
-    "title": "Between Steps",
-    "type": "tv",
-    "season": 1,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/fyBCir5oh2TCrF0uWD1gUEfg6Pz.jpg",
-    "updatedAt": "2026-10-08T17:14:39.684Z"
-  },
-  {
-    "id": "262838",
-    "title": "India's Got Latent",
-    "type": "tv",
-    "season": 2,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/lhukQjNRaUXxZGdGGWNZvSU4qfq.jpg",
-    "updatedAt": "2026-10-08T17:10:26.935Z"
   }
 ]
