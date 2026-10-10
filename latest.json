@@ -1,5 +1,37 @@
 [
   {
+    "id": "82525",
+    "title": "Savages",
+    "type": "movie",
+    "year": "2012",
+    "backdrop": "https://image.tmdb.org/t/p/w500/7ytBNDKS9c9gqEKLoWFCJTFK3e5.jpg",
+    "updatedAt": "2026-10-10T08:28:54.253Z"
+  },
+  {
+    "id": "10386",
+    "title": "The Iron Giant",
+    "type": "movie",
+    "year": "1999",
+    "backdrop": "https://image.tmdb.org/t/p/w500/ibzX5Ho1gOyaAg5FmpzaKRuFkKt.jpg",
+    "updatedAt": "2026-10-10T08:27:27.650Z"
+  },
+  {
+    "id": "2289",
+    "title": "Cold Mountain",
+    "type": "movie",
+    "year": "2003",
+    "backdrop": "https://image.tmdb.org/t/p/w500/kFUPZxF5HxuYcfewXXLR9ZJtTLZ.jpg",
+    "updatedAt": "2026-10-10T08:25:57.765Z"
+  },
+  {
+    "id": "1612543",
+    "title": "Rony - The Ruler",
+    "type": "movie",
+    "year": "2024",
+    "backdrop": "https://image.tmdb.org/t/p/w500/8hET9DxQLf9MYzSNbeqyhqQjYuV.jpg",
+    "updatedAt": "2026-10-10T08:24:46.440Z"
+  },
+  {
     "id": "881614",
     "title": "Adbhut",
     "type": "movie",
@@ -132,40 +164,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
     "updatedAt": "2026-10-09T10:18:17.577Z"
-  },
-  {
-    "id": "1236045",
-    "title": "Animals",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/2lx5WGVJ6cl5wMwdgjxezpPAk7m.jpg",
-    "updatedAt": "2026-10-09T10:17:09.178Z"
-  },
-  {
-    "id": "294636",
-    "title": "The Ordinary Jackpot",
-    "type": "tv",
-    "season": 1,
-    "episode": 9,
-    "backdrop": "https://image.tmdb.org/t/p/w500/AtJigZx2ExMks84uY0Dq20Y3KYJ.jpg",
-    "updatedAt": "2026-10-09T10:16:50.495Z"
-  },
-  {
-    "id": "255613",
-    "title": "Eyes",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9jwfNI5P95kadt3HNQxIbftSg4N.jpg",
-    "updatedAt": "2026-10-09T06:03:10.572Z"
-  },
-  {
-    "id": "117376",
-    "title": "Vincenzo",
-    "type": "tv",
-    "season": 1,
-    "episode": 20,
-    "backdrop": "https://image.tmdb.org/t/p/w500/cQwu0TKuXXFfPKc5i8nZ0PsgeQC.jpg",
-    "updatedAt": "2026-10-09T03:27:21.740Z"
   }
 ]
