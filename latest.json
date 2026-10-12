@@ -1,5 +1,94 @@
 [
   {
+    "id": "153217",
+    "title": "Sparks of Tomorrow",
+    "type": "tv",
+    "season": 1,
+    "episode": 13,
+    "backdrop": "https://image.tmdb.org/t/p/w500/uI8e54LXFazUjOQ8n4K2FapSIdo.jpg",
+    "updatedAt": "2026-10-12T12:48:42.486Z"
+  },
+  {
+    "id": "119051",
+    "title": "Wednesday",
+    "type": "tv",
+    "season": 2,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg",
+    "updatedAt": "2026-10-12T12:38:43.246Z"
+  },
+  {
+    "id": "1604274",
+    "title": "Maremma",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/qsnsKf59pYN3GzfQRqvNjE8tcdz.jpg",
+    "updatedAt": "2026-10-12T12:29:48.307Z"
+  },
+  {
+    "id": "293610",
+    "title": "Doctor X: Mafia in White",
+    "type": "tv",
+    "season": 1,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hMEulOCbZtnS7gFFBDuQCpYQs5a.jpg",
+    "updatedAt": "2026-10-12T12:24:55.041Z"
+  },
+  {
+    "id": "94664",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "type": "tv",
+    "season": 3,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/81j82xSVO8jXHsHVByQLYm2XZ3s.jpg",
+    "updatedAt": "2026-10-12T12:22:39.811Z"
+  },
+  {
+    "id": "207347",
+    "title": "Blue Box",
+    "type": "tv",
+    "season": 1,
+    "episode": 27,
+    "backdrop": "https://image.tmdb.org/t/p/w500/yLZXf9fghX00SyIfhaoh0x8lUpJ.jpg",
+    "updatedAt": "2026-10-12T12:21:11.119Z"
+  },
+  {
+    "id": "332744",
+    "title": "Indian Game Show",
+    "type": "tv",
+    "season": 2,
+    "episode": 39,
+    "backdrop": "https://image.tmdb.org/t/p/w500/6cILiHDTg4lGUik4KFwZGC1bjpk.jpg",
+    "updatedAt": "2026-10-12T12:18:58.091Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 36,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
+    "updatedAt": "2026-10-12T06:28:41.856Z"
+  },
+  {
+    "id": "104246",
+    "title": "CHIP-IN",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/8G8idOzt0RJEcwDphjkhzFKExPv.jpg",
+    "updatedAt": "2026-10-12T06:25:41.634Z"
+  },
+  {
+    "id": "247769",
+    "title": "The Great Indian Kapil Show",
+    "type": "tv",
+    "season": 5,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cACVBkXIekKwpdjVET7qtGWbC5J.jpg",
+    "updatedAt": "2026-10-11T09:50:09.934Z"
+  },
+  {
     "id": "1545690",
     "title": "WWE Money in the Bank 2026",
     "type": "movie",
@@ -86,87 +175,5 @@
     "year": "2023",
     "backdrop": "https://image.tmdb.org/t/p/w500/c1QUaZtw57aRPaVjXPoKBvppw8b.jpg",
     "updatedAt": "2026-10-10T11:15:07.981Z"
-  },
-  {
-    "id": "1022453",
-    "title": "The Rajasaab",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/kCwmLYy9ZMto1eMH8BI9KcVVIH2.jpg",
-    "updatedAt": "2026-10-10T08:38:10.133Z"
-  },
-  {
-    "id": "154825",
-    "title": "Business Proposal",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3ARq4Fmu6xApIdv5LmKO7W6Zf4R.jpg",
-    "updatedAt": "2026-10-10T08:32:47.657Z"
-  },
-  {
-    "id": "82525",
-    "title": "Savages",
-    "type": "movie",
-    "year": "2012",
-    "backdrop": "https://image.tmdb.org/t/p/w500/7ytBNDKS9c9gqEKLoWFCJTFK3e5.jpg",
-    "updatedAt": "2026-10-10T08:28:54.253Z"
-  },
-  {
-    "id": "10386",
-    "title": "The Iron Giant",
-    "type": "movie",
-    "year": "1999",
-    "backdrop": "https://image.tmdb.org/t/p/w500/ibzX5Ho1gOyaAg5FmpzaKRuFkKt.jpg",
-    "updatedAt": "2026-10-10T08:27:27.650Z"
-  },
-  {
-    "id": "2289",
-    "title": "Cold Mountain",
-    "type": "movie",
-    "year": "2003",
-    "backdrop": "https://image.tmdb.org/t/p/w500/kFUPZxF5HxuYcfewXXLR9ZJtTLZ.jpg",
-    "updatedAt": "2026-10-10T08:25:57.765Z"
-  },
-  {
-    "id": "1612543",
-    "title": "Rony - The Ruler",
-    "type": "movie",
-    "year": "2024",
-    "backdrop": "https://image.tmdb.org/t/p/w500/8hET9DxQLf9MYzSNbeqyhqQjYuV.jpg",
-    "updatedAt": "2026-10-10T08:24:46.440Z"
-  },
-  {
-    "id": "881614",
-    "title": "Adbhut",
-    "type": "movie",
-    "year": "2024",
-    "backdrop": "https://image.tmdb.org/t/p/w500/gZD6c0yBUqER3ykAHH89yssFPGZ.jpg",
-    "updatedAt": "2026-10-10T07:09:34.269Z"
-  },
-  {
-    "id": "1792938",
-    "title": "Meri Girlfriend Da Viyaah",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/dIhHGPG1TMJzMFSs7kzQ6ZjMBK4.jpg",
-    "updatedAt": "2026-10-10T07:07:50.380Z"
-  },
-  {
-    "id": "1514682",
-    "title": "Above & Below",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/lSd6nEnlaeQkswLLUgHC5gyuXyU.jpg",
-    "updatedAt": "2026-10-10T07:06:34.798Z"
-  },
-  {
-    "id": "293610",
-    "title": "Doctor X: Mafia in White",
-    "type": "tv",
-    "season": 1,
-    "episode": 1,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hMEulOCbZtnS7gFFBDuQCpYQs5a.jpg",
-    "updatedAt": "2026-10-10T06:41:44.883Z"
   }
 ]
