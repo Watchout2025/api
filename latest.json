@@ -1,5 +1,127 @@
 [
   {
+    "id": "1058424",
+    "title": "Hope",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/mBZKC8ActTlM4W3HEGI1Cl1RtO3.jpg",
+    "updatedAt": "2026-10-13T07:34:15.688Z"
+  },
+  {
+    "id": "51485",
+    "title": "Delhi Safari",
+    "type": "movie",
+    "year": "2012",
+    "backdrop": "https://image.tmdb.org/t/p/w500/aNqv491atyigB5RLgDEZaZmA5EM.jpg",
+    "updatedAt": "2026-10-13T07:33:43.909Z"
+  },
+  {
+    "id": "335787",
+    "title": "Family Full House with Rohit Sharma",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/dUpoXzSJxMtTbMqrYdDxFM3DrUp.jpg",
+    "updatedAt": "2026-10-13T04:43:10.109Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 37,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
+    "updatedAt": "2026-10-13T04:40:06.622Z"
+  },
+  {
+    "id": "300126",
+    "title": "LIAR GAME",
+    "type": "tv",
+    "season": 1,
+    "episode": 25,
+    "backdrop": "https://image.tmdb.org/t/p/w500/beBpLR0P7cgEbXpOY7dIS2coF4f.jpg",
+    "updatedAt": "2026-10-13T01:50:53.361Z"
+  },
+  {
+    "id": "154825",
+    "title": "Business Proposal",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/3ARq4Fmu6xApIdv5LmKO7W6Zf4R.jpg",
+    "updatedAt": "2026-10-12T14:04:09.189Z"
+  },
+  {
+    "id": "127532",
+    "title": "Solo Leveling",
+    "type": "tv",
+    "season": 1,
+    "episode": 25,
+    "backdrop": "https://image.tmdb.org/t/p/w500/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg",
+    "updatedAt": "2026-10-12T14:01:24.777Z"
+  },
+  {
+    "id": "296140",
+    "title": "My Bias, My Boss",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/v8O0X6PP7grEaXsPkdiotIx78tA.jpg",
+    "updatedAt": "2026-10-12T13:43:59.277Z"
+  },
+  {
+    "id": "229891",
+    "title": "Can This Love Be Translated?",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/kn4RmKUMA1C7oBU9JOesEz6ZXG9.jpg",
+    "updatedAt": "2026-10-12T13:32:21.625Z"
+  },
+  {
+    "id": "235577",
+    "title": "The Judge from Hell",
+    "type": "tv",
+    "season": 1,
+    "episode": 14,
+    "backdrop": "https://image.tmdb.org/t/p/w500/s0KD5pz5BgAtYnDm5hTDo8LcUcn.jpg",
+    "updatedAt": "2026-10-12T13:11:17.113Z"
+  },
+  {
+    "id": "293607",
+    "title": "100 Days of Deception",
+    "type": "tv",
+    "season": 1,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/oSe2Jbep2FZjaLiNiUDpV6DdIF3.jpg",
+    "updatedAt": "2026-10-12T13:08:10.286Z"
+  },
+  {
+    "id": "799177",
+    "title": "Bhediya",
+    "type": "movie",
+    "year": "2022",
+    "backdrop": "https://image.tmdb.org/t/p/w500/7B64cafjhSphSVF2zP2dopuZJoh.jpg",
+    "updatedAt": "2026-10-12T12:54:58.694Z"
+  },
+  {
+    "id": "127529",
+    "title": "Bloodhounds",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/iHHpiZ325jH7V59IajdBhANOMoB.jpg",
+    "updatedAt": "2026-10-12T12:52:39.126Z"
+  },
+  {
+    "id": "299536",
+    "title": "Avengers: Infinity War",
+    "type": "movie",
+    "year": "2018",
+    "backdrop": "https://image.tmdb.org/t/p/w500/icUSGFn22cP2BQ0tXCIsykWVCQ.jpg",
+    "updatedAt": "2026-10-12T12:50:39.485Z"
+  },
+  {
     "id": "153217",
     "title": "Sparks of Tomorrow",
     "type": "tv",
@@ -51,129 +173,5 @@
     "episode": 27,
     "backdrop": "https://image.tmdb.org/t/p/w500/yLZXf9fghX00SyIfhaoh0x8lUpJ.jpg",
     "updatedAt": "2026-10-12T12:21:11.119Z"
-  },
-  {
-    "id": "332744",
-    "title": "Indian Game Show",
-    "type": "tv",
-    "season": 2,
-    "episode": 39,
-    "backdrop": "https://image.tmdb.org/t/p/w500/6cILiHDTg4lGUik4KFwZGC1bjpk.jpg",
-    "updatedAt": "2026-10-12T12:18:58.091Z"
-  },
-  {
-    "id": "11436",
-    "title": "Bigg Boss",
-    "type": "tv",
-    "season": 20,
-    "episode": 36,
-    "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
-    "updatedAt": "2026-10-12T06:28:41.856Z"
-  },
-  {
-    "id": "104246",
-    "title": "CHIP-IN",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/8G8idOzt0RJEcwDphjkhzFKExPv.jpg",
-    "updatedAt": "2026-10-12T06:25:41.634Z"
-  },
-  {
-    "id": "247769",
-    "title": "The Great Indian Kapil Show",
-    "type": "tv",
-    "season": 5,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w500/cACVBkXIekKwpdjVET7qtGWbC5J.jpg",
-    "updatedAt": "2026-10-11T09:50:09.934Z"
-  },
-  {
-    "id": "1545690",
-    "title": "WWE Money in the Bank 2026",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/mnzjYfmZ1Jc1breih28A9Ihv0S3.jpg",
-    "updatedAt": "2026-10-11T06:25:11.770Z"
-  },
-  {
-    "id": "314939",
-    "title": "A Love Other Than Yours",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/auiu4giz7AMlLlaRpZPlOP3mgIT.jpg",
-    "updatedAt": "2026-10-11T06:21:30.460Z"
-  },
-  {
-    "id": "331932",
-    "title": "Ali Baba Aur 40 Bhoot",
-    "type": "tv",
-    "season": 1,
-    "episode": 20,
-    "backdrop": "https://image.tmdb.org/t/p/w500/uDRHlrlXbIgwCnVRJr80VnBrgX7.jpg",
-    "updatedAt": "2026-10-11T06:19:29.772Z"
-  },
-  {
-    "id": "302051",
-    "title": "I Became a Legend After My 10 Year-Long Last Stand",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/g4yyesQhnQ5KH2k6eCXHMHPwl1.jpg",
-    "updatedAt": "2026-10-11T06:12:24.500Z"
-  },
-  {
-    "id": "324326",
-    "title": "The Seven Knights of the Marronnier Kingdom",
-    "type": "tv",
-    "season": 1,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/59oBbiLeG3jeDOUmx6zF6Qfmea3.jpg",
-    "updatedAt": "2026-10-11T06:08:36.691Z"
-  },
-  {
-    "id": "285993",
-    "title": "BLACK TORCH",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/fy1R05K8zCUFmQG6f1Wn4gPwte4.jpg",
-    "updatedAt": "2026-10-11T06:06:49.376Z"
-  },
-  {
-    "id": "312949",
-    "title": "Chainsmoker Cat",
-    "type": "tv",
-    "season": 1,
-    "episode": 11,
-    "backdrop": "https://image.tmdb.org/t/p/w500/zAMw1Nu5XzGW50eNjBkIxF3kfrx.jpg",
-    "updatedAt": "2026-10-11T03:45:56.266Z"
-  },
-  {
-    "id": "259140",
-    "title": "Ranma1/2",
-    "type": "tv",
-    "season": 1,
-    "episode": 26,
-    "backdrop": "https://image.tmdb.org/t/p/w500/z0sftiGQfOALJVCg62n3MaWU72l.jpg",
-    "updatedAt": "2026-10-11T03:44:06.365Z"
-  },
-  {
-    "id": "270603",
-    "title": "The Exiled Heavy Knight Knows How to Game the System",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/lJJpL0ZtFa1fkudBAkyWBcjT8Zc.jpg",
-    "updatedAt": "2026-10-11T03:42:30.919Z"
-  },
-  {
-    "id": "940721",
-    "title": "Godzilla Minus One",
-    "type": "movie",
-    "year": "2023",
-    "backdrop": "https://image.tmdb.org/t/p/w500/c1QUaZtw57aRPaVjXPoKBvppw8b.jpg",
-    "updatedAt": "2026-10-10T11:15:07.981Z"
   }
 ]
