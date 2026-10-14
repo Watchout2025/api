@@ -1,5 +1,56 @@
 [
   {
+    "id": "289892",
+    "title": "Helluva Boss",
+    "type": "tv",
+    "season": 2,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/ix1H6XmQwPt2xbp1RyFK6N0WbK8.jpg",
+    "updatedAt": "2026-10-14T14:37:41.931Z"
+  },
+  {
+    "id": "1381078",
+    "title": "Love of Your Life",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/2al2v8CzOtAasIcmOlKweC2zZZS.jpg",
+    "updatedAt": "2026-10-14T14:17:34.995Z"
+  },
+  {
+    "id": "3981",
+    "title": "What Women Want",
+    "type": "movie",
+    "year": "2000",
+    "backdrop": "https://image.tmdb.org/t/p/w500/kczQeXxj34UDRdIAwYmkAbgiBC6.jpg",
+    "updatedAt": "2026-10-14T14:15:44.873Z"
+  },
+  {
+    "id": "845781",
+    "title": "Red One",
+    "type": "movie",
+    "year": "2024",
+    "backdrop": "https://image.tmdb.org/t/p/w500/iXa4jEaMRTEoSwfd0qf8VTVeJD1.jpg",
+    "updatedAt": "2026-10-14T14:15:01.417Z"
+  },
+  {
+    "id": "45790",
+    "title": "JoJo's Bizarre Adventure",
+    "type": "tv",
+    "season": 6,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/ciDRS9Q8ErVxYzOpmYG40Wqbpc2.jpg",
+    "updatedAt": "2026-10-14T05:06:44.490Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 38,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
+    "updatedAt": "2026-10-14T04:17:48.448Z"
+  },
+  {
     "id": "213375",
     "title": "VisionQuest",
     "type": "tv",
@@ -69,15 +120,6 @@
     "updatedAt": "2026-10-13T04:43:10.109Z"
   },
   {
-    "id": "11436",
-    "title": "Bigg Boss",
-    "type": "tv",
-    "season": 20,
-    "episode": 37,
-    "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
-    "updatedAt": "2026-10-13T04:40:06.622Z"
-  },
-  {
     "id": "300126",
     "title": "LIAR GAME",
     "type": "tv",
@@ -130,48 +172,5 @@
     "episode": 14,
     "backdrop": "https://image.tmdb.org/t/p/w500/s0KD5pz5BgAtYnDm5hTDo8LcUcn.jpg",
     "updatedAt": "2026-10-12T13:11:17.113Z"
-  },
-  {
-    "id": "293607",
-    "title": "100 Days of Deception",
-    "type": "tv",
-    "season": 1,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/oSe2Jbep2FZjaLiNiUDpV6DdIF3.jpg",
-    "updatedAt": "2026-10-12T13:08:10.286Z"
-  },
-  {
-    "id": "799177",
-    "title": "Bhediya",
-    "type": "movie",
-    "year": "2022",
-    "backdrop": "https://image.tmdb.org/t/p/w500/7B64cafjhSphSVF2zP2dopuZJoh.jpg",
-    "updatedAt": "2026-10-12T12:54:58.694Z"
-  },
-  {
-    "id": "127529",
-    "title": "Bloodhounds",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/iHHpiZ325jH7V59IajdBhANOMoB.jpg",
-    "updatedAt": "2026-10-12T12:52:39.126Z"
-  },
-  {
-    "id": "299536",
-    "title": "Avengers: Infinity War",
-    "type": "movie",
-    "year": "2018",
-    "backdrop": "https://image.tmdb.org/t/p/w500/icUSGFn22cP2BQ0tXCIsykWVCQ.jpg",
-    "updatedAt": "2026-10-12T12:50:39.485Z"
-  },
-  {
-    "id": "153217",
-    "title": "Sparks of Tomorrow",
-    "type": "tv",
-    "season": 1,
-    "episode": 13,
-    "backdrop": "https://image.tmdb.org/t/p/w500/uI8e54LXFazUjOQ8n4K2FapSIdo.jpg",
-    "updatedAt": "2026-10-12T12:48:42.486Z"
   }
 ]
