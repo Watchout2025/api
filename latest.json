@@ -1,5 +1,49 @@
 [
   {
+    "id": "213375",
+    "title": "VisionQuest",
+    "type": "tv",
+    "season": 1,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
+    "updatedAt": "2026-10-14T04:16:08.547Z"
+  },
+  {
+    "id": "946025",
+    "title": "Kathal",
+    "type": "movie",
+    "year": "2023",
+    "backdrop": "https://image.tmdb.org/t/p/w500/4iWedLCgd988TNRYFSl4uCK6JEW.jpg",
+    "updatedAt": "2026-10-13T13:32:52.368Z"
+  },
+  {
+    "id": "324502",
+    "title": "Overgeared",
+    "type": "tv",
+    "season": 1,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/745xqHbiUWwO51TM60MXRCR4Onm.jpg",
+    "updatedAt": "2026-10-13T13:30:58.782Z"
+  },
+  {
+    "id": "335536",
+    "title": "TYSON",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/1rlMGCyEYfvW2r2Bdlff1Jp47wa.jpg",
+    "updatedAt": "2026-10-13T13:29:19.635Z"
+  },
+  {
+    "id": "283371",
+    "title": "The Trap",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/69XNjGvcopgPz9Hte0ny1Swk2vW.jpg",
+    "updatedAt": "2026-10-13T13:25:42.245Z"
+  },
+  {
     "id": "1058424",
     "title": "Hope",
     "type": "movie",
@@ -129,49 +173,5 @@
     "episode": 13,
     "backdrop": "https://image.tmdb.org/t/p/w500/uI8e54LXFazUjOQ8n4K2FapSIdo.jpg",
     "updatedAt": "2026-10-12T12:48:42.486Z"
-  },
-  {
-    "id": "119051",
-    "title": "Wednesday",
-    "type": "tv",
-    "season": 2,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg",
-    "updatedAt": "2026-10-12T12:38:43.246Z"
-  },
-  {
-    "id": "1604274",
-    "title": "Maremma",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/qsnsKf59pYN3GzfQRqvNjE8tcdz.jpg",
-    "updatedAt": "2026-10-12T12:29:48.307Z"
-  },
-  {
-    "id": "293610",
-    "title": "Doctor X: Mafia in White",
-    "type": "tv",
-    "season": 1,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hMEulOCbZtnS7gFFBDuQCpYQs5a.jpg",
-    "updatedAt": "2026-10-12T12:24:55.041Z"
-  },
-  {
-    "id": "94664",
-    "title": "Mushoku Tensei: Jobless Reincarnation",
-    "type": "tv",
-    "season": 3,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/81j82xSVO8jXHsHVByQLYm2XZ3s.jpg",
-    "updatedAt": "2026-10-12T12:22:39.811Z"
-  },
-  {
-    "id": "207347",
-    "title": "Blue Box",
-    "type": "tv",
-    "season": 1,
-    "episode": 27,
-    "backdrop": "https://image.tmdb.org/t/p/w500/yLZXf9fghX00SyIfhaoh0x8lUpJ.jpg",
-    "updatedAt": "2026-10-12T12:21:11.119Z"
   }
 ]
