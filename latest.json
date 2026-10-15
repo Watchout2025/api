@@ -1,5 +1,40 @@
 [
   {
+    "id": "540620",
+    "title": "Laila Majnu",
+    "type": "movie",
+    "year": "2018",
+    "backdrop": "https://image.tmdb.org/t/p/w500/iEPpmYC2B5OTLTlP9w8NAdoB0vm.jpg",
+    "updatedAt": "2026-10-15T13:15:36.301Z"
+  },
+  {
+    "id": "286183",
+    "title": "Hollywood Arts",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jaZAduAvxdW8kpCVp6CZJQ2FSbr.jpg",
+    "updatedAt": "2026-10-15T11:42:20.089Z"
+  },
+  {
+    "id": "332744",
+    "title": "Indian Game Show",
+    "type": "tv",
+    "season": 2,
+    "episode": 41,
+    "backdrop": "https://image.tmdb.org/t/p/w500/6cILiHDTg4lGUik4KFwZGC1bjpk.jpg",
+    "updatedAt": "2026-10-15T05:33:40.288Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 39,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
+    "updatedAt": "2026-10-15T05:31:42.699Z"
+  },
+  {
     "id": "8355",
     "title": "Ice Age: Dawn of the Dinosaurs",
     "type": "movie",
@@ -82,15 +117,6 @@
     "updatedAt": "2026-10-14T05:06:44.490Z"
   },
   {
-    "id": "11436",
-    "title": "Bigg Boss",
-    "type": "tv",
-    "season": 20,
-    "episode": 38,
-    "backdrop": "https://image.tmdb.org/t/p/w500/jwYtjTLu4ggbtYFpMAdYgFStBdG.jpg",
-    "updatedAt": "2026-10-14T04:17:48.448Z"
-  },
-  {
     "id": "213375",
     "title": "VisionQuest",
     "type": "tv",
@@ -141,31 +167,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/mBZKC8ActTlM4W3HEGI1Cl1RtO3.jpg",
     "updatedAt": "2026-10-13T07:34:15.688Z"
-  },
-  {
-    "id": "51485",
-    "title": "Delhi Safari",
-    "type": "movie",
-    "year": "2012",
-    "backdrop": "https://image.tmdb.org/t/p/w500/aNqv491atyigB5RLgDEZaZmA5EM.jpg",
-    "updatedAt": "2026-10-13T07:33:43.909Z"
-  },
-  {
-    "id": "335787",
-    "title": "Family Full House with Rohit Sharma",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/dUpoXzSJxMtTbMqrYdDxFM3DrUp.jpg",
-    "updatedAt": "2026-10-13T04:43:10.109Z"
-  },
-  {
-    "id": "300126",
-    "title": "LIAR GAME",
-    "type": "tv",
-    "season": 1,
-    "episode": 25,
-    "backdrop": "https://image.tmdb.org/t/p/w500/beBpLR0P7cgEbXpOY7dIS2coF4f.jpg",
-    "updatedAt": "2026-10-13T01:50:53.361Z"
   }
 ]
