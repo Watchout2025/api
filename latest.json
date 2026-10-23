@@ -1,5 +1,129 @@
 [
   {
+    "id": "1186823",
+    "title": "Sumo Didi",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/2MllO3l2S13r7Dv87SA5TTVZ50s.jpg",
+    "updatedAt": "2026-10-23T07:01:27.176Z"
+  },
+  {
+    "id": "300527",
+    "title": "Did Someone Happen to Mention Me?",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/7ctEWkqGMkvo5GMtOejZndTL5Ta.jpg",
+    "updatedAt": "2026-10-23T06:59:47.804Z"
+  },
+  {
+    "id": "31910",
+    "title": "Naruto Shippūden",
+    "type": "tv",
+    "season": 17,
+    "episode": 368,
+    "backdrop": "https://image.tmdb.org/t/p/w500/iIqND8Ll1y7FJQ1uyAQL8mGbDgU.jpg",
+    "updatedAt": "2026-10-23T06:52:36.302Z"
+  },
+  {
+    "id": "297826",
+    "title": "Tomb Raider King",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/efo2pV1xzSIyd35jXixoB2WJM3u.jpg",
+    "updatedAt": "2026-10-23T06:46:17.822Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 47,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
+    "updatedAt": "2026-10-23T06:44:05.322Z"
+  },
+  {
+    "id": "270603",
+    "title": "The Exiled Heavy Knight Knows How to Game the System",
+    "type": "tv",
+    "season": 1,
+    "episode": 14,
+    "backdrop": "https://image.tmdb.org/t/p/w500/lJJpL0ZtFa1fkudBAkyWBcjT8Zc.jpg",
+    "updatedAt": "2026-10-23T06:41:54.298Z"
+  },
+  {
+    "id": "296437",
+    "title": "The Frontier Lord Begins with Zero Subjects",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/uHmqYzmPftg6vVvOPZGxmufKjMR.jpg",
+    "updatedAt": "2026-10-23T06:40:50.050Z"
+  },
+  {
+    "id": "283428",
+    "title": "The Ramparts of Ice",
+    "type": "tv",
+    "season": 2,
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/8Oh5v6xltWdVgt9Vt465qbLXatM.jpg",
+    "updatedAt": "2026-10-23T06:38:06.952Z"
+  },
+  {
+    "id": "117736",
+    "title": "The Legend of Hanuman",
+    "type": "tv",
+    "season": 7,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/aZ9PhOmshiSRuTydINWHTBzVora.jpg",
+    "updatedAt": "2026-10-23T06:29:45.426Z"
+  },
+  {
+    "id": "338918",
+    "title": "Chaar Yaar",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/ndO5LTzLPYqh8o65VLF8oReIewE.jpg",
+    "updatedAt": "2026-10-23T06:27:50.361Z"
+  },
+  {
+    "id": "103516",
+    "title": "Star Trek: Strange New Worlds",
+    "type": "tv",
+    "season": 4,
+    "episode": 9,
+    "backdrop": "https://image.tmdb.org/t/p/w500/aLnnZkZXkOSIxeBKzVH1z0lxT86.jpg",
+    "updatedAt": "2026-10-22T15:06:04.496Z"
+  },
+  {
+    "id": "254172",
+    "title": "Fathers and Daughters",
+    "type": "movie",
+    "year": "2015",
+    "backdrop": "https://image.tmdb.org/t/p/w500/8441gai5Iznx0YEmnLzEZUF6Kug.jpg",
+    "updatedAt": "2026-10-22T14:58:39.572Z"
+  },
+  {
+    "id": "14544",
+    "title": "Koffee with Karan",
+    "type": "tv",
+    "season": 9,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/h4hRKSbgtn9l7AmD5nph5vlYyJo.jpg",
+    "updatedAt": "2026-10-22T14:56:49.429Z"
+  },
+  {
+    "id": "250923",
+    "title": "Nobody Wants This",
+    "type": "tv",
+    "season": 3,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/vmpWfKOypIf4jNDWTbbvqM6IT2J.jpg",
+    "updatedAt": "2026-10-22T14:49:40.452Z"
+  },
+  {
     "id": "19670",
     "title": "Golmaal – Fun Unlimited",
     "type": "movie",
@@ -46,127 +170,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
     "updatedAt": "2026-10-22T04:28:18.322Z"
-  },
-  {
-    "id": "120911",
-    "title": "The Terminal List",
-    "type": "tv",
-    "season": 2,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/16pCkWuoPEqNDbgAUlhurz4T4vL.jpg",
-    "updatedAt": "2026-10-21T11:43:58.892Z"
-  },
-  {
-    "id": "1108427",
-    "title": "Moana",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/bmzkFxTZGHW4BlKL6kLm7TDyW4f.jpg",
-    "updatedAt": "2026-10-21T11:39:59.099Z"
-  },
-  {
-    "id": "303745",
-    "title": "Love in Disguise",
-    "type": "tv",
-    "season": 1,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9qbj4CGHMtrnpdpTVtVVk9faqKK.jpg",
-    "updatedAt": "2026-10-21T11:35:01.844Z"
-  },
-  {
-    "id": "94796",
-    "title": "Crash Landing on You",
-    "type": "tv",
-    "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/xR126BEtfrU2cwIB2hIJVDMr6MO.jpg",
-    "updatedAt": "2026-10-21T09:26:44.385Z"
-  },
-  {
-    "id": "1380920",
-    "title": "Sankranthiki Vasthunam",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/34vhD3KFITH2Ymeh1wF73zZXYDZ.jpg",
-    "updatedAt": "2026-10-21T09:20:31.423Z"
-  },
-  {
-    "id": "1399",
-    "title": "Game of Thrones",
-    "type": "tv",
-    "season": 8,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hRb50fOGcXic3NO6kUnL9hRXwsg.jpg",
-    "updatedAt": "2026-10-21T09:12:38.424Z"
-  },
-  {
-    "id": "117376",
-    "title": "Vincenzo",
-    "type": "tv",
-    "season": 1,
-    "episode": 19,
-    "backdrop": "https://image.tmdb.org/t/p/w500/cQwu0TKuXXFfPKc5i8nZ0PsgeQC.jpg",
-    "updatedAt": "2026-10-21T09:03:19.556Z"
-  },
-  {
-    "id": "1393326",
-    "title": "Ghost in the Cell",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
-    "updatedAt": "2026-10-21T09:01:55.870Z"
-  },
-  {
-    "id": "213375",
-    "title": "VisionQuest",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
-    "updatedAt": "2026-10-21T09:00:42.745Z"
-  },
-  {
-    "id": "314939",
-    "title": "A Love Other Than Yours",
-    "type": "tv",
-    "season": 1,
-    "episode": 9,
-    "backdrop": "https://image.tmdb.org/t/p/w500/auiu4giz7AMlLlaRpZPlOP3mgIT.jpg",
-    "updatedAt": "2026-10-19T15:58:52.094Z"
-  },
-  {
-    "id": "280945",
-    "title": "Bon Appétit, Your Majesty",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/r4zdLKWNIEBozeDC6YBZqj66b7c.jpg",
-    "updatedAt": "2026-10-19T12:06:16.722Z"
-  },
-  {
-    "id": "1280611",
-    "title": "Paradha",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/yiY4kqZo7hHYoE7TTnUvY71Dbmm.jpg",
-    "updatedAt": "2026-10-19T11:45:22.938Z"
-  },
-  {
-    "id": "296140",
-    "title": "My Bias, My Boss",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/v8O0X6PP7grEaXsPkdiotIx78tA.jpg",
-    "updatedAt": "2026-10-19T11:40:06.220Z"
-  },
-  {
-    "id": "97948",
-    "title": "An Incurable Case of Love",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/nOQ9IfkwuDVytjnxtHEFyR4iB6o.jpg",
-    "updatedAt": "2026-10-19T11:35:27.878Z"
   }
 ]
