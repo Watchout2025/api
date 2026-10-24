@@ -1,5 +1,77 @@
 [
   {
+    "id": "1578079",
+    "title": "Dorothy",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/fPByMSinDUlJ05pMVw2sbqYF6Ew.jpg",
+    "updatedAt": "2026-10-24T09:12:23.344Z"
+  },
+  {
+    "id": "1590718",
+    "title": "Dhoomakethu",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/zJ1zHbFYa4tyqqNPRcIMd74AqHN.jpg",
+    "updatedAt": "2026-10-24T09:12:01.640Z"
+  },
+  {
+    "id": "1477104",
+    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/iUFQd0mzDOUCsc8qVwUcNhFIe2P.jpg",
+    "updatedAt": "2026-10-24T09:11:40.974Z"
+  },
+  {
+    "id": "1780005",
+    "title": "Surviving Hurricane Otis",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
+    "updatedAt": "2026-10-24T09:11:18.415Z"
+  },
+  {
+    "id": "1058424",
+    "title": "Hope",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/g9hYfjdk49vjyFvjv8uJIv5ASBZ.jpg",
+    "updatedAt": "2026-10-24T09:10:55.679Z"
+  },
+  {
+    "id": "1375156",
+    "title": "Udta Teer",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/ncVecUcDZe1EOWtHaU2f8BFvbx4.jpg",
+    "updatedAt": "2026-10-24T09:09:56.654Z"
+  },
+  {
+    "id": "1400940",
+    "title": "Clayface",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/meDlo7HGy8fCt6nNfZJruX7hsGR.jpg",
+    "updatedAt": "2026-10-24T09:07:54.537Z"
+  },
+  {
+    "id": "843352",
+    "title": "Legend of the White Dragon",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/dWmn2AS5MIeu8QoLB5donbXzHw4.jpg",
+    "updatedAt": "2026-10-24T09:06:02.599Z"
+  },
+  {
+    "id": "1453407",
+    "title": "Gajab Raat",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/cdcW8GeAyBLPVBhTbOoTlBywNtp.jpg",
+    "updatedAt": "2026-10-24T09:05:12.463Z"
+  },
+  {
     "id": "335535",
     "title": "Fading Grandeur",
     "type": "tv",
