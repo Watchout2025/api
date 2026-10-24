@@ -1,174 +1,65 @@
 [
   {
-    "id": "1186823",
-    "title": "Sumo Didi",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/2MllO3l2S13r7Dv87SA5TTVZ50s.jpg",
-    "updatedAt": "2026-10-23T07:01:27.176Z"
-  },
-  {
-    "id": "300527",
-    "title": "Did Someone Happen to Mention Me?",
+    "id": "335535",
+    "title": "Fading Grandeur",
     "type": "tv",
     "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
+    "updatedAt": "2026-10-24T08:49:24.184Z"
+  },
+  {
+    "id": "96677",
+    "title": "Lupin",
+    "type": "tv",
+    "season": 3,
     "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/7ctEWkqGMkvo5GMtOejZndTL5Ta.jpg",
-    "updatedAt": "2026-10-23T06:59:47.804Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/9JcBVJO5wXbja2JD8XESnJ1Kify.jpg",
+    "updatedAt": "2026-10-24T08:46:39.838Z"
   },
   {
     "id": "31910",
     "title": "Naruto Shippūden",
     "type": "tv",
     "season": 17,
-    "episode": 368,
+    "episode": 370,
     "backdrop": "https://image.tmdb.org/t/p/w500/iIqND8Ll1y7FJQ1uyAQL8mGbDgU.jpg",
-    "updatedAt": "2026-10-23T06:52:36.302Z"
-  },
-  {
-    "id": "297826",
-    "title": "Tomb Raider King",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/efo2pV1xzSIyd35jXixoB2WJM3u.jpg",
-    "updatedAt": "2026-10-23T06:46:17.822Z"
+    "updatedAt": "2026-10-24T08:44:01.214Z"
   },
   {
     "id": "11436",
     "title": "Bigg Boss",
     "type": "tv",
     "season": 20,
-    "episode": 47,
+    "episode": 48,
     "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
-    "updatedAt": "2026-10-23T06:44:05.322Z"
+    "updatedAt": "2026-10-24T08:42:35.878Z"
   },
   {
-    "id": "270603",
-    "title": "The Exiled Heavy Knight Knows How to Game the System",
-    "type": "tv",
-    "season": 1,
-    "episode": 14,
-    "backdrop": "https://image.tmdb.org/t/p/w500/lJJpL0ZtFa1fkudBAkyWBcjT8Zc.jpg",
-    "updatedAt": "2026-10-23T06:41:54.298Z"
-  },
-  {
-    "id": "296437",
-    "title": "The Frontier Lord Begins with Zero Subjects",
+    "id": "311648",
+    "title": "Make Me Tingle",
     "type": "tv",
     "season": 1,
     "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/uHmqYzmPftg6vVvOPZGxmufKjMR.jpg",
-    "updatedAt": "2026-10-23T06:40:50.050Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/eqiOYnOxRdRpmk1J53jz5A2ZjuE.jpg",
+    "updatedAt": "2026-10-24T08:41:43.303Z"
   },
   {
-    "id": "283428",
-    "title": "The Ramparts of Ice",
+    "id": "247718",
+    "title": "MobLand",
     "type": "tv",
     "season": 2,
-    "episode": 1,
-    "backdrop": "https://image.tmdb.org/t/p/w500/8Oh5v6xltWdVgt9Vt465qbLXatM.jpg",
-    "updatedAt": "2026-10-23T06:38:06.952Z"
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
+    "updatedAt": "2026-10-24T08:40:37.503Z"
   },
   {
-    "id": "117736",
-    "title": "The Legend of Hanuman",
+    "id": "45790",
+    "title": "JoJo's Bizarre Adventure",
     "type": "tv",
-    "season": 7,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w500/aZ9PhOmshiSRuTydINWHTBzVora.jpg",
-    "updatedAt": "2026-10-23T06:29:45.426Z"
-  },
-  {
-    "id": "338918",
-    "title": "Chaar Yaar",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/ndO5LTzLPYqh8o65VLF8oReIewE.jpg",
-    "updatedAt": "2026-10-23T06:27:50.361Z"
-  },
-  {
-    "id": "103516",
-    "title": "Star Trek: Strange New Worlds",
-    "type": "tv",
-    "season": 4,
-    "episode": 9,
-    "backdrop": "https://image.tmdb.org/t/p/w500/aLnnZkZXkOSIxeBKzVH1z0lxT86.jpg",
-    "updatedAt": "2026-10-22T15:06:04.496Z"
-  },
-  {
-    "id": "254172",
-    "title": "Fathers and Daughters",
-    "type": "movie",
-    "year": "2015",
-    "backdrop": "https://image.tmdb.org/t/p/w500/8441gai5Iznx0YEmnLzEZUF6Kug.jpg",
-    "updatedAt": "2026-10-22T14:58:39.572Z"
-  },
-  {
-    "id": "14544",
-    "title": "Koffee with Karan",
-    "type": "tv",
-    "season": 9,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/h4hRKSbgtn9l7AmD5nph5vlYyJo.jpg",
-    "updatedAt": "2026-10-22T14:56:49.429Z"
-  },
-  {
-    "id": "250923",
-    "title": "Nobody Wants This",
-    "type": "tv",
-    "season": 3,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/vmpWfKOypIf4jNDWTbbvqM6IT2J.jpg",
-    "updatedAt": "2026-10-22T14:49:40.452Z"
-  },
-  {
-    "id": "19670",
-    "title": "Golmaal – Fun Unlimited",
-    "type": "movie",
-    "year": "2006",
-    "backdrop": "https://image.tmdb.org/t/p/w500/kmOwJaGsvpSQLdu4PqNvDRQXHxx.jpg",
-    "updatedAt": "2026-10-22T04:33:58.004Z"
-  },
-  {
-    "id": "14546",
-    "title": "Golmaal Returns",
-    "type": "movie",
-    "year": "2008",
-    "backdrop": "https://image.tmdb.org/t/p/w500/mhpMripSBSjSboQBzweVDQTblQ.jpg",
-    "updatedAt": "2026-10-22T04:33:20.401Z"
-  },
-  {
-    "id": "44978",
-    "title": "Golmaal 3",
-    "type": "movie",
-    "year": "2010",
-    "backdrop": "https://image.tmdb.org/t/p/w500/8W8FnDTG6YToiahlivjahbBunMN.jpg",
-    "updatedAt": "2026-10-22T04:32:00.281Z"
-  },
-  {
-    "id": "472123",
-    "title": "Golmaal Again",
-    "type": "movie",
-    "year": "2017",
-    "backdrop": "https://image.tmdb.org/t/p/w500/2JTqYozAkCUga9LSq64gI9CJ8Bm.jpg",
-    "updatedAt": "2026-10-22T04:30:58.940Z"
-  },
-  {
-    "id": "37460",
-    "title": "Raavan",
-    "type": "movie",
-    "year": "2010",
-    "backdrop": "https://image.tmdb.org/t/p/w500/A8PZ4V2NjyGxlbedhlufqcbduHe.jpg",
-    "updatedAt": "2026-10-22T04:29:54.597Z"
-  },
-  {
-    "id": "1376856",
-    "title": "The Paradise",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
-    "updatedAt": "2026-10-22T04:28:18.322Z"
+    "season": 6,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/ciDRS9Q8ErVxYzOpmYG40Wqbpc2.jpg",
+    "updatedAt": "2026-10-24T08:38:04.238Z"
   }
 ]
