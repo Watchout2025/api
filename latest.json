@@ -1,5 +1,48 @@
 [
   {
+    "id": "293607",
+    "title": "100 Days of Deception",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/oSe2Jbep2FZjaLiNiUDpV6DdIF3.jpg",
+    "updatedAt": "2026-10-25T11:41:03.786Z"
+  },
+  {
+    "id": "241454",
+    "title": "Love Next Door",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/ariE1ALdXK3vuqGKFYkEX5SMlSG.jpg",
+    "updatedAt": "2026-10-25T11:15:19.424Z"
+  },
+  {
+    "id": "125988",
+    "title": "Silo",
+    "type": "tv",
+    "season": 3,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
+    "updatedAt": "2026-10-25T08:43:16.770Z"
+  },
+  {
+    "id": "480414",
+    "title": "The Curse of La Llorona",
+    "type": "movie",
+    "year": "2019",
+    "backdrop": "https://image.tmdb.org/t/p/w500/6EGFXfLCYzCZJULx8Lp7xnK7ZYF.jpg",
+    "updatedAt": "2026-10-25T08:25:26.329Z"
+  },
+  {
+    "id": "414906",
+    "title": "The Batman",
+    "type": "movie",
+    "year": "2022",
+    "backdrop": "https://image.tmdb.org/t/p/w500/eUORREWq2ThkkxyiCESCu3sVdGg.jpg",
+    "updatedAt": "2026-10-25T08:24:00.528Z"
+  },
+  {
     "id": "312172",
     "title": "Hell University",
     "type": "tv",
@@ -128,49 +171,5 @@
     "episode": 15,
     "backdrop": "https://image.tmdb.org/t/p/w500/yHuBhm0txDJngpF0nR6S1FuzOjN.jpg",
     "updatedAt": "2026-10-25T03:58:51.592Z"
-  },
-  {
-    "id": "205048",
-    "title": "Oggy and the Cockroaches: The Movie",
-    "type": "movie",
-    "year": "2013",
-    "backdrop": "https://image.tmdb.org/t/p/w500/wxMFphTa3QU5MF9szmMdWgwnKdj.jpg",
-    "updatedAt": "2026-10-25T03:54:43.039Z"
-  },
-  {
-    "id": "119769",
-    "title": "Taxi Driver",
-    "type": "tv",
-    "season": 3,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/ehcc0Aiva7r3rbsdo1cMKLkkjzB.jpg",
-    "updatedAt": "2026-10-25T03:46:32.256Z"
-  },
-  {
-    "id": "318239",
-    "title": "Oops! Mysterious Sounds",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/d2K8LT8KZdV3S6TNS7t2t6UsJSt.jpg",
-    "updatedAt": "2026-10-25T03:44:07.393Z"
-  },
-  {
-    "id": "284825",
-    "title": "Mr. Fanboy",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/wa0sbAAf8owaFfcVGiUh1Ikq6tw.jpg",
-    "updatedAt": "2026-10-25T03:41:32.400Z"
-  },
-  {
-    "id": "316278",
-    "title": "My Husband Is a Mafia Boss",
-    "type": "tv",
-    "season": 1,
-    "episode": 22,
-    "backdrop": "https://image.tmdb.org/t/p/w500/AnEvWJsUj2NXDY36NZWVQtjyu2X.jpg",
-    "updatedAt": "2026-10-25T03:38:26.321Z"
   }
 ]
