@@ -1,5 +1,55 @@
 [
   {
+    "id": "312172",
+    "title": "Hell University",
+    "type": "tv",
+    "season": 1,
+    "episode": 18,
+    "backdrop": "https://image.tmdb.org/t/p/w500/JoTWqLP9tQQvLO2xZWn4Fj7EQ1.jpg",
+    "updatedAt": "2026-10-25T08:18:07.201Z"
+  },
+  {
+    "id": "324786",
+    "title": "Hacksaw Ridge",
+    "type": "movie",
+    "year": "2016",
+    "backdrop": "https://image.tmdb.org/t/p/w500/cGmM5fp19o1wjq83MHqcFuGwIxX.jpg",
+    "updatedAt": "2026-10-25T08:12:18.081Z"
+  },
+  {
+    "id": "1022453",
+    "title": "The Rajasaab",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/kCwmLYy9ZMto1eMH8BI9KcVVIH2.jpg",
+    "updatedAt": "2026-10-25T08:06:30.760Z"
+  },
+  {
+    "id": "1602337",
+    "title": "Parimala and Co",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/hcQ9Kcmc34yYElii4fjFxABQYqq.jpg",
+    "updatedAt": "2026-10-25T08:03:08.304Z"
+  },
+  {
+    "id": "949229",
+    "title": "Leo",
+    "type": "movie",
+    "year": "2023",
+    "backdrop": "https://image.tmdb.org/t/p/w500/5DElNrdJEHkZNqSwviVmiSND9iB.jpg",
+    "updatedAt": "2026-10-25T08:00:11.983Z"
+  },
+  {
+    "id": "304452",
+    "title": "The Lament of Autumn",
+    "type": "tv",
+    "season": 1,
+    "episode": 26,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hKRxkQThdq0Wr75DaWCzPKT3D92.jpg",
+    "updatedAt": "2026-10-25T07:41:33.301Z"
+  },
+  {
     "id": "8426",
     "title": "MTV Roadies",
     "type": "tv",
@@ -122,57 +172,5 @@
     "episode": 22,
     "backdrop": "https://image.tmdb.org/t/p/w500/AnEvWJsUj2NXDY36NZWVQtjyu2X.jpg",
     "updatedAt": "2026-10-25T03:38:26.321Z"
-  },
-  {
-    "id": "1606527",
-    "title": "418",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/nJjd0EHP5VPWTdGsere75SaSY4j.jpg",
-    "updatedAt": "2026-10-25T03:23:39.302Z"
-  },
-  {
-    "id": "1794929",
-    "title": "Doosra",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/ftWFF6CgMXEmnVa7pI6XhDgjPkk.jpg",
-    "updatedAt": "2026-10-25T03:22:35.110Z"
-  },
-  {
-    "id": "82684",
-    "title": "That Time I Got Reincarnated as a Slime",
-    "type": "tv",
-    "season": 4,
-    "episode": 22,
-    "backdrop": "https://image.tmdb.org/t/p/w500/5rcEQ5AG617uTUpO2oPWPCx68Fk.jpg",
-    "updatedAt": "2026-10-25T03:19:44.598Z"
-  },
-  {
-    "id": "222623",
-    "title": "The Elusive Samurai",
-    "type": "tv",
-    "season": 2,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/eRt7QLYm57XZdBW3Mqb4i5kSwcY.jpg",
-    "updatedAt": "2026-10-25T03:15:54.711Z"
-  },
-  {
-    "id": "316702",
-    "title": "Final Table",
-    "type": "tv",
-    "season": 1,
-    "episode": 1,
-    "backdrop": "https://image.tmdb.org/t/p/w500/mf0klf0xpqW52G1TjDUxBL4u0x4.jpg",
-    "updatedAt": "2026-10-25T03:05:03.406Z"
-  },
-  {
-    "id": "31910",
-    "title": "Naruto Shippūden",
-    "type": "tv",
-    "season": 17,
-    "episode": 372,
-    "backdrop": "https://image.tmdb.org/t/p/w500/iIqND8Ll1y7FJQ1uyAQL8mGbDgU.jpg",
-    "updatedAt": "2026-10-25T03:04:52.990Z"
   }
 ]
