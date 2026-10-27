@@ -1,5 +1,31 @@
 [
   {
+    "id": "222430",
+    "title": "Phata Poster Nikhla Hero",
+    "type": "movie",
+    "year": "2013",
+    "backdrop": "https://image.tmdb.org/t/p/w500/8PbSXZPqESnV6YhwLCPjqpJvg1.jpg",
+    "updatedAt": "2026-10-27T03:19:55.620Z"
+  },
+  {
+    "id": "33880",
+    "title": "The Legend of Korra",
+    "type": "tv",
+    "season": 4,
+    "episode": 13,
+    "backdrop": "https://image.tmdb.org/t/p/w500/fs2DVXntj9YKkvJkfPX1hn2Xsgi.jpg",
+    "updatedAt": "2026-10-27T03:17:47.349Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 51,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
+    "updatedAt": "2026-10-27T03:10:27.988Z"
+  },
+  {
     "id": "297903",
     "title": "PSYREN",
     "type": "tv",
@@ -145,32 +171,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/zJ1zHbFYa4tyqqNPRcIMd74AqHN.jpg",
     "updatedAt": "2026-10-26T14:05:53.907Z"
-  },
-  {
-    "id": "305551",
-    "title": "Merry Berry Love",
-    "type": "tv",
-    "season": 1,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/z4T6XZp1B3l6sr2KvPxVqAX4SCg.jpg",
-    "updatedAt": "2026-10-26T14:05:24.646Z"
-  },
-  {
-    "id": "119051",
-    "title": "Wednesday",
-    "type": "tv",
-    "season": 2,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg",
-    "updatedAt": "2026-10-26T14:03:04.837Z"
-  },
-  {
-    "id": "127529",
-    "title": "Bloodhounds",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/iHHpiZ325jH7V59IajdBhANOMoB.jpg",
-    "updatedAt": "2026-10-26T13:42:51.223Z"
   }
 ]
