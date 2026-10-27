@@ -1,125 +1,105 @@
 [
   {
-    "id": "222430",
-    "title": "Phata Poster Nikhla Hero",
-    "type": "movie",
-    "year": "2013",
-    "backdrop": "https://image.tmdb.org/t/p/w500/8PbSXZPqESnV6YhwLCPjqpJvg1.jpg",
-    "updatedAt": "2026-10-27T03:19:55.620Z"
-  },
-  {
-    "id": "33880",
-    "title": "The Legend of Korra",
-    "type": "tv",
-    "season": 4,
-    "episode": 13,
-    "backdrop": "https://image.tmdb.org/t/p/w500/fs2DVXntj9YKkvJkfPX1hn2Xsgi.jpg",
-    "updatedAt": "2026-10-27T03:17:47.349Z"
-  },
-  {
-    "id": "11436",
-    "title": "Bigg Boss",
-    "type": "tv",
-    "season": 20,
-    "episode": 51,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
-    "updatedAt": "2026-10-27T03:10:27.988Z"
-  },
-  {
-    "id": "297903",
-    "title": "PSYREN",
+    "id": "136283",
+    "title": "The Glory",
     "type": "tv",
     "season": 1,
-    "episode": 1,
-    "backdrop": "https://image.tmdb.org/t/p/w500/avOHprINAK61GJg40CfIiWMnDX8.jpg",
-    "updatedAt": "2026-10-27T03:07:34.771Z"
+    "episode": 15,
+    "backdrop": "https://image.tmdb.org/t/p/w500/iu5zBMCRKZECC78flUGd10tuQVT.jpg",
+    "updatedAt": "2026-10-27T10:49:45.974Z"
   },
   {
-    "id": "31910",
-    "title": "Naruto Shippūden",
-    "type": "tv",
-    "season": 18,
-    "episode": 375,
-    "backdrop": "https://image.tmdb.org/t/p/w500/iIqND8Ll1y7FJQ1uyAQL8mGbDgU.jpg",
-    "updatedAt": "2026-10-27T03:05:05.628Z"
+    "id": "1283671",
+    "title": "Peak Everything",
+    "type": "movie",
+    "year": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w500/coEs2dclAJITRwLEF3nY7kicCcZ.jpg",
+    "updatedAt": "2026-10-27T10:32:57.908Z"
   },
   {
-    "id": "66732",
-    "title": "Stranger Things",
-    "type": "tv",
-    "season": 5,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/89T83vE1ol8wcI879LutCqv7hMa.jpg",
-    "updatedAt": "2026-10-27T03:01:05.787Z"
+    "id": "1465063",
+    "title": "Forgotten Island",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/iU2RVy0G99XoDSUHvcQomtif5nP.jpg",
+    "updatedAt": "2026-10-27T10:31:25.588Z"
   },
   {
-    "id": "289892",
-    "title": "Helluva Boss",
+    "id": "210702",
+    "title": "Revenant",
     "type": "tv",
-    "season": 2,
+    "season": 1,
     "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/ix1H6XmQwPt2xbp1RyFK6N0WbK8.jpg",
-    "updatedAt": "2026-10-27T03:00:19.580Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/5HPz1FJuoIvPlewlDCvaxtrExLi.jpg",
+    "updatedAt": "2026-10-27T10:25:34.564Z"
   },
   {
-    "id": "1376856",
-    "title": "The Paradise",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
-    "updatedAt": "2026-10-27T02:56:19.986Z"
-  },
-  {
-    "id": "135157",
-    "title": "Alchemy of Souls",
+    "id": "1399",
+    "title": "Game of Thrones",
     "type": "tv",
-    "season": 2,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/vBtBy4FlIaYkJnjj2Paoi5czcGQ.jpg",
-    "updatedAt": "2026-10-27T02:54:27.715Z"
+    "season": 8,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hRb50fOGcXic3NO6kUnL9hRXwsg.jpg",
+    "updatedAt": "2026-10-27T10:22:34.756Z"
   },
   {
-    "id": "273207",
-    "title": "Neagley",
+    "id": "229891",
+    "title": "Can This Love Be Translated?",
     "type": "tv",
     "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/yAd3p06AWPNDEMLDUlOAoFajldZ.jpg",
-    "updatedAt": "2026-10-27T02:49:18.603Z"
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/kn4RmKUMA1C7oBU9JOesEz6ZXG9.jpg",
+    "updatedAt": "2026-10-27T10:21:25.668Z"
   },
   {
-    "id": "288673",
-    "title": "Carrie",
+    "id": "316197",
+    "title": "Dive into You",
     "type": "tv",
     "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/eS83I38AwNkZn1dETD63bgsukzP.jpg",
-    "updatedAt": "2026-10-27T02:45:42.259Z"
+    "episode": 11,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cFCvllLORfzNYlTmWFEOWUMNMPL.jpg",
+    "updatedAt": "2026-10-27T10:20:32.820Z"
   },
   {
-    "id": "1108427",
-    "title": "Moana",
+    "id": "1284041",
+    "title": "The Last House",
     "type": "movie",
     "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/bmzkFxTZGHW4BlKL6kLm7TDyW4f.jpg",
-    "updatedAt": "2026-10-27T02:43:29.154Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/9wCrNgVcaOhS5jPK9B5reFIWvxh.jpg",
+    "updatedAt": "2026-10-27T10:18:05.883Z"
   },
   {
-    "id": "335227",
-    "title": "I Would Rather Die",
+    "id": "4951",
+    "title": "10 Things I Hate About You",
+    "type": "movie",
+    "year": "1999",
+    "backdrop": "https://image.tmdb.org/t/p/w500/o8NbcpgY4J8MwHNPxFxTgceYYc.jpg",
+    "updatedAt": "2026-10-27T10:16:23.818Z"
+  },
+  {
+    "id": "1431068",
+    "title": "Main Vaapas Aaunga",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/bWw9PuPH6vFXlezBoHZ6D9XBhQW.jpg",
+    "updatedAt": "2026-10-27T10:14:55.964Z"
+  },
+  {
+    "id": "10138",
+    "title": "Iron Man 2",
+    "type": "movie",
+    "year": "2010",
+    "backdrop": "https://image.tmdb.org/t/p/w500/wWu57zGqpAt7K746drOSjbwfIfe.jpg",
+    "updatedAt": "2026-10-27T10:14:28.196Z"
+  },
+  {
+    "id": "260463",
+    "title": "Daemons of the Shadow Realm",
     "type": "tv",
     "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/y66hyKHDyBE3vIFUNFWYBPEvGya.jpg",
-    "updatedAt": "2026-10-27T02:41:27.705Z"
-  },
-  {
-    "id": "1434102",
-    "title": "Heartin",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/k4S4nh5vTB1Qj3oVnGmguhzbmw2.jpg",
-    "updatedAt": "2026-10-27T02:38:13.650Z"
+    "episode": 24,
+    "backdrop": "https://image.tmdb.org/t/p/w500/nUZECCEQUCtu1WKW1Gll9Ba8V2J.jpg",
+    "updatedAt": "2026-10-27T10:13:57.076Z"
   },
   {
     "id": "289423",
@@ -128,48 +108,67 @@
     "season": 1,
     "episode": 10,
     "backdrop": "https://image.tmdb.org/t/p/w500/6NAy0c79IPyT4AE4gzD7n4iZ3FR.jpg",
-    "updatedAt": "2026-10-27T02:37:37.859Z"
+    "updatedAt": "2026-10-27T10:12:20.978Z"
   },
   {
-    "id": "236235",
-    "title": "The Gentlemen",
-    "type": "tv",
-    "season": 2,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/jQYIP6N5KtXL0pL41vTI4cdegOy.jpg",
-    "updatedAt": "2026-10-27T02:35:10.106Z"
-  },
-  {
-    "id": "1772549",
-    "title": "Pehla Pyaar Doosri Baar",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/iaVcws1W3owTlRSI8GKcov95UHS.jpg",
-    "updatedAt": "2026-10-26T15:22:28.280Z"
-  },
-  {
-    "id": "314939",
-    "title": "A Love Other Than Yours",
+    "id": "285838",
+    "title": "If Wishes Could Kill",
     "type": "tv",
     "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/auiu4giz7AMlLlaRpZPlOP3mgIT.jpg",
-    "updatedAt": "2026-10-26T15:20:49.791Z"
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+    "updatedAt": "2026-10-27T05:13:23.750Z"
   },
   {
-    "id": "619188",
-    "title": "Pattas",
-    "type": "movie",
-    "year": "2020",
-    "backdrop": "https://image.tmdb.org/t/p/w500/oOV0TOdcxKuctnxTkO3VhcJak8t.jpg",
-    "updatedAt": "2026-10-26T15:16:04.943Z"
-  },
-  {
-    "id": "1590718",
-    "title": "Dhoomakethu",
+    "id": "1780005",
+    "title": "Surviving Hurricane Otis",
     "type": "movie",
     "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/zJ1zHbFYa4tyqqNPRcIMd74AqHN.jpg",
-    "updatedAt": "2026-10-26T14:05:53.907Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
+    "updatedAt": "2026-10-27T05:10:51.719Z"
+  },
+  {
+    "id": "220542",
+    "title": "The Apothecary Diaries",
+    "type": "tv",
+    "season": 1,
+    "episode": 24,
+    "backdrop": "https://image.tmdb.org/t/p/w500/lgI2UIRCFTq99dpSl8VhWGHqrWV.jpg",
+    "updatedAt": "2026-10-27T05:10:06.318Z"
+  },
+  {
+    "id": "300146",
+    "title": "Where the Mask Ends",
+    "type": "tv",
+    "season": 1,
+    "episode": 21,
+    "backdrop": "https://image.tmdb.org/t/p/w500/YndvGwqwroUDVltBWmnOuTvJke.jpg",
+    "updatedAt": "2026-10-27T05:07:34.510Z"
+  },
+  {
+    "id": "304452",
+    "title": "The Lament of Autumn",
+    "type": "tv",
+    "season": 1,
+    "episode": 30,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hKRxkQThdq0Wr75DaWCzPKT3D92.jpg",
+    "updatedAt": "2026-10-27T05:04:30.870Z"
+  },
+  {
+    "id": "303745",
+    "title": "Love in Disguise",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/9qbj4CGHMtrnpdpTVtVVk9faqKK.jpg",
+    "updatedAt": "2026-10-27T05:03:21.982Z"
+  },
+  {
+    "id": "222430",
+    "title": "Phata Poster Nikhla Hero",
+    "type": "movie",
+    "year": "2013",
+    "backdrop": "https://image.tmdb.org/t/p/w500/8PbSXZPqESnV6YhwLCPjqpJvg1.jpg",
+    "updatedAt": "2026-10-27T03:19:55.620Z"
   }
 ]
