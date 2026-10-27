@@ -1,175 +1,176 @@
 [
   {
-    "id": "339474",
-    "title": "Matargashti",
+    "id": "297903",
+    "title": "PSYREN",
     "type": "tv",
     "season": 1,
-    "episode": 5,
-    "backdrop": "https://image.tmdb.org/t/p/w500/j828iPebwS024JRovFzHacpI4rW.jpg",
-    "updatedAt": "2026-10-25T13:59:48.983Z"
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/avOHprINAK61GJg40CfIiWMnDX8.jpg",
+    "updatedAt": "2026-10-27T03:07:34.771Z"
   },
   {
-    "id": "890980",
-    "title": "God's Crooked Lines",
+    "id": "31910",
+    "title": "Naruto Shippūden",
+    "type": "tv",
+    "season": 18,
+    "episode": 375,
+    "backdrop": "https://image.tmdb.org/t/p/w500/iIqND8Ll1y7FJQ1uyAQL8mGbDgU.jpg",
+    "updatedAt": "2026-10-27T03:05:05.628Z"
+  },
+  {
+    "id": "66732",
+    "title": "Stranger Things",
+    "type": "tv",
+    "season": 5,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/89T83vE1ol8wcI879LutCqv7hMa.jpg",
+    "updatedAt": "2026-10-27T03:01:05.787Z"
+  },
+  {
+    "id": "289892",
+    "title": "Helluva Boss",
+    "type": "tv",
+    "season": 2,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/ix1H6XmQwPt2xbp1RyFK6N0WbK8.jpg",
+    "updatedAt": "2026-10-27T03:00:19.580Z"
+  },
+  {
+    "id": "1376856",
+    "title": "The Paradise",
     "type": "movie",
-    "year": "2022",
-    "backdrop": "https://image.tmdb.org/t/p/w500/dtXcuwF1uUi9m0VVfEGEa7GpDzX.jpg",
-    "updatedAt": "2026-10-25T13:54:37.933Z"
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
+    "updatedAt": "2026-10-27T02:56:19.986Z"
   },
   {
-    "id": "95249",
-    "title": "Gossip Girl",
+    "id": "135157",
+    "title": "Alchemy of Souls",
     "type": "tv",
     "season": 2,
     "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/j1Dt1QvQIlHZrH8QKYZyMbg5hOs.jpg",
-    "updatedAt": "2026-10-25T13:48:47.982Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/vBtBy4FlIaYkJnjj2Paoi5czcGQ.jpg",
+    "updatedAt": "2026-10-27T02:54:27.715Z"
   },
   {
-    "id": "414906",
-    "title": "The Batman",
+    "id": "273207",
+    "title": "Neagley",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/yAd3p06AWPNDEMLDUlOAoFajldZ.jpg",
+    "updatedAt": "2026-10-27T02:49:18.603Z"
+  },
+  {
+    "id": "288673",
+    "title": "Carrie",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/eS83I38AwNkZn1dETD63bgsukzP.jpg",
+    "updatedAt": "2026-10-27T02:45:42.259Z"
+  },
+  {
+    "id": "1108427",
+    "title": "Moana",
     "type": "movie",
-    "year": "2022",
-    "backdrop": "https://image.tmdb.org/t/p/w500/eUORREWq2ThkkxyiCESCu3sVdGg.jpg",
-    "updatedAt": "2026-10-25T13:35:34.667Z"
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/bmzkFxTZGHW4BlKL6kLm7TDyW4f.jpg",
+    "updatedAt": "2026-10-27T02:43:29.154Z"
   },
   {
-    "id": "293607",
-    "title": "100 Days of Deception",
+    "id": "335227",
+    "title": "I Would Rather Die",
     "type": "tv",
     "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/oSe2Jbep2FZjaLiNiUDpV6DdIF3.jpg",
-    "updatedAt": "2026-10-25T11:41:03.786Z"
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/y66hyKHDyBE3vIFUNFWYBPEvGya.jpg",
+    "updatedAt": "2026-10-27T02:41:27.705Z"
   },
   {
-    "id": "241454",
-    "title": "Love Next Door",
+    "id": "1434102",
+    "title": "Heartin",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/k4S4nh5vTB1Qj3oVnGmguhzbmw2.jpg",
+    "updatedAt": "2026-10-27T02:38:13.650Z"
+  },
+  {
+    "id": "289423",
+    "title": "Take Charge of My Heart",
     "type": "tv",
     "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/ariE1ALdXK3vuqGKFYkEX5SMlSG.jpg",
-    "updatedAt": "2026-10-25T11:15:19.424Z"
-  },
-  {
-    "id": "125988",
-    "title": "Silo",
-    "type": "tv",
-    "season": 3,
     "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
-    "updatedAt": "2026-10-25T08:43:16.770Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/6NAy0c79IPyT4AE4gzD7n4iZ3FR.jpg",
+    "updatedAt": "2026-10-27T02:37:37.859Z"
   },
   {
-    "id": "480414",
-    "title": "The Curse of La Llorona",
-    "type": "movie",
-    "year": "2019",
-    "backdrop": "https://image.tmdb.org/t/p/w500/6EGFXfLCYzCZJULx8Lp7xnK7ZYF.jpg",
-    "updatedAt": "2026-10-25T08:25:26.329Z"
-  },
-  {
-    "id": "312172",
-    "title": "Hell University",
+    "id": "236235",
+    "title": "The Gentlemen",
     "type": "tv",
-    "season": 1,
-    "episode": 18,
-    "backdrop": "https://image.tmdb.org/t/p/w500/JoTWqLP9tQQvLO2xZWn4Fj7EQ1.jpg",
-    "updatedAt": "2026-10-25T08:18:07.201Z"
+    "season": 2,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jQYIP6N5KtXL0pL41vTI4cdegOy.jpg",
+    "updatedAt": "2026-10-27T02:35:10.106Z"
   },
   {
-    "id": "324786",
-    "title": "Hacksaw Ridge",
-    "type": "movie",
-    "year": "2016",
-    "backdrop": "https://image.tmdb.org/t/p/w500/cGmM5fp19o1wjq83MHqcFuGwIxX.jpg",
-    "updatedAt": "2026-10-25T08:12:18.081Z"
-  },
-  {
-    "id": "1022453",
-    "title": "The Rajasaab",
+    "id": "1772549",
+    "title": "Pehla Pyaar Doosri Baar",
     "type": "movie",
     "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/kCwmLYy9ZMto1eMH8BI9KcVVIH2.jpg",
-    "updatedAt": "2026-10-25T08:06:30.760Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/iaVcws1W3owTlRSI8GKcov95UHS.jpg",
+    "updatedAt": "2026-10-26T15:22:28.280Z"
   },
   {
-    "id": "1602337",
-    "title": "Parimala and Co",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/hcQ9Kcmc34yYElii4fjFxABQYqq.jpg",
-    "updatedAt": "2026-10-25T08:03:08.304Z"
-  },
-  {
-    "id": "949229",
-    "title": "Leo",
-    "type": "movie",
-    "year": "2023",
-    "backdrop": "https://image.tmdb.org/t/p/w500/5DElNrdJEHkZNqSwviVmiSND9iB.jpg",
-    "updatedAt": "2026-10-25T08:00:11.983Z"
-  },
-  {
-    "id": "304452",
-    "title": "The Lament of Autumn",
-    "type": "tv",
-    "season": 1,
-    "episode": 26,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hKRxkQThdq0Wr75DaWCzPKT3D92.jpg",
-    "updatedAt": "2026-10-25T07:41:33.301Z"
-  },
-  {
-    "id": "8426",
-    "title": "MTV Roadies",
-    "type": "tv",
-    "season": 21,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/2kEe8kiXc0cJUdmwIjnhXwxIEPL.jpg",
-    "updatedAt": "2026-10-25T07:39:19.190Z"
-  },
-  {
-    "id": "11436",
-    "title": "Bigg Boss",
-    "type": "tv",
-    "season": 20,
-    "episode": 49,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
-    "updatedAt": "2026-10-25T07:38:21.453Z"
-  },
-  {
-    "id": "305644",
-    "title": "Four Hands, Two Sonatas",
+    "id": "314939",
+    "title": "A Love Other Than Yours",
     "type": "tv",
     "season": 1,
     "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/c8saa6GyN8a3bjHCLGG65j7WeMA.jpg",
-    "updatedAt": "2026-10-25T07:36:42.516Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/auiu4giz7AMlLlaRpZPlOP3mgIT.jpg",
+    "updatedAt": "2026-10-26T15:20:49.791Z"
   },
   {
-    "id": "285993",
-    "title": "BLACK TORCH",
+    "id": "619188",
+    "title": "Pattas",
+    "type": "movie",
+    "year": "2020",
+    "backdrop": "https://image.tmdb.org/t/p/w500/oOV0TOdcxKuctnxTkO3VhcJak8t.jpg",
+    "updatedAt": "2026-10-26T15:16:04.943Z"
+  },
+  {
+    "id": "1590718",
+    "title": "Dhoomakethu",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/zJ1zHbFYa4tyqqNPRcIMd74AqHN.jpg",
+    "updatedAt": "2026-10-26T14:05:53.907Z"
+  },
+  {
+    "id": "305551",
+    "title": "Merry Berry Love",
     "type": "tv",
     "season": 1,
-    "episode": 9,
-    "backdrop": "https://image.tmdb.org/t/p/w500/fy1R05K8zCUFmQG6f1Wn4gPwte4.jpg",
-    "updatedAt": "2026-10-25T07:29:39.924Z"
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/z4T6XZp1B3l6sr2KvPxVqAX4SCg.jpg",
+    "updatedAt": "2026-10-26T14:05:24.646Z"
   },
   {
-    "id": "247769",
-    "title": "The Great Indian Kapil Show",
+    "id": "119051",
+    "title": "Wednesday",
     "type": "tv",
-    "season": 5,
-    "episode": 5,
-    "backdrop": "https://image.tmdb.org/t/p/w500/cACVBkXIekKwpdjVET7qtGWbC5J.jpg",
-    "updatedAt": "2026-10-25T07:28:39.613Z"
+    "season": 2,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg",
+    "updatedAt": "2026-10-26T14:03:04.837Z"
   },
   {
-    "id": "324326",
-    "title": "The Seven Knights of the Marronnier Kingdom",
+    "id": "127529",
+    "title": "Bloodhounds",
     "type": "tv",
     "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/59oBbiLeG3jeDOUmx6zF6Qfmea3.jpg",
-    "updatedAt": "2026-10-25T07:27:13.015Z"
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/iHHpiZ325jH7V59IajdBhANOMoB.jpg",
+    "updatedAt": "2026-10-26T13:42:51.223Z"
   }
 ]
