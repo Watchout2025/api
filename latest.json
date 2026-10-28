@@ -1,5 +1,13 @@
 [
   {
+    "id": "1441978",
+    "title": "Special Monster",
+    "type": "movie",
+    "year": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w500/4qe9gQv7V6o8yBWnqY8uCkrwyZc.jpg",
+    "updatedAt": "2026-10-28T06:57:54.694Z"
+  },
+  {
     "id": "289423",
     "title": "Take Charge of My Heart",
     "type": "tv",
@@ -161,14 +169,5 @@
     "episode": 10,
     "backdrop": "https://image.tmdb.org/t/p/w500/LHfvMGKXYaN6iAzFBPk7l0zSXd.jpg",
     "updatedAt": "2026-10-28T02:30:52.549Z"
-  },
-  {
-    "id": "300507",
-    "title": "Crew Girl",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/y8OGCsWSDbKbZrYKf2KFQVvPmDN.jpg",
-    "updatedAt": "2026-10-28T02:27:23.438Z"
   }
 ]
