@@ -1,5 +1,22 @@
 [
   {
+    "id": "293835",
+    "title": "Seducing Drake Palma",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cKZoh4ZnoRRvPx4vuzTQVuhiUiZ.jpg",
+    "updatedAt": "2026-10-28T12:00:59.761Z"
+  },
+  {
+    "id": "1744462",
+    "title": "Grand Theft Auto VI: An Extended Look",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/XJXylXvPKLXrcOtYZpwKbhRztD.jpg",
+    "updatedAt": "2026-10-28T11:56:25.713Z"
+  },
+  {
     "id": "1727734",
     "title": "Ali G: Who Iz I?",
     "type": "movie",
@@ -152,22 +169,5 @@
     "year": "2019",
     "backdrop": "https://image.tmdb.org/t/p/w500/uh20sr2rIrDyyh4qaYs3jhQFU8J.jpg",
     "updatedAt": "2026-10-28T02:54:54.862Z"
-  },
-  {
-    "id": "82992",
-    "title": "Fast & Furious 6",
-    "type": "movie",
-    "year": "2013",
-    "backdrop": "https://image.tmdb.org/t/p/w500/citoZW4atdMAKgkI9YQsJ8hgCky.jpg",
-    "updatedAt": "2026-10-28T02:50:20.974Z"
-  },
-  {
-    "id": "14544",
-    "title": "Koffee with Karan",
-    "type": "tv",
-    "season": 9,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/h4hRKSbgtn9l7AmD5nph5vlYyJo.jpg",
-    "updatedAt": "2026-10-28T02:43:34.718Z"
   }
 ]
