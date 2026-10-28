@@ -1,5 +1,65 @@
 [
   {
+    "id": "289423",
+    "title": "Take Charge of My Heart",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/6NAy0c79IPyT4AE4gzD7n4iZ3FR.jpg",
+    "updatedAt": "2026-10-28T06:52:09.981Z"
+  },
+  {
+    "id": "1607634",
+    "title": "Anbe Diana",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/l4xqxKS7nlOni6bnTHWi3USyp4o.jpg",
+    "updatedAt": "2026-10-28T06:48:31.742Z"
+  },
+  {
+    "id": "1596275",
+    "title": "Drive - The Pretenders",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/5aM6VbwVSFSzAkndENRj5qPk0fI.jpg",
+    "updatedAt": "2026-10-28T06:44:14.214Z"
+  },
+  {
+    "id": "81821",
+    "title": "100 Days My Prince",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/37ep1OTbUT2dg4nL0bVGfV5DK8w.jpg",
+    "updatedAt": "2026-10-28T06:43:14.327Z"
+  },
+  {
+    "id": "313346",
+    "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/l1ypuYOFqNMNRm802JBP3hxozhc.jpg",
+    "updatedAt": "2026-10-28T06:34:54.101Z"
+  },
+  {
+    "id": "213375",
+    "title": "VisionQuest",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
+    "updatedAt": "2026-10-28T06:29:50.924Z"
+  },
+  {
+    "id": "1377237",
+    "title": "Runner",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/w8fEorMTwgMN9h1cgOb3yMggbiu.jpg",
+    "updatedAt": "2026-10-28T06:27:25.492Z"
+  },
+  {
     "id": "11436",
     "title": "Bigg Boss",
     "type": "tv",
@@ -110,65 +170,5 @@
     "episode": 8,
     "backdrop": "https://image.tmdb.org/t/p/w500/y8OGCsWSDbKbZrYKf2KFQVvPmDN.jpg",
     "updatedAt": "2026-10-28T02:27:23.438Z"
-  },
-  {
-    "id": "1510795",
-    "title": "Shake, Rattle & Roll: Evil Origins",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/90Vx3KpCXR2D9iVdxJpkjeYBq9P.jpg",
-    "updatedAt": "2026-10-28T02:25:13.973Z"
-  },
-  {
-    "id": "117376",
-    "title": "Vincenzo",
-    "type": "tv",
-    "season": 1,
-    "episode": 19,
-    "backdrop": "https://image.tmdb.org/t/p/w500/cQwu0TKuXXFfPKc5i8nZ0PsgeQC.jpg",
-    "updatedAt": "2026-10-27T15:06:11.200Z"
-  },
-  {
-    "id": "285838",
-    "title": "If Wishes Could Kill",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "updatedAt": "2026-10-27T15:05:12.190Z"
-  },
-  {
-    "id": "1417260",
-    "title": "The Shallows",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/ol6ajiPDr7rLdJWA8vEHuhf2Khg.jpg",
-    "updatedAt": "2026-10-27T13:55:21.969Z"
-  },
-  {
-    "id": "1283515",
-    "title": "Verity",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/b1y7n7PwuxlVaLrDBESrAqdRehx.jpg",
-    "updatedAt": "2026-10-27T13:48:56.655Z"
-  },
-  {
-    "id": "229915",
-    "title": "Night Has Come",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/itGeBTRqCbWO0uPEXwI8bbu5lKy.jpg",
-    "updatedAt": "2026-10-27T11:00:03.413Z"
-  },
-  {
-    "id": "136283",
-    "title": "The Glory",
-    "type": "tv",
-    "season": 1,
-    "episode": 15,
-    "backdrop": "https://image.tmdb.org/t/p/w500/iu5zBMCRKZECC78flUGd10tuQVT.jpg",
-    "updatedAt": "2026-10-27T10:49:45.974Z"
   }
 ]
