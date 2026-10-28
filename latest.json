@@ -1,5 +1,91 @@
 [
   {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 52,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
+    "updatedAt": "2026-10-28T03:10:57.655Z"
+  },
+  {
+    "id": "82687",
+    "title": "The Guilt Trip",
+    "type": "movie",
+    "year": "2012",
+    "backdrop": "https://image.tmdb.org/t/p/w500/n5bTb5L27DSVAnhrN4XuWPxG0WQ.jpg",
+    "updatedAt": "2026-10-28T03:09:05.615Z"
+  },
+  {
+    "id": "1376400",
+    "title": "Crawlers",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/7hPRJ8u6zAKqS5Yb8unnk7S7zSx.jpg",
+    "updatedAt": "2026-10-28T03:07:00.159Z"
+  },
+  {
+    "id": "96677",
+    "title": "Lupin",
+    "type": "tv",
+    "season": 3,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/f7CwtaRgSFBVzW81JJbUEcmRGgK.jpg",
+    "updatedAt": "2026-10-28T03:05:30.271Z"
+  },
+  {
+    "id": "286360",
+    "title": "Notes from the Last Row",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/pcBTl7U8eVOVGhu2Wi0hN693tsd.jpg",
+    "updatedAt": "2026-10-28T03:03:44.431Z"
+  },
+  {
+    "id": "298610",
+    "title": "Spooky in Love",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/9jdReHRO3tVsgIdDcY952FA5nfF.jpg",
+    "updatedAt": "2026-10-28T03:01:52.640Z"
+  },
+  {
+    "id": "643534",
+    "title": "Good Newwz",
+    "type": "movie",
+    "year": "2019",
+    "backdrop": "https://image.tmdb.org/t/p/w500/uh20sr2rIrDyyh4qaYs3jhQFU8J.jpg",
+    "updatedAt": "2026-10-28T02:54:54.862Z"
+  },
+  {
+    "id": "82992",
+    "title": "Fast & Furious 6",
+    "type": "movie",
+    "year": "2013",
+    "backdrop": "https://image.tmdb.org/t/p/w500/citoZW4atdMAKgkI9YQsJ8hgCky.jpg",
+    "updatedAt": "2026-10-28T02:50:20.974Z"
+  },
+  {
+    "id": "14544",
+    "title": "Koffee with Karan",
+    "type": "tv",
+    "season": 9,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/h4hRKSbgtn9l7AmD5nph5vlYyJo.jpg",
+    "updatedAt": "2026-10-28T02:43:34.718Z"
+  },
+  {
+    "id": "284833",
+    "title": "Avatar: Seven Havens",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/3yf7MRPfL2Mt8AaBGv7SydUydKL.jpg",
+    "updatedAt": "2026-10-28T02:42:37.560Z"
+  },
+  {
     "id": "1084244",
     "title": "Toy Story 5",
     "type": "movie",
@@ -32,15 +118,6 @@
     "year": "2025",
     "backdrop": "https://image.tmdb.org/t/p/w500/90Vx3KpCXR2D9iVdxJpkjeYBq9P.jpg",
     "updatedAt": "2026-10-28T02:25:13.973Z"
-  },
-  {
-    "id": "286360",
-    "title": "Notes from the Last Row",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/pcBTl7U8eVOVGhu2Wi0hN693tsd.jpg",
-    "updatedAt": "2026-10-27T15:16:15.488Z"
   },
   {
     "id": "117376",
@@ -93,81 +170,5 @@
     "episode": 15,
     "backdrop": "https://image.tmdb.org/t/p/w500/iu5zBMCRKZECC78flUGd10tuQVT.jpg",
     "updatedAt": "2026-10-27T10:49:45.974Z"
-  },
-  {
-    "id": "1283671",
-    "title": "Peak Everything",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/coEs2dclAJITRwLEF3nY7kicCcZ.jpg",
-    "updatedAt": "2026-10-27T10:32:57.908Z"
-  },
-  {
-    "id": "1465063",
-    "title": "Forgotten Island",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/iU2RVy0G99XoDSUHvcQomtif5nP.jpg",
-    "updatedAt": "2026-10-27T10:31:25.588Z"
-  },
-  {
-    "id": "210702",
-    "title": "Revenant",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/5HPz1FJuoIvPlewlDCvaxtrExLi.jpg",
-    "updatedAt": "2026-10-27T10:25:34.564Z"
-  },
-  {
-    "id": "1399",
-    "title": "Game of Thrones",
-    "type": "tv",
-    "season": 8,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hRb50fOGcXic3NO6kUnL9hRXwsg.jpg",
-    "updatedAt": "2026-10-27T10:22:34.756Z"
-  },
-  {
-    "id": "229891",
-    "title": "Can This Love Be Translated?",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/kn4RmKUMA1C7oBU9JOesEz6ZXG9.jpg",
-    "updatedAt": "2026-10-27T10:21:25.668Z"
-  },
-  {
-    "id": "316197",
-    "title": "Dive into You",
-    "type": "tv",
-    "season": 1,
-    "episode": 11,
-    "backdrop": "https://image.tmdb.org/t/p/w500/cFCvllLORfzNYlTmWFEOWUMNMPL.jpg",
-    "updatedAt": "2026-10-27T10:20:32.820Z"
-  },
-  {
-    "id": "1284041",
-    "title": "The Last House",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/9wCrNgVcaOhS5jPK9B5reFIWvxh.jpg",
-    "updatedAt": "2026-10-27T10:18:05.883Z"
-  },
-  {
-    "id": "4951",
-    "title": "10 Things I Hate About You",
-    "type": "movie",
-    "year": "1999",
-    "backdrop": "https://image.tmdb.org/t/p/w500/o8NbcpgY4J8MwHNPxFxTgceYYc.jpg",
-    "updatedAt": "2026-10-27T10:16:23.818Z"
-  },
-  {
-    "id": "1431068",
-    "title": "Main Vaapas Aaunga",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/bWw9PuPH6vFXlezBoHZ6D9XBhQW.jpg",
-    "updatedAt": "2026-10-27T10:14:55.964Z"
   }
 ]
