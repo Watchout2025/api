@@ -1,5 +1,101 @@
 [
   {
+    "id": "248244",
+    "title": "Undercover High School",
+    "type": "tv",
+    "season": null,
+    "episode": null,
+    "backdrop": "https://image.tmdb.org/t/p/w500/zDkI9gm3OFP202UlM7wnM6pxpAt.jpg",
+    "updatedAt": "2026-10-29T06:04:16.024Z"
+  },
+  {
+    "id": "66732",
+    "title": "Stranger Things",
+    "type": "tv",
+    "season": 5,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/89T83vE1ol8wcI879LutCqv7hMa.jpg",
+    "updatedAt": "2026-10-29T06:03:25.873Z"
+  },
+  {
+    "id": "1169516",
+    "title": "Welcome To The Jungle",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/pGTImtIABR9LXFYebcMOs46JsQv.jpg",
+    "updatedAt": "2026-10-29T06:02:39.810Z"
+  },
+  {
+    "id": "1148365",
+    "title": "Matchbox the Movie",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/ugpflhns3FF9JcNaNjIThcOTKf5.jpg",
+    "updatedAt": "2026-10-29T05:54:36.599Z"
+  },
+  {
+    "id": "328402",
+    "title": "Adarsh Baal Vidyalaya",
+    "type": "tv",
+    "season": 1,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/y9ne2baF1JEik81z673KF1W0vn7.jpg",
+    "updatedAt": "2026-10-29T05:52:45.311Z"
+  },
+  {
+    "id": "293607",
+    "title": "100 Days of Deception",
+    "type": "tv",
+    "season": 1,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/oSe2Jbep2FZjaLiNiUDpV6DdIF3.jpg",
+    "updatedAt": "2026-10-29T05:50:48.801Z"
+  },
+  {
+    "id": "154825",
+    "title": "Business Proposal",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/3ARq4Fmu6xApIdv5LmKO7W6Zf4R.jpg",
+    "updatedAt": "2026-10-29T05:50:05.810Z"
+  },
+  {
+    "id": "564",
+    "title": "The Mummy",
+    "type": "movie",
+    "year": "1999",
+    "backdrop": "https://image.tmdb.org/t/p/w500/nwFlWrZ4007ysvNlaN0VsMEFCC9.jpg",
+    "updatedAt": "2026-10-29T05:48:06.104Z"
+  },
+  {
+    "id": "317312",
+    "title": "Echo of a Letter",
+    "type": "tv",
+    "season": 1,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/5K1VONj6vUbxMuA13JN7L2mRX1p.jpg",
+    "updatedAt": "2026-10-29T05:45:58.120Z"
+  },
+  {
+    "id": "300146",
+    "title": "Where the Mask Ends",
+    "type": "tv",
+    "season": 1,
+    "episode": 23,
+    "backdrop": "https://image.tmdb.org/t/p/w500/9LDnU2cpaFOQaL3wrGdxCaT0t9Z.jpg",
+    "updatedAt": "2026-10-29T05:43:07.271Z"
+  },
+  {
+    "id": "304452",
+    "title": "The Lament of Autumn",
+    "type": "tv",
+    "season": 1,
+    "episode": 33,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hKRxkQThdq0Wr75DaWCzPKT3D92.jpg",
+    "updatedAt": "2026-10-29T05:42:25.919Z"
+  },
+  {
     "id": "289892",
     "title": "Helluva Boss",
     "type": "tv",
@@ -77,98 +173,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/lSd6nEnlaeQkswLLUgHC5gyuXyU.jpg",
     "updatedAt": "2026-10-28T12:07:23.305Z"
-  },
-  {
-    "id": "1514863",
-    "title": "Best of the Best",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/l66G12NvVhkpm02CHWJteA7nJUb.jpg",
-    "updatedAt": "2026-10-28T12:06:46.137Z"
-  },
-  {
-    "id": "2289",
-    "title": "Cold Mountain",
-    "type": "movie",
-    "year": "2003",
-    "backdrop": "https://image.tmdb.org/t/p/w500/kFUPZxF5HxuYcfewXXLR9ZJtTLZ.jpg",
-    "updatedAt": "2026-10-28T12:05:40.168Z"
-  },
-  {
-    "id": "84958",
-    "title": "Loki",
-    "type": "tv",
-    "season": 2,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/kXja7L9cRlsRmINMpxyWEdp9r3u.jpg",
-    "updatedAt": "2026-10-28T12:03:12.229Z"
-  },
-  {
-    "id": "293835",
-    "title": "Seducing Drake Palma",
-    "type": "tv",
-    "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/cKZoh4ZnoRRvPx4vuzTQVuhiUiZ.jpg",
-    "updatedAt": "2026-10-28T12:00:59.761Z"
-  },
-  {
-    "id": "1744462",
-    "title": "Grand Theft Auto VI: An Extended Look",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/XJXylXvPKLXrcOtYZpwKbhRztD.jpg",
-    "updatedAt": "2026-10-28T11:56:25.713Z"
-  },
-  {
-    "id": "1727734",
-    "title": "Ali G: Who Iz I?",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/bRZQJK2Psefbl2BQG6OkDWbUVY8.jpg",
-    "updatedAt": "2026-10-28T11:53:00.184Z"
-  },
-  {
-    "id": "303745",
-    "title": "Love in Disguise",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9qbj4CGHMtrnpdpTVtVVk9faqKK.jpg",
-    "updatedAt": "2026-10-28T11:51:57.016Z"
-  },
-  {
-    "id": "333533",
-    "title": "The One About Matthew Perry",
-    "type": "tv",
-    "season": 1,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w500/upIuCEs26PHrC3SnxBSxqtjm1mU.jpg",
-    "updatedAt": "2026-10-28T11:49:19.079Z"
-  },
-  {
-    "id": "1441978",
-    "title": "Special Monster",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/4qe9gQv7V6o8yBWnqY8uCkrwyZc.jpg",
-    "updatedAt": "2026-10-28T06:57:54.694Z"
-  },
-  {
-    "id": "289423",
-    "title": "Take Charge of My Heart",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/6NAy0c79IPyT4AE4gzD7n4iZ3FR.jpg",
-    "updatedAt": "2026-10-28T06:52:09.981Z"
-  },
-  {
-    "id": "1607634",
-    "title": "Anbe Diana",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/l4xqxKS7nlOni6bnTHWi3USyp4o.jpg",
-    "updatedAt": "2026-10-28T06:48:31.742Z"
   }
 ]
