@@ -1,5 +1,109 @@
 [
   {
+    "id": "289892",
+    "title": "Helluva Boss",
+    "type": "tv",
+    "season": 3,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/ix1H6XmQwPt2xbp1RyFK6N0WbK8.jpg",
+    "updatedAt": "2026-10-29T05:40:08.808Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 53,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
+    "updatedAt": "2026-10-29T05:32:42.376Z"
+  },
+  {
+    "id": "14544",
+    "title": "Koffee with Karan",
+    "type": "tv",
+    "season": 9,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/h4hRKSbgtn9l7AmD5nph5vlYyJo.jpg",
+    "updatedAt": "2026-10-29T05:31:13.799Z"
+  },
+  {
+    "id": "275204",
+    "title": "Dhindora",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/2QsmesFzm5WaP70pRmCbVBzvXDA.jpg",
+    "updatedAt": "2026-10-29T05:27:46.048Z"
+  },
+  {
+    "id": "65942",
+    "title": "Re:ZERO -Starting Life in Another World-",
+    "type": "tv",
+    "season": 1,
+    "episode": 80,
+    "backdrop": "https://image.tmdb.org/t/p/w500/9yrr6ubLv7uaOeHv890mVe1HNGn.jpg",
+    "updatedAt": "2026-10-29T05:22:47.752Z"
+  },
+  {
+    "id": "1515692",
+    "title": "Baththa",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/5sBnZMT1aJ6cBvehKOzOOLdI6bz.jpg",
+    "updatedAt": "2026-10-29T05:05:29.543Z"
+  },
+  {
+    "id": "293610",
+    "title": "Doctor X: Mafia in White",
+    "type": "tv",
+    "season": 1,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hMEulOCbZtnS7gFFBDuQCpYQs5a.jpg",
+    "updatedAt": "2026-10-28T13:33:27.143Z"
+  },
+  {
+    "id": "302882",
+    "title": "#Love",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/xrm5XNKMuAnvnG9sokNYlaAng2G.jpg",
+    "updatedAt": "2026-10-28T13:31:51.638Z"
+  },
+  {
+    "id": "1514682",
+    "title": "Above & Below",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/lSd6nEnlaeQkswLLUgHC5gyuXyU.jpg",
+    "updatedAt": "2026-10-28T12:07:23.305Z"
+  },
+  {
+    "id": "1514863",
+    "title": "Best of the Best",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/l66G12NvVhkpm02CHWJteA7nJUb.jpg",
+    "updatedAt": "2026-10-28T12:06:46.137Z"
+  },
+  {
+    "id": "2289",
+    "title": "Cold Mountain",
+    "type": "movie",
+    "year": "2003",
+    "backdrop": "https://image.tmdb.org/t/p/w500/kFUPZxF5HxuYcfewXXLR9ZJtTLZ.jpg",
+    "updatedAt": "2026-10-28T12:05:40.168Z"
+  },
+  {
+    "id": "84958",
+    "title": "Loki",
+    "type": "tv",
+    "season": 2,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/kXja7L9cRlsRmINMpxyWEdp9r3u.jpg",
+    "updatedAt": "2026-10-28T12:03:12.229Z"
+  },
+  {
     "id": "293835",
     "title": "Seducing Drake Palma",
     "type": "tv",
@@ -66,108 +170,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/l4xqxKS7nlOni6bnTHWi3USyp4o.jpg",
     "updatedAt": "2026-10-28T06:48:31.742Z"
-  },
-  {
-    "id": "1596275",
-    "title": "Drive - The Pretenders",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/5aM6VbwVSFSzAkndENRj5qPk0fI.jpg",
-    "updatedAt": "2026-10-28T06:44:14.214Z"
-  },
-  {
-    "id": "81821",
-    "title": "100 Days My Prince",
-    "type": "tv",
-    "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/37ep1OTbUT2dg4nL0bVGfV5DK8w.jpg",
-    "updatedAt": "2026-10-28T06:43:14.327Z"
-  },
-  {
-    "id": "313346",
-    "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/l1ypuYOFqNMNRm802JBP3hxozhc.jpg",
-    "updatedAt": "2026-10-28T06:34:54.101Z"
-  },
-  {
-    "id": "213375",
-    "title": "VisionQuest",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
-    "updatedAt": "2026-10-28T06:29:50.924Z"
-  },
-  {
-    "id": "1377237",
-    "title": "Runner",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/w8fEorMTwgMN9h1cgOb3yMggbiu.jpg",
-    "updatedAt": "2026-10-28T06:27:25.492Z"
-  },
-  {
-    "id": "11436",
-    "title": "Bigg Boss",
-    "type": "tv",
-    "season": 20,
-    "episode": 52,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
-    "updatedAt": "2026-10-28T03:10:57.655Z"
-  },
-  {
-    "id": "82687",
-    "title": "The Guilt Trip",
-    "type": "movie",
-    "year": "2012",
-    "backdrop": "https://image.tmdb.org/t/p/w500/n5bTb5L27DSVAnhrN4XuWPxG0WQ.jpg",
-    "updatedAt": "2026-10-28T03:09:05.615Z"
-  },
-  {
-    "id": "1376400",
-    "title": "Crawlers",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/7hPRJ8u6zAKqS5Yb8unnk7S7zSx.jpg",
-    "updatedAt": "2026-10-28T03:07:00.159Z"
-  },
-  {
-    "id": "96677",
-    "title": "Lupin",
-    "type": "tv",
-    "season": 3,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/f7CwtaRgSFBVzW81JJbUEcmRGgK.jpg",
-    "updatedAt": "2026-10-28T03:05:30.271Z"
-  },
-  {
-    "id": "286360",
-    "title": "Notes from the Last Row",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/pcBTl7U8eVOVGhu2Wi0hN693tsd.jpg",
-    "updatedAt": "2026-10-28T03:03:44.431Z"
-  },
-  {
-    "id": "298610",
-    "title": "Spooky in Love",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9jdReHRO3tVsgIdDcY952FA5nfF.jpg",
-    "updatedAt": "2026-10-28T03:01:52.640Z"
-  },
-  {
-    "id": "643534",
-    "title": "Good Newwz",
-    "type": "movie",
-    "year": "2019",
-    "backdrop": "https://image.tmdb.org/t/p/w500/uh20sr2rIrDyyh4qaYs3jhQFU8J.jpg",
-    "updatedAt": "2026-10-28T02:54:54.862Z"
   }
 ]
