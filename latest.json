@@ -1,5 +1,68 @@
 [
   {
+    "id": "120911",
+    "title": "The Terminal List",
+    "type": "tv",
+    "season": 2,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/16pCkWuoPEqNDbgAUlhurz4T4vL.jpg",
+    "updatedAt": "2026-10-29T13:28:52.514Z"
+  },
+  {
+    "id": "297826",
+    "title": "Tomb Raider King",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/efo2pV1xzSIyd35jXixoB2WJM3u.jpg",
+    "updatedAt": "2026-10-29T13:28:07.595Z"
+  },
+  {
+    "id": "113457",
+    "title": "Mismatched",
+    "type": "tv",
+    "season": 3,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/fIWUoyflWns3C6yjnOtWKLrujz.jpg",
+    "updatedAt": "2026-10-29T13:27:30.731Z"
+  },
+  {
+    "id": "331932",
+    "title": "Ali Baba Aur 40 Bhoot",
+    "type": "tv",
+    "season": 1,
+    "episode": 28,
+    "backdrop": "https://image.tmdb.org/t/p/w500/3gcA80UNEO6pAgpTUf7RFS13KPa.jpg",
+    "updatedAt": "2026-10-29T12:30:50.695Z"
+  },
+  {
+    "id": "1429",
+    "title": "Attack on Titan",
+    "type": "tv",
+    "season": 4,
+    "episode": 28,
+    "backdrop": "https://image.tmdb.org/t/p/w500/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg",
+    "updatedAt": "2026-10-29T12:17:15.966Z"
+  },
+  {
+    "id": "117061",
+    "title": "The Detective Is Already Dead",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/aqETSDXdeYqcD1PPd2WBfeWtoct.jpg",
+    "updatedAt": "2026-10-29T11:45:27.668Z"
+  },
+  {
+    "id": "305551",
+    "title": "Merry Berry Love",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/z4T6XZp1B3l6sr2KvPxVqAX4SCg.jpg",
+    "updatedAt": "2026-10-29T11:35:58.979Z"
+  },
+  {
     "id": "248244",
     "title": "Undercover High School",
     "type": "tv",
@@ -112,66 +175,5 @@
     "episode": 53,
     "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
     "updatedAt": "2026-10-29T05:32:42.376Z"
-  },
-  {
-    "id": "14544",
-    "title": "Koffee with Karan",
-    "type": "tv",
-    "season": 9,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w500/h4hRKSbgtn9l7AmD5nph5vlYyJo.jpg",
-    "updatedAt": "2026-10-29T05:31:13.799Z"
-  },
-  {
-    "id": "275204",
-    "title": "Dhindora",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/2QsmesFzm5WaP70pRmCbVBzvXDA.jpg",
-    "updatedAt": "2026-10-29T05:27:46.048Z"
-  },
-  {
-    "id": "65942",
-    "title": "Re:ZERO -Starting Life in Another World-",
-    "type": "tv",
-    "season": 1,
-    "episode": 80,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9yrr6ubLv7uaOeHv890mVe1HNGn.jpg",
-    "updatedAt": "2026-10-29T05:22:47.752Z"
-  },
-  {
-    "id": "1515692",
-    "title": "Baththa",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/5sBnZMT1aJ6cBvehKOzOOLdI6bz.jpg",
-    "updatedAt": "2026-10-29T05:05:29.543Z"
-  },
-  {
-    "id": "293610",
-    "title": "Doctor X: Mafia in White",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hMEulOCbZtnS7gFFBDuQCpYQs5a.jpg",
-    "updatedAt": "2026-10-28T13:33:27.143Z"
-  },
-  {
-    "id": "302882",
-    "title": "#Love",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/xrm5XNKMuAnvnG9sokNYlaAng2G.jpg",
-    "updatedAt": "2026-10-28T13:31:51.638Z"
-  },
-  {
-    "id": "1514682",
-    "title": "Above & Below",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/lSd6nEnlaeQkswLLUgHC5gyuXyU.jpg",
-    "updatedAt": "2026-10-28T12:07:23.305Z"
   }
 ]
