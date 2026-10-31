@@ -1,179 +1,173 @@
 [
   {
-    "id": "120911",
-    "title": "The Terminal List",
+    "id": "293610",
+    "title": "Doctor X: Mafia in White",
+    "type": "tv",
+    "season": 1,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hMEulOCbZtnS7gFFBDuQCpYQs5a.jpg",
+    "updatedAt": "2026-10-31T04:15:40.995Z"
+  },
+  {
+    "id": "284833",
+    "title": "Avatar: Seven Havens",
+    "type": "tv",
+    "season": 1,
+    "episode": 13,
+    "backdrop": "https://image.tmdb.org/t/p/w500/3yf7MRPfL2Mt8AaBGv7SydUydKL.jpg",
+    "updatedAt": "2026-10-31T04:14:04.140Z"
+  },
+  {
+    "id": "259909",
+    "title": "Dexter: Resurrection",
+    "type": "tv",
+    "season": 2,
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/6i9a5jopYTUUucqYpbOfarVyUtN.jpg",
+    "updatedAt": "2026-10-31T04:10:33.107Z"
+  },
+  {
+    "id": "336241",
+    "title": "How to Ruin Diwali: Meet the Parents",
+    "type": "tv",
+    "season": 1,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/qFiTEcD4jZ8uN90FxOfBo0Um9eL.jpg",
+    "updatedAt": "2026-10-31T04:09:19.387Z"
+  },
+  {
+    "id": "289517",
+    "title": "Dead-End Job",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/y0H5sosH9JCm8pgTFFIrnKKHFq4.jpg",
+    "updatedAt": "2026-10-31T04:06:48.395Z"
+  },
+  {
+    "id": "1571955",
+    "title": "Collision Course",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/gkbpKERTNlzTR9BFkGfNsLA8R9G.jpg",
+    "updatedAt": "2026-10-31T03:59:32.675Z"
+  },
+  {
+    "id": "1789549",
+    "title": "The Birthday​ Gift​",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/sKfAtYkjX0Y16XXgt7u3KwV4cUM.jpg",
+    "updatedAt": "2026-10-31T03:58:29.194Z"
+  },
+  {
+    "id": "1802464",
+    "title": "Meethe Mein Kya Hai",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/5UkQUYXkG4iJH5Ova55lkxDPiCB.jpg",
+    "updatedAt": "2026-10-31T03:57:23.530Z"
+  },
+  {
+    "id": "1507696",
+    "title": "Apocalypse Z: New World",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/rsplI45pVrTbySO7MqQgW9HLXvj.jpg",
+    "updatedAt": "2026-10-31T03:56:10.875Z"
+  },
+  {
+    "id": "243555",
+    "title": "Akka",
+    "type": "tv",
+    "season": 1,
+    "episode": 5,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cVUKFfws4upCB4ytz5uGIONIiRc.jpg",
+    "updatedAt": "2026-10-31T03:55:06.762Z"
+  },
+  {
+    "id": "96870",
+    "title": "Jamtara – Sabka Number Ayega",
     "type": "tv",
     "season": 2,
     "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/16pCkWuoPEqNDbgAUlhurz4T4vL.jpg",
-    "updatedAt": "2026-10-29T13:28:52.514Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/zXi65hFftGcZwsrx2wNfi1RU4VH.jpg",
+    "updatedAt": "2026-10-31T03:52:16.210Z"
   },
   {
-    "id": "297826",
-    "title": "Tomb Raider King",
+    "id": "300081",
+    "title": "Rise and Fall",
     "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/efo2pV1xzSIyd35jXixoB2WJM3u.jpg",
-    "updatedAt": "2026-10-29T13:28:07.595Z"
+    "season": 2,
+    "episode": 34,
+    "backdrop": "https://image.tmdb.org/t/p/w500/oE2X7HuKpCJE5hCzTMPKdxJY5vW.jpg",
+    "updatedAt": "2026-10-31T03:43:48.330Z"
   },
   {
-    "id": "113457",
-    "title": "Mismatched",
-    "type": "tv",
-    "season": 3,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/fIWUoyflWns3C6yjnOtWKLrujz.jpg",
-    "updatedAt": "2026-10-29T13:27:30.731Z"
-  },
-  {
-    "id": "331932",
-    "title": "Ali Baba Aur 40 Bhoot",
-    "type": "tv",
-    "season": 1,
-    "episode": 28,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3gcA80UNEO6pAgpTUf7RFS13KPa.jpg",
-    "updatedAt": "2026-10-29T12:30:50.695Z"
-  },
-  {
-    "id": "1429",
-    "title": "Attack on Titan",
-    "type": "tv",
-    "season": 4,
-    "episode": 28,
-    "backdrop": "https://image.tmdb.org/t/p/w500/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg",
-    "updatedAt": "2026-10-29T12:17:15.966Z"
-  },
-  {
-    "id": "117061",
-    "title": "The Detective Is Already Dead",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/aqETSDXdeYqcD1PPd2WBfeWtoct.jpg",
-    "updatedAt": "2026-10-29T11:45:27.668Z"
-  },
-  {
-    "id": "305551",
-    "title": "Merry Berry Love",
+    "id": "337474",
+    "title": "Varam",
     "type": "tv",
     "season": 1,
     "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/z4T6XZp1B3l6sr2KvPxVqAX4SCg.jpg",
-    "updatedAt": "2026-10-29T11:35:58.979Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/aLlJZ3HECkDtdImlns2uQWaWNOs.jpg",
+    "updatedAt": "2026-10-31T03:33:31.403Z"
   },
   {
-    "id": "248244",
-    "title": "Undercover High School",
-    "type": "tv",
-    "season": null,
-    "episode": null,
-    "backdrop": "https://image.tmdb.org/t/p/w500/zDkI9gm3OFP202UlM7wnM6pxpAt.jpg",
-    "updatedAt": "2026-10-29T06:04:16.024Z"
-  },
-  {
-    "id": "66732",
-    "title": "Stranger Things",
-    "type": "tv",
-    "season": 5,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/89T83vE1ol8wcI879LutCqv7hMa.jpg",
-    "updatedAt": "2026-10-29T06:03:25.873Z"
-  },
-  {
-    "id": "1169516",
-    "title": "Welcome To The Jungle",
+    "id": "1290035",
+    "title": "Avaraachan & Sons",
     "type": "movie",
     "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/pGTImtIABR9LXFYebcMOs46JsQv.jpg",
-    "updatedAt": "2026-10-29T06:02:39.810Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/cn5RbvKzrYskQhDkofDaJYjcv1D.jpg",
+    "updatedAt": "2026-10-31T03:32:18.377Z"
   },
   {
-    "id": "1148365",
-    "title": "Matchbox the Movie",
+    "id": "1261763",
+    "title": "Don't Trouble the Trouble",
     "type": "movie",
     "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/ugpflhns3FF9JcNaNjIThcOTKf5.jpg",
-    "updatedAt": "2026-10-29T05:54:36.599Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/iWVgNbAB4fCqzOPJXNLOZP4zfbK.jpg",
+    "updatedAt": "2026-10-31T03:31:13.330Z"
   },
   {
-    "id": "328402",
-    "title": "Adarsh Baal Vidyalaya",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/y9ne2baF1JEik81z673KF1W0vn7.jpg",
-    "updatedAt": "2026-10-29T05:52:45.311Z"
-  },
-  {
-    "id": "293607",
-    "title": "100 Days of Deception",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/oSe2Jbep2FZjaLiNiUDpV6DdIF3.jpg",
-    "updatedAt": "2026-10-29T05:50:48.801Z"
-  },
-  {
-    "id": "154825",
-    "title": "Business Proposal",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3ARq4Fmu6xApIdv5LmKO7W6Zf4R.jpg",
-    "updatedAt": "2026-10-29T05:50:05.810Z"
-  },
-  {
-    "id": "564",
-    "title": "The Mummy",
+    "id": "1395215",
+    "title": "Sigma",
     "type": "movie",
-    "year": "1999",
-    "backdrop": "https://image.tmdb.org/t/p/w500/nwFlWrZ4007ysvNlaN0VsMEFCC9.jpg",
-    "updatedAt": "2026-10-29T05:48:06.104Z"
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/usAlt5OOT54Zw6lLS2zLhKUuc2Q.jpg",
+    "updatedAt": "2026-10-31T03:29:38.753Z"
   },
   {
-    "id": "317312",
-    "title": "Echo of a Letter",
+    "id": "1428295",
+    "title": "Comrade Kalyan",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/zsAbkmTkGE3l98Jhvdiy7ybNFo8.jpg",
+    "updatedAt": "2026-10-31T03:28:25.817Z"
+  },
+  {
+    "id": "320909",
+    "title": "Firefly Wedding",
     "type": "tv",
     "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/5K1VONj6vUbxMuA13JN7L2mRX1p.jpg",
-    "updatedAt": "2026-10-29T05:45:58.120Z"
-  },
-  {
-    "id": "300146",
-    "title": "Where the Mask Ends",
-    "type": "tv",
-    "season": 1,
-    "episode": 23,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9LDnU2cpaFOQaL3wrGdxCaT0t9Z.jpg",
-    "updatedAt": "2026-10-29T05:43:07.271Z"
-  },
-  {
-    "id": "304452",
-    "title": "The Lament of Autumn",
-    "type": "tv",
-    "season": 1,
-    "episode": 33,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hKRxkQThdq0Wr75DaWCzPKT3D92.jpg",
-    "updatedAt": "2026-10-29T05:42:25.919Z"
-  },
-  {
-    "id": "289892",
-    "title": "Helluva Boss",
-    "type": "tv",
-    "season": 3,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/ix1H6XmQwPt2xbp1RyFK6N0WbK8.jpg",
-    "updatedAt": "2026-10-29T05:40:08.808Z"
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/6skizQ7ljYdT8lW7ylqaBsmOY5D.jpg",
+    "updatedAt": "2026-10-31T03:26:48.945Z"
   },
   {
     "id": "11436",
     "title": "Bigg Boss",
     "type": "tv",
     "season": 20,
-    "episode": 53,
+    "episode": 55,
     "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
-    "updatedAt": "2026-10-29T05:32:42.376Z"
+    "updatedAt": "2026-10-31T03:23:06.491Z"
+  },
+  {
+    "id": "1202167",
+    "title": "Nakhrewaalii",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "",
+    "updatedAt": "2026-10-30T18:59:02.279Z"
   }
 ]
