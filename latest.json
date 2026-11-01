@@ -1,5 +1,138 @@
 [
   {
+    "id": "316702",
+    "title": "Final Table",
+    "type": "tv",
+    "season": 1,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/mf0klf0xpqW52G1TjDUxBL4u0x4.jpg",
+    "updatedAt": "2026-11-01T03:07:13.964Z"
+  },
+  {
+    "id": "283297",
+    "title": "Sterling Point",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/ieepBliPqckTatnBCGWFRleTGed.jpg",
+    "updatedAt": "2026-11-01T03:02:39.010Z"
+  },
+  {
+    "id": "110356",
+    "title": "My Name",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/OfG0t7Dff5vaDZTe4mvWlcYEum.jpg",
+    "updatedAt": "2026-11-01T03:01:19.787Z"
+  },
+  {
+    "id": "279323",
+    "title": "The East Palace",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/lVhOlbw8NapzXtkEURlpugFw1ef.jpg",
+    "updatedAt": "2026-11-01T02:59:21.978Z"
+  },
+  {
+    "id": "338918",
+    "title": "Chaar Yaar",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/ndO5LTzLPYqh8o65VLF8oReIewE.jpg",
+    "updatedAt": "2026-11-01T02:58:17.452Z"
+  },
+  {
+    "id": "1444466",
+    "title": "Awarapan 2",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/qrYsuB5kPCw0y7IVIuOyEAI1GXh.jpg",
+    "updatedAt": "2026-11-01T02:56:24.955Z"
+  },
+  {
+    "id": "258025",
+    "title": "Head Over Heels",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/7xs9O23AFbMzbhrEOY1vvo4g8Y0.jpg",
+    "updatedAt": "2026-11-01T02:55:13.076Z"
+  },
+  {
+    "id": "139512",
+    "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
+    "type": "tv",
+    "season": 2,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/gnoMv9Y2kzt74albwVT1FhewVVC.jpg",
+    "updatedAt": "2026-11-01T02:50:19.694Z"
+  },
+  {
+    "id": "66732",
+    "title": "Stranger Things",
+    "type": "tv",
+    "season": 5,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/89T83vE1ol8wcI879LutCqv7hMa.jpg",
+    "updatedAt": "2026-11-01T02:49:20.442Z"
+  },
+  {
+    "id": "250923",
+    "title": "Nobody Wants This",
+    "type": "tv",
+    "season": 3,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/vmpWfKOypIf4jNDWTbbvqM6IT2J.jpg",
+    "updatedAt": "2026-11-01T02:48:26.523Z"
+  },
+  {
+    "id": "247769",
+    "title": "The Great Indian Kapil Show",
+    "type": "tv",
+    "season": 5,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cACVBkXIekKwpdjVET7qtGWbC5J.jpg",
+    "updatedAt": "2026-11-01T02:45:15.530Z"
+  },
+  {
+    "id": "11665",
+    "title": "Get Smart",
+    "type": "movie",
+    "year": "2008",
+    "backdrop": "https://image.tmdb.org/t/p/w500/mNoSlefwKjkyqhiGxaMBn7qyY6j.jpg",
+    "updatedAt": "2026-11-01T02:43:24.107Z"
+  },
+  {
+    "id": "232018",
+    "title": "Has Fallen",
+    "type": "tv",
+    "season": 2,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/6RCM8JwIMLcryFGMedoVbF3wBOM.jpg",
+    "updatedAt": "2026-11-01T02:39:52.587Z"
+  },
+  {
+    "id": "307478",
+    "title": "The Perfect Lie",
+    "type": "tv",
+    "season": 1,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/rYRlpL4vgCqk6pmNNqGkMtTxI4y.jpg",
+    "updatedAt": "2026-11-01T02:27:09.130Z"
+  },
+  {
+    "id": "8426",
+    "title": "MTV Roadies",
+    "type": "tv",
+    "season": 21,
+    "episode": 5,
+    "backdrop": "https://image.tmdb.org/t/p/w500/2kEe8kiXc0cJUdmwIjnhXwxIEPL.jpg",
+    "updatedAt": "2026-11-01T02:25:03.354Z"
+  },
+  {
     "id": "215720",
     "title": "Queen of Tears",
     "type": "tv",
@@ -26,15 +159,6 @@
     "updatedAt": "2026-10-31T04:46:45.117Z"
   },
   {
-    "id": "66732",
-    "title": "Stranger Things",
-    "type": "tv",
-    "season": 5,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/89T83vE1ol8wcI879LutCqv7hMa.jpg",
-    "updatedAt": "2026-10-31T04:40:56.942Z"
-  },
-  {
     "id": "140300",
     "title": "Kung Fu Panda 3",
     "type": "movie",
@@ -50,127 +174,5 @@
     "episode": 6,
     "backdrop": "https://image.tmdb.org/t/p/w500/ciDRS9Q8ErVxYzOpmYG40Wqbpc2.jpg",
     "updatedAt": "2026-10-31T04:36:07.140Z"
-  },
-  {
-    "id": "1215889",
-    "title": "Daayra",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/rbwmf04kpX1o3zbbOS6Y7woF2Ku.jpg",
-    "updatedAt": "2026-10-31T04:32:54.205Z"
-  },
-  {
-    "id": "297640",
-    "title": "Filing for Love",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/e1NeKiC0YSrNNGHazvzOGEjflJe.jpg",
-    "updatedAt": "2026-10-31T04:32:26.660Z"
-  },
-  {
-    "id": "285322",
-    "title": "Below",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/tJhDFLNrJsYG2WysMh2jAcfJjEq.jpg",
-    "updatedAt": "2026-10-31T04:30:58.587Z"
-  },
-  {
-    "id": "298610",
-    "title": "Spooky in Love",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9jdReHRO3tVsgIdDcY952FA5nfF.jpg",
-    "updatedAt": "2026-10-31T04:30:09.916Z"
-  },
-  {
-    "id": "1213243",
-    "title": "Toxic",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/chVcgVAc6AwWJUEJhdLGysW9pCM.jpg",
-    "updatedAt": "2026-10-31T04:29:15.764Z"
-  },
-  {
-    "id": "1288445",
-    "title": "Mutiny",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/5kmju0rHpro6g8YWdihio8SJ1jH.jpg",
-    "updatedAt": "2026-10-31T04:28:12.756Z"
-  },
-  {
-    "id": "278573",
-    "title": "Perfect Crown",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/l5F7zrjACILbCwYAozRs74q3W18.jpg",
-    "updatedAt": "2026-10-31T04:27:38.403Z"
-  },
-  {
-    "id": "338918",
-    "title": "Chaar Yaar",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/ndO5LTzLPYqh8o65VLF8oReIewE.jpg",
-    "updatedAt": "2026-10-31T04:26:33.451Z"
-  },
-  {
-    "id": "1473354",
-    "title": "Sarvam Maya",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/ajvTTNfkOXbodEePwe9B3JsigON.jpg",
-    "updatedAt": "2026-10-31T04:24:46.068Z"
-  },
-  {
-    "id": "247718",
-    "title": "MobLand",
-    "type": "tv",
-    "season": 2,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
-    "updatedAt": "2026-10-31T04:23:47.924Z"
-  },
-  {
-    "id": "136283",
-    "title": "The Glory",
-    "type": "tv",
-    "season": 1,
-    "episode": 15,
-    "backdrop": "https://image.tmdb.org/t/p/w500/iu5zBMCRKZECC78flUGd10tuQVT.jpg",
-    "updatedAt": "2026-10-31T04:20:42.052Z"
-  },
-  {
-    "id": "293610",
-    "title": "Doctor X: Mafia in White",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hMEulOCbZtnS7gFFBDuQCpYQs5a.jpg",
-    "updatedAt": "2026-10-31T04:15:40.995Z"
-  },
-  {
-    "id": "284833",
-    "title": "Avatar: Seven Havens",
-    "type": "tv",
-    "season": 1,
-    "episode": 13,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3yf7MRPfL2Mt8AaBGv7SydUydKL.jpg",
-    "updatedAt": "2026-10-31T04:14:04.140Z"
-  },
-  {
-    "id": "259909",
-    "title": "Dexter: Resurrection",
-    "type": "tv",
-    "season": 2,
-    "episode": 1,
-    "backdrop": "https://image.tmdb.org/t/p/w500/6i9a5jopYTUUucqYpbOfarVyUtN.jpg",
-    "updatedAt": "2026-10-31T04:10:33.107Z"
   }
 ]
