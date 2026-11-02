@@ -1,5 +1,122 @@
 [
   {
+    "id": "247718",
+    "title": "MobLand",
+    "type": "tv",
+    "season": 2,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
+    "updatedAt": "2026-11-02T02:40:26.378Z"
+  },
+  {
+    "id": "135157",
+    "title": "Alchemy of Souls",
+    "type": "tv",
+    "season": 2,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/vBtBy4FlIaYkJnjj2Paoi5czcGQ.jpg",
+    "updatedAt": "2026-11-02T02:36:43.650Z"
+  },
+  {
+    "id": "314939",
+    "title": "A Love Other Than Yours",
+    "type": "tv",
+    "season": 1,
+    "episode": 13,
+    "backdrop": "https://image.tmdb.org/t/p/w500/auiu4giz7AMlLlaRpZPlOP3mgIT.jpg",
+    "updatedAt": "2026-11-02T02:35:05.504Z"
+  },
+  {
+    "id": "45790",
+    "title": "JoJo's Bizarre Adventure",
+    "type": "tv",
+    "season": 6,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/ciDRS9Q8ErVxYzOpmYG40Wqbpc2.jpg",
+    "updatedAt": "2026-11-02T02:32:05.569Z"
+  },
+  {
+    "id": "82684",
+    "title": "That Time I Got Reincarnated as a Slime",
+    "type": "tv",
+    "season": 4,
+    "episode": 23,
+    "backdrop": "https://image.tmdb.org/t/p/w500/5rcEQ5AG617uTUpO2oPWPCx68Fk.jpg",
+    "updatedAt": "2026-11-02T02:31:00.417Z"
+  },
+  {
+    "id": "259140",
+    "title": "Ranma1/2",
+    "type": "tv",
+    "season": 1,
+    "episode": 29,
+    "backdrop": "https://image.tmdb.org/t/p/w500/z0sftiGQfOALJVCg62n3MaWU72l.jpg",
+    "updatedAt": "2026-11-02T02:29:44.393Z"
+  },
+  {
+    "id": "288971",
+    "title": "Jaadugar: A Witch in Mongolia",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/6w6L5bkYbsDduiaIbNEcIwn3p33.jpg",
+    "updatedAt": "2026-11-02T02:28:24.010Z"
+  },
+  {
+    "id": "280042",
+    "title": "A Wild Last Boss Appeared!",
+    "type": "tv",
+    "season": 1,
+    "episode": 15,
+    "backdrop": "https://image.tmdb.org/t/p/w500/4d1wPKLXjkbmpgNGpr9ElULORrY.jpg",
+    "updatedAt": "2026-11-02T02:26:44.904Z"
+  },
+  {
+    "id": "215720",
+    "title": "Queen of Tears",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/gnkSyB7OYvFAF6oUN726nGSvgpL.jpg",
+    "updatedAt": "2026-11-01T15:00:40.256Z"
+  },
+  {
+    "id": "202411",
+    "title": "Monarch: Legacy of Monsters",
+    "type": "tv",
+    "season": 2,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/uL4LokPGoW5LOak6OUWMs0WgA6X.jpg",
+    "updatedAt": "2026-11-01T14:58:46.992Z"
+  },
+  {
+    "id": "291496",
+    "title": "Our Sticky Love",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/3Yypc9omHiqUAL46ciYHkyAfjOr.jpg",
+    "updatedAt": "2026-11-01T14:57:44.120Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 55,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
+    "updatedAt": "2026-11-01T14:56:42.007Z"
+  },
+  {
+    "id": "221851",
+    "title": "Marry My Husband",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/pT0RwjCRAStJxJBaXZ1gSJV7sVN.jpg",
+    "updatedAt": "2026-11-01T14:54:33.392Z"
+  },
+  {
     "id": "1813355",
     "title": "A Story of Derry",
     "type": "movie",
@@ -57,120 +174,5 @@
     "episode": 4,
     "backdrop": "https://image.tmdb.org/t/p/w500/ieepBliPqckTatnBCGWFRleTGed.jpg",
     "updatedAt": "2026-11-01T03:02:39.010Z"
-  },
-  {
-    "id": "110356",
-    "title": "My Name",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/OfG0t7Dff5vaDZTe4mvWlcYEum.jpg",
-    "updatedAt": "2026-11-01T03:01:19.787Z"
-  },
-  {
-    "id": "279323",
-    "title": "The East Palace",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/lVhOlbw8NapzXtkEURlpugFw1ef.jpg",
-    "updatedAt": "2026-11-01T02:59:21.978Z"
-  },
-  {
-    "id": "338918",
-    "title": "Chaar Yaar",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/ndO5LTzLPYqh8o65VLF8oReIewE.jpg",
-    "updatedAt": "2026-11-01T02:58:17.452Z"
-  },
-  {
-    "id": "1444466",
-    "title": "Awarapan 2",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/qrYsuB5kPCw0y7IVIuOyEAI1GXh.jpg",
-    "updatedAt": "2026-11-01T02:56:24.955Z"
-  },
-  {
-    "id": "258025",
-    "title": "Head Over Heels",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/7xs9O23AFbMzbhrEOY1vvo4g8Y0.jpg",
-    "updatedAt": "2026-11-01T02:55:13.076Z"
-  },
-  {
-    "id": "139512",
-    "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
-    "type": "tv",
-    "season": 2,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/gnoMv9Y2kzt74albwVT1FhewVVC.jpg",
-    "updatedAt": "2026-11-01T02:50:19.694Z"
-  },
-  {
-    "id": "66732",
-    "title": "Stranger Things",
-    "type": "tv",
-    "season": 5,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/89T83vE1ol8wcI879LutCqv7hMa.jpg",
-    "updatedAt": "2026-11-01T02:49:20.442Z"
-  },
-  {
-    "id": "250923",
-    "title": "Nobody Wants This",
-    "type": "tv",
-    "season": 3,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/vmpWfKOypIf4jNDWTbbvqM6IT2J.jpg",
-    "updatedAt": "2026-11-01T02:48:26.523Z"
-  },
-  {
-    "id": "247769",
-    "title": "The Great Indian Kapil Show",
-    "type": "tv",
-    "season": 5,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/cACVBkXIekKwpdjVET7qtGWbC5J.jpg",
-    "updatedAt": "2026-11-01T02:45:15.530Z"
-  },
-  {
-    "id": "11665",
-    "title": "Get Smart",
-    "type": "movie",
-    "year": "2008",
-    "backdrop": "https://image.tmdb.org/t/p/w500/mNoSlefwKjkyqhiGxaMBn7qyY6j.jpg",
-    "updatedAt": "2026-11-01T02:43:24.107Z"
-  },
-  {
-    "id": "232018",
-    "title": "Has Fallen",
-    "type": "tv",
-    "season": 2,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/6RCM8JwIMLcryFGMedoVbF3wBOM.jpg",
-    "updatedAt": "2026-11-01T02:39:52.587Z"
-  },
-  {
-    "id": "307478",
-    "title": "The Perfect Lie",
-    "type": "tv",
-    "season": 1,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w500/rYRlpL4vgCqk6pmNNqGkMtTxI4y.jpg",
-    "updatedAt": "2026-11-01T02:27:09.130Z"
-  },
-  {
-    "id": "8426",
-    "title": "MTV Roadies",
-    "type": "tv",
-    "season": 21,
-    "episode": 5,
-    "backdrop": "https://image.tmdb.org/t/p/w500/2kEe8kiXc0cJUdmwIjnhXwxIEPL.jpg",
-    "updatedAt": "2026-11-01T02:25:03.354Z"
   }
 ]
