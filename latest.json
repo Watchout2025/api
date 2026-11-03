@@ -1,5 +1,23 @@
 [
   {
+    "id": "117023",
+    "title": "Sky Rojo",
+    "type": "tv",
+    "season": 3,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jx8IkywRO8uLAz4r2C5rxGJHf4D.jpg",
+    "updatedAt": "2026-11-03T08:56:03.657Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 58,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
+    "updatedAt": "2026-11-03T08:38:33.039Z"
+  },
+  {
     "id": "92749",
     "title": "Moon Knight",
     "type": "tv",
@@ -116,15 +134,6 @@
     "updatedAt": "2026-11-02T13:47:52.771Z"
   },
   {
-    "id": "11436",
-    "title": "Bigg Boss",
-    "type": "tv",
-    "season": 20,
-    "episode": 57,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
-    "updatedAt": "2026-11-02T13:46:41.443Z"
-  },
-  {
     "id": "311648",
     "title": "Make Me Tingle",
     "type": "tv",
@@ -167,14 +176,5 @@
     "episode": 7,
     "backdrop": "https://image.tmdb.org/t/p/w500/ciDRS9Q8ErVxYzOpmYG40Wqbpc2.jpg",
     "updatedAt": "2026-11-02T02:32:05.569Z"
-  },
-  {
-    "id": "82684",
-    "title": "That Time I Got Reincarnated as a Slime",
-    "type": "tv",
-    "season": 4,
-    "episode": 23,
-    "backdrop": "https://image.tmdb.org/t/p/w500/5rcEQ5AG617uTUpO2oPWPCx68Fk.jpg",
-    "updatedAt": "2026-11-02T02:31:00.417Z"
   }
 ]
