@@ -1,5 +1,76 @@
 [
   {
+    "id": "92749",
+    "title": "Moon Knight",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/8KZkp3PwfnmUNA7pgkyGjz4xWVC.jpg",
+    "updatedAt": "2026-11-03T03:14:05.422Z"
+  },
+  {
+    "id": "262838",
+    "title": "India's Got Latent",
+    "type": "tv",
+    "season": 2,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/lhukQjNRaUXxZGdGGWNZvSU4qfq.jpg",
+    "updatedAt": "2026-11-03T03:13:16.038Z"
+  },
+  {
+    "id": "1423191",
+    "title": "Resident Evil",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/rIDUVjg7s6McmpZpVA7ZNDrNI1w.jpg",
+    "updatedAt": "2026-11-03T03:12:07.582Z"
+  },
+  {
+    "id": "337054",
+    "title": "Love Always",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/uB70J7B9NV53lapfON4rDzlpYBs.jpg",
+    "updatedAt": "2026-11-03T03:10:02.006Z"
+  },
+  {
+    "id": "331932",
+    "title": "Ali Baba Aur 40 Bhoot",
+    "type": "tv",
+    "season": 1,
+    "episode": 32,
+    "backdrop": "https://image.tmdb.org/t/p/w500/3gcA80UNEO6pAgpTUf7RFS13KPa.jpg",
+    "updatedAt": "2026-11-03T02:57:18.041Z"
+  },
+  {
+    "id": "8426",
+    "title": "MTV Roadies",
+    "type": "tv",
+    "season": 21,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/2kEe8kiXc0cJUdmwIjnhXwxIEPL.jpg",
+    "updatedAt": "2026-11-03T02:55:05.480Z"
+  },
+  {
+    "id": "312266",
+    "title": "Hanaori-san Still Wants to Fight in the Next Life",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/7N3E8iWgZvrYr5TfaEPN2FSKq0H.jpg",
+    "updatedAt": "2026-11-03T02:53:44.177Z"
+  },
+  {
+    "id": "220542",
+    "title": "The Apothecary Diaries",
+    "type": "tv",
+    "season": 1,
+    "episode": 50,
+    "backdrop": "https://image.tmdb.org/t/p/w500/lgI2UIRCFTq99dpSl8VhWGHqrWV.jpg",
+    "updatedAt": "2026-11-03T02:46:50.585Z"
+  },
+  {
     "id": "94664",
     "title": "Mushoku Tensei: Jobless Reincarnation",
     "type": "tv",
@@ -105,76 +176,5 @@
     "episode": 23,
     "backdrop": "https://image.tmdb.org/t/p/w500/5rcEQ5AG617uTUpO2oPWPCx68Fk.jpg",
     "updatedAt": "2026-11-02T02:31:00.417Z"
-  },
-  {
-    "id": "259140",
-    "title": "Ranma1/2",
-    "type": "tv",
-    "season": 1,
-    "episode": 29,
-    "backdrop": "https://image.tmdb.org/t/p/w500/z0sftiGQfOALJVCg62n3MaWU72l.jpg",
-    "updatedAt": "2026-11-02T02:29:44.393Z"
-  },
-  {
-    "id": "288971",
-    "title": "Jaadugar: A Witch in Mongolia",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/6w6L5bkYbsDduiaIbNEcIwn3p33.jpg",
-    "updatedAt": "2026-11-02T02:28:24.010Z"
-  },
-  {
-    "id": "280042",
-    "title": "A Wild Last Boss Appeared!",
-    "type": "tv",
-    "season": 1,
-    "episode": 15,
-    "backdrop": "https://image.tmdb.org/t/p/w500/4d1wPKLXjkbmpgNGpr9ElULORrY.jpg",
-    "updatedAt": "2026-11-02T02:26:44.904Z"
-  },
-  {
-    "id": "215720",
-    "title": "Queen of Tears",
-    "type": "tv",
-    "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/gnkSyB7OYvFAF6oUN726nGSvgpL.jpg",
-    "updatedAt": "2026-11-01T15:00:40.256Z"
-  },
-  {
-    "id": "202411",
-    "title": "Monarch: Legacy of Monsters",
-    "type": "tv",
-    "season": 2,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/uL4LokPGoW5LOak6OUWMs0WgA6X.jpg",
-    "updatedAt": "2026-11-01T14:58:46.992Z"
-  },
-  {
-    "id": "291496",
-    "title": "Our Sticky Love",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3Yypc9omHiqUAL46ciYHkyAfjOr.jpg",
-    "updatedAt": "2026-11-01T14:57:44.120Z"
-  },
-  {
-    "id": "221851",
-    "title": "Marry My Husband",
-    "type": "tv",
-    "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/pT0RwjCRAStJxJBaXZ1gSJV7sVN.jpg",
-    "updatedAt": "2026-11-01T14:54:33.392Z"
-  },
-  {
-    "id": "1813355",
-    "title": "A Story of Derry",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/7UIVGUYQy744636cynaETirSK6N.jpg",
-    "updatedAt": "2026-11-01T14:19:14.049Z"
   }
 ]
