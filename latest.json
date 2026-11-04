@@ -1,5 +1,47 @@
 [
   {
+    "id": "799177",
+    "title": "Bhediya",
+    "type": "movie",
+    "year": "2022",
+    "backdrop": "https://image.tmdb.org/t/p/w500/7B64cafjhSphSVF2zP2dopuZJoh.jpg",
+    "updatedAt": "2026-11-04T12:27:18.745Z"
+  },
+  {
+    "id": "298610",
+    "title": "Spooky in Love",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/9jdReHRO3tVsgIdDcY952FA5nfF.jpg",
+    "updatedAt": "2026-11-04T12:26:44.681Z"
+  },
+  {
+    "id": "8355",
+    "title": "Ice Age: Dawn of the Dinosaurs",
+    "type": "movie",
+    "year": "2009",
+    "backdrop": "https://image.tmdb.org/t/p/w500/z3NwTOiJj4AJ61XP7xmivaBo0B2.jpg",
+    "updatedAt": "2026-11-04T12:23:36.034Z"
+  },
+  {
+    "id": "296140",
+    "title": "My Bias, My Boss",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/v8O0X6PP7grEaXsPkdiotIx78tA.jpg",
+    "updatedAt": "2026-11-04T12:22:42.121Z"
+  },
+  {
+    "id": "564147",
+    "title": "K.G.F: Chapter 1",
+    "type": "movie",
+    "year": "2018",
+    "backdrop": "https://image.tmdb.org/t/p/w500/4i1ofsSpfTuswHXcgPtXbZrSnoe.jpg",
+    "updatedAt": "2026-11-04T12:21:59.497Z"
+  },
+  {
     "id": "333",
     "title": "Bollywood/Hollywood",
     "type": "movie",
@@ -131,50 +173,5 @@
     "episode": 6,
     "backdrop": "https://image.tmdb.org/t/p/w500/hRb50fOGcXic3NO6kUnL9hRXwsg.jpg",
     "updatedAt": "2026-11-03T13:39:18.936Z"
-  },
-  {
-    "id": "124364",
-    "title": "FROM",
-    "type": "tv",
-    "season": 4,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/tS8PQabvc5jVTOYPyOQgOiotIK0.jpg",
-    "updatedAt": "2026-11-03T13:38:21.531Z"
-  },
-  {
-    "id": "297424",
-    "title": "Our Universe",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/eUcFENeB4ggjTsHVPt8IiLIQeXS.jpg",
-    "updatedAt": "2026-11-03T13:34:42.008Z"
-  },
-  {
-    "id": "250923",
-    "title": "Nobody Wants This",
-    "type": "tv",
-    "season": 3,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/vmpWfKOypIf4jNDWTbbvqM6IT2J.jpg",
-    "updatedAt": "2026-11-03T13:34:06.759Z"
-  },
-  {
-    "id": "304452",
-    "title": "The Lament of Autumn",
-    "type": "tv",
-    "season": 1,
-    "episode": 40,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hKRxkQThdq0Wr75DaWCzPKT3D92.jpg",
-    "updatedAt": "2026-11-03T13:30:16.358Z"
-  },
-  {
-    "id": "117023",
-    "title": "Sky Rojo",
-    "type": "tv",
-    "season": 3,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/jx8IkywRO8uLAz4r2C5rxGJHf4D.jpg",
-    "updatedAt": "2026-11-03T08:56:03.657Z"
   }
 ]
