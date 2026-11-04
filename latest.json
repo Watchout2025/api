@@ -1,5 +1,66 @@
 [
   {
+    "id": "333",
+    "title": "Bollywood/Hollywood",
+    "type": "movie",
+    "year": "2002",
+    "backdrop": "https://image.tmdb.org/t/p/w500/azL8GE0JaKJoLfZ5jaIQXyntdAB.jpg",
+    "updatedAt": "2026-11-04T06:00:46.730Z"
+  },
+  {
+    "id": "1690876",
+    "title": "Anakapalli",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/9X0a5xWZicNyua1JyYyVuVI3bYZ.jpg",
+    "updatedAt": "2026-11-04T05:59:48.058Z"
+  },
+  {
+    "id": "335787",
+    "title": "Family Full House with Rohit Sharma",
+    "type": "tv",
+    "season": 1,
+    "episode": 14,
+    "backdrop": "https://image.tmdb.org/t/p/w500/dUpoXzSJxMtTbMqrYdDxFM3DrUp.jpg",
+    "updatedAt": "2026-11-04T05:58:46.459Z"
+  },
+  {
+    "id": "121926",
+    "title": "A Man Who Defies the World of BL",
+    "type": "tv",
+    "season": 4,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/sKaBZGwVUKGFHGxORqMtX9hHyOs.jpg",
+    "updatedAt": "2026-11-04T05:57:19.438Z"
+  },
+  {
+    "id": "314271",
+    "title": "Bass X Machina",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/oj4NtNKIIO5uS497WjJmFP8SQvb.jpg",
+    "updatedAt": "2026-11-04T05:54:40.979Z"
+  },
+  {
+    "id": "213375",
+    "title": "VisionQuest",
+    "type": "tv",
+    "season": 1,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
+    "updatedAt": "2026-11-04T05:50:13.913Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 59,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
+    "updatedAt": "2026-11-04T05:49:30.714Z"
+  },
+  {
     "id": "247718",
     "title": "MobLand",
     "type": "tv",
@@ -34,15 +95,6 @@
     "episode": 12,
     "backdrop": "https://image.tmdb.org/t/p/w500/5dStdZ93b22PTSMVzpfzBDK6DYr.jpg",
     "updatedAt": "2026-11-04T02:58:53.287Z"
-  },
-  {
-    "id": "11436",
-    "title": "Bigg Boss",
-    "type": "tv",
-    "season": 20,
-    "episode": 58,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
-    "updatedAt": "2026-11-04T02:47:15.535Z"
   },
   {
     "id": "279246",
@@ -124,58 +176,5 @@
     "episode": 8,
     "backdrop": "https://image.tmdb.org/t/p/w500/jx8IkywRO8uLAz4r2C5rxGJHf4D.jpg",
     "updatedAt": "2026-11-03T08:56:03.657Z"
-  },
-  {
-    "id": "92749",
-    "title": "Moon Knight",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/8KZkp3PwfnmUNA7pgkyGjz4xWVC.jpg",
-    "updatedAt": "2026-11-03T03:14:05.422Z"
-  },
-  {
-    "id": "262838",
-    "title": "India's Got Latent",
-    "type": "tv",
-    "season": 2,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/lhukQjNRaUXxZGdGGWNZvSU4qfq.jpg",
-    "updatedAt": "2026-11-03T03:13:16.038Z"
-  },
-  {
-    "id": "1423191",
-    "title": "Resident Evil",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/rIDUVjg7s6McmpZpVA7ZNDrNI1w.jpg",
-    "updatedAt": "2026-11-03T03:12:07.582Z"
-  },
-  {
-    "id": "337054",
-    "title": "Love Always",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/uB70J7B9NV53lapfON4rDzlpYBs.jpg",
-    "updatedAt": "2026-11-03T03:10:02.006Z"
-  },
-  {
-    "id": "331932",
-    "title": "Ali Baba Aur 40 Bhoot",
-    "type": "tv",
-    "season": 1,
-    "episode": 32,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3gcA80UNEO6pAgpTUf7RFS13KPa.jpg",
-    "updatedAt": "2026-11-03T02:57:18.041Z"
-  },
-  {
-    "id": "8426",
-    "title": "MTV Roadies",
-    "type": "tv",
-    "season": 21,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/2kEe8kiXc0cJUdmwIjnhXwxIEPL.jpg",
-    "updatedAt": "2026-11-03T02:55:05.480Z"
   }
 ]
