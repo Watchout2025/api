@@ -1,5 +1,77 @@
 [
   {
+    "id": "247718",
+    "title": "MobLand",
+    "type": "tv",
+    "season": 2,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
+    "updatedAt": "2026-11-04T03:12:55.198Z"
+  },
+  {
+    "id": "96677",
+    "title": "Lupin",
+    "type": "tv",
+    "season": 3,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/f7CwtaRgSFBVzW81JJbUEcmRGgK.jpg",
+    "updatedAt": "2026-11-04T03:11:27.966Z"
+  },
+  {
+    "id": "256721",
+    "title": "Gachiakuta",
+    "type": "tv",
+    "season": 1,
+    "episode": 21,
+    "backdrop": "https://image.tmdb.org/t/p/w500/qjPSJeXyg6QXf27mcmxGW1HEsF8.jpg",
+    "updatedAt": "2026-11-04T03:10:16.784Z"
+  },
+  {
+    "id": "314936",
+    "title": "Don't Be Too Emotional",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/5dStdZ93b22PTSMVzpfzBDK6DYr.jpg",
+    "updatedAt": "2026-11-04T02:58:53.287Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 58,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
+    "updatedAt": "2026-11-04T02:47:15.535Z"
+  },
+  {
+    "id": "279246",
+    "title": "The Remarried Empress",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cgLVWRtytMVXeqOMLu17HitKw3K.jpg",
+    "updatedAt": "2026-11-04T02:45:07.798Z"
+  },
+  {
+    "id": "70523",
+    "title": "Dark",
+    "type": "tv",
+    "season": 3,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/xWp8VB2Bt6mvVTTSXt0kFRy0A9b.jpg",
+    "updatedAt": "2026-11-04T02:43:35.191Z"
+  },
+  {
+    "id": "280945",
+    "title": "Bon Appétit, Your Majesty",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/r4zdLKWNIEBozeDC6YBZqj66b7c.jpg",
+    "updatedAt": "2026-11-04T02:42:57.015Z"
+  },
+  {
     "id": "1399",
     "title": "Game of Thrones",
     "type": "tv",
@@ -54,15 +126,6 @@
     "updatedAt": "2026-11-03T08:56:03.657Z"
   },
   {
-    "id": "11436",
-    "title": "Bigg Boss",
-    "type": "tv",
-    "season": 20,
-    "episode": 58,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
-    "updatedAt": "2026-11-03T08:38:33.039Z"
-  },
-  {
     "id": "92749",
     "title": "Moon Knight",
     "type": "tv",
@@ -114,68 +177,5 @@
     "episode": 6,
     "backdrop": "https://image.tmdb.org/t/p/w500/2kEe8kiXc0cJUdmwIjnhXwxIEPL.jpg",
     "updatedAt": "2026-11-03T02:55:05.480Z"
-  },
-  {
-    "id": "312266",
-    "title": "Hanaori-san Still Wants to Fight in the Next Life",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/7N3E8iWgZvrYr5TfaEPN2FSKq0H.jpg",
-    "updatedAt": "2026-11-03T02:53:44.177Z"
-  },
-  {
-    "id": "220542",
-    "title": "The Apothecary Diaries",
-    "type": "tv",
-    "season": 1,
-    "episode": 50,
-    "backdrop": "https://image.tmdb.org/t/p/w500/lgI2UIRCFTq99dpSl8VhWGHqrWV.jpg",
-    "updatedAt": "2026-11-03T02:46:50.585Z"
-  },
-  {
-    "id": "94664",
-    "title": "Mushoku Tensei: Jobless Reincarnation",
-    "type": "tv",
-    "season": 3,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/81j82xSVO8jXHsHVByQLYm2XZ3s.jpg",
-    "updatedAt": "2026-11-02T13:53:05.461Z"
-  },
-  {
-    "id": "303060",
-    "title": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet from My Cunning Fiancé",
-    "type": "tv",
-    "season": 1,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/dKkprfHrf7kUrJEvulublDIgBHt.jpg",
-    "updatedAt": "2026-11-02T13:51:45.140Z"
-  },
-  {
-    "id": "324502",
-    "title": "Overgeared",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/lGQcgSV9pplIduzSwXctUKAkt9L.jpg",
-    "updatedAt": "2026-11-02T13:50:14.916Z"
-  },
-  {
-    "id": "316702",
-    "title": "Final Table",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/mf0klf0xpqW52G1TjDUxBL4u0x4.jpg",
-    "updatedAt": "2026-11-02T13:48:50.012Z"
-  },
-  {
-    "id": "314939",
-    "title": "A Love Other Than Yours",
-    "type": "tv",
-    "season": 1,
-    "episode": 14,
-    "backdrop": "https://image.tmdb.org/t/p/w500/auiu4giz7AMlLlaRpZPlOP3mgIT.jpg",
-    "updatedAt": "2026-11-02T13:47:52.771Z"
   }
 ]
