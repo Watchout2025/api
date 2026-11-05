@@ -1,5 +1,108 @@
 [
   {
+    "id": "220056",
+    "title": "The Madness",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/4H8BUZxV1XSKTecaLX5VWgEL5bS.jpg",
+    "updatedAt": "2026-11-05T12:46:21.530Z"
+  },
+  {
+    "id": "1642850",
+    "title": "Bhai Tera Star Hai",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/epZxybfKydZxLNqCHZRpjenAkDS.jpg",
+    "updatedAt": "2026-11-05T12:42:34.353Z"
+  },
+  {
+    "id": "1810711",
+    "title": "Dilwali Diwali",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/jjq0mxPwmyYVGgpIze98WLRoODI.jpg",
+    "updatedAt": "2026-11-05T12:40:03.808Z"
+  },
+  {
+    "id": "1570488",
+    "title": "A Dog's Perfect Christmas",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+    "updatedAt": "2026-11-05T12:39:03.871Z"
+  },
+  {
+    "id": "968070",
+    "title": "Kick",
+    "type": "movie",
+    "year": "2023",
+    "backdrop": "https://image.tmdb.org/t/p/w500/31LUZAAF4POjvLguo3u2rimfOMN.jpg",
+    "updatedAt": "2026-11-05T12:38:04.183Z"
+  },
+  {
+    "id": "225385",
+    "title": "Black Doves",
+    "type": "tv",
+    "season": 2,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/AjBS6Tv1gAMNTSMFEPk7J4ZIiAd.jpg",
+    "updatedAt": "2026-11-05T12:33:11.744Z"
+  },
+  {
+    "id": "249023",
+    "title": "North of North",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/3EfPp6CSbwQwxR7cjlH9inZcjEr.jpg",
+    "updatedAt": "2026-11-05T12:27:23.487Z"
+  },
+  {
+    "id": "14544",
+    "title": "Koffee with Karan",
+    "type": "tv",
+    "season": 9,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/h4hRKSbgtn9l7AmD5nph5vlYyJo.jpg",
+    "updatedAt": "2026-11-05T12:22:47.088Z"
+  },
+  {
+    "id": "232766",
+    "title": "Mercy for None",
+    "type": "tv",
+    "season": 1,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/zZeE0bSvWfJaUWMz4xAQDgjOMWj.jpg",
+    "updatedAt": "2026-11-05T12:20:56.438Z"
+  },
+  {
+    "id": "1399",
+    "title": "Game of Thrones",
+    "type": "tv",
+    "season": 8,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hRb50fOGcXic3NO6kUnL9hRXwsg.jpg",
+    "updatedAt": "2026-11-05T12:19:45.695Z"
+  },
+  {
+    "id": "296140",
+    "title": "My Bias, My Boss",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/v8O0X6PP7grEaXsPkdiotIx78tA.jpg",
+    "updatedAt": "2026-11-05T12:18:00.552Z"
+  },
+  {
+    "id": "672",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "type": "movie",
+    "year": "2002",
+    "backdrop": "https://image.tmdb.org/t/p/w500/4kgQ8iafeMdzM79wmSYFv1Krkrs.jpg",
+    "updatedAt": "2026-11-05T11:48:17.029Z"
+  },
+  {
     "id": "1375441",
     "title": "Primetime",
     "type": "movie",
@@ -66,109 +169,5 @@
     "year": "2022",
     "backdrop": "https://image.tmdb.org/t/p/w500/7B64cafjhSphSVF2zP2dopuZJoh.jpg",
     "updatedAt": "2026-11-04T12:27:18.745Z"
-  },
-  {
-    "id": "298610",
-    "title": "Spooky in Love",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9jdReHRO3tVsgIdDcY952FA5nfF.jpg",
-    "updatedAt": "2026-11-04T12:26:44.681Z"
-  },
-  {
-    "id": "8355",
-    "title": "Ice Age: Dawn of the Dinosaurs",
-    "type": "movie",
-    "year": "2009",
-    "backdrop": "https://image.tmdb.org/t/p/w500/z3NwTOiJj4AJ61XP7xmivaBo0B2.jpg",
-    "updatedAt": "2026-11-04T12:23:36.034Z"
-  },
-  {
-    "id": "296140",
-    "title": "My Bias, My Boss",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/v8O0X6PP7grEaXsPkdiotIx78tA.jpg",
-    "updatedAt": "2026-11-04T12:22:42.121Z"
-  },
-  {
-    "id": "564147",
-    "title": "K.G.F: Chapter 1",
-    "type": "movie",
-    "year": "2018",
-    "backdrop": "https://image.tmdb.org/t/p/w500/4i1ofsSpfTuswHXcgPtXbZrSnoe.jpg",
-    "updatedAt": "2026-11-04T12:21:59.497Z"
-  },
-  {
-    "id": "333",
-    "title": "Bollywood/Hollywood",
-    "type": "movie",
-    "year": "2002",
-    "backdrop": "https://image.tmdb.org/t/p/w500/azL8GE0JaKJoLfZ5jaIQXyntdAB.jpg",
-    "updatedAt": "2026-11-04T06:00:46.730Z"
-  },
-  {
-    "id": "1690876",
-    "title": "Anakapalli",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/9X0a5xWZicNyua1JyYyVuVI3bYZ.jpg",
-    "updatedAt": "2026-11-04T05:59:48.058Z"
-  },
-  {
-    "id": "335787",
-    "title": "Family Full House with Rohit Sharma",
-    "type": "tv",
-    "season": 1,
-    "episode": 14,
-    "backdrop": "https://image.tmdb.org/t/p/w500/dUpoXzSJxMtTbMqrYdDxFM3DrUp.jpg",
-    "updatedAt": "2026-11-04T05:58:46.459Z"
-  },
-  {
-    "id": "121926",
-    "title": "A Man Who Defies the World of BL",
-    "type": "tv",
-    "season": 4,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/sKaBZGwVUKGFHGxORqMtX9hHyOs.jpg",
-    "updatedAt": "2026-11-04T05:57:19.438Z"
-  },
-  {
-    "id": "314271",
-    "title": "Bass X Machina",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/oj4NtNKIIO5uS497WjJmFP8SQvb.jpg",
-    "updatedAt": "2026-11-04T05:54:40.979Z"
-  },
-  {
-    "id": "213375",
-    "title": "VisionQuest",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
-    "updatedAt": "2026-11-04T05:50:13.913Z"
-  },
-  {
-    "id": "247718",
-    "title": "MobLand",
-    "type": "tv",
-    "season": 2,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
-    "updatedAt": "2026-11-04T03:12:55.198Z"
-  },
-  {
-    "id": "96677",
-    "title": "Lupin",
-    "type": "tv",
-    "season": 3,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/f7CwtaRgSFBVzW81JJbUEcmRGgK.jpg",
-    "updatedAt": "2026-11-04T03:11:27.966Z"
   }
 ]
