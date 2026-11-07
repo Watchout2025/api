@@ -1,11 +1,166 @@
 [
   {
+    "id": "293610",
+    "title": "Doctor X: Mafia in White",
+    "type": "tv",
+    "season": 1,
+    "episode": 9,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hMEulOCbZtnS7gFFBDuQCpYQs5a.jpg",
+    "updatedAt": "2026-11-07T15:21:18.326Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 62,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
+    "updatedAt": "2026-11-07T15:20:30.152Z"
+  },
+  {
+    "id": "320909",
+    "title": "Firefly Wedding",
+    "type": "tv",
+    "season": 1,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/6skizQ7ljYdT8lW7ylqaBsmOY5D.jpg",
+    "updatedAt": "2026-11-07T15:19:00.000Z"
+  },
+  {
+    "id": "259909",
+    "title": "Dexter: Resurrection",
+    "type": "tv",
+    "season": 2,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/bljqsTdpDtACLk9Kt5fOAitieyB.jpg",
+    "updatedAt": "2026-11-07T15:13:55.873Z"
+  },
+  {
+    "id": "279136",
+    "title": "Love Between Lines",
+    "type": "tv",
+    "season": 1,
+    "episode": 28,
+    "backdrop": "https://image.tmdb.org/t/p/w500/oB7uCQuDd1wd9hqTvl9TsgKX0nd.jpg",
+    "updatedAt": "2026-11-07T13:36:51.342Z"
+  },
+  {
+    "id": "1368337",
+    "title": "The Odyssey",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/qaWgqQdJwohmc4XK4iXAiZiPOKH.jpg",
+    "updatedAt": "2026-11-07T13:22:23.981Z"
+  },
+  {
+    "id": "1483525",
+    "title": "Possible Love",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
+    "updatedAt": "2026-11-07T03:49:48.448Z"
+  },
+  {
+    "id": "1538457",
+    "title": "Meesaya Murukku 2",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/8iG6naruSFn4CuSWB01F0JuImCc.jpg",
+    "updatedAt": "2026-11-07T03:48:37.010Z"
+  },
+  {
+    "id": "1263337",
+    "title": "Heart of the Beast",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/rpXdXsh7XWp0VPpsZCFn9x9qqRA.jpg",
+    "updatedAt": "2026-11-07T03:47:40.808Z"
+  },
+  {
+    "id": "60747",
+    "title": "Red Dawn",
+    "type": "movie",
+    "year": "2012",
+    "backdrop": "https://image.tmdb.org/t/p/w500/lEdzpG9UsyIyrRv1GqKWKJV9F1b.jpg",
+    "updatedAt": "2026-11-07T03:46:41.353Z"
+  },
+  {
+    "id": "154825",
+    "title": "Business Proposal",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/3ARq4Fmu6xApIdv5LmKO7W6Zf4R.jpg",
+    "updatedAt": "2026-11-07T03:44:58.552Z"
+  },
+  {
     "id": "656908",
     "title": "Ramayana: Rise of a Legend",
     "type": "movie",
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
-    "updatedAt": "2026-11-05T15:54:56.373Z"
+    "updatedAt": "2026-11-07T03:36:06.848Z"
+  },
+  {
+    "id": "30984",
+    "title": "Bleach",
+    "type": "tv",
+    "season": 2,
+    "episode": 46,
+    "backdrop": "https://image.tmdb.org/t/p/w500/mFKys64gbDQrFqwUheGwXQwo2JK.jpg",
+    "updatedAt": "2026-11-07T03:32:44.992Z"
+  },
+  {
+    "id": "314939",
+    "title": "A Love Other Than Yours",
+    "type": "tv",
+    "season": 1,
+    "episode": 14,
+    "backdrop": "https://image.tmdb.org/t/p/w500/auiu4giz7AMlLlaRpZPlOP3mgIT.jpg",
+    "updatedAt": "2026-11-07T03:31:29.792Z"
+  },
+  {
+    "id": "303044",
+    "title": "Campus Drivers",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
+    "updatedAt": "2026-11-07T02:05:35.788Z"
+  },
+  {
+    "id": "311648",
+    "title": "Make Me Tingle",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/eqiOYnOxRdRpmk1J53jz5A2ZjuE.jpg",
+    "updatedAt": "2026-11-06T15:59:53.035Z"
+  },
+  {
+    "id": "328010",
+    "title": "Devils' Crest",
+    "type": "tv",
+    "season": 1,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/toK4gaLEFb5iNVDp3qirIxKEZCw.jpg",
+    "updatedAt": "2026-11-06T15:57:30.909Z"
+  },
+  {
+    "id": "1630420",
+    "title": "Overacting",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/5pMZA0EdgE66jcSCkfDCAtWiizk.jpg",
+    "updatedAt": "2026-11-06T02:11:49.067Z"
+  },
+  {
+    "id": "1654940",
+    "title": "One Year to Live, Buy a Man",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/cJps20CPiRKrTzBpIvDAZWpCG9T.jpg",
+    "updatedAt": "2026-11-06T02:09:56.882Z"
   },
   {
     "id": "270431",
@@ -15,160 +170,5 @@
     "episode": 6,
     "backdrop": "https://image.tmdb.org/t/p/w500/bQpOmDL41MhOSxsDC5bn6EzAhVa.jpg",
     "updatedAt": "2026-11-05T13:15:26.042Z"
-  },
-  {
-    "id": "220056",
-    "title": "The Madness",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/4H8BUZxV1XSKTecaLX5VWgEL5bS.jpg",
-    "updatedAt": "2026-11-05T12:46:21.530Z"
-  },
-  {
-    "id": "1642850",
-    "title": "Bhai Tera Star Hai",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/epZxybfKydZxLNqCHZRpjenAkDS.jpg",
-    "updatedAt": "2026-11-05T12:42:34.353Z"
-  },
-  {
-    "id": "1810711",
-    "title": "Dilwali Diwali",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/jjq0mxPwmyYVGgpIze98WLRoODI.jpg",
-    "updatedAt": "2026-11-05T12:40:03.808Z"
-  },
-  {
-    "id": "1570488",
-    "title": "A Dog's Perfect Christmas",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
-    "updatedAt": "2026-11-05T12:39:03.871Z"
-  },
-  {
-    "id": "968070",
-    "title": "Kick",
-    "type": "movie",
-    "year": "2023",
-    "backdrop": "https://image.tmdb.org/t/p/w500/31LUZAAF4POjvLguo3u2rimfOMN.jpg",
-    "updatedAt": "2026-11-05T12:38:04.183Z"
-  },
-  {
-    "id": "225385",
-    "title": "Black Doves",
-    "type": "tv",
-    "season": 2,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/AjBS6Tv1gAMNTSMFEPk7J4ZIiAd.jpg",
-    "updatedAt": "2026-11-05T12:33:11.744Z"
-  },
-  {
-    "id": "249023",
-    "title": "North of North",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3EfPp6CSbwQwxR7cjlH9inZcjEr.jpg",
-    "updatedAt": "2026-11-05T12:27:23.487Z"
-  },
-  {
-    "id": "14544",
-    "title": "Koffee with Karan",
-    "type": "tv",
-    "season": 9,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/h4hRKSbgtn9l7AmD5nph5vlYyJo.jpg",
-    "updatedAt": "2026-11-05T12:22:47.088Z"
-  },
-  {
-    "id": "232766",
-    "title": "Mercy for None",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/zZeE0bSvWfJaUWMz4xAQDgjOMWj.jpg",
-    "updatedAt": "2026-11-05T12:20:56.438Z"
-  },
-  {
-    "id": "1399",
-    "title": "Game of Thrones",
-    "type": "tv",
-    "season": 8,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hRb50fOGcXic3NO6kUnL9hRXwsg.jpg",
-    "updatedAt": "2026-11-05T12:19:45.695Z"
-  },
-  {
-    "id": "296140",
-    "title": "My Bias, My Boss",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/v8O0X6PP7grEaXsPkdiotIx78tA.jpg",
-    "updatedAt": "2026-11-05T12:18:00.552Z"
-  },
-  {
-    "id": "672",
-    "title": "Harry Potter and the Chamber of Secrets",
-    "type": "movie",
-    "year": "2002",
-    "backdrop": "https://image.tmdb.org/t/p/w500/4kgQ8iafeMdzM79wmSYFv1Krkrs.jpg",
-    "updatedAt": "2026-11-05T11:48:17.029Z"
-  },
-  {
-    "id": "1375441",
-    "title": "Primetime",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/9DLdnwZVgfqZMpMhj63cNhdLwQB.jpg",
-    "updatedAt": "2026-11-05T03:08:13.322Z"
-  },
-  {
-    "id": "279246",
-    "title": "The Remarried Empress",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/cgLVWRtytMVXeqOMLu17HitKw3K.jpg",
-    "updatedAt": "2026-11-05T03:05:43.377Z"
-  },
-  {
-    "id": "258989",
-    "title": "The Greatest",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/mTWM9RRVjXg2wdlvCgtp0BL61Hy.jpg",
-    "updatedAt": "2026-11-05T03:03:23.250Z"
-  },
-  {
-    "id": "11436",
-    "title": "Bigg Boss",
-    "type": "tv",
-    "season": 20,
-    "episode": 60,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
-    "updatedAt": "2026-11-05T02:59:23.833Z"
-  },
-  {
-    "id": "108261",
-    "title": "Mr. Queen",
-    "type": "tv",
-    "season": 1,
-    "episode": 20,
-    "backdrop": "https://image.tmdb.org/t/p/w500/ya4GS5t4uhA5qn8cZRRZkHdKCp7.jpg",
-    "updatedAt": "2026-11-05T02:58:26.106Z"
-  },
-  {
-    "id": "1294189",
-    "title": "The Mongoose",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/9f0SZYEElYbjj9syw5aZREnfeDt.jpg",
-    "updatedAt": "2026-11-05T02:44:49.737Z"
   }
 ]
