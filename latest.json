@@ -1,5 +1,156 @@
 [
   {
+    "id": "1376400",
+    "title": "Crawlers",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/7hPRJ8u6zAKqS5Yb8unnk7S7zSx.jpg",
+    "updatedAt": "2026-11-08T16:31:34.425Z"
+  },
+  {
+    "id": "1384514",
+    "title": "The Vvaan",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/rlOz3ZMwtIyvZB9O4btHASVJjI1.jpg",
+    "updatedAt": "2026-11-08T16:29:00.267Z"
+  },
+  {
+    "id": "94796",
+    "title": "Crash Landing on You",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/xR126BEtfrU2cwIB2hIJVDMr6MO.jpg",
+    "updatedAt": "2026-11-08T16:27:18.194Z"
+  },
+  {
+    "id": "270603",
+    "title": "The Exiled Heavy Knight Knows How to Game the System",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/lJJpL0ZtFa1fkudBAkyWBcjT8Zc.jpg",
+    "updatedAt": "2026-11-08T14:13:09.559Z"
+  },
+  {
+    "id": "283428",
+    "title": "The Ramparts of Ice",
+    "type": "tv",
+    "season": 1,
+    "episode": 20,
+    "backdrop": "https://image.tmdb.org/t/p/w500/8Oh5v6xltWdVgt9Vt465qbLXatM.jpg",
+    "updatedAt": "2026-11-08T14:12:22.904Z"
+  },
+  {
+    "id": "117061",
+    "title": "The Detective Is Already Dead",
+    "type": "tv",
+    "season": 2,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/aqETSDXdeYqcD1PPd2WBfeWtoct.jpg",
+    "updatedAt": "2026-11-08T14:11:35.568Z"
+  },
+  {
+    "id": "200777",
+    "title": "The Iceblade Sorcerer Shall Rule the World",
+    "type": "tv",
+    "season": 2,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/qKKKfTqcFrUv11az5XAfG9yzIJN.jpg",
+    "updatedAt": "2026-11-08T14:10:28.145Z"
+  },
+  {
+    "id": "280042",
+    "title": "A Wild Last Boss Appeared!",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/4d1wPKLXjkbmpgNGpr9ElULORrY.jpg",
+    "updatedAt": "2026-11-08T14:09:31.241Z"
+  },
+  {
+    "id": "293610",
+    "title": "Doctor X: Mafia in White",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hMEulOCbZtnS7gFFBDuQCpYQs5a.jpg",
+    "updatedAt": "2026-11-08T14:08:46.111Z"
+  },
+  {
+    "id": "305551",
+    "title": "Merry Berry Love",
+    "type": "tv",
+    "season": 1,
+    "episode": 5,
+    "backdrop": "https://image.tmdb.org/t/p/w500/z4T6XZp1B3l6sr2KvPxVqAX4SCg.jpg",
+    "updatedAt": "2026-11-08T14:07:56.161Z"
+  },
+  {
+    "id": "247769",
+    "title": "The Great Indian Kapil Show",
+    "type": "tv",
+    "season": 5,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cACVBkXIekKwpdjVET7qtGWbC5J.jpg",
+    "updatedAt": "2026-11-08T14:06:04.392Z"
+  },
+  {
+    "id": "316702",
+    "title": "Final Table",
+    "type": "tv",
+    "season": 1,
+    "episode": 5,
+    "backdrop": "https://image.tmdb.org/t/p/w500/mf0klf0xpqW52G1TjDUxBL4u0x4.jpg",
+    "updatedAt": "2026-11-08T14:05:19.440Z"
+  },
+  {
+    "id": "259140",
+    "title": "Ranma1/2",
+    "type": "tv",
+    "season": 1,
+    "episode": 30,
+    "backdrop": "https://image.tmdb.org/t/p/w500/z0sftiGQfOALJVCg62n3MaWU72l.jpg",
+    "updatedAt": "2026-11-08T14:04:30.423Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 63,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
+    "updatedAt": "2026-11-08T14:03:36.616Z"
+  },
+  {
+    "id": "285993",
+    "title": "BLACK TORCH",
+    "type": "tv",
+    "season": 1,
+    "episode": 11,
+    "backdrop": "https://image.tmdb.org/t/p/w500/fy1R05K8zCUFmQG6f1Wn4gPwte4.jpg",
+    "updatedAt": "2026-11-08T14:02:27.641Z"
+  },
+  {
+    "id": "324326",
+    "title": "The Seven Knights of the Marronnier Kingdom",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/9VSRkpg4nDwPd2Js5AushN2CGEq.jpg",
+    "updatedAt": "2026-11-08T14:01:23.728Z"
+  },
+  {
+    "id": "8426",
+    "title": "MTV Roadies",
+    "type": "tv",
+    "season": 21,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/2kEe8kiXc0cJUdmwIjnhXwxIEPL.jpg",
+    "updatedAt": "2026-11-08T14:00:25.223Z"
+  },
+  {
     "id": "270431",
     "title": "When I Meet the Moon",
     "type": "tv",
@@ -18,15 +169,6 @@
     "updatedAt": "2026-11-07T15:41:45.769Z"
   },
   {
-    "id": "94796",
-    "title": "Crash Landing on You",
-    "type": "tv",
-    "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/xR126BEtfrU2cwIB2hIJVDMr6MO.jpg",
-    "updatedAt": "2026-11-07T15:39:38.479Z"
-  },
-  {
     "id": "66732",
     "title": "Stranger Things",
     "type": "tv",
@@ -34,142 +176,5 @@
     "episode": 7,
     "backdrop": "https://image.tmdb.org/t/p/w500/89T83vE1ol8wcI879LutCqv7hMa.jpg",
     "updatedAt": "2026-11-07T15:38:26.704Z"
-  },
-  {
-    "id": "243084",
-    "title": "Love Game in Eastern Fantasy",
-    "type": "tv",
-    "season": 1,
-    "episode": 32,
-    "backdrop": "https://image.tmdb.org/t/p/w500/7lRygOChXVhMc2nr4fIxoHL22wy.jpg",
-    "updatedAt": "2026-11-07T15:37:44.728Z"
-  },
-  {
-    "id": "292696",
-    "title": "The First Jasmine",
-    "type": "tv",
-    "season": 1,
-    "episode": 40,
-    "backdrop": "https://image.tmdb.org/t/p/w500/1L7wn0epoZiV7fVc4LSAywfDA2L.jpg",
-    "updatedAt": "2026-11-07T15:36:02.705Z"
-  },
-  {
-    "id": "1233332",
-    "title": "Madraskaaran",
-    "type": "movie",
-    "year": "2025",
-    "backdrop": "https://image.tmdb.org/t/p/w500/ijchao39geCZIPmxZJS8MWVd0sh.jpg",
-    "updatedAt": "2026-11-07T15:23:12.215Z"
-  },
-  {
-    "id": "293610",
-    "title": "Doctor X: Mafia in White",
-    "type": "tv",
-    "season": 1,
-    "episode": 9,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hMEulOCbZtnS7gFFBDuQCpYQs5a.jpg",
-    "updatedAt": "2026-11-07T15:21:18.326Z"
-  },
-  {
-    "id": "11436",
-    "title": "Bigg Boss",
-    "type": "tv",
-    "season": 20,
-    "episode": 62,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
-    "updatedAt": "2026-11-07T15:20:30.152Z"
-  },
-  {
-    "id": "320909",
-    "title": "Firefly Wedding",
-    "type": "tv",
-    "season": 1,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/6skizQ7ljYdT8lW7ylqaBsmOY5D.jpg",
-    "updatedAt": "2026-11-07T15:19:00.000Z"
-  },
-  {
-    "id": "259909",
-    "title": "Dexter: Resurrection",
-    "type": "tv",
-    "season": 2,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/bljqsTdpDtACLk9Kt5fOAitieyB.jpg",
-    "updatedAt": "2026-11-07T15:13:55.873Z"
-  },
-  {
-    "id": "279136",
-    "title": "Love Between Lines",
-    "type": "tv",
-    "season": 1,
-    "episode": 28,
-    "backdrop": "https://image.tmdb.org/t/p/w500/oB7uCQuDd1wd9hqTvl9TsgKX0nd.jpg",
-    "updatedAt": "2026-11-07T13:36:51.342Z"
-  },
-  {
-    "id": "1368337",
-    "title": "The Odyssey",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/qaWgqQdJwohmc4XK4iXAiZiPOKH.jpg",
-    "updatedAt": "2026-11-07T13:22:23.981Z"
-  },
-  {
-    "id": "1483525",
-    "title": "Possible Love",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
-    "updatedAt": "2026-11-07T03:49:48.448Z"
-  },
-  {
-    "id": "1538457",
-    "title": "Meesaya Murukku 2",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/8iG6naruSFn4CuSWB01F0JuImCc.jpg",
-    "updatedAt": "2026-11-07T03:48:37.010Z"
-  },
-  {
-    "id": "1263337",
-    "title": "Heart of the Beast",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/rpXdXsh7XWp0VPpsZCFn9x9qqRA.jpg",
-    "updatedAt": "2026-11-07T03:47:40.808Z"
-  },
-  {
-    "id": "60747",
-    "title": "Red Dawn",
-    "type": "movie",
-    "year": "2012",
-    "backdrop": "https://image.tmdb.org/t/p/w500/lEdzpG9UsyIyrRv1GqKWKJV9F1b.jpg",
-    "updatedAt": "2026-11-07T03:46:41.353Z"
-  },
-  {
-    "id": "154825",
-    "title": "Business Proposal",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3ARq4Fmu6xApIdv5LmKO7W6Zf4R.jpg",
-    "updatedAt": "2026-11-07T03:44:58.552Z"
-  },
-  {
-    "id": "656908",
-    "title": "Ramayana: Rise of a Legend",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
-    "updatedAt": "2026-11-07T03:36:06.848Z"
-  },
-  {
-    "id": "30984",
-    "title": "Bleach",
-    "type": "tv",
-    "season": 2,
-    "episode": 46,
-    "backdrop": "https://image.tmdb.org/t/p/w500/mFKys64gbDQrFqwUheGwXQwo2JK.jpg",
-    "updatedAt": "2026-11-07T03:32:44.992Z"
   }
 ]
