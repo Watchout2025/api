@@ -1,5 +1,29 @@
 [
   {
+    "id": "1759879",
+    "title": "WWE Crown Jewel 2026",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/byNbysaTWaXnhmHAJk15Au292f5.jpg",
+    "updatedAt": "2026-11-09T01:19:46.500Z"
+  },
+  {
+    "id": "1618200",
+    "title": "The Dark Heaven",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/4ercU8wa7OAexszQG3SSNuyB8fy.jpg",
+    "updatedAt": "2026-11-09T01:18:09.515Z"
+  },
+  {
+    "id": "94348",
+    "title": "Alex Cross",
+    "type": "movie",
+    "year": "2012",
+    "backdrop": "https://image.tmdb.org/t/p/w500/q4joXUOdmld16ztnIIDWen0o8lQ.jpg",
+    "updatedAt": "2026-11-09T01:16:57.723Z"
+  },
+  {
     "id": "1376400",
     "title": "Crawlers",
     "type": "movie",
@@ -149,32 +173,5 @@
     "episode": 8,
     "backdrop": "https://image.tmdb.org/t/p/w500/2kEe8kiXc0cJUdmwIjnhXwxIEPL.jpg",
     "updatedAt": "2026-11-08T14:00:25.223Z"
-  },
-  {
-    "id": "270431",
-    "title": "When I Meet the Moon",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/Agg3jHAbPAnKdTEfBcESa6hefdW.jpg",
-    "updatedAt": "2026-11-07T15:43:00.800Z"
-  },
-  {
-    "id": "232766",
-    "title": "Mercy for None",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/zZeE0bSvWfJaUWMz4xAQDgjOMWj.jpg",
-    "updatedAt": "2026-11-07T15:41:45.769Z"
-  },
-  {
-    "id": "66732",
-    "title": "Stranger Things",
-    "type": "tv",
-    "season": 5,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/89T83vE1ol8wcI879LutCqv7hMa.jpg",
-    "updatedAt": "2026-11-07T15:38:26.704Z"
   }
 ]
