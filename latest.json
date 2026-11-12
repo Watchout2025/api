@@ -1,5 +1,59 @@
 [
   {
+    "id": "65942",
+    "title": "Re:ZERO -Starting Life in Another World-",
+    "type": "tv",
+    "season": 1,
+    "episode": 83,
+    "backdrop": "https://image.tmdb.org/t/p/w500/9yrr6ubLv7uaOeHv890mVe1HNGn.jpg",
+    "updatedAt": "2026-11-12T05:44:25.453Z"
+  },
+  {
+    "id": "94664",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "type": "tv",
+    "season": 3,
+    "episode": 11,
+    "backdrop": "https://image.tmdb.org/t/p/w500/81j82xSVO8jXHsHVByQLYm2XZ3s.jpg",
+    "updatedAt": "2026-11-12T05:42:07.333Z"
+  },
+  {
+    "id": "117061",
+    "title": "The Detective Is Already Dead",
+    "type": "tv",
+    "season": 2,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/aqETSDXdeYqcD1PPd2WBfeWtoct.jpg",
+    "updatedAt": "2026-11-12T05:41:26.110Z"
+  },
+  {
+    "id": "31910",
+    "title": "Naruto Shippūden",
+    "type": "tv",
+    "season": 18,
+    "episode": 381,
+    "backdrop": "https://image.tmdb.org/t/p/w500/iIqND8Ll1y7FJQ1uyAQL8mGbDgU.jpg",
+    "updatedAt": "2026-11-12T05:40:35.879Z"
+  },
+  {
+    "id": "61374",
+    "title": "Tokyo Ghoul",
+    "type": "tv",
+    "season": 4,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/b9JLwU8KPshCD5OhY2stwWl8c7c.jpg",
+    "updatedAt": "2026-11-11T15:19:00.613Z"
+  },
+  {
+    "id": "154825",
+    "title": "Business Proposal",
+    "type": "tv",
+    "season": 1,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/3ARq4Fmu6xApIdv5LmKO7W6Zf4R.jpg",
+    "updatedAt": "2026-11-11T15:16:42.182Z"
+  },
+  {
     "id": "291507",
     "title": "The Body",
     "type": "tv",
@@ -98,15 +152,6 @@
     "updatedAt": "2026-11-10T13:53:29.938Z"
   },
   {
-    "id": "154825",
-    "title": "Business Proposal",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3ARq4Fmu6xApIdv5LmKO7W6Zf4R.jpg",
-    "updatedAt": "2026-11-10T08:37:02.980Z"
-  },
-  {
     "id": "270431",
     "title": "When I Meet the Moon",
     "type": "tv",
@@ -132,48 +177,5 @@
     "episode": 6,
     "backdrop": "https://image.tmdb.org/t/p/w500/9qbj4CGHMtrnpdpTVtVVk9faqKK.jpg",
     "updatedAt": "2026-11-10T08:22:29.803Z"
-  },
-  {
-    "id": "335787",
-    "title": "Family Full House with Rohit Sharma",
-    "type": "tv",
-    "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/dUpoXzSJxMtTbMqrYdDxFM3DrUp.jpg",
-    "updatedAt": "2026-11-10T08:20:28.363Z"
-  },
-  {
-    "id": "31910",
-    "title": "Naruto Shippūden",
-    "type": "tv",
-    "season": 18,
-    "episode": 377,
-    "backdrop": "https://image.tmdb.org/t/p/w500/iIqND8Ll1y7FJQ1uyAQL8mGbDgU.jpg",
-    "updatedAt": "2026-11-10T08:19:13.651Z"
-  },
-  {
-    "id": "1400837",
-    "title": "Other Mommy",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/yf5EKtrTKM8pla1TpNA5TsZgoTp.jpg",
-    "updatedAt": "2026-11-10T08:16:59.828Z"
-  },
-  {
-    "id": "870769",
-    "title": "Viruman",
-    "type": "movie",
-    "year": "2022",
-    "backdrop": "https://image.tmdb.org/t/p/w500/pmDgbmRZC2M1Cid9M5CYCGmBeDo.jpg",
-    "updatedAt": "2026-11-10T08:14:36.523Z"
-  },
-  {
-    "id": "127493",
-    "title": "You Are My Glory",
-    "type": "tv",
-    "season": null,
-    "episode": null,
-    "backdrop": "https://image.tmdb.org/t/p/w500/vOlSxhjnEBvvMHgPXmqTlPco5NY.jpg",
-    "updatedAt": "2026-11-10T06:40:33.935Z"
   }
 ]
