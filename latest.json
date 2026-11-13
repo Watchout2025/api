@@ -1,5 +1,61 @@
 [
   {
+    "id": "965483",
+    "title": "Parasakthi",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/ayJX5XgVfeENCuRR0SrjwhQWnrt.jpg",
+    "updatedAt": "2026-11-13T12:48:01.665Z"
+  },
+  {
+    "id": "43959",
+    "title": "Soul Surfer",
+    "type": "movie",
+    "year": "2011",
+    "backdrop": "https://image.tmdb.org/t/p/w500/n1ZAh46Kk95Tpd2LwtVBI1xhv3y.jpg",
+    "updatedAt": "2026-11-13T12:46:21.778Z"
+  },
+  {
+    "id": "1518204",
+    "title": "Allen",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/3F1yf8d1DJYJBP8ZJnxqCqyvIdO.jpg",
+    "updatedAt": "2026-11-13T12:43:29.882Z"
+  },
+  {
+    "id": "1616687",
+    "title": "Never Surrender",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
+    "updatedAt": "2026-11-13T12:42:16.970Z"
+  },
+  {
+    "id": "416144",
+    "title": "Hotel Mumbai",
+    "type": "movie",
+    "year": "2019",
+    "backdrop": "https://image.tmdb.org/t/p/w500/pKEttfiWJgVBE94EGLIOE64YBaP.jpg",
+    "updatedAt": "2026-11-13T12:41:25.673Z"
+  },
+  {
+    "id": "1493572",
+    "title": "Parivarik ManuRanjan",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/9j9DtcTGSSZJVrimys2emN5kVh3.jpg",
+    "updatedAt": "2026-11-13T12:38:36.801Z"
+  },
+  {
+    "id": "1389379",
+    "title": "Ranabaali",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/tpHbbeC8rOj2AMydXXNKJN4ok5e.jpg",
+    "updatedAt": "2026-11-13T12:37:51.818Z"
+  },
+  {
     "id": "66732",
     "title": "Stranger Things",
     "type": "tv",
@@ -111,68 +167,5 @@
     "episode": 8,
     "backdrop": "https://image.tmdb.org/t/p/w500/2Zx455jE4wHTDeZcZuAfElbsH07.jpg",
     "updatedAt": "2026-11-13T05:39:33.274Z"
-  },
-  {
-    "id": "312359",
-    "title": "Dragon Ball Super: Beerus",
-    "type": "tv",
-    "season": 1,
-    "episode": 1,
-    "backdrop": "https://image.tmdb.org/t/p/w500/ycaeQclsoHdEVLIRZDOLY2oq7E2.jpg",
-    "updatedAt": "2026-11-13T04:42:50.099Z"
-  },
-  {
-    "id": "31910",
-    "title": "Naruto Shippūden",
-    "type": "tv",
-    "season": 18,
-    "episode": 383,
-    "backdrop": "https://image.tmdb.org/t/p/w500/iIqND8Ll1y7FJQ1uyAQL8mGbDgU.jpg",
-    "updatedAt": "2026-11-13T04:41:27.522Z"
-  },
-  {
-    "id": "11436",
-    "title": "Bigg Boss",
-    "type": "tv",
-    "season": 20,
-    "episode": 68,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
-    "updatedAt": "2026-11-13T04:35:37.066Z"
-  },
-  {
-    "id": "131488",
-    "title": "The Empress",
-    "type": "tv",
-    "season": 2,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/sDCe6CgDUQsRadFVBbG0ycQDKwE.jpg",
-    "updatedAt": "2026-11-12T15:49:02.638Z"
-  },
-  {
-    "id": "14544",
-    "title": "Koffee with Karan",
-    "type": "tv",
-    "season": 9,
-    "episode": 5,
-    "backdrop": "https://image.tmdb.org/t/p/w500/h4hRKSbgtn9l7AmD5nph5vlYyJo.jpg",
-    "updatedAt": "2026-11-12T07:42:05.067Z"
-  },
-  {
-    "id": "305644",
-    "title": "Four Hands, Two Sonatas",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/c8saa6GyN8a3bjHCLGG65j7WeMA.jpg",
-    "updatedAt": "2026-11-12T05:46:21.542Z"
-  },
-  {
-    "id": "65942",
-    "title": "Re:ZERO -Starting Life in Another World-",
-    "type": "tv",
-    "season": 1,
-    "episode": 83,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9yrr6ubLv7uaOeHv890mVe1HNGn.jpg",
-    "updatedAt": "2026-11-12T05:44:25.453Z"
   }
 ]
