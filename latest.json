@@ -1,5 +1,59 @@
 [
   {
+    "id": "312359",
+    "title": "Dragon Ball Super: Beerus",
+    "type": "tv",
+    "season": 1,
+    "episode": 1,
+    "backdrop": "https://image.tmdb.org/t/p/w500/ycaeQclsoHdEVLIRZDOLY2oq7E2.jpg",
+    "updatedAt": "2026-11-13T04:42:50.099Z"
+  },
+  {
+    "id": "31910",
+    "title": "Naruto Shippūden",
+    "type": "tv",
+    "season": 18,
+    "episode": 383,
+    "backdrop": "https://image.tmdb.org/t/p/w500/iIqND8Ll1y7FJQ1uyAQL8mGbDgU.jpg",
+    "updatedAt": "2026-11-13T04:41:27.522Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 68,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
+    "updatedAt": "2026-11-13T04:35:37.066Z"
+  },
+  {
+    "id": "131488",
+    "title": "The Empress",
+    "type": "tv",
+    "season": 2,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/sDCe6CgDUQsRadFVBbG0ycQDKwE.jpg",
+    "updatedAt": "2026-11-12T15:49:02.638Z"
+  },
+  {
+    "id": "14544",
+    "title": "Koffee with Karan",
+    "type": "tv",
+    "season": 9,
+    "episode": 5,
+    "backdrop": "https://image.tmdb.org/t/p/w500/h4hRKSbgtn9l7AmD5nph5vlYyJo.jpg",
+    "updatedAt": "2026-11-12T07:42:05.067Z"
+  },
+  {
+    "id": "305644",
+    "title": "Four Hands, Two Sonatas",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/c8saa6GyN8a3bjHCLGG65j7WeMA.jpg",
+    "updatedAt": "2026-11-12T05:46:21.542Z"
+  },
+  {
     "id": "65942",
     "title": "Re:ZERO -Starting Life in Another World-",
     "type": "tv",
@@ -25,15 +79,6 @@
     "episode": 3,
     "backdrop": "https://image.tmdb.org/t/p/w500/aqETSDXdeYqcD1PPd2WBfeWtoct.jpg",
     "updatedAt": "2026-11-12T05:41:26.110Z"
-  },
-  {
-    "id": "31910",
-    "title": "Naruto Shippūden",
-    "type": "tv",
-    "season": 18,
-    "episode": 381,
-    "backdrop": "https://image.tmdb.org/t/p/w500/iIqND8Ll1y7FJQ1uyAQL8mGbDgU.jpg",
-    "updatedAt": "2026-11-12T05:40:35.879Z"
   },
   {
     "id": "61374",
@@ -78,15 +123,6 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/ieyDlgGj75a2P45I9B1NEcCpUWj.jpg",
     "updatedAt": "2026-11-11T15:05:30.101Z"
-  },
-  {
-    "id": "11436",
-    "title": "Bigg Boss",
-    "type": "tv",
-    "season": 20,
-    "episode": 66,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
-    "updatedAt": "2026-11-11T07:35:12.974Z"
   },
   {
     "id": "233347",
@@ -141,41 +177,5 @@
     "episode": 16,
     "backdrop": "https://image.tmdb.org/t/p/w500/gnkSyB7OYvFAF6oUN726nGSvgpL.jpg",
     "updatedAt": "2026-11-10T13:56:22.130Z"
-  },
-  {
-    "id": "66732",
-    "title": "Stranger Things",
-    "type": "tv",
-    "season": 5,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/89T83vE1ol8wcI879LutCqv7hMa.jpg",
-    "updatedAt": "2026-11-10T13:53:29.938Z"
-  },
-  {
-    "id": "270431",
-    "title": "When I Meet the Moon",
-    "type": "tv",
-    "season": 1,
-    "episode": 14,
-    "backdrop": "https://image.tmdb.org/t/p/w500/Agg3jHAbPAnKdTEfBcESa6hefdW.jpg",
-    "updatedAt": "2026-11-10T08:36:09.980Z"
-  },
-  {
-    "id": "60948",
-    "title": "12 Monkeys",
-    "type": "tv",
-    "season": 4,
-    "episode": 11,
-    "backdrop": "https://image.tmdb.org/t/p/w500/dlAgeWyGn5CzbGqO3PvQeY6YY5k.jpg",
-    "updatedAt": "2026-11-10T08:32:53.580Z"
-  },
-  {
-    "id": "303745",
-    "title": "Love in Disguise",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9qbj4CGHMtrnpdpTVtVVk9faqKK.jpg",
-    "updatedAt": "2026-11-10T08:22:29.803Z"
   }
 ]
