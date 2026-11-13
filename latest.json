@@ -1,5 +1,30 @@
 [
   {
+    "id": "66732",
+    "title": "Stranger Things",
+    "type": "tv",
+    "season": 5,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/89T83vE1ol8wcI879LutCqv7hMa.jpg",
+    "updatedAt": "2026-11-13T07:24:26.295Z"
+  },
+  {
+    "id": "690957",
+    "title": "Pushpa: The Rise",
+    "type": "movie",
+    "year": "2021",
+    "backdrop": "https://image.tmdb.org/t/p/w500/ceoP0V5VSMUZZwogVoHSQYomUlF.jpg",
+    "updatedAt": "2026-11-13T07:17:29.616Z"
+  },
+  {
+    "id": "51485",
+    "title": "Delhi Safari",
+    "type": "movie",
+    "year": "2012",
+    "backdrop": "https://image.tmdb.org/t/p/w500/1xRES1c8zBLy4iotyMlBCk8WjI2.jpg",
+    "updatedAt": "2026-11-13T07:08:47.399Z"
+  },
+  {
     "id": "154825",
     "title": "Business Proposal",
     "type": "tv",
@@ -149,32 +174,5 @@
     "episode": 83,
     "backdrop": "https://image.tmdb.org/t/p/w500/9yrr6ubLv7uaOeHv890mVe1HNGn.jpg",
     "updatedAt": "2026-11-12T05:44:25.453Z"
-  },
-  {
-    "id": "94664",
-    "title": "Mushoku Tensei: Jobless Reincarnation",
-    "type": "tv",
-    "season": 3,
-    "episode": 11,
-    "backdrop": "https://image.tmdb.org/t/p/w500/81j82xSVO8jXHsHVByQLYm2XZ3s.jpg",
-    "updatedAt": "2026-11-12T05:42:07.333Z"
-  },
-  {
-    "id": "117061",
-    "title": "The Detective Is Already Dead",
-    "type": "tv",
-    "season": 2,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w500/aqETSDXdeYqcD1PPd2WBfeWtoct.jpg",
-    "updatedAt": "2026-11-12T05:41:26.110Z"
-  },
-  {
-    "id": "61374",
-    "title": "Tokyo Ghoul",
-    "type": "tv",
-    "season": 4,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/b9JLwU8KPshCD5OhY2stwWl8c7c.jpg",
-    "updatedAt": "2026-11-11T15:19:00.613Z"
   }
 ]
