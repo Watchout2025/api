@@ -1,5 +1,74 @@
 [
   {
+    "id": "31910",
+    "title": "Naruto Shippūden",
+    "type": "tv",
+    "season": 18,
+    "episode": 385,
+    "backdrop": "https://image.tmdb.org/t/p/w500/iIqND8Ll1y7FJQ1uyAQL8mGbDgU.jpg",
+    "updatedAt": "2026-11-14T13:09:54.473Z"
+  },
+  {
+    "id": "303182",
+    "title": "Murder in Galicia",
+    "type": "tv",
+    "season": 1,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
+    "updatedAt": "2026-11-14T13:08:30.498Z"
+  },
+  {
+    "id": "334412",
+    "title": "Student of the Year: After Dark",
+    "type": "tv",
+    "season": 1,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jjkZzwlR1crsSCaJRb3vIZjBuf.jpg",
+    "updatedAt": "2026-11-14T13:06:46.546Z"
+  },
+  {
+    "id": "293610",
+    "title": "Doctor X: Mafia in White",
+    "type": "tv",
+    "season": 1,
+    "episode": 11,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hMEulOCbZtnS7gFFBDuQCpYQs5a.jpg",
+    "updatedAt": "2026-11-14T13:03:27.323Z"
+  },
+  {
+    "id": "1418709",
+    "title": "Brawlers",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/w4ISfPkFLdG0ew07XcrlQSB4O4q.jpg",
+    "updatedAt": "2026-11-14T13:01:58.266Z"
+  },
+  {
+    "id": "1543469",
+    "title": "Heartland",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/d1d6prv2fZFr44uqKUMLjQzKRjx.jpg",
+    "updatedAt": "2026-11-14T13:01:05.610Z"
+  },
+  {
+    "id": "1563192",
+    "title": "Lenin Pandiyan",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/9ykO2pGYaFKt7kuJV6McyWCYcMd.jpg",
+    "updatedAt": "2026-11-14T12:59:26.498Z"
+  },
+  {
+    "id": "262838",
+    "title": "India's Got Latent",
+    "type": "tv",
+    "season": 2,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/lhukQjNRaUXxZGdGGWNZvSU4qfq.jpg",
+    "updatedAt": "2026-11-14T08:11:54.298Z"
+  },
+  {
     "id": "295509",
     "title": "The Legend of Kitchen Soldier",
     "type": "tv",
@@ -98,72 +167,5 @@
     "year": "2019",
     "backdrop": "https://image.tmdb.org/t/p/w500/pKEttfiWJgVBE94EGLIOE64YBaP.jpg",
     "updatedAt": "2026-11-13T12:41:25.673Z"
-  },
-  {
-    "id": "1493572",
-    "title": "Parivarik ManuRanjan",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/9j9DtcTGSSZJVrimys2emN5kVh3.jpg",
-    "updatedAt": "2026-11-13T12:38:36.801Z"
-  },
-  {
-    "id": "1389379",
-    "title": "Ranabaali",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/tpHbbeC8rOj2AMydXXNKJN4ok5e.jpg",
-    "updatedAt": "2026-11-13T12:37:51.818Z"
-  },
-  {
-    "id": "66732",
-    "title": "Stranger Things",
-    "type": "tv",
-    "season": 5,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/89T83vE1ol8wcI879LutCqv7hMa.jpg",
-    "updatedAt": "2026-11-13T07:24:26.295Z"
-  },
-  {
-    "id": "690957",
-    "title": "Pushpa: The Rise",
-    "type": "movie",
-    "year": "2021",
-    "backdrop": "https://image.tmdb.org/t/p/w500/ceoP0V5VSMUZZwogVoHSQYomUlF.jpg",
-    "updatedAt": "2026-11-13T07:17:29.616Z"
-  },
-  {
-    "id": "51485",
-    "title": "Delhi Safari",
-    "type": "movie",
-    "year": "2012",
-    "backdrop": "https://image.tmdb.org/t/p/w500/1xRES1c8zBLy4iotyMlBCk8WjI2.jpg",
-    "updatedAt": "2026-11-13T07:08:47.399Z"
-  },
-  {
-    "id": "154825",
-    "title": "Business Proposal",
-    "type": "tv",
-    "season": 1,
-    "episode": 11,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3ARq4Fmu6xApIdv5LmKO7W6Zf4R.jpg",
-    "updatedAt": "2026-11-13T05:59:36.473Z"
-  },
-  {
-    "id": "10138",
-    "title": "Iron Man 2",
-    "type": "movie",
-    "year": "2010",
-    "backdrop": "https://image.tmdb.org/t/p/w500/wWu57zGqpAt7K746drOSjbwfIfe.jpg",
-    "updatedAt": "2026-11-13T05:57:44.649Z"
-  },
-  {
-    "id": "299939",
-    "title": "Monster: The Lizzie Borden Story",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/1V4qYjjNNhldd3fQLUuTnzXRPmJ.jpg",
-    "updatedAt": "2026-11-13T05:57:07.402Z"
   }
 ]
