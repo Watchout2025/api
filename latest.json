@@ -1,5 +1,67 @@
 [
   {
+    "id": "341603",
+    "title": "Stars and Vows: Anele & Buzza",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/xaSO3ejty5l7NO2NSbIieOKWs5c.jpg",
+    "updatedAt": "2026-11-15T03:13:28.744Z"
+  },
+  {
+    "id": "259909",
+    "title": "Dexter: Resurrection",
+    "type": "tv",
+    "season": 2,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/9KIliGHB1FcIS39Ucmn1rLLID9C.jpg",
+    "updatedAt": "2026-11-15T03:09:39.680Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 70,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
+    "updatedAt": "2026-11-15T03:08:24.368Z"
+  },
+  {
+    "id": "247718",
+    "title": "MobLand",
+    "type": "tv",
+    "season": 2,
+    "episode": 9,
+    "backdrop": "https://image.tmdb.org/t/p/w500/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
+    "updatedAt": "2026-11-15T03:05:28.392Z"
+  },
+  {
+    "id": "31910",
+    "title": "Naruto Shippūden",
+    "type": "tv",
+    "season": 18,
+    "episode": 387,
+    "backdrop": "https://image.tmdb.org/t/p/w500/iIqND8Ll1y7FJQ1uyAQL8mGbDgU.jpg",
+    "updatedAt": "2026-11-15T03:03:08.761Z"
+  },
+  {
+    "id": "247769",
+    "title": "The Great Indian Kapil Show",
+    "type": "tv",
+    "season": 5,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cACVBkXIekKwpdjVET7qtGWbC5J.jpg",
+    "updatedAt": "2026-11-15T03:01:07.689Z"
+  },
+  {
+    "id": "1451078",
+    "title": "Raakaasa",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/hxCJcyDnR964ja5mzExvb8UlHLG.jpg",
+    "updatedAt": "2026-11-15T02:56:33.024Z"
+  },
+  {
     "id": "293607",
     "title": "100 Days of Deception",
     "type": "tv",
@@ -16,15 +78,6 @@
     "episode": 14,
     "backdrop": "https://image.tmdb.org/t/p/w500/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg",
     "updatedAt": "2026-11-14T13:33:57.834Z"
-  },
-  {
-    "id": "31910",
-    "title": "Naruto Shippūden",
-    "type": "tv",
-    "season": 18,
-    "episode": 385,
-    "backdrop": "https://image.tmdb.org/t/p/w500/iIqND8Ll1y7FJQ1uyAQL8mGbDgU.jpg",
-    "updatedAt": "2026-11-14T13:09:54.473Z"
   },
   {
     "id": "303182",
@@ -119,55 +172,5 @@
     "year": "2023",
     "backdrop": "https://image.tmdb.org/t/p/w500/c1QUaZtw57aRPaVjXPoKBvppw8b.jpg",
     "updatedAt": "2026-11-13T14:19:37.759Z"
-  },
-  {
-    "id": "1234139",
-    "title": "Jailer 2",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg",
-    "updatedAt": "2026-11-13T14:17:01.319Z"
-  },
-  {
-    "id": "108261",
-    "title": "Mr. Queen",
-    "type": "tv",
-    "season": 1,
-    "episode": 20,
-    "backdrop": "https://image.tmdb.org/t/p/w500/ya4GS5t4uhA5qn8cZRRZkHdKCp7.jpg",
-    "updatedAt": "2026-11-13T14:15:23.543Z"
-  },
-  {
-    "id": "228689",
-    "title": "Genie, Make a Wish",
-    "type": "tv",
-    "season": 1,
-    "episode": 13,
-    "backdrop": "https://image.tmdb.org/t/p/w500/941Ar9Mc8F9stDJSkmaqRPNFSEV.jpg",
-    "updatedAt": "2026-11-13T14:12:54.792Z"
-  },
-  {
-    "id": "965483",
-    "title": "Parasakthi",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/ayJX5XgVfeENCuRR0SrjwhQWnrt.jpg",
-    "updatedAt": "2026-11-13T12:48:01.665Z"
-  },
-  {
-    "id": "43959",
-    "title": "Soul Surfer",
-    "type": "movie",
-    "year": "2011",
-    "backdrop": "https://image.tmdb.org/t/p/w500/n1ZAh46Kk95Tpd2LwtVBI1xhv3y.jpg",
-    "updatedAt": "2026-11-13T12:46:21.778Z"
-  },
-  {
-    "id": "1518204",
-    "title": "Allen",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/3F1yf8d1DJYJBP8ZJnxqCqyvIdO.jpg",
-    "updatedAt": "2026-11-13T12:43:29.882Z"
   }
 ]
