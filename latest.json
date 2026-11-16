@@ -1,177 +1,176 @@
 [
   {
-    "id": "95269",
-    "title": "Toilet-Bound Hanako-kun",
+    "id": "297903",
+    "title": "PSYREN",
     "type": "tv",
-    "season": 2,
-    "episode": 24,
-    "backdrop": "https://image.tmdb.org/t/p/w500/aWmfb4bHFrYZjcIBpaGFOYUr77v.jpg",
-    "updatedAt": "2026-11-15T05:57:41.414Z"
+    "season": 1,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/avOHprINAK61GJg40CfIiWMnDX8.jpg",
+    "updatedAt": "2026-11-16T05:50:11.923Z"
   },
   {
-    "id": "293607",
-    "title": "100 Days of Deception",
+    "id": "283428",
+    "title": "The Ramparts of Ice",
+    "type": "tv",
+    "season": 1,
+    "episode": 21,
+    "backdrop": "https://image.tmdb.org/t/p/w500/8Oh5v6xltWdVgt9Vt465qbLXatM.jpg",
+    "updatedAt": "2026-11-16T05:49:04.931Z"
+  },
+  {
+    "id": "45790",
+    "title": "JoJo's Bizarre Adventure",
+    "type": "tv",
+    "season": 6,
+    "episode": 9,
+    "backdrop": "https://image.tmdb.org/t/p/w500/ciDRS9Q8ErVxYzOpmYG40Wqbpc2.jpg",
+    "updatedAt": "2026-11-16T05:47:52.290Z"
+  },
+  {
+    "id": "328010",
+    "title": "Devils' Crest",
+    "type": "tv",
+    "season": 1,
+    "episode": 3,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jiAf1Dg88yDyk239SJ7nNnVWGWi.jpg",
+    "updatedAt": "2026-11-16T05:46:28.940Z"
+  },
+  {
+    "id": "220542",
+    "title": "The Apothecary Diaries",
+    "type": "tv",
+    "season": 1,
+    "episode": 51,
+    "backdrop": "https://image.tmdb.org/t/p/w500/lgI2UIRCFTq99dpSl8VhWGHqrWV.jpg",
+    "updatedAt": "2026-11-16T05:45:12.684Z"
+  },
+  {
+    "id": "270603",
+    "title": "The Exiled Heavy Knight Knows How to Game the System",
+    "type": "tv",
+    "season": 1,
+    "episode": 17,
+    "backdrop": "https://image.tmdb.org/t/p/w500/lJJpL0ZtFa1fkudBAkyWBcjT8Zc.jpg",
+    "updatedAt": "2026-11-16T05:43:51.116Z"
+  },
+  {
+    "id": "285993",
+    "title": "BLACK TORCH",
     "type": "tv",
     "season": 1,
     "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/oSe2Jbep2FZjaLiNiUDpV6DdIF3.jpg",
-    "updatedAt": "2026-11-15T05:57:00.029Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/fy1R05K8zCUFmQG6f1Wn4gPwte4.jpg",
+    "updatedAt": "2026-11-16T05:42:20.116Z"
   },
   {
-    "id": "341603",
-    "title": "Stars and Vows: Anele & Buzza",
+    "id": "65942",
+    "title": "Re:ZERO -Starting Life in Another World-",
     "type": "tv",
     "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/xaSO3ejty5l7NO2NSbIieOKWs5c.jpg",
-    "updatedAt": "2026-11-15T03:13:28.744Z"
-  },
-  {
-    "id": "259909",
-    "title": "Dexter: Resurrection",
-    "type": "tv",
-    "season": 2,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9KIliGHB1FcIS39Ucmn1rLLID9C.jpg",
-    "updatedAt": "2026-11-15T03:09:39.680Z"
-  },
-  {
-    "id": "11436",
-    "title": "Bigg Boss",
-    "type": "tv",
-    "season": 20,
-    "episode": 70,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
-    "updatedAt": "2026-11-15T03:08:24.368Z"
-  },
-  {
-    "id": "247718",
-    "title": "MobLand",
-    "type": "tv",
-    "season": 2,
-    "episode": 9,
-    "backdrop": "https://image.tmdb.org/t/p/w500/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
-    "updatedAt": "2026-11-15T03:05:28.392Z"
-  },
-  {
-    "id": "31910",
-    "title": "Naruto Shippūden",
-    "type": "tv",
-    "season": 18,
-    "episode": 387,
-    "backdrop": "https://image.tmdb.org/t/p/w500/iIqND8Ll1y7FJQ1uyAQL8mGbDgU.jpg",
-    "updatedAt": "2026-11-15T03:03:08.761Z"
-  },
-  {
-    "id": "247769",
-    "title": "The Great Indian Kapil Show",
-    "type": "tv",
-    "season": 5,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/cACVBkXIekKwpdjVET7qtGWbC5J.jpg",
-    "updatedAt": "2026-11-15T03:01:07.689Z"
-  },
-  {
-    "id": "1451078",
-    "title": "Raakaasa",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/hxCJcyDnR964ja5mzExvb8UlHLG.jpg",
-    "updatedAt": "2026-11-15T02:56:33.024Z"
-  },
-  {
-    "id": "1429",
-    "title": "Attack on Titan",
-    "type": "tv",
-    "season": 4,
-    "episode": 14,
-    "backdrop": "https://image.tmdb.org/t/p/w500/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg",
-    "updatedAt": "2026-11-14T13:33:57.834Z"
-  },
-  {
-    "id": "303182",
-    "title": "Murder in Galicia",
-    "type": "tv",
-    "season": 1,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w500/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
-    "updatedAt": "2026-11-14T13:08:30.498Z"
-  },
-  {
-    "id": "334412",
-    "title": "Student of the Year: After Dark",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/jjkZzwlR1crsSCaJRb3vIZjBuf.jpg",
-    "updatedAt": "2026-11-14T13:06:46.546Z"
-  },
-  {
-    "id": "293610",
-    "title": "Doctor X: Mafia in White",
-    "type": "tv",
-    "season": 1,
-    "episode": 11,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hMEulOCbZtnS7gFFBDuQCpYQs5a.jpg",
-    "updatedAt": "2026-11-14T13:03:27.323Z"
-  },
-  {
-    "id": "1418709",
-    "title": "Brawlers",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/w4ISfPkFLdG0ew07XcrlQSB4O4q.jpg",
-    "updatedAt": "2026-11-14T13:01:58.266Z"
-  },
-  {
-    "id": "1543469",
-    "title": "Heartland",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/d1d6prv2fZFr44uqKUMLjQzKRjx.jpg",
-    "updatedAt": "2026-11-14T13:01:05.610Z"
-  },
-  {
-    "id": "1563192",
-    "title": "Lenin Pandiyan",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/9ykO2pGYaFKt7kuJV6McyWCYcMd.jpg",
-    "updatedAt": "2026-11-14T12:59:26.498Z"
+    "episode": 85,
+    "backdrop": "https://image.tmdb.org/t/p/w500/9yrr6ubLv7uaOeHv890mVe1HNGn.jpg",
+    "updatedAt": "2026-11-16T05:40:58.077Z"
   },
   {
     "id": "262838",
     "title": "India's Got Latent",
     "type": "tv",
     "season": 2,
-    "episode": 8,
+    "episode": 9,
     "backdrop": "https://image.tmdb.org/t/p/w500/lhukQjNRaUXxZGdGGWNZvSU4qfq.jpg",
-    "updatedAt": "2026-11-14T08:11:54.298Z"
+    "updatedAt": "2026-11-16T05:38:17.387Z"
   },
   {
-    "id": "295509",
-    "title": "The Legend of Kitchen Soldier",
+    "id": "31910",
+    "title": "Naruto Shippūden",
+    "type": "tv",
+    "season": 18,
+    "episode": 389,
+    "backdrop": "https://image.tmdb.org/t/p/w500/iIqND8Ll1y7FJQ1uyAQL8mGbDgU.jpg",
+    "updatedAt": "2026-11-16T05:35:41.963Z"
+  },
+  {
+    "id": "280042",
+    "title": "A Wild Last Boss Appeared!",
+    "type": "tv",
+    "season": 1,
+    "episode": 17,
+    "backdrop": "https://image.tmdb.org/t/p/w500/4d1wPKLXjkbmpgNGpr9ElULORrY.jpg",
+    "updatedAt": "2026-11-16T05:34:18.508Z"
+  },
+  {
+    "id": "293610",
+    "title": "Doctor X: Mafia in White",
     "type": "tv",
     "season": 1,
     "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/lBLNtVsPRjnRj8c1VWOrrEB6s5d.jpg",
-    "updatedAt": "2026-11-14T03:07:02.617Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/hMEulOCbZtnS7gFFBDuQCpYQs5a.jpg",
+    "updatedAt": "2026-11-16T05:33:40.523Z"
   },
   {
-    "id": "781732",
-    "title": "Animal",
-    "type": "movie",
-    "year": "2023",
-    "backdrop": "https://image.tmdb.org/t/p/w500/jZgd1Ryzfqaobb8O0IO428xEwsB.jpg",
-    "updatedAt": "2026-11-14T03:03:15.505Z"
-  },
-  {
-    "id": "96462",
-    "title": "It's Okay to Not Be Okay",
+    "id": "316702",
+    "title": "Final Table",
     "type": "tv",
     "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hr4kddxosUBZxT3JzO4hRaNoXAt.jpg",
-    "updatedAt": "2026-11-14T02:57:46.120Z"
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/mf0klf0xpqW52G1TjDUxBL4u0x4.jpg",
+    "updatedAt": "2026-11-16T05:32:52.019Z"
+  },
+  {
+    "id": "922673",
+    "title": "The Third Murder",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/dALLuE3KRCxruBcJaFNwP2CSaMF.jpg",
+    "updatedAt": "2026-11-16T05:32:02.171Z"
+  },
+  {
+    "id": "1281425",
+    "title": "Night Silence",
+    "type": "movie",
+    "year": "2024",
+    "backdrop": "https://image.tmdb.org/t/p/w500/1Xi0FNU0uj82GfUw2vWHsVCiRv5.jpg",
+    "updatedAt": "2026-11-16T05:31:03.667Z"
+  },
+  {
+    "id": "347078",
+    "title": "When Geek Meets Serial Killer",
+    "type": "movie",
+    "year": "2015",
+    "backdrop": "https://image.tmdb.org/t/p/w500/xpYbfnNGy4VG4sI9iUoe5gurQsM.jpg",
+    "updatedAt": "2026-11-16T05:29:19.019Z"
+  },
+  {
+    "id": "971511",
+    "title": "Must Love Christmas",
+    "type": "movie",
+    "year": "2022",
+    "backdrop": "https://image.tmdb.org/t/p/w500/mxOuUrBPtP6gtHtnuAIcu0D0acV.jpg",
+    "updatedAt": "2026-11-16T05:28:09.516Z"
+  },
+  {
+    "id": "1215889",
+    "title": "Daayra",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/rbwmf04kpX1o3zbbOS6Y7woF2Ku.jpg",
+    "updatedAt": "2026-11-16T05:22:06.805Z"
+  },
+  {
+    "id": "1406543",
+    "title": "Karakkam",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/j9OltPrsFRBDiRCQG8Y5VbDsspu.jpg",
+    "updatedAt": "2026-11-15T13:26:57.056Z"
+  },
+  {
+    "id": "66732",
+    "title": "Stranger Things",
+    "type": "tv",
+    "season": 5,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/89T83vE1ol8wcI879LutCqv7hMa.jpg",
+    "updatedAt": "2026-11-15T13:21:37.647Z"
   }
 ]
