@@ -1,12 +1,137 @@
 [
   {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 74,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
+    "updatedAt": "2026-11-19T06:36:05.789Z"
+  },
+  {
+    "id": "14544",
+    "title": "Koffee with Karan",
+    "type": "tv",
+    "season": 9,
+    "episode": 6,
+    "backdrop": "https://image.tmdb.org/t/p/w500/h4hRKSbgtn9l7AmD5nph5vlYyJo.jpg",
+    "updatedAt": "2026-11-19T06:35:40.972Z"
+  },
+  {
     "id": "279246",
     "title": "The Remarried Empress",
     "type": "tv",
     "season": 1,
     "episode": 10,
     "backdrop": "https://image.tmdb.org/t/p/w500/cgLVWRtytMVXeqOMLu17HitKw3K.jpg",
-    "updatedAt": "2026-11-18T09:58:48.545Z"
+    "updatedAt": "2026-11-19T06:34:55.869Z"
+  },
+  {
+    "id": "79166",
+    "title": "Grand Blue Dreaming",
+    "type": "tv",
+    "season": 3,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/prHii5ULE8k9onzC3lFcb9RiITl.jpg",
+    "updatedAt": "2026-11-19T06:32:57.405Z"
+  },
+  {
+    "id": "45790",
+    "title": "JoJo's Bizarre Adventure",
+    "type": "tv",
+    "season": 6,
+    "episode": 9,
+    "backdrop": "https://image.tmdb.org/t/p/w500/ciDRS9Q8ErVxYzOpmYG40Wqbpc2.jpg",
+    "updatedAt": "2026-11-19T06:24:41.140Z"
+  },
+  {
+    "id": "94664",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "type": "tv",
+    "season": 3,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/81j82xSVO8jXHsHVByQLYm2XZ3s.jpg",
+    "updatedAt": "2026-11-19T06:10:18.781Z"
+  },
+  {
+    "id": "1637705",
+    "title": "#Cult",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/fo600JTOTdEbu6q2GFA4jIJVyF4.jpg",
+    "updatedAt": "2026-11-19T06:09:08.740Z"
+  },
+  {
+    "id": "1561834",
+    "title": "Last Dinner",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/9A0d7K9T2ktH8GS21cLJLJa98tZ.jpg",
+    "updatedAt": "2026-11-19T06:07:12.348Z"
+  },
+  {
+    "id": "1720201",
+    "title": "Dulhaniya Le Aaeegi",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/xM8N87uAydIe9CelsN1TMDgPJfM.jpg",
+    "updatedAt": "2026-11-19T06:06:45.868Z"
+  },
+  {
+    "id": "1748499",
+    "title": "Kiku Chiranjeevi",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/gKq0JtdFQy1vp3A6nb0Tx264wYH.jpg",
+    "updatedAt": "2026-11-19T06:00:17.188Z"
+  },
+  {
+    "id": "1171243",
+    "title": "Lucky Man",
+    "type": "movie",
+    "year": "2023",
+    "backdrop": "https://image.tmdb.org/t/p/w500/hgK58OFZPN3s6aDSRLoc4cC8vxB.jpg",
+    "updatedAt": "2026-11-19T05:56:54.180Z"
+  },
+  {
+    "id": "1247498",
+    "title": "Sundaram Master",
+    "type": "movie",
+    "year": "2024",
+    "backdrop": "https://image.tmdb.org/t/p/w500/ogV33MlR8poCg4e9nrUAP51Pukx.jpg",
+    "updatedAt": "2026-11-19T05:55:49.276Z"
+  },
+  {
+    "id": "1735270",
+    "title": "Premada Oorali",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/r22LSVD46wOY3rkavnM4gWc3sz2.jpg",
+    "updatedAt": "2026-11-19T05:55:29.101Z"
+  },
+  {
+    "id": "728899",
+    "title": "The New Fong Sai Yuk: Duel in the City of Death",
+    "type": "movie",
+    "year": "2019",
+    "backdrop": "",
+    "updatedAt": "2026-11-19T05:55:07.756Z"
+  },
+  {
+    "id": "1551025",
+    "title": "Guarding Stars",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/5c5qTq0mnTiMU3SVK8ve024kukB.jpg",
+    "updatedAt": "2026-11-19T05:54:34.117Z"
+  },
+  {
+    "id": "1131943",
+    "title": "Madden",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/a5YMI4b2NKAZu52WnApAsXI5KbP.jpg",
+    "updatedAt": "2026-11-19T05:54:10.775Z"
   },
   {
     "id": "8426",
@@ -27,15 +152,6 @@
     "updatedAt": "2026-11-18T09:50:37.400Z"
   },
   {
-    "id": "11436",
-    "title": "Bigg Boss",
-    "type": "tv",
-    "season": 20,
-    "episode": 73,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
-    "updatedAt": "2026-11-18T09:48:46.747Z"
-  },
-  {
     "id": "158282",
     "title": "Lock Upp",
     "type": "tv",
@@ -51,127 +167,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/wkEZ7YmWdn7GeFBoNz2RAiLlwDB.jpg",
     "updatedAt": "2026-11-17T14:02:36.794Z"
-  },
-  {
-    "id": "74074",
-    "title": "Because This Is My First Life",
-    "type": "tv",
-    "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/gzYFiunN28o3KuUdjjXvvxFz4zf.jpg",
-    "updatedAt": "2026-11-17T14:00:32.667Z"
-  },
-  {
-    "id": "1618784",
-    "title": "Fight Against Evil 3",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/nkeVH2PCEzs4PjCa8hliAeDjayS.jpg",
-    "updatedAt": "2026-11-17T13:51:01.874Z"
-  },
-  {
-    "id": "277834",
-    "title": "Moana",
-    "type": "movie",
-    "year": "2016",
-    "backdrop": "https://image.tmdb.org/t/p/w500/mtYxEUvcjrwzfzpJTGqziewyGR3.jpg",
-    "updatedAt": "2026-11-17T06:49:57.721Z"
-  },
-  {
-    "id": "313172",
-    "title": "Chumbak",
-    "type": "tv",
-    "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/2N1kH7314XUfMw80iLZh1d2UoHY.jpg",
-    "updatedAt": "2026-11-17T06:49:07.875Z"
-  },
-  {
-    "id": "318239",
-    "title": "Oops! Mysterious Sounds",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/d2K8LT8KZdV3S6TNS7t2t6UsJSt.jpg",
-    "updatedAt": "2026-11-17T06:45:24.656Z"
-  },
-  {
-    "id": "307427",
-    "title": "Under Her Rules",
-    "type": "tv",
-    "season": 1,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w500/eoYt7Xpqt1gsI5U5XOT7uQorybR.jpg",
-    "updatedAt": "2026-11-17T05:51:22.973Z"
-  },
-  {
-    "id": "243084",
-    "title": "Love Game in Eastern Fantasy",
-    "type": "tv",
-    "season": 1,
-    "episode": 32,
-    "backdrop": "https://image.tmdb.org/t/p/w500/7lRygOChXVhMc2nr4fIxoHL22wy.jpg",
-    "updatedAt": "2026-11-17T02:56:11.201Z"
-  },
-  {
-    "id": "31910",
-    "title": "Naruto Shippūden",
-    "type": "tv",
-    "season": 18,
-    "episode": 390,
-    "backdrop": "https://image.tmdb.org/t/p/w500/iIqND8Ll1y7FJQ1uyAQL8mGbDgU.jpg",
-    "updatedAt": "2026-11-17T02:49:38.929Z"
-  },
-  {
-    "id": "82684",
-    "title": "That Time I Got Reincarnated as a Slime",
-    "type": "tv",
-    "season": 4,
-    "episode": 24,
-    "backdrop": "https://image.tmdb.org/t/p/w500/5rcEQ5AG617uTUpO2oPWPCx68Fk.jpg",
-    "updatedAt": "2026-11-17T02:47:40.514Z"
-  },
-  {
-    "id": "1827619",
-    "title": "MFYD-086 While My Son Played at the Pool, I Gave In to an Affair With His Swimming Coach for Eight Hours",
-    "type": "movie",
-    "year": "",
-    "backdrop": "",
-    "updatedAt": "2026-11-16T19:01:11.513Z"
-  },
-  {
-    "id": "1827658",
-    "title": "MIDA-859 Reunited With My First Love, Rena, At A Class Reunion. When I Found Out We Had Mutual Feelings, My \"love\" Exploded!",
-    "type": "movie",
-    "year": "",
-    "backdrop": "",
-    "updatedAt": "2026-11-16T18:31:38.737Z"
-  },
-  {
-    "id": "335787",
-    "title": "Family Full House with Rohit Sharma",
-    "type": "tv",
-    "season": 1,
-    "episode": 18,
-    "backdrop": "https://image.tmdb.org/t/p/w500/dUpoXzSJxMtTbMqrYdDxFM3DrUp.jpg",
-    "updatedAt": "2026-11-16T13:13:56.910Z"
-  },
-  {
-    "id": "278577",
-    "title": "Shine on Me",
-    "type": "tv",
-    "season": 1,
-    "episode": 36,
-    "backdrop": "https://image.tmdb.org/t/p/w500/8HFqejmVrz8y9rQMHBCQ89mFD10.jpg",
-    "updatedAt": "2026-11-16T12:53:31.629Z"
-  },
-  {
-    "id": "296140",
-    "title": "My Bias, My Boss",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/v8O0X6PP7grEaXsPkdiotIx78tA.jpg",
-    "updatedAt": "2026-11-16T06:11:39.804Z"
   }
 ]
