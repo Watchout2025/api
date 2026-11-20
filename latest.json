@@ -1,5 +1,147 @@
 [
   {
+    "id": "71712",
+    "title": "The Good Doctor",
+    "type": "tv",
+    "season": 1,
+    "episode": 18,
+    "backdrop": "https://image.tmdb.org/t/p/w500/zlXPNnnUlyg6KyvvjGd2ZxG6Tnw.jpg",
+    "updatedAt": "2026-11-20T04:40:33.337Z"
+  },
+  {
+    "id": "1431738",
+    "title": "Anbil Avan",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/uHSlzN0WbaNMgmmgkpQlod9hWje.jpg",
+    "updatedAt": "2026-11-20T04:32:42.840Z"
+  },
+  {
+    "id": "297903",
+    "title": "PSYREN",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/avOHprINAK61GJg40CfIiWMnDX8.jpg",
+    "updatedAt": "2026-11-20T04:28:30.584Z"
+  },
+  {
+    "id": "117061",
+    "title": "The Detective Is Already Dead",
+    "type": "tv",
+    "season": 2,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/aqETSDXdeYqcD1PPd2WBfeWtoct.jpg",
+    "updatedAt": "2026-11-20T04:27:46.840Z"
+  },
+  {
+    "id": "324502",
+    "title": "Overgeared",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/lGQcgSV9pplIduzSwXctUKAkt9L.jpg",
+    "updatedAt": "2026-11-20T04:27:06.662Z"
+  },
+  {
+    "id": "303060",
+    "title": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet from My Cunning Fiancé",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/dKkprfHrf7kUrJEvulublDIgBHt.jpg",
+    "updatedAt": "2026-11-20T04:26:00.896Z"
+  },
+  {
+    "id": "259140",
+    "title": "Ranma1/2",
+    "type": "tv",
+    "season": 1,
+    "episode": 31,
+    "backdrop": "https://image.tmdb.org/t/p/w500/z0sftiGQfOALJVCg62n3MaWU72l.jpg",
+    "updatedAt": "2026-11-20T04:24:11.968Z"
+  },
+  {
+    "id": "324326",
+    "title": "The Seven Knights of the Marronnier Kingdom",
+    "type": "tv",
+    "season": 1,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/9VSRkpg4nDwPd2Js5AushN2CGEq.jpg",
+    "updatedAt": "2026-11-20T04:23:08.088Z"
+  },
+  {
+    "id": "312359",
+    "title": "Dragon Ball Super: Beerus",
+    "type": "tv",
+    "season": 1,
+    "episode": 2,
+    "backdrop": "https://image.tmdb.org/t/p/w500/ycaeQclsoHdEVLIRZDOLY2oq7E2.jpg",
+    "updatedAt": "2026-11-20T04:22:17.248Z"
+  },
+  {
+    "id": "283428",
+    "title": "The Ramparts of Ice",
+    "type": "tv",
+    "season": 1,
+    "episode": 22,
+    "backdrop": "https://image.tmdb.org/t/p/w500/8Oh5v6xltWdVgt9Vt465qbLXatM.jpg",
+    "updatedAt": "2026-11-20T04:21:37.535Z"
+  },
+  {
+    "id": "305551",
+    "title": "Merry Berry Love",
+    "type": "tv",
+    "season": 1,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/z4T6XZp1B3l6sr2KvPxVqAX4SCg.jpg",
+    "updatedAt": "2026-11-20T04:20:42.607Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 75,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
+    "updatedAt": "2026-11-20T04:18:57.767Z"
+  },
+  {
+    "id": "84092",
+    "title": "Ramayana: The Legend of Prince Rama",
+    "type": "movie",
+    "year": "1997",
+    "backdrop": "https://image.tmdb.org/t/p/w500/s85VZyOPojPaVfgxPbM2eoFSrLs.jpg",
+    "updatedAt": "2026-11-19T13:19:15.784Z"
+  },
+  {
+    "id": "292121",
+    "title": "The Scarecrow",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jQdzjbd6UmoxNPeuKR2RHHUiYYq.jpg",
+    "updatedAt": "2026-11-19T13:18:20.786Z"
+  },
+  {
+    "id": "308007",
+    "title": "The Altruists",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cFbLWpzrQigaMGZpmgYGFieLzFE.jpg",
+    "updatedAt": "2026-11-19T13:12:46.049Z"
+  },
+  {
+    "id": "332839",
+    "title": "The Law of Beasts",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/iMvGSFcxzvwLWyHDOLqwDX9JQ27.jpg",
+    "updatedAt": "2026-11-19T13:10:54.609Z"
+  },
+  {
     "id": "236356",
     "title": "Family Matters",
     "type": "tv",
@@ -34,142 +176,5 @@
     "episode": 5,
     "backdrop": "https://image.tmdb.org/t/p/w500/VgW1XPEFiwEZgYuR2Wl204DxGL.jpg",
     "updatedAt": "2026-11-19T06:53:09.252Z"
-  },
-  {
-    "id": "330168",
-    "title": "Love Me to Hurt Me",
-    "type": "tv",
-    "season": 1,
-    "episode": 3,
-    "backdrop": "https://image.tmdb.org/t/p/w500/7H74fIrT9WPFWuSQnKgWkjjB9Mg.jpg",
-    "updatedAt": "2026-11-19T06:51:40.005Z"
-  },
-  {
-    "id": "307853",
-    "title": "Sunshine through the Rain",
-    "type": "tv",
-    "season": 1,
-    "episode": 24,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3d0tcjjfbL710Tj0BkypXpXdKVR.jpg",
-    "updatedAt": "2026-11-19T06:50:27.092Z"
-  },
-  {
-    "id": "110316",
-    "title": "Alice in Borderland",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/i6vV0LDMnyFFT3yBysMHvpWEZor.jpg",
-    "updatedAt": "2026-11-19T06:39:18.221Z"
-  },
-  {
-    "id": "11436",
-    "title": "Bigg Boss",
-    "type": "tv",
-    "season": 20,
-    "episode": 74,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
-    "updatedAt": "2026-11-19T06:36:05.789Z"
-  },
-  {
-    "id": "14544",
-    "title": "Koffee with Karan",
-    "type": "tv",
-    "season": 9,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/h4hRKSbgtn9l7AmD5nph5vlYyJo.jpg",
-    "updatedAt": "2026-11-19T06:35:40.972Z"
-  },
-  {
-    "id": "279246",
-    "title": "The Remarried Empress",
-    "type": "tv",
-    "season": 1,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/cgLVWRtytMVXeqOMLu17HitKw3K.jpg",
-    "updatedAt": "2026-11-19T06:34:55.869Z"
-  },
-  {
-    "id": "79166",
-    "title": "Grand Blue Dreaming",
-    "type": "tv",
-    "season": 3,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/prHii5ULE8k9onzC3lFcb9RiITl.jpg",
-    "updatedAt": "2026-11-19T06:32:57.405Z"
-  },
-  {
-    "id": "45790",
-    "title": "JoJo's Bizarre Adventure",
-    "type": "tv",
-    "season": 6,
-    "episode": 9,
-    "backdrop": "https://image.tmdb.org/t/p/w500/ciDRS9Q8ErVxYzOpmYG40Wqbpc2.jpg",
-    "updatedAt": "2026-11-19T06:24:41.140Z"
-  },
-  {
-    "id": "94664",
-    "title": "Mushoku Tensei: Jobless Reincarnation",
-    "type": "tv",
-    "season": 3,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/81j82xSVO8jXHsHVByQLYm2XZ3s.jpg",
-    "updatedAt": "2026-11-19T06:10:18.781Z"
-  },
-  {
-    "id": "1637705",
-    "title": "#Cult",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/fo600JTOTdEbu6q2GFA4jIJVyF4.jpg",
-    "updatedAt": "2026-11-19T06:09:08.740Z"
-  },
-  {
-    "id": "1561834",
-    "title": "Last Dinner",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/9A0d7K9T2ktH8GS21cLJLJa98tZ.jpg",
-    "updatedAt": "2026-11-19T06:07:12.348Z"
-  },
-  {
-    "id": "1720201",
-    "title": "Dulhaniya Le Aaeegi",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/xM8N87uAydIe9CelsN1TMDgPJfM.jpg",
-    "updatedAt": "2026-11-19T06:06:45.868Z"
-  },
-  {
-    "id": "1748499",
-    "title": "Kiku Chiranjeevi",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/gKq0JtdFQy1vp3A6nb0Tx264wYH.jpg",
-    "updatedAt": "2026-11-19T06:00:17.188Z"
-  },
-  {
-    "id": "1171243",
-    "title": "Lucky Man",
-    "type": "movie",
-    "year": "2023",
-    "backdrop": "https://image.tmdb.org/t/p/w500/hgK58OFZPN3s6aDSRLoc4cC8vxB.jpg",
-    "updatedAt": "2026-11-19T05:56:54.180Z"
-  },
-  {
-    "id": "1247498",
-    "title": "Sundaram Master",
-    "type": "movie",
-    "year": "2024",
-    "backdrop": "https://image.tmdb.org/t/p/w500/ogV33MlR8poCg4e9nrUAP51Pukx.jpg",
-    "updatedAt": "2026-11-19T05:55:49.276Z"
-  },
-  {
-    "id": "1735270",
-    "title": "Premada Oorali",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/r22LSVD46wOY3rkavnM4gWc3sz2.jpg",
-    "updatedAt": "2026-11-19T05:55:29.101Z"
   }
 ]
