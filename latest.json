@@ -1,118 +1,145 @@
 [
   {
-    "id": "71712",
-    "title": "The Good Doctor",
-    "type": "tv",
-    "season": 1,
-    "episode": 18,
-    "backdrop": "https://image.tmdb.org/t/p/w500/zlXPNnnUlyg6KyvvjGd2ZxG6Tnw.jpg",
-    "updatedAt": "2026-11-20T04:40:33.337Z"
-  },
-  {
-    "id": "1431738",
-    "title": "Anbil Avan",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/uHSlzN0WbaNMgmmgkpQlod9hWje.jpg",
-    "updatedAt": "2026-11-20T04:32:42.840Z"
-  },
-  {
-    "id": "297903",
-    "title": "PSYREN",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/avOHprINAK61GJg40CfIiWMnDX8.jpg",
-    "updatedAt": "2026-11-20T04:28:30.584Z"
-  },
-  {
-    "id": "117061",
-    "title": "The Detective Is Already Dead",
-    "type": "tv",
-    "season": 2,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/aqETSDXdeYqcD1PPd2WBfeWtoct.jpg",
-    "updatedAt": "2026-11-20T04:27:46.840Z"
-  },
-  {
-    "id": "324502",
-    "title": "Overgeared",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/lGQcgSV9pplIduzSwXctUKAkt9L.jpg",
-    "updatedAt": "2026-11-20T04:27:06.662Z"
-  },
-  {
-    "id": "303060",
-    "title": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet from My Cunning Fiancé",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/dKkprfHrf7kUrJEvulublDIgBHt.jpg",
-    "updatedAt": "2026-11-20T04:26:00.896Z"
-  },
-  {
-    "id": "259140",
-    "title": "Ranma1/2",
-    "type": "tv",
-    "season": 1,
-    "episode": 31,
-    "backdrop": "https://image.tmdb.org/t/p/w500/z0sftiGQfOALJVCg62n3MaWU72l.jpg",
-    "updatedAt": "2026-11-20T04:24:11.968Z"
-  },
-  {
-    "id": "324326",
-    "title": "The Seven Knights of the Marronnier Kingdom",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9VSRkpg4nDwPd2Js5AushN2CGEq.jpg",
-    "updatedAt": "2026-11-20T04:23:08.088Z"
-  },
-  {
-    "id": "312359",
-    "title": "Dragon Ball Super: Beerus",
-    "type": "tv",
-    "season": 1,
-    "episode": 2,
-    "backdrop": "https://image.tmdb.org/t/p/w500/ycaeQclsoHdEVLIRZDOLY2oq7E2.jpg",
-    "updatedAt": "2026-11-20T04:22:17.248Z"
-  },
-  {
-    "id": "283428",
-    "title": "The Ramparts of Ice",
-    "type": "tv",
-    "season": 1,
-    "episode": 22,
-    "backdrop": "https://image.tmdb.org/t/p/w500/8Oh5v6xltWdVgt9Vt465qbLXatM.jpg",
-    "updatedAt": "2026-11-20T04:21:37.535Z"
-  },
-  {
-    "id": "305551",
-    "title": "Merry Berry Love",
-    "type": "tv",
-    "season": 1,
-    "episode": 7,
-    "backdrop": "https://image.tmdb.org/t/p/w500/z4T6XZp1B3l6sr2KvPxVqAX4SCg.jpg",
-    "updatedAt": "2026-11-20T04:20:42.607Z"
-  },
-  {
     "id": "11436",
     "title": "Bigg Boss",
     "type": "tv",
     "season": 20,
-    "episode": 75,
+    "episode": 77,
     "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
-    "updatedAt": "2026-11-20T04:18:57.767Z"
+    "updatedAt": "2026-11-22T08:55:57.063Z"
   },
   {
-    "id": "84092",
-    "title": "Ramayana: The Legend of Prince Rama",
+    "id": "316702",
+    "title": "Final Table",
+    "type": "tv",
+    "season": 1,
+    "episode": 9,
+    "backdrop": "https://image.tmdb.org/t/p/w500/mf0klf0xpqW52G1TjDUxBL4u0x4.jpg",
+    "updatedAt": "2026-11-22T08:43:41.062Z"
+  },
+  {
+    "id": "1384528",
+    "title": "O.M: Operation Mole",
     "type": "movie",
-    "year": "1997",
-    "backdrop": "https://image.tmdb.org/t/p/w500/s85VZyOPojPaVfgxPbM2eoFSrLs.jpg",
-    "updatedAt": "2026-11-19T13:19:15.784Z"
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/gJqVeWZF537IUfjHlA7apBAJBBR.jpg",
+    "updatedAt": "2026-11-22T08:41:44.118Z"
+  },
+  {
+    "id": "273240",
+    "title": "Off Campus",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/cxtfuZMC5FafQ5qjm6lY10M2wCM.jpg",
+    "updatedAt": "2026-11-22T08:28:30.790Z"
+  },
+  {
+    "id": "81356",
+    "title": "Sex Education",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/jKbqVjCOOL2P8cP1VNxbC2h31Re.jpg",
+    "updatedAt": "2026-11-22T08:23:44.830Z"
+  },
+  {
+    "id": "121",
+    "title": "The Lord of the Rings: The Two Towers",
+    "type": "movie",
+    "year": "2002",
+    "backdrop": "https://image.tmdb.org/t/p/w500/6gfBFfkh4J3YNmwYkyaVjIcSdKb.jpg",
+    "updatedAt": "2026-11-22T08:08:59.774Z"
+  },
+  {
+    "id": "84105",
+    "title": "Mirzapur",
+    "type": "tv",
+    "season": 3,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/qCtSF2xvjiEPszmjor8Mpsqip9p.jpg",
+    "updatedAt": "2026-11-22T08:04:33.479Z"
+  },
+  {
+    "id": "259909",
+    "title": "Dexter: Resurrection",
+    "type": "tv",
+    "season": 2,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/9KIliGHB1FcIS39Ucmn1rLLID9C.jpg",
+    "updatedAt": "2026-11-22T02:40:34.201Z"
+  },
+  {
+    "id": "94664",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "type": "tv",
+    "season": 3,
+    "episode": 13,
+    "backdrop": "https://image.tmdb.org/t/p/w500/81j82xSVO8jXHsHVByQLYm2XZ3s.jpg",
+    "updatedAt": "2026-11-22T02:35:25.018Z"
+  },
+  {
+    "id": "291496",
+    "title": "Our Sticky Love",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/3Yypc9omHiqUAL46ciYHkyAfjOr.jpg",
+    "updatedAt": "2026-11-22T01:56:24.409Z"
+  },
+  {
+    "id": "270431",
+    "title": "When I Meet the Moon",
+    "type": "tv",
+    "season": 1,
+    "episode": 27,
+    "backdrop": "https://image.tmdb.org/t/p/w500/Agg3jHAbPAnKdTEfBcESa6hefdW.jpg",
+    "updatedAt": "2026-11-22T01:52:48.857Z"
+  },
+  {
+    "id": "284825",
+    "title": "Mr. Fanboy",
+    "type": "tv",
+    "season": 1,
+    "episode": 12,
+    "backdrop": "https://image.tmdb.org/t/p/w500/wa0sbAAf8owaFfcVGiUh1Ikq6tw.jpg",
+    "updatedAt": "2026-11-22T01:50:51.025Z"
+  },
+  {
+    "id": "245842",
+    "title": "Wistoria: Wand and Sword",
+    "type": "tv",
+    "season": 2,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/1ZUwvxkYW8YZj3bAr9EIWHg7Jdd.jpg",
+    "updatedAt": "2026-11-22T01:47:23.905Z"
+  },
+  {
+    "id": "293607",
+    "title": "100 Days of Deception",
+    "type": "tv",
+    "season": 1,
+    "episode": 13,
+    "backdrop": "https://image.tmdb.org/t/p/w500/oSe2Jbep2FZjaLiNiUDpV6DdIF3.jpg",
+    "updatedAt": "2026-11-21T10:48:21.581Z"
+  },
+  {
+    "id": "8426",
+    "title": "MTV Roadies",
+    "type": "tv",
+    "season": 21,
+    "episode": 11,
+    "backdrop": "https://image.tmdb.org/t/p/w500/2kEe8kiXc0cJUdmwIjnhXwxIEPL.jpg",
+    "updatedAt": "2026-11-21T04:20:52.249Z"
+  },
+  {
+    "id": "247718",
+    "title": "MobLand",
+    "type": "tv",
+    "season": 2,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
+    "updatedAt": "2026-11-21T04:19:02.490Z"
   },
   {
     "id": "292121",
@@ -121,60 +148,31 @@
     "season": 1,
     "episode": 12,
     "backdrop": "https://image.tmdb.org/t/p/w500/jQdzjbd6UmoxNPeuKR2RHHUiYYq.jpg",
-    "updatedAt": "2026-11-19T13:18:20.786Z"
+    "updatedAt": "2026-11-20T12:48:11.429Z"
   },
   {
-    "id": "308007",
-    "title": "The Altruists",
+    "id": "300523",
+    "title": "The Blue Road",
     "type": "tv",
     "season": 1,
     "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/cFbLWpzrQigaMGZpmgYGFieLzFE.jpg",
-    "updatedAt": "2026-11-19T13:12:46.049Z"
+    "backdrop": "https://image.tmdb.org/t/p/w500/zUQKiApG9zMXY0sfErZ8YgD49Ex.jpg",
+    "updatedAt": "2026-11-20T12:43:11.277Z"
   },
   {
-    "id": "332839",
-    "title": "The Law of Beasts",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/iMvGSFcxzvwLWyHDOLqwDX9JQ27.jpg",
-    "updatedAt": "2026-11-19T13:10:54.609Z"
+    "id": "1595124",
+    "title": "Steps",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+    "updatedAt": "2026-11-20T12:39:29.283Z"
   },
   {
-    "id": "236356",
-    "title": "Family Matters",
-    "type": "tv",
-    "season": 1,
-    "episode": 6,
-    "backdrop": "https://image.tmdb.org/t/p/w500/tYf6f2TpgKlAn8kxyIU1pkDWT23.jpg",
-    "updatedAt": "2026-11-19T07:11:59.421Z"
-  },
-  {
-    "id": "247718",
-    "title": "MobLand",
-    "type": "tv",
-    "season": 2,
-    "episode": 9,
-    "backdrop": "https://image.tmdb.org/t/p/w500/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
-    "updatedAt": "2026-11-19T07:04:09.924Z"
-  },
-  {
-    "id": "238680",
-    "title": "Moonlight Mystique",
-    "type": "tv",
-    "season": 1,
-    "episode": 40,
-    "backdrop": "https://image.tmdb.org/t/p/w500/gNJxzmPC8avUYEZdErKo3m4nWZL.jpg",
-    "updatedAt": "2026-11-19T06:59:39.652Z"
-  },
-  {
-    "id": "330613",
-    "title": "The Rules",
-    "type": "tv",
-    "season": 1,
-    "episode": 5,
-    "backdrop": "https://image.tmdb.org/t/p/w500/VgW1XPEFiwEZgYuR2Wl204DxGL.jpg",
-    "updatedAt": "2026-11-19T06:53:09.252Z"
+    "id": "1617448",
+    "title": "Marrow",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/i8lshiEJUto0ufc5e99tsQeU1iT.jpg",
+    "updatedAt": "2026-11-20T12:39:09.980Z"
   }
 ]
