@@ -1,11 +1,142 @@
 [
   {
+    "id": "46553",
+    "title": "Reply 1997",
+    "type": "tv",
+    "season": 1,
+    "episode": 16,
+    "backdrop": "https://image.tmdb.org/t/p/w500/2UK2PTvlYnpEyMpRw1ORCzGzKVS.jpg",
+    "updatedAt": "2026-11-23T14:06:01.463Z"
+  },
+  {
+    "id": "275204",
+    "title": "Dhindora",
+    "type": "tv",
+    "season": 2,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/2QsmesFzm5WaP70pRmCbVBzvXDA.jpg",
+    "updatedAt": "2026-11-23T13:08:30.190Z"
+  },
+  {
+    "id": "158282",
+    "title": "Lock Upp",
+    "type": "tv",
+    "season": 2,
+    "episode": 35,
+    "backdrop": "https://image.tmdb.org/t/p/w500/h3E2I2etWs5l7OCsRLU9Bz3cSnK.jpg",
+    "updatedAt": "2026-11-23T07:04:51.935Z"
+  },
+  {
+    "id": "1384528",
+    "title": "O.M: Operation Mole",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/gJqVeWZF537IUfjHlA7apBAJBBR.jpg",
+    "updatedAt": "2026-11-23T07:03:32.943Z"
+  },
+  {
+    "id": "1568060",
+    "title": "Perfect Liars",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/ylYK5Zc8AdZHwuSwt4pe8gGXm83.jpg",
+    "updatedAt": "2026-11-23T06:37:41.163Z"
+  },
+  {
+    "id": "1587124",
+    "title": "Bhabiji Ghar Par Hain! Fun on the Run",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/yJqMynHqnCqx5oi0IuTtQtTKC6m.jpg",
+    "updatedAt": "2026-11-23T06:29:16.435Z"
+  },
+  {
+    "id": "316702",
+    "title": "Final Table",
+    "type": "tv",
+    "season": 1,
+    "episode": 9,
+    "backdrop": "https://image.tmdb.org/t/p/w500/mf0klf0xpqW52G1TjDUxBL4u0x4.jpg",
+    "updatedAt": "2026-11-23T05:39:31.025Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 78,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
+    "updatedAt": "2026-11-23T05:38:08.681Z"
+  },
+  {
+    "id": "969681",
+    "title": "Spider-Man: Brand New Day",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/f9mM7tDrZ3LlHPQu9I5A6TTxTb9.jpg",
+    "updatedAt": "2026-11-23T05:17:55.578Z"
+  },
+  {
+    "id": "303745",
+    "title": "Love in Disguise",
+    "type": "tv",
+    "season": null,
+    "episode": null,
+    "backdrop": "https://image.tmdb.org/t/p/w500/9qbj4CGHMtrnpdpTVtVVk9faqKK.jpg",
+    "updatedAt": "2026-11-23T04:18:13.602Z"
+  },
+  {
+    "id": "320909",
+    "title": "Firefly Wedding",
+    "type": "tv",
+    "season": 1,
+    "episode": 4,
+    "backdrop": "https://image.tmdb.org/t/p/w500/6skizQ7ljYdT8lW7ylqaBsmOY5D.jpg",
+    "updatedAt": "2026-11-23T03:07:07.610Z"
+  },
+  {
+    "id": "30984",
+    "title": "Bleach",
+    "type": "tv",
+    "season": 2,
+    "episode": 50,
+    "backdrop": "https://image.tmdb.org/t/p/w500/d8pipPG6EEvqFu1KnHvCk0xMALV.jpg",
+    "updatedAt": "2026-11-23T03:03:54.905Z"
+  },
+  {
+    "id": "335787",
+    "title": "Family Full House with Rohit Sharma",
+    "type": "tv",
+    "season": 1,
+    "episode": 19,
+    "backdrop": "https://image.tmdb.org/t/p/w500/bWyYwK9ecgUlGBt9J8qym8VqfMw.jpg",
+    "updatedAt": "2026-11-23T02:57:01.603Z"
+  },
+  {
+    "id": "45790",
+    "title": "JoJo's Bizarre Adventure",
+    "type": "tv",
+    "season": 6,
+    "episode": 10,
+    "backdrop": "https://image.tmdb.org/t/p/w500/ciDRS9Q8ErVxYzOpmYG40Wqbpc2.jpg",
+    "updatedAt": "2026-11-23T02:54:50.426Z"
+  },
+  {
+    "id": "307853",
+    "title": "Sunshine through the Rain",
+    "type": "tv",
+    "season": 1,
+    "episode": 24,
+    "backdrop": "https://image.tmdb.org/t/p/w500/3d0tcjjfbL710Tj0BkypXpXdKVR.jpg",
+    "updatedAt": "2026-11-23T02:17:39.826Z"
+  },
+  {
     "id": "1288445",
     "title": "Mutiny",
     "type": "movie",
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/5kmju0rHpro6g8YWdihio8SJ1jH.jpg",
-    "updatedAt": "2026-11-22T14:16:12.746Z"
+    "updatedAt": "2026-11-22T14:41:19.098Z"
   },
   {
     "id": "566525",
@@ -40,138 +171,5 @@
     "year": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w500/anwB9RlA2haerdblfBcl5OH9gtr.jpg",
     "updatedAt": "2026-11-22T11:31:54.710Z"
-  },
-  {
-    "id": "11436",
-    "title": "Bigg Boss",
-    "type": "tv",
-    "season": 20,
-    "episode": 77,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
-    "updatedAt": "2026-11-22T08:55:57.063Z"
-  },
-  {
-    "id": "316702",
-    "title": "Final Table",
-    "type": "tv",
-    "season": 1,
-    "episode": 9,
-    "backdrop": "https://image.tmdb.org/t/p/w500/mf0klf0xpqW52G1TjDUxBL4u0x4.jpg",
-    "updatedAt": "2026-11-22T08:43:41.062Z"
-  },
-  {
-    "id": "1384528",
-    "title": "O.M: Operation Mole",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/gJqVeWZF537IUfjHlA7apBAJBBR.jpg",
-    "updatedAt": "2026-11-22T08:41:44.118Z"
-  },
-  {
-    "id": "273240",
-    "title": "Off Campus",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/cxtfuZMC5FafQ5qjm6lY10M2wCM.jpg",
-    "updatedAt": "2026-11-22T08:28:30.790Z"
-  },
-  {
-    "id": "81356",
-    "title": "Sex Education",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/jKbqVjCOOL2P8cP1VNxbC2h31Re.jpg",
-    "updatedAt": "2026-11-22T08:23:44.830Z"
-  },
-  {
-    "id": "121",
-    "title": "The Lord of the Rings: The Two Towers",
-    "type": "movie",
-    "year": "2002",
-    "backdrop": "https://image.tmdb.org/t/p/w500/6gfBFfkh4J3YNmwYkyaVjIcSdKb.jpg",
-    "updatedAt": "2026-11-22T08:08:59.774Z"
-  },
-  {
-    "id": "84105",
-    "title": "Mirzapur",
-    "type": "tv",
-    "season": 3,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/qCtSF2xvjiEPszmjor8Mpsqip9p.jpg",
-    "updatedAt": "2026-11-22T08:04:33.479Z"
-  },
-  {
-    "id": "259909",
-    "title": "Dexter: Resurrection",
-    "type": "tv",
-    "season": 2,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9KIliGHB1FcIS39Ucmn1rLLID9C.jpg",
-    "updatedAt": "2026-11-22T02:40:34.201Z"
-  },
-  {
-    "id": "94664",
-    "title": "Mushoku Tensei: Jobless Reincarnation",
-    "type": "tv",
-    "season": 3,
-    "episode": 13,
-    "backdrop": "https://image.tmdb.org/t/p/w500/81j82xSVO8jXHsHVByQLYm2XZ3s.jpg",
-    "updatedAt": "2026-11-22T02:35:25.018Z"
-  },
-  {
-    "id": "291496",
-    "title": "Our Sticky Love",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3Yypc9omHiqUAL46ciYHkyAfjOr.jpg",
-    "updatedAt": "2026-11-22T01:56:24.409Z"
-  },
-  {
-    "id": "270431",
-    "title": "When I Meet the Moon",
-    "type": "tv",
-    "season": 1,
-    "episode": 27,
-    "backdrop": "https://image.tmdb.org/t/p/w500/Agg3jHAbPAnKdTEfBcESa6hefdW.jpg",
-    "updatedAt": "2026-11-22T01:52:48.857Z"
-  },
-  {
-    "id": "284825",
-    "title": "Mr. Fanboy",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/wa0sbAAf8owaFfcVGiUh1Ikq6tw.jpg",
-    "updatedAt": "2026-11-22T01:50:51.025Z"
-  },
-  {
-    "id": "245842",
-    "title": "Wistoria: Wand and Sword",
-    "type": "tv",
-    "season": 2,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/1ZUwvxkYW8YZj3bAr9EIWHg7Jdd.jpg",
-    "updatedAt": "2026-11-22T01:47:23.905Z"
-  },
-  {
-    "id": "293607",
-    "title": "100 Days of Deception",
-    "type": "tv",
-    "season": 1,
-    "episode": 13,
-    "backdrop": "https://image.tmdb.org/t/p/w500/oSe2Jbep2FZjaLiNiUDpV6DdIF3.jpg",
-    "updatedAt": "2026-11-21T10:48:21.581Z"
-  },
-  {
-    "id": "8426",
-    "title": "MTV Roadies",
-    "type": "tv",
-    "season": 21,
-    "episode": 11,
-    "backdrop": "https://image.tmdb.org/t/p/w500/2kEe8kiXc0cJUdmwIjnhXwxIEPL.jpg",
-    "updatedAt": "2026-11-21T04:20:52.249Z"
   }
 ]
