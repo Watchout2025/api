@@ -1,5 +1,101 @@
 [
   {
+    "id": "276393",
+    "title": "Tamon's B-Side",
+    "type": "tv",
+    "season": 1,
+    "episode": 9,
+    "backdrop": "https://image.tmdb.org/t/p/w500/pvmqbpDSqZbK9Yn1NoYzlWerOj6.jpg",
+    "updatedAt": "2026-11-26T12:21:05.156Z"
+  },
+  {
+    "id": "11436",
+    "title": "Bigg Boss",
+    "type": "tv",
+    "season": 20,
+    "episode": 81,
+    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
+    "updatedAt": "2026-11-26T04:22:06.573Z"
+  },
+  {
+    "id": "8966",
+    "title": "Twilight",
+    "type": "movie",
+    "year": "2008",
+    "backdrop": "https://image.tmdb.org/t/p/w500/9fTIJ7j5L0IxA9nnTmBPJL7qZgt.jpg",
+    "updatedAt": "2026-11-26T03:52:02.494Z"
+  },
+  {
+    "id": "1429",
+    "title": "Attack on Titan",
+    "type": "tv",
+    "season": 4,
+    "episode": 14,
+    "backdrop": "https://image.tmdb.org/t/p/w500/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg",
+    "updatedAt": "2026-11-25T19:20:02.186Z"
+  },
+  {
+    "id": "171802",
+    "title": "Blade Runner 2099",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/r80C4KkJcXV1eIJ3F7YGh0FFHbg.jpg",
+    "updatedAt": "2026-11-25T19:02:02.379Z"
+  },
+  {
+    "id": "1281331",
+    "title": "The Social Reckoning",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/n4A05i9FaYN5VKQ7gUGD4fsdmUm.jpg",
+    "updatedAt": "2026-11-25T07:33:13.402Z"
+  },
+  {
+    "id": "652",
+    "title": "What's New, Scooby-Doo?",
+    "type": "tv",
+    "season": 3,
+    "episode": 14,
+    "backdrop": "https://image.tmdb.org/t/p/w500/dOjT0Vpmvs6Fc8xBp5RDZAJVFEL.jpg",
+    "updatedAt": "2026-11-25T07:16:28.491Z"
+  },
+  {
+    "id": "335787",
+    "title": "Family Full House with Rohit Sharma",
+    "type": "tv",
+    "season": 1,
+    "episode": 20,
+    "backdrop": "https://image.tmdb.org/t/p/w500/bWyYwK9ecgUlGBt9J8qym8VqfMw.jpg",
+    "updatedAt": "2026-11-24T06:59:34.779Z"
+  },
+  {
+    "id": "566525",
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "type": "movie",
+    "year": "2021",
+    "backdrop": "https://image.tmdb.org/t/p/w500/d3cxROd9PtmavG20P6e2WbrNxkg.jpg",
+    "updatedAt": "2026-11-24T05:11:11.371Z"
+  },
+  {
+    "id": "299939",
+    "title": "Monster: The Lizzie Borden Story",
+    "type": "tv",
+    "season": 1,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/1V4qYjjNNhldd3fQLUuTnzXRPmJ.jpg",
+    "updatedAt": "2026-11-24T05:09:30.574Z"
+  },
+  {
+    "id": "128698",
+    "title": "Make a Wish",
+    "type": "tv",
+    "season": 1,
+    "episode": 24,
+    "backdrop": "https://image.tmdb.org/t/p/w500/sqZIbB29EeNp5epqrRJZjErWvrF.jpg",
+    "updatedAt": "2026-11-23T15:52:22.936Z"
+  },
+  {
     "id": "46553",
     "title": "Reply 1997",
     "type": "tv",
@@ -60,15 +156,6 @@
     "updatedAt": "2026-11-23T05:39:31.025Z"
   },
   {
-    "id": "11436",
-    "title": "Bigg Boss",
-    "type": "tv",
-    "season": 20,
-    "episode": 78,
-    "backdrop": "https://image.tmdb.org/t/p/w500/hyPQPnMLlUqmLuFpzoUe6Hp8oXG.jpg",
-    "updatedAt": "2026-11-23T05:38:08.681Z"
-  },
-  {
     "id": "969681",
     "title": "Spider-Man: Brand New Day",
     "type": "movie",
@@ -84,92 +171,5 @@
     "episode": null,
     "backdrop": "https://image.tmdb.org/t/p/w500/9qbj4CGHMtrnpdpTVtVVk9faqKK.jpg",
     "updatedAt": "2026-11-23T04:18:13.602Z"
-  },
-  {
-    "id": "320909",
-    "title": "Firefly Wedding",
-    "type": "tv",
-    "season": 1,
-    "episode": 4,
-    "backdrop": "https://image.tmdb.org/t/p/w500/6skizQ7ljYdT8lW7ylqaBsmOY5D.jpg",
-    "updatedAt": "2026-11-23T03:07:07.610Z"
-  },
-  {
-    "id": "30984",
-    "title": "Bleach",
-    "type": "tv",
-    "season": 2,
-    "episode": 50,
-    "backdrop": "https://image.tmdb.org/t/p/w500/d8pipPG6EEvqFu1KnHvCk0xMALV.jpg",
-    "updatedAt": "2026-11-23T03:03:54.905Z"
-  },
-  {
-    "id": "335787",
-    "title": "Family Full House with Rohit Sharma",
-    "type": "tv",
-    "season": 1,
-    "episode": 19,
-    "backdrop": "https://image.tmdb.org/t/p/w500/bWyYwK9ecgUlGBt9J8qym8VqfMw.jpg",
-    "updatedAt": "2026-11-23T02:57:01.603Z"
-  },
-  {
-    "id": "45790",
-    "title": "JoJo's Bizarre Adventure",
-    "type": "tv",
-    "season": 6,
-    "episode": 10,
-    "backdrop": "https://image.tmdb.org/t/p/w500/ciDRS9Q8ErVxYzOpmYG40Wqbpc2.jpg",
-    "updatedAt": "2026-11-23T02:54:50.426Z"
-  },
-  {
-    "id": "307853",
-    "title": "Sunshine through the Rain",
-    "type": "tv",
-    "season": 1,
-    "episode": 24,
-    "backdrop": "https://image.tmdb.org/t/p/w500/3d0tcjjfbL710Tj0BkypXpXdKVR.jpg",
-    "updatedAt": "2026-11-23T02:17:39.826Z"
-  },
-  {
-    "id": "1288445",
-    "title": "Mutiny",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/5kmju0rHpro6g8YWdihio8SJ1jH.jpg",
-    "updatedAt": "2026-11-22T14:41:19.098Z"
-  },
-  {
-    "id": "566525",
-    "title": "Shang-Chi and the Legend of the Ten Rings",
-    "type": "movie",
-    "year": "2021",
-    "backdrop": "https://image.tmdb.org/t/p/w500/d3cxROd9PtmavG20P6e2WbrNxkg.jpg",
-    "updatedAt": "2026-11-22T14:14:22.947Z"
-  },
-  {
-    "id": "292121",
-    "title": "The Scarecrow",
-    "type": "tv",
-    "season": 1,
-    "episode": 12,
-    "backdrop": "https://image.tmdb.org/t/p/w500/jQdzjbd6UmoxNPeuKR2RHHUiYYq.jpg",
-    "updatedAt": "2026-11-22T13:20:47.658Z"
-  },
-  {
-    "id": "291507",
-    "title": "The Body",
-    "type": "tv",
-    "season": 1,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/nlmZnWtJwn5FnedWF52nHmdkNy.jpg",
-    "updatedAt": "2026-11-22T13:16:14.163Z"
-  },
-  {
-    "id": "1220538",
-    "title": "Pooja Meri Jaan",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/anwB9RlA2haerdblfBcl5OH9gtr.jpg",
-    "updatedAt": "2026-11-22T11:31:54.710Z"
   }
 ]
