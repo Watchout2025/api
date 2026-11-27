@@ -1,5 +1,79 @@
 [
   {
+    "id": "1496785",
+    "title": "Aadarsha Kutumbam House No: 47 - AK47",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/86tpN3ByXC3P5lK4GYhKym0rrwo.jpg",
+    "updatedAt": "2026-11-27T08:14:03.186Z"
+  },
+  {
+    "id": "1153576",
+    "title": "Street Fighter",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/6kJENBnZsVZuhYTSR3zZi6FUe30.jpg",
+    "updatedAt": "2026-11-27T08:11:27.915Z"
+  },
+  {
+    "id": "1269325",
+    "title": "Drishyam: The Conclusion",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/4KUE2clXjQtCHPF83G9dvC4gp3M.jpg",
+    "updatedAt": "2026-11-27T08:06:22.138Z"
+  },
+  {
+    "id": "1709391",
+    "title": "Hanuman Ansh",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/5w0NtLHeDHd0jknXhArLvuvh57H.jpg",
+    "updatedAt": "2026-11-27T08:04:54.722Z"
+  },
+  {
+    "id": "275204",
+    "title": "Dhindora",
+    "type": "tv",
+    "season": 2,
+    "episode": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w500/2QsmesFzm5WaP70pRmCbVBzvXDA.jpg",
+    "updatedAt": "2026-11-27T07:49:45.004Z"
+  },
+  {
+    "id": "232766",
+    "title": "Mercy for None",
+    "type": "tv",
+    "season": 1,
+    "episode": 7,
+    "backdrop": "https://image.tmdb.org/t/p/w500/zZeE0bSvWfJaUWMz4xAQDgjOMWj.jpg",
+    "updatedAt": "2026-11-27T07:48:22.219Z"
+  },
+  {
+    "id": "1389379",
+    "title": "Ranabaali",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/tpHbbeC8rOj2AMydXXNKJN4ok5e.jpg",
+    "updatedAt": "2026-11-27T07:47:55.690Z"
+  },
+  {
+    "id": "284054",
+    "title": "Black Panther",
+    "type": "movie",
+    "year": "2018",
+    "backdrop": "https://image.tmdb.org/t/p/w500/iwKlrK1FJJy6wnJVu8YQgNq3Ort.jpg",
+    "updatedAt": "2026-11-27T07:47:38.259Z"
+  },
+  {
+    "id": "1595124",
+    "title": "Steps",
+    "type": "movie",
+    "year": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w500/TmO4mYGXqHbaZ5XVvwXwlLu3zy.jpg",
+    "updatedAt": "2026-11-27T07:46:37.627Z"
+  },
+  {
     "id": "276393",
     "title": "Tamon's B-Side",
     "type": "tv",
@@ -94,82 +168,5 @@
     "episode": 24,
     "backdrop": "https://image.tmdb.org/t/p/w500/sqZIbB29EeNp5epqrRJZjErWvrF.jpg",
     "updatedAt": "2026-11-23T15:52:22.936Z"
-  },
-  {
-    "id": "46553",
-    "title": "Reply 1997",
-    "type": "tv",
-    "season": 1,
-    "episode": 16,
-    "backdrop": "https://image.tmdb.org/t/p/w500/2UK2PTvlYnpEyMpRw1ORCzGzKVS.jpg",
-    "updatedAt": "2026-11-23T14:06:01.463Z"
-  },
-  {
-    "id": "275204",
-    "title": "Dhindora",
-    "type": "tv",
-    "season": 2,
-    "episode": 8,
-    "backdrop": "https://image.tmdb.org/t/p/w500/2QsmesFzm5WaP70pRmCbVBzvXDA.jpg",
-    "updatedAt": "2026-11-23T13:08:30.190Z"
-  },
-  {
-    "id": "158282",
-    "title": "Lock Upp",
-    "type": "tv",
-    "season": 2,
-    "episode": 35,
-    "backdrop": "https://image.tmdb.org/t/p/w500/h3E2I2etWs5l7OCsRLU9Bz3cSnK.jpg",
-    "updatedAt": "2026-11-23T07:04:51.935Z"
-  },
-  {
-    "id": "1384528",
-    "title": "O.M: Operation Mole",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/gJqVeWZF537IUfjHlA7apBAJBBR.jpg",
-    "updatedAt": "2026-11-23T07:03:32.943Z"
-  },
-  {
-    "id": "1568060",
-    "title": "Perfect Liars",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/ylYK5Zc8AdZHwuSwt4pe8gGXm83.jpg",
-    "updatedAt": "2026-11-23T06:37:41.163Z"
-  },
-  {
-    "id": "1587124",
-    "title": "Bhabiji Ghar Par Hain! Fun on the Run",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/yJqMynHqnCqx5oi0IuTtQtTKC6m.jpg",
-    "updatedAt": "2026-11-23T06:29:16.435Z"
-  },
-  {
-    "id": "316702",
-    "title": "Final Table",
-    "type": "tv",
-    "season": 1,
-    "episode": 9,
-    "backdrop": "https://image.tmdb.org/t/p/w500/mf0klf0xpqW52G1TjDUxBL4u0x4.jpg",
-    "updatedAt": "2026-11-23T05:39:31.025Z"
-  },
-  {
-    "id": "969681",
-    "title": "Spider-Man: Brand New Day",
-    "type": "movie",
-    "year": "2026",
-    "backdrop": "https://image.tmdb.org/t/p/w500/f9mM7tDrZ3LlHPQu9I5A6TTxTb9.jpg",
-    "updatedAt": "2026-11-23T05:17:55.578Z"
-  },
-  {
-    "id": "303745",
-    "title": "Love in Disguise",
-    "type": "tv",
-    "season": null,
-    "episode": null,
-    "backdrop": "https://image.tmdb.org/t/p/w500/9qbj4CGHMtrnpdpTVtVVk9faqKK.jpg",
-    "updatedAt": "2026-11-23T04:18:13.602Z"
   }
 ]
